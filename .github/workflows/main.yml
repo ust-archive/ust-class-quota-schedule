@@ -44,4 +44,4 @@ jobs:
       - name: Push This
         uses: ad-m/github-push-action@master
         with:
-          directory: ${{ github.workspace }}/ArknightsGameDataComposite
+          directory: ${{ github.workspace }}
