@@ -1,5 +1,6 @@
 const core = require('@actions/core')
-const { wait } = require('./wait')
+const { fetchPage, fetchSubjects, fetchCurrentTerm } = require('./api')
+const fs = require('fs/promises')
 
 /**
  * The main function for the action.
@@ -7,20 +8,32 @@ const { wait } = require('./wait')
  */
 async function run() {
   try {
-    const ms = core.getInput('milliseconds', { required: true })
+    core.info('Fetching current term...')
+    const term = await fetchCurrentTerm()
+    core.info(`Fetched current term: ${term}.`)
 
-    // Debug logs are only output if the `ACTIONS_STEP_DEBUG` secret is true
-    core.debug(`Waiting ${ms} milliseconds ...`)
+    core.info('Fetching subjects...')
+    const subjects = await fetchSubjects(term)
+    core.info(`Fetched ${subjects.length} subjects.`)
+    core.info(JSON.stringify(subjects, null, 2))
 
-    // Log the current timestamp, wait, then log the new timestamp
-    core.debug(new Date().toTimeString())
-    await wait(parseInt(ms, 10))
-    core.debug(new Date().toTimeString())
+    core.info(`Fetching ${subjects.length} pages...`)
+    const pages = await Promise.all(subjects.map(fetchPage))
+    core.info(`Fetched ${pages.length} page.`)
 
-    // Set outputs for other workflow steps to use
-    core.setOutput('time', new Date().toTimeString())
+    await Promise.all(
+      pages.map(async page => {
+        const base = `pages/${page.term}`
+        try {
+          await fs.access(base)
+        } catch (e) {
+          await fs.mkdir(base, { recursive: true })
+        }
+        await fs.writeFile(`${base}/${page.name}.html`, page.html)
+        core.info(`Written page: ${page.term}/${page.name}.`)
+      })
+    )
   } catch (error) {
-    // Fail the workflow run if an error occurs
     core.setFailed(error.message)
   }
 }
