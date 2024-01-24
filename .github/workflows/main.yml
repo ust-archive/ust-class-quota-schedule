@@ -34,12 +34,15 @@ jobs:
           path: '.'
       - name: Update Data
         uses: './'
-      - name: Commit This
+      - name: Setup Commit This
         run: |
-          now=$(date +"%s")
           git config --local user.email "ust-bot@flandia.dev"
           git config --local user.name "UST Bot"
           git add .
+      - name: Commit This
+        continue-on-error: true
+        run: |
+          now=$(date +"%s")
           git commit -a -m "update: $now"
       - name: Push This
         uses: ad-m/github-push-action@master
