@@ -33,8 +33,7 @@ jobs:
           # Relative path under $GITHUB_WORKSPACE to place the repository
           path: '.'
       - name: Update Data
-        uses: ./
-        working-directory: '.'
+        uses: './'
       - name: Commit This
         run: |
           now=$(date +"%s")
