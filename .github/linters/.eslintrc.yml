@@ -1,7 +1,6 @@
 env:
   commonjs: true
   es6: true
-  jest: true
   node: true
 
 globals:
@@ -24,16 +23,10 @@ parserOptions:
   babelOptions:
     babelrc: false
     configFile: false
-    presets:
-      - jest
-
-plugins:
-  - jest
 
 extends:
   - eslint:recommended
   - plugin:github/recommended
-  - plugin:jest/recommended
 
 rules:
   {

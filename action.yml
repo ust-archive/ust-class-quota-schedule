@@ -1,18 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
-
-# Define your inputs here.
-inputs:
-  milliseconds:
-    description: 'Your input description here'
-    required: true
-    default: '1000'
-
-# Define your outputs here.
-outputs:
-  time:
-    description: 'Your output description here'
+name: Quota Action @ UST
+description: The GitHub Action for Quota @ UST. Snapshots the quota page periodically.
+author: LI, Yu Hong Harry
 
 runs:
   using: node20
