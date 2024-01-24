@@ -39,6 +39,7 @@ jobs:
           now=$(date +"%s")
           git config --local user.email "ust-bot@flandia.dev"
           git config --local user.name "UST Bot"
+          git add .
           git commit -a -m "update: $(now)"
       - name: Push This
         uses: ad-m/github-push-action@master
