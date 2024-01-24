@@ -4,7 +4,9 @@ const { parse } = require('node-html-parser')
 const base = 'https://w5.ab.ust.hk/wcq/cgi-bin'
 
 const client = new actionsHttpClient.HttpClient(undefined, undefined, {
-  allowRedirects: false
+  allowRedirects: false,
+  allowRetries: true,
+  maxRetries: 3,
 })
 
 async function fetchTerm() {
