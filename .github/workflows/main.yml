@@ -1,0 +1,47 @@
+on:
+  push:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    steps:
+      - name: Cache Repository
+        uses: actions/cache@v3
+        with:
+          path: ${{ github.workspace }}
+          key: ${{ runner.os }}-workspace
+      - name: Checkout This
+        uses: actions/checkout@v3
+        with:
+          # Repository name with owner. For example, actions/checkout
+          # Default: ${{ github.repository }}
+          repository: ${{ github.repository }}
+
+          # Relative path under $GITHUB_WORKSPACE to place the repository
+
+          # Number of commits to fetch. 0 indicates all history for all branches and tags.
+          # Default: 1
+          fetch-depth: 0
+
+          # Relative path under $GITHUB_WORKSPACE to place the repository
+          path: '.'
+      - name: Update Data
+        uses: ./
+        working-directory: '.'
+      - name: Commit This
+        run: |
+          now=$(date +"%s")
+          git config --local user.email "ust-bot@flandia.dev"
+          git config --local user.name "UST Bot"
+          git commit -a -m "update: $(now)"
+      - name: Push This
+        uses: ad-m/github-push-action@master
+        with:
+          directory: ${{ github.workspace }}/ArknightsGameDataComposite
