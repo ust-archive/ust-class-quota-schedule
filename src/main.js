@@ -29,10 +29,7 @@ async function run() {
         } catch (e) {
           await fs.mkdir(base, { recursive: true })
         }
-        await fs.writeFile(
-          `${base}/${page.name}.html`,
-          JSON.stringify(page.html, null, 2)
-        )
+        await fs.writeFile(`${base}/${page.name}.html`, page.html)
         core.info(`Written src: ${page.term}/${page.name}.`)
       })
     )
