@@ -16,21 +16,18 @@
     "node": ">=20"
   },
   "scripts": {
-    "bundle": "npm run format:write && npm run package",
-    "format:write": "prettier --write **/*.js",
-    "format:check": "prettier --check **/*.js",
-    "lint": "npx eslint . -c ./.github/linters/.eslintrc.yml",
-    "package": "ncc build src/index.js --license licenses.txt",
+    "lint": "npx eslint . --fix",
+    "package": "ncc build src/index.js --license licenses.txt --minify",
     "package:watch": "npm run package -- --watch",
-    "all": "npm run format:write && npm run lint && npm run package"
+    "all": "npm run lint && npm run package"
   },
   "license": "MIT",
-  "eslintConfig": {
-    "extends": "./.github/linters/.eslintrc.yml"
-  },
   "dependencies": {
     "@actions/core": "^1.10.1",
-    "@actions/http-client": "^2.2.0",
+    "@js-joda/core": "^5.6.1",
+    "@js-joda/locale_en-us": "^4.8.11",
+    "axios": "^1.6.7",
+    "axios-retry": "^4.0.0",
     "node-html-parser": "^6.1.12",
     "tabletojson": "^4.1.0"
   },
@@ -40,8 +37,9 @@
     "@babel/preset-env": "^7.23.8",
     "@vercel/ncc": "^0.38.1",
     "eslint": "^8.56.0",
-    "eslint-plugin-github": "^4.10.1",
-    "make-coverage-badge": "^1.2.0",
-    "prettier": "^3.2.4"
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
