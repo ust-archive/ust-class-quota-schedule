@@ -37853,7 +37853,7 @@ const base = 'https://w5.ab.ust.hk/wcq/cgi-bin'
 const client = new actionsHttpClient.HttpClient(undefined, undefined, {
   allowRedirects: false,
   allowRetries: true,
-  maxRetries: 3,
+  maxRetries: 3
 })
 
 async function fetchTerm() {
@@ -37927,10 +37927,7 @@ async function run() {
         } catch (e) {
           await fs.mkdir(base, { recursive: true })
         }
-        await fs.writeFile(
-          `${base}/${page.name}.html`,
-          JSON.stringify(page.html, null, 2)
-        )
+        await fs.writeFile(`${base}/${page.name}.html`, page.html)
         core.info(`Written src: ${page.term}/${page.name}.`)
       })
     )
@@ -38094,27 +38091,27 @@ function convertSections(sectionsEl) {
 
     return {
       // eslint-disable-next-line prettier/prettier
-      'Section': section['Section'],
+      Section: section['Section'],
       // eslint-disable-next-line prettier/prettier
       'Date & Time': section['Date & Time'],
       // eslint-disable-next-line prettier/prettier
-      'Room': section['Room'],
+      Room: section['Room'],
       // eslint-disable-next-line prettier/prettier
-      'Instructor': instructor,
+      Instructor: instructor,
       // eslint-disable-next-line prettier/prettier
       'TA/IA/GTA': ta,
       // eslint-disable-next-line prettier/prettier
-      'Quota': quota,
+      Quota: quota,
       // eslint-disable-next-line prettier/prettier
-      'Enrol': parseInt(parse(section['Enrol']).text, 10),
+      Enrol: parseInt(parse(section['Enrol']).text, 10),
       // eslint-disable-next-line prettier/prettier
-      'Avail': parseInt(parse(section['Avail']).text, 10),
+      Avail: parseInt(parse(section['Avail']).text, 10),
       // eslint-disable-next-line prettier/prettier
-      'Wait': parseInt(parse(section['Wait']).text, 10),
+      Wait: parseInt(parse(section['Wait']).text, 10),
       // eslint-disable-next-line prettier/prettier
-      'QuotaDetail': quotaDetail,
+      QuotaDetail: quotaDetail,
       // eslint-disable-next-line prettier/prettier
-      'Remarks': remarks
+      Remarks: remarks
     }
   })
 }
