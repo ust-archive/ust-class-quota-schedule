@@ -26125,14 +26125,14 @@
           ],
           "assistants": [],
           "quota": 95,
-          "enroll": 49,
-          "available": 46,
+          "enroll": 48,
+          "available": 47,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 70,
-              "Enrol": 35,
-              "Avail": 35
+              "Enrol": 34,
+              "Avail": 36
             },
             "EVEM": {
               "Quota": 20,
