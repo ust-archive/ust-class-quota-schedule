@@ -35600,14 +35600,14 @@
           ],
           "assistants": [],
           "quota": 94,
-          "enroll": 89,
-          "available": 5,
+          "enroll": 88,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 82,
-              "Enrol": 80,
-              "Avail": 2
+              "Enrol": 79,
+              "Avail": 3
             },
             "MESF": {
               "Quota": 12,
