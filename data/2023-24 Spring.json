@@ -26349,14 +26349,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 46,
-          "available": 14,
+          "enroll": 45,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 60,
-              "Enrol": 46,
-              "Avail": 14
+              "Enrol": 45,
+              "Avail": 15
             }
           },
           "remarks": [
