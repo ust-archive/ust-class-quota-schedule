@@ -19348,14 +19348,14 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 26,
-          "available": 59,
+          "enroll": 25,
+          "available": 60,
           "waitlist": 0,
           "quotaDetail": {
             "EESM": {
               "Quota": 85,
-              "Enrol": 26,
-              "Avail": 59
+              "Enrol": 25,
+              "Avail": 60
             }
           },
           "remarks": []
