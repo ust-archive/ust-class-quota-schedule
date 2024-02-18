@@ -76849,14 +76849,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 21,
-          "available": 29,
+          "enroll": 20,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 21,
-              "Avail": 19
+              "Enrol": 20,
+              "Avail": 20
             }
           },
           "remarks": []
