@@ -35786,14 +35786,14 @@
           ],
           "assistants": [],
           "quota": 95,
-          "enroll": 45,
-          "available": 50,
+          "enroll": 44,
+          "available": 51,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 80,
-              "Enrol": 34,
-              "Avail": 46
+              "Enrol": 33,
+              "Avail": 47
             },
             "EVEM": {
               "Quota": 10,
@@ -57923,8 +57923,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 40,
-          "available": 80,
+          "enroll": 39,
+          "available": 81,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
