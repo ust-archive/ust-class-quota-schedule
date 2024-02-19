@@ -64584,8 +64584,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 8,
-          "available": 12,
+          "enroll": 7,
+          "available": 13,
           "waitlist": 0,
           "remarks": []
         }
@@ -71776,8 +71776,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 24,
-          "available": 56,
+          "enroll": 23,
+          "available": 57,
           "waitlist": 0,
           "remarks": [
             "For MSc(DDM) students only."
@@ -71798,8 +71798,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 24,
-          "available": 56,
+          "enroll": 23,
+          "available": 57,
           "waitlist": 0,
           "remarks": []
         }
