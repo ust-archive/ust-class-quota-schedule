@@ -38599,7 +38599,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 102,
           "enroll": 102,
           "available": 0,
@@ -38618,7 +38620,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 102,
           "enroll": 102,
           "available": 0,
@@ -38637,7 +38641,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 102,
           "enroll": 102,
           "available": 0,
@@ -38656,7 +38662,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 102,
           "enroll": 102,
           "available": 0,
@@ -38675,7 +38683,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 101,
           "enroll": 101,
           "available": 0,
@@ -38694,7 +38704,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 101,
           "enroll": 101,
           "available": 0,
@@ -38713,7 +38725,9 @@
           "instructors": [
             "SUN, Xinyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 89,
           "enroll": 89,
           "available": 0,
@@ -38732,7 +38746,9 @@
           "instructors": [
             "SUN, Xinyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 89,
           "enroll": 89,
           "available": 0,
@@ -38751,7 +38767,9 @@
           "instructors": [
             "SUN, Xinyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 88,
           "enroll": 87,
           "available": 1,
@@ -38770,7 +38788,9 @@
           "instructors": [
             "SUN, Xinyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 88,
           "enroll": 87,
           "available": 1,
@@ -38789,7 +38809,9 @@
           "instructors": [
             "JAMES, Lancelot Fitzgerald"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 87,
           "enroll": 87,
           "available": 0,
@@ -38808,7 +38830,9 @@
           "instructors": [
             "JAMES, Lancelot Fitzgerald"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 87,
           "enroll": 87,
           "available": 0,
@@ -57323,8 +57347,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 7,
-          "available": 33,
+          "enroll": 6,
+          "available": 34,
           "waitlist": 0,
           "remarks": [
             "For MPhil & PhD (LIFS) students only."
@@ -57345,8 +57369,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 7,
-          "available": 33,
+          "enroll": 6,
+          "available": 34,
           "waitlist": 0,
           "remarks": [
             "For MPhil & PhD (LIFS) students only."
