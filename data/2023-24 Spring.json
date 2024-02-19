@@ -57669,8 +57669,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 75,
-          "available": 45,
+          "enroll": 74,
+          "available": 46,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only.",
@@ -57755,8 +57755,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 110,
-          "available": 10,
+          "enroll": 109,
+          "available": 11,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -68396,7 +68396,9 @@
           "instructors": [
             "COOMBES, John"
           ],
-          "assistants": [],
+          "assistants": [
+            "HO, Kin Yan Kevin"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
