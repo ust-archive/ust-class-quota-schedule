@@ -59734,48 +59734,7 @@
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain theoretical foundations of modern regression analysis.</td></tr><tr><td>2.</td><td>Conduct applied regression analysis using statistical software.</td></tr><tr><td>3.</td><td>Write academic research paper with a quantitative orientation.</td></tr><tr><td>4.</td><td>Develop a broader scope for regression analysis in light of further study.</td></tr></table>"
       },
       "attrs": [],
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1722,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "10:30:00",
-            "end": "12:20:00"
-          },
-          "room": "Rm 4502, Lift 25-26 (60)",
-          "instructors": [
-            "WONG, Kwan To"
-          ],
-          "assistants": [],
-          "quota": 40,
-          "enroll": 3,
-          "available": 37,
-          "waitlist": 0,
-          "remarks": [
-            "For MA(SOSC) students only"
-          ]
-        },
-        {
-          "section": "T1",
-          "number": 1723,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "12:30:00",
-            "end": "13:20:00"
-          },
-          "room": "Rm 4402, Lift 17-18",
-          "instructors": [
-            "WONG, Kwan To"
-          ],
-          "assistants": [],
-          "quota": 40,
-          "enroll": 3,
-          "available": 37,
-          "waitlist": 0,
-          "remarks": []
-        }
-      ]
+      "sections": []
     },
     {
       "program": "MASS",
