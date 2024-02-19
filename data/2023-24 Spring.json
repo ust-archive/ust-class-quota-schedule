@@ -1796,7 +1796,9 @@
           "instructors": [
             "ZHU, Bonnie Danqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Yue"
+          ],
           "quota": 60,
           "enroll": 25,
           "available": 35,
@@ -1842,7 +1844,9 @@
           "instructors": [
             "LAI, Yong"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHAN, Yuewei"
+          ],
           "quota": 60,
           "enroll": 39,
           "available": 21,
@@ -1889,7 +1893,9 @@
             "LAM, Henry Hei Ning",
             "WU, Angela Ruohao"
           ],
-          "assistants": [],
+          "assistants": [
+            "HOQUE, Ayman"
+          ],
           "quota": 60,
           "enroll": 38,
           "available": 22,
@@ -1935,7 +1941,9 @@
           "instructors": [
             "LAKERVELD, Richard"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Jiatao"
+          ],
           "quota": 60,
           "enroll": 39,
           "available": 21,
@@ -1983,7 +1991,9 @@
           "instructors": [
             "LIU, Y.S. Marshal"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Zhengzheng Catherine"
+          ],
           "quota": 30,
           "enroll": 15,
           "available": 15,
@@ -2024,7 +2034,9 @@
           "instructors": [
             "GAO, Hanyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "FANG, Yue"
+          ],
           "quota": 40,
           "enroll": 36,
           "available": 4,
@@ -18242,7 +18254,7 @@
             "start": "09:00:00",
             "end": "10:50:00"
           },
-          "room": "Rm 2463, Lift 25-26 (42)",
+          "room": "Rm 1026, LSK Bldg (28)",
           "instructors": [
             "WU, Qinggong"
           ],
@@ -24253,7 +24265,9 @@
           "instructors": [
             "ZHANG, Rong"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Yan Nok"
+          ],
           "quota": 40,
           "enroll": 19,
           "available": 21,
@@ -24275,7 +24289,9 @@
           "instructors": [
             "ZHANG, Rong"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Yan Nok"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -25313,7 +25329,9 @@
           "instructors": [
             "HUANG, Erwin"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Aki"
+          ],
           "quota": 30,
           "enroll": 12,
           "available": 18,
@@ -29152,7 +29170,9 @@
           "instructors": [
             "NEW, Mitya"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Wing In"
+          ],
           "quota": 50,
           "enroll": 45,
           "available": 5,
@@ -29183,7 +29203,9 @@
           "instructors": [
             "CHEUNG, Cassian"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Wing In"
+          ],
           "quota": 50,
           "enroll": 21,
           "available": 29,
@@ -29215,7 +29237,9 @@
             "FRANKLIN, Laurence Craig",
             "NASON, Stephen William"
           ],
-          "assistants": [],
+          "assistants": [
+            "RAMALINGAM, Sangeetha"
+          ],
           "quota": 50,
           "enroll": 46,
           "available": 4,
@@ -29235,7 +29259,9 @@
             "FRANKLIN, Laurence Craig",
             "NASON, Stephen William"
           ],
-          "assistants": [],
+          "assistants": [
+            "RAMALINGAM, Sangeetha"
+          ],
           "quota": 50,
           "enroll": 46,
           "available": 4,
@@ -29266,7 +29292,9 @@
           "instructors": [
             "RAO, Milind Shankar"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Wing In"
+          ],
           "quota": 50,
           "enroll": 16,
           "available": 34,
@@ -63853,27 +63881,6 @@
           "available": 12,
           "waitlist": 0,
           "remarks": []
-        },
-        {
-          "section": "T1B",
-          "number": 4178,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "15:00:00",
-            "end": "15:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "QIAN, Tiezheng"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
         }
       ]
     },
@@ -65146,7 +65153,9 @@
           "instructors": [
             "YEUNG, King Lun"
           ],
-          "assistants": [],
+          "assistants": [
+            "SALIK, Sittie Zuleiha De Sahagun"
+          ],
           "quota": 100,
           "enroll": 72,
           "available": 28,
@@ -65191,7 +65200,9 @@
           "instructors": [
             "NGAN, Chi Cheung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TIAN, Yibo"
+          ],
           "quota": 100,
           "enroll": 67,
           "available": 33,
@@ -65238,7 +65249,9 @@
           "instructors": [
             "LIU, Y.S. Marshal"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Zhengzheng Catherine"
+          ],
           "quota": 70,
           "enroll": 44,
           "available": 26,
@@ -65279,7 +65292,9 @@
           "instructors": [
             "MAK, Andrew T C"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHENG, Yuanzhi"
+          ],
           "quota": 100,
           "enroll": 28,
           "available": 72,
@@ -65325,7 +65340,9 @@
           "instructors": [
             "YUE, Po Lock"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHAO, Haoying"
+          ],
           "quota": 72,
           "enroll": 45,
           "available": 27,
@@ -65369,7 +65386,9 @@
           "instructors": [
             "ZHOU, Yuanyuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Gongjin"
+          ],
           "quota": 100,
           "enroll": 39,
           "available": 61,
@@ -65413,7 +65432,9 @@
           "instructors": [
             "NG, Ying Piu"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Yushen"
+          ],
           "quota": 100,
           "enroll": 45,
           "available": 55,
@@ -65457,7 +65478,9 @@
           "instructors": [
             "GAO, Hanyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "FANG, Yue"
+          ],
           "quota": 30,
           "enroll": 17,
           "available": 13,

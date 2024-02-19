@@ -15789,7 +15789,7 @@
           "instructors": [
             "WU, Qinggong"
           ],
-          "room": "Rm 2463, Lift 25-26 (42)",
+          "room": "Rm 1026, LSK Bldg (28)",
           "quota": [
             30,
             28,
@@ -56065,25 +56065,6 @@
             30,
             18,
             12,
-            0
-          ]
-        },
-        {
-          "section": "T1B",
-          "number": 4178,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "15:00:00",
-            "end": "15:50:00"
-          },
-          "instructors": [
-            "QIAN, Tiezheng"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
             0
           ]
         }
