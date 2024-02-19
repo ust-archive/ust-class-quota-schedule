@@ -38883,7 +38883,9 @@
           "instructors": [
             "SHIN, Dongwook"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -38904,7 +38906,9 @@
           "instructors": [
             "SHIN, Dongwook"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -38925,7 +38929,9 @@
           "instructors": [
             "SHIN, Dongwook"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 83,
           "enroll": 83,
           "available": 0,
@@ -38946,7 +38952,9 @@
           "instructors": [
             "SHIN, Dongwook"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Zhilin"
+          ],
           "quota": 83,
           "enroll": 83,
           "available": 0,
@@ -38967,7 +38975,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -38988,7 +38998,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -39009,7 +39021,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 83,
           "enroll": 83,
           "available": 0,
@@ -39030,7 +39044,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 83,
           "enroll": 83,
           "available": 0,
@@ -39051,7 +39067,9 @@
           "instructors": [
             "SHEN, Yiwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -39072,7 +39090,9 @@
           "instructors": [
             "SHEN, Yiwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -39093,7 +39113,9 @@
           "instructors": [
             "SHEN, Yiwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -39114,7 +39136,9 @@
           "instructors": [
             "SHEN, Yiwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 80,
           "enroll": 80,
           "available": 0,
@@ -40402,7 +40426,10 @@
           "instructors": [
             "PAN, Baoqian"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Haolin",
+            "KONG, Hao"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -40421,7 +40448,10 @@
           "instructors": [
             "PAN, Baoqian"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Haolin",
+            "KONG, Hao"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -40440,7 +40470,10 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Haolin",
+            "KONG, Hao"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -40472,7 +40505,10 @@
           "instructors": [
             "ZHANG, Hongtao"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40491,7 +40527,10 @@
           "instructors": [
             "ZHANG, Hongtao"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40510,7 +40549,10 @@
           "instructors": [
             "ZHANG, Hongtao"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40529,7 +40571,10 @@
           "instructors": [
             "ZHANG, Hongtao"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40548,7 +40593,10 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 70,
           "enroll": 63,
           "available": 7,
@@ -40567,7 +40615,10 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Jiahui",
+            "XU, Ailing"
+          ],
           "quota": 70,
           "enroll": 57,
           "available": 13,
@@ -40600,7 +40651,10 @@
           "instructors": [
             "CHEN, Ying Ju"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Siqi",
+            "ZHANG, Qingfa"
+          ],
           "quota": 50,
           "enroll": 41,
           "available": 9,
@@ -40619,7 +40673,10 @@
           "instructors": [
             "CHEN, Ying Ju"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Siqi",
+            "ZHANG, Qingfa"
+          ],
           "quota": 50,
           "enroll": 41,
           "available": 9,
@@ -40638,7 +40695,10 @@
           "instructors": [
             "CHEN, Ying Ju"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Siqi",
+            "ZHANG, Qingfa"
+          ],
           "quota": 50,
           "enroll": 20,
           "available": 30,
@@ -40657,7 +40717,10 @@
           "instructors": [
             "CHEN, Ying Ju"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Siqi",
+            "ZHANG, Qingfa"
+          ],
           "quota": 50,
           "enroll": 20,
           "available": 30,
@@ -40697,7 +40760,10 @@
           "instructors": [
             "CHEUNG, Ki Ling"
           ],
-          "assistants": [],
+          "assistants": [
+            "GONG, Chenyin",
+            "HU, Piao"
+          ],
           "quota": 30,
           "enroll": 29,
           "available": 1,
@@ -40718,7 +40784,10 @@
           "instructors": [
             "CHEUNG, Ki Ling"
           ],
-          "assistants": [],
+          "assistants": [
+            "GONG, Chenyin",
+            "HU, Piao"
+          ],
           "quota": 30,
           "enroll": 30,
           "available": 0,
@@ -40739,7 +40808,10 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "GONG, Chenyin",
+            "HU, Piao"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
@@ -40771,7 +40843,10 @@
           "instructors": [
             "YU, Man"
           ],
-          "assistants": [],
+          "assistants": [
+            "KANG, Xindan",
+            "QIU, Shuang"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
@@ -40790,7 +40865,10 @@
           "instructors": [
             "YU, Man"
           ],
-          "assistants": [],
+          "assistants": [
+            "KANG, Xindan",
+            "QIU, Shuang"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
@@ -40809,7 +40887,10 @@
           "instructors": [
             "YU, Man"
           ],
-          "assistants": [],
+          "assistants": [
+            "KANG, Xindan",
+            "QIU, Shuang"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40828,7 +40909,10 @@
           "instructors": [
             "YU, Man"
           ],
-          "assistants": [],
+          "assistants": [
+            "KANG, Xindan",
+            "QIU, Shuang"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -40988,7 +41072,9 @@
           "instructors": [
             "ASGHARI, Vahid"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIN, Zhendong"
+          ],
           "quota": 60,
           "enroll": 45,
           "available": 15,
@@ -41007,7 +41093,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIN, Zhendong"
+          ],
           "quota": 60,
           "enroll": 45,
           "available": 15,
@@ -41040,7 +41128,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 50,
           "enroll": 27,
           "available": 23,
@@ -41059,7 +41149,9 @@
           "instructors": [
             "HO, Jason Man Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 50,
           "enroll": 27,
           "available": 23,
@@ -41078,7 +41170,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAN, Chih Kang"
+          ],
           "quota": 50,
           "enroll": 27,
           "available": 23,
@@ -41162,7 +41256,9 @@
           "instructors": [
             "LAU, Ronald"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
@@ -41181,7 +41277,9 @@
           "instructors": [
             "LAU, Ronald"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
@@ -41213,7 +41311,9 @@
           "instructors": [
             "LAU, Ronald"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 36,
           "enroll": 28,
           "available": 8,
@@ -41232,7 +41332,9 @@
           "instructors": [
             "LAU, Ronald"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Stacy"
+          ],
           "quota": 36,
           "enroll": 28,
           "available": 8,
@@ -41264,7 +41366,9 @@
           "instructors": [
             "SHIN, Dongwook"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Wenjuan"
+          ],
           "quota": 50,
           "enroll": 31,
           "available": 19,
@@ -41297,7 +41401,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Ce"
+          ],
           "quota": 58,
           "enroll": 38,
           "available": 20,
@@ -41316,7 +41422,9 @@
           "instructors": [
             "LU, Lijian"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Ce"
+          ],
           "quota": 58,
           "enroll": 38,
           "available": 20,
