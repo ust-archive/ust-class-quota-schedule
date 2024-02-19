@@ -44980,44 +44980,6 @@
           ]
         },
         {
-          "section": "T17",
-          "number": 3146,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T17",
-          "number": 3146,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
           "section": "T18",
           "number": 3147,
           "schedule": {
@@ -46153,44 +46115,6 @@
       "units": 3,
       "description": "The course focuses on developing students' ability to communicate life science knowledge to the general public through effective writing and speaking skills. In writing, students learn the specific skills to produce genres of both expository and persuasive nature, and reflect on how to explain life science concepts in an accessible manner without losing the scientific complexity. In speaking, students learn how to communicate life science notions and implications to nonexpert audiences using short videos and oral presentations with appropriate rhetorical and stylistic devices. For BCB, BISC and BIOT students only.",
       "sections": [
-        {
-          "section": "T01",
-          "number": 3183,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "16:30:00",
-            "end": "17:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T01",
-          "number": 3183,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "16:30:00",
-            "end": "17:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
         {
           "section": "T02",
           "number": 3184,

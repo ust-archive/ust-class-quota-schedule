@@ -51821,48 +51821,6 @@
           "remarks": []
         },
         {
-          "section": "T17",
-          "number": 3146,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
-        {
-          "section": "T17",
-          "number": 3146,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
-        {
           "section": "T18",
           "number": 3147,
           "schedule": {
@@ -53031,48 +52989,6 @@
       },
       "attrs": [],
       "sections": [
-        {
-          "section": "T01",
-          "number": 3183,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "16:30:00",
-            "end": "17:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
-        {
-          "section": "T01",
-          "number": 3183,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "16:30:00",
-            "end": "17:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
         {
           "section": "T02",
           "number": 3184,
