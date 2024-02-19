@@ -26324,14 +26324,14 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 24,
-          "available": 6,
+          "enroll": 23,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 30,
-              "Enrol": 24,
-              "Avail": 6
+              "Enrol": 23,
+              "Avail": 7
             }
           },
           "remarks": [
