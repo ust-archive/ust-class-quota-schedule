@@ -71299,14 +71299,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 17,
-          "available": 83,
+          "enroll": 16,
+          "available": 84,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 15,
-              "Avail": 78
+              "Enrol": 14,
+              "Avail": 79
             },
             "CSIT": {
               "Quota": 7,
