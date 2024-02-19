@@ -5992,14 +5992,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 32,
-          "available": 58,
+          "enroll": 31,
+          "available": 59,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 90,
-              "Enrol": 31,
-              "Avail": 59
+              "Enrol": 30,
+              "Avail": 60
             }
           },
           "remarks": []
@@ -26143,14 +26143,14 @@
           ],
           "assistants": [],
           "quota": 95,
-          "enroll": 48,
-          "available": 47,
+          "enroll": 47,
+          "available": 48,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 70,
-              "Enrol": 34,
-              "Avail": 36
+              "Enrol": 33,
+              "Avail": 37
             },
             "EVEM": {
               "Quota": 20,
@@ -51834,7 +51834,7 @@
           ],
           "assistants": [],
           "quota": 0,
-          "enroll": 1,
+          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -51855,7 +51855,7 @@
           ],
           "assistants": [],
           "quota": 0,
-          "enroll": 1,
+          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -53045,7 +53045,7 @@
           ],
           "assistants": [],
           "quota": 0,
-          "enroll": 1,
+          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -53066,7 +53066,7 @@
           ],
           "assistants": [],
           "quota": 0,
-          "enroll": 1,
+          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -65054,8 +65054,8 @@
           ],
           "assistants": [],
           "quota": 10,
-          "enroll": 10,
-          "available": 0,
+          "enroll": 9,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "Students should seek approval from the course instructor to take this course.",
