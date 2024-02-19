@@ -35882,14 +35882,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 89,
-          "available": 1,
+          "enroll": 88,
+          "available": 2,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 90,
-              "Enrol": 88,
-              "Avail": 2
+              "Enrol": 87,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -71389,14 +71389,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 31,
-          "available": 69,
+          "enroll": 30,
+          "available": 70,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 29,
-              "Avail": 64
+              "Enrol": 28,
+              "Avail": 65
             },
             "CSIT": {
               "Quota": 7,
@@ -77512,14 +77512,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 37,
-          "available": 3,
+          "enroll": 36,
+          "available": 4,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 37,
-              "Avail": 3
+              "Enrol": 36,
+              "Avail": 4
             }
           },
           "remarks": []
@@ -77590,14 +77590,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 20,
-          "available": 20,
+          "enroll": 19,
+          "available": 21,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 20,
-              "Avail": 20
+              "Enrol": 19,
+              "Avail": 21
             }
           },
           "remarks": []
