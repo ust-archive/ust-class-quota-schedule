@@ -68104,7 +68104,9 @@
           "instructors": [
             "KOC, Joseph"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Sze Nga Jessica"
+          ],
           "quota": 61,
           "enroll": 61,
           "available": 0,
@@ -68123,7 +68125,9 @@
           "instructors": [
             "YOUNG, Mark"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Sze Nga Jessica"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -68142,7 +68146,9 @@
           "instructors": [
             "YOUNG, Mark"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Sze Nga Jessica"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -68173,7 +68179,9 @@
           "instructors": [
             "HAGMANN, David"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Hoi Ying"
+          ],
           "quota": 60,
           "enroll": 59,
           "available": 1,
