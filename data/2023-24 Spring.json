@@ -14931,8 +14931,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 16,
-          "available": 74,
+          "enroll": 15,
+          "available": 75,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
@@ -14942,8 +14942,8 @@
             },
             "CSIT": {
               "Quota": 83,
-              "Enrol": 16,
-              "Avail": 67
+              "Enrol": 15,
+              "Avail": 68
             }
           },
           "remarks": []
