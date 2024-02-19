@@ -2546,8 +2546,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 28,
-          "available": 2,
+          "enroll": 27,
+          "available": 3,
           "waitlist": 0,
           "remarks": []
         }
@@ -57546,8 +57546,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 33,
-          "available": 87,
+          "enroll": 32,
+          "available": 88,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -64493,8 +64493,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 8,
+          "available": 12,
           "waitlist": 0,
           "remarks": []
         }
