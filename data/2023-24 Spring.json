@@ -51081,48 +51081,6 @@
           "available": 0,
           "waitlist": 0,
           "remarks": []
-        },
-        {
-          "section": "T08",
-          "number": 4404,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "15:00:00",
-            "end": "16:20:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
-        {
-          "section": "T08",
-          "number": 4404,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "10:30:00",
-            "end": "11:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
         }
       ]
     },
@@ -54644,48 +54602,6 @@
           "remarks": [
             "The class is delivered in a blended learning mode",
             "For students under AIS research postgraduate programs"
-          ]
-        },
-        {
-          "section": "T03",
-          "number": 1371,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
-          ]
-        },
-        {
-          "section": "T03",
-          "number": 1371,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Class cancelled"
           ]
         }
       ]
@@ -63933,8 +63849,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 15,
-          "available": 15,
+          "enroll": 18,
+          "available": 12,
           "waitlist": 0,
           "remarks": []
         },
@@ -63952,7 +63868,7 @@
           ],
           "assistants": [],
           "quota": 0,
-          "enroll": 3,
+          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -77253,41 +77169,6 @@
             }
           },
           "remarks": []
-        }
-      ]
-    },
-    {
-      "program": "PPOL",
-      "code": "5430",
-      "name": "Research, Analysis and Evaluation Methods: Survey and Interview Design",
-      "units": 3,
-      "info": {
-        "vector": "[3-0-0:3]",
-        "description": "This course aims to equip students with the essential knowledge and skills for designing and conducting survey and interview research in various policy contexts and domains at a foundational level. Students will learn the theoretical foundations and practical applications of survey and interview methods, and how to use them to collect primary data from the public, stakeholders, and experts on diverse and contemporary policy issues and problems. Students will also learn how to critically evaluate the quality and validity of survey and interview data, and how to identify and address the sources of error and bias that may affect the results and their interpretation.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the theoretical foundations and practical applications of survey and interview methods in policy research.</td></tr><tr><td>2.</td><td>Design effective and ethical surveys and interviews that address specific policy issues and problems.</td></tr><tr><td>3.</td><td>Apply appropriate sampling techniques and data collection strategies to ensure the validity, reliability, and representativeness of survey and interview data.</td></tr><tr><td>4.</td><td>Analyze and interpret quantitative and qualitative data from surveys and interviews using various statistical and thematic methods.</td></tr><tr><td>5.</td><td>Evaluate the strengths and limitations of different survey and interview methods and their implications for policy decisions and outcomes.</td></tr><tr><td>6.</td><td>Communicate clearly and respectfully with different audiences using survey and interview data.</td></tr><tr><td>7.</td><td>Apply relevant perspectives and links to the professional practice of public policy and public management using survey and interview data.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "section": "L1",
-          "number": 4256,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:30:00",
-            "end": "21:20:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "This class is cancelled"
-          ]
         }
       ]
     },

@@ -44276,44 +44276,6 @@
             0,
             0
           ]
-        },
-        {
-          "section": "T08",
-          "number": 4404,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "15:00:00",
-            "end": "16:20:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T08",
-          "number": 4404,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "10:30:00",
-            "end": "11:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
         }
       ]
     },
@@ -47693,44 +47655,6 @@
             21,
             20,
             1,
-            0
-          ]
-        },
-        {
-          "section": "T03",
-          "number": 1371,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T03",
-          "number": 1371,
-          "schedule": {
-            "day": "FRIDAY",
-            "start": "13:30:00",
-            "end": "14:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
             0
           ]
         }
@@ -56139,8 +56063,8 @@
           "room": "Rm 5564, Lift 27-28 (30)",
           "quota": [
             30,
-            15,
-            15,
+            18,
+            12,
             0
           ]
         },
@@ -56158,7 +56082,7 @@
           "room": "TBA",
           "quota": [
             0,
-            3,
+            0,
             0,
             0
           ]
@@ -67344,34 +67268,6 @@
             40,
             36,
             4,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "PPOL",
-      "code": "5430",
-      "name": "Research, Analysis and Evaluation Methods: Survey and Interview Design",
-      "units": 3,
-      "description": "This course aims to equip students with the essential knowledge and skills for designing and conducting survey and interview research in various policy contexts and domains at a foundational level. Students will learn the theoretical foundations and practical applications of survey and interview methods, and how to use them to collect primary data from the public, stakeholders, and experts on diverse and contemporary policy issues and problems. Students will also learn how to critically evaluate the quality and validity of survey and interview data, and how to identify and address the sources of error and bias that may affect the results and their interpretation.",
-      "sections": [
-        {
-          "section": "L1",
-          "number": 4256,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:30:00",
-            "end": "21:20:00"
-          },
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
             0
           ]
         }
