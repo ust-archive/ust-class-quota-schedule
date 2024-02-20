@@ -1722,18 +1722,6 @@
   "AIAA": [
     {
       "program": "AIAA",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in Artificial Intelligence.</td></tr><tr><td>2.</td><td>Demonstrate practical skills in building AI systems.</td></tr><tr><td>3.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
-    {
-      "program": "AIAA",
       "code": "7990",
       "name": "Doctoral Thesis Research",
       "units": 0,
@@ -1746,18 +1734,6 @@
     }
   ],
   "AMAT": [
-    {
-      "program": "AMAT",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in Advanced Materials.</td></tr><tr><td>2.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr><tr><td>3.</td><td>Synthesize and create new knowledge, and make a contribution to the field.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
     {
       "program": "AMAT",
       "code": "7990",
@@ -2647,18 +2623,6 @@
     }
   ],
   "BSBE": [
-    {
-      "program": "BSBE",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in Bioscience and Biomedical Engineering.</td></tr><tr><td>2.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
     {
       "program": "BSBE",
       "code": "7990",
@@ -3726,8 +3690,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 21,
-          "available": 9,
+          "enroll": 20,
+          "available": 10,
           "waitlist": 0,
           "remarks": []
         }
@@ -8450,8 +8414,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 11,
-          "available": 19,
+          "enroll": 10,
+          "available": 20,
           "waitlist": 0,
           "remarks": []
         }
@@ -8664,18 +8628,6 @@
     }
   ],
   "CMAA": [
-    {
-      "program": "CMAA",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply advanced technology to artistic creation and demonstrate critical thinking and creative thinking skills.</td></tr><tr><td>2.</td><td>Communicate research results effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
     {
       "program": "CMAA",
       "code": "7990",
@@ -26943,18 +26895,6 @@
   "EOAS": [
     {
       "program": "EOAS",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in Earth, Ocean and Atmospheric System.</td></tr><tr><td>2.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
-    {
-      "program": "EOAS",
       "code": "7990",
       "name": "Doctoral Thesis Research",
       "units": 0,
@@ -33228,7 +33168,8 @@
           },
           "room": "Rm 2406, Lift 17-18 (76)",
           "instructors": [
-            "CHEE, Pui Yee"
+            "CHEE, Pui Yee",
+            "ENNEN, Timo Hendrik"
           ],
           "assistants": [],
           "quota": 50,
@@ -37289,18 +37230,6 @@
     }
   ],
   "IOTA": [
-    {
-      "program": "IOTA",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in Internet of Things.</td></tr><tr><td>2.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
     {
       "program": "IOTA",
       "code": "7990",
@@ -70386,18 +70315,6 @@
     }
   ],
   "MICS": [
-    {
-      "program": "MICS",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by co-advisors from different disciplines. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify engineering significances in microelectronics.</td></tr><tr><td>2.</td><td>Engage critical thinking skills that are essential for microelectronics research.</td></tr><tr><td>3.</td><td>Advance technologies in microelectronics.</td></tr><tr><td>4.</td><td>Demonstrate effective communication skills.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
     {
       "program": "MICS",
       "code": "7990",
