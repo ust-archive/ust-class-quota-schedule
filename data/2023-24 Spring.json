@@ -36000,7 +36000,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 24,
           "enroll": 23,
           "available": 1,
@@ -36019,7 +36022,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 24,
           "enroll": 24,
           "available": 0,
@@ -36040,7 +36046,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 24,
           "enroll": 24,
           "available": 0,
@@ -36061,7 +36070,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 25,
           "enroll": 24,
           "available": 1,
@@ -36094,7 +36106,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 20,
           "enroll": 20,
           "available": 0,
@@ -36115,7 +36130,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 20,
           "enroll": 18,
           "available": 2,
@@ -36136,7 +36154,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 20,
           "enroll": 19,
           "available": 1,
@@ -36157,7 +36178,10 @@
           "instructors": [
             "ZHANG, Jiheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HSU, Ya-cheng",
+            "LIU, Shelton"
+          ],
           "quota": 20,
           "enroll": 18,
           "available": 2,
@@ -36208,7 +36232,12 @@
           "instructors": [
             "QIU, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Xueqi",
+            "WANG, Tianshi",
+            "WANG, Xiaojie",
+            "WEI, Fengxing"
+          ],
           "quota": 150,
           "enroll": 135,
           "available": 15,
@@ -36296,7 +36325,10 @@
           "instructors": [
             "CHIN, Jing Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "ABDURRAHIM, Fauzan",
+            "PANG, Kwan Lok"
+          ],
           "quota": 40,
           "enroll": 25,
           "available": 15,
@@ -36367,7 +36399,12 @@
           "instructors": [
             "YOU, Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LU, Ke",
+            "WANG, Qiaoqiao",
+            "XIE, Jize",
+            "YANG, Rushuai"
+          ],
           "quota": 120,
           "enroll": 98,
           "available": 22,
@@ -36386,7 +36423,12 @@
           "instructors": [
             "YOU, Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LU, Ke",
+            "WANG, Qiaoqiao",
+            "XIE, Jize",
+            "YANG, Rushuai"
+          ],
           "quota": 120,
           "enroll": 98,
           "available": 22,
@@ -36508,7 +36550,9 @@
           "instructors": [
             "JIANG, Jiashuo"
           ],
-          "assistants": [],
+          "assistants": [
+            "SU, Hao"
+          ],
           "quota": 56,
           "enroll": 54,
           "available": 2,
@@ -36560,7 +36604,10 @@
           "instructors": [
             "ZHAN, Ruohan"
           ],
-          "assistants": [],
+          "assistants": [
+            "DING, Zezhen",
+            "HU, Yueying"
+          ],
           "quota": 58,
           "enroll": 54,
           "available": 4,
@@ -36611,7 +36658,9 @@
           "instructors": [
             "ZHANG, Xiaowei"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Yanyuan"
+          ],
           "quota": 30,
           "enroll": 9,
           "available": 21,
@@ -36630,7 +36679,9 @@
           "instructors": [
             "ZHANG, Xiaowei"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Yanyuan"
+          ],
           "quota": 30,
           "enroll": 9,
           "available": 21,
@@ -36682,7 +36733,9 @@
           "instructors": [
             "WU, Chenguang"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Junxue"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -36701,7 +36754,9 @@
           "instructors": [
             "WU, Chenguang"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Junxue"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -36753,7 +36808,10 @@
           "instructors": [
             "ZHAN, Ruohan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Zihao",
+            "YAN, Yuhao"
+          ],
           "quota": 47,
           "enroll": 47,
           "available": 0,
@@ -36804,7 +36862,9 @@
           "instructors": [
             "QIU, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Zikang"
+          ],
           "quota": 47,
           "enroll": 47,
           "available": 0,
@@ -36823,7 +36883,9 @@
           "instructors": [
             "QIU, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Zikang"
+          ],
           "quota": 47,
           "enroll": 47,
           "available": 0,
@@ -36874,7 +36936,9 @@
           "instructors": [
             "JIANG, Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Shize"
+          ],
           "quota": 27,
           "enroll": 27,
           "available": 0,
@@ -36893,7 +36957,9 @@
           "instructors": [
             "JIANG, Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Shize"
+          ],
           "quota": 27,
           "enroll": 27,
           "available": 0,
@@ -36944,7 +37010,9 @@
           "instructors": [
             "JIANG, Jiashuo"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Zhenghong"
+          ],
           "quota": 20,
           "enroll": 14,
           "available": 6,
@@ -37026,7 +37094,9 @@
           "instructors": [
             "LIU, Qian"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Yihua"
+          ],
           "quota": 20,
           "enroll": 9,
           "available": 11,
@@ -37062,7 +37132,9 @@
           "instructors": [
             "ZHANG, Rachel Q."
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Jiahao"
+          ],
           "quota": 24,
           "enroll": 24,
           "available": 0,
@@ -59951,7 +60023,10 @@
           "instructors": [
             "ZHANG, Jiarui"
           ],
-          "assistants": [],
+          "assistants": [
+            "LUO, Yuanhui",
+            "XIE, Qing"
+          ],
           "quota": 40,
           "enroll": 26,
           "available": 14,
@@ -60075,7 +60150,10 @@
           "instructors": [
             "XIONG, Maosheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Hing Sang",
+            "ZHANG, Wenlin"
+          ],
           "quota": 35,
           "enroll": 29,
           "available": 6,
@@ -60096,7 +60174,10 @@
           "instructors": [
             "ZHANG, Jiarui"
           ],
-          "assistants": [],
+          "assistants": [
+            "LUO, Yuanhui",
+            "XIE, Qing"
+          ],
           "quota": 35,
           "enroll": 28,
           "available": 7,
@@ -60549,7 +60630,9 @@
           "instructors": [
             "CHENG, Kam Hang"
           ],
-          "assistants": [],
+          "assistants": [
+            "SHA, Yu Hin"
+          ],
           "quota": 48,
           "enroll": 44,
           "available": 4,
@@ -60568,7 +60651,9 @@
           "instructors": [
             "CHENG, Kam Hang"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAU, Wai Ming"
+          ],
           "quota": 47,
           "enroll": 39,
           "available": 8,
@@ -60587,7 +60672,9 @@
           "instructors": [
             "CHENG, Kam Hang"
           ],
-          "assistants": [],
+          "assistants": [
+            "GURUNG, Nishan"
+          ],
           "quota": 53,
           "enroll": 50,
           "available": 3,
@@ -60606,7 +60693,9 @@
           "instructors": [
             "MUNOZ GEORGE, Daniel"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Chuqi"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60625,7 +60714,9 @@
           "instructors": [
             "MUNOZ GEORGE, Daniel"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Xinrui"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -60644,7 +60735,9 @@
           "instructors": [
             "MUNOZ GEORGE, Daniel"
           ],
-          "assistants": [],
+          "assistants": [
+            "FENG, Yaxin"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -60663,7 +60756,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Zi"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
