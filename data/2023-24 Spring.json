@@ -8328,7 +8328,7 @@
         "vector": "[3-0-0:3]",
         "previous code": "CIVL 6100M",
         "description": "Discrete choice modeling and stated choice methods are used in many fields to study individual, household, and organizational behavior. This course covers advanced discrete choice model construction, estimation, and stated choice experimental design theory and practice.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Obtain fundamental knowledge in mathematics and science, and learn in-depth knowledge in discrete choice analysis and how to apply discrete choice experiment design method and stated choice data analysis method to multiple areas, such as transportation engineering, health services, marketing, tourism, etc.</td></tr><tr><td>2.</td><td>Apply modern engineering tools, and learn how to use professional software N-gene/SAS to design discrete choice experiments, work with stated choice data in Python, and learn how to use visualization tools and\r\ndata mining techniques.</td></tr><tr><td>3.</td><td>Formulate problems and propose feasible solutions, learn how to design a research question, methodology and data approach for a real problem, and apply project design and data analysis methods to real problems with real data.</td></tr><tr><td>4.</td><td>Stay abreast of contemporary issues and learn how to collect stated choice data and develop models to solve current real-world issues and propose policy implications.</td></tr></table>"
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Obtain fundamental knowledge in mathematics and science, and learn in-depth knowledge in discrete choice analysis and how to apply discrete choice experiment design method and stated choice data analysis method to multiple areas, such as transportation engineering, health services, marketing, tourism, etc.</td></tr><tr><td>2.</td><td>Apply modern engineering tools, and learn how to use professional software N-gene/SAS to design discrete choice experiments, work with stated choice data in Python, and learn how to use visualization tools and data mining techniques.</td></tr><tr><td>3.</td><td>Formulate problems and propose feasible solutions, learn how to design a research question, methodology and data approach for a real problem, and apply project design and data analysis methods to real problems with real data.</td></tr><tr><td>4.</td><td>Stay abreast of contemporary issues and learn how to collect stated choice data and develop models to solve current real-world issues and propose policy implications.</td></tr></table>"
       },
       "attrs": [],
       "sections": [
@@ -57796,8 +57796,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 54,
-          "available": 26,
+          "enroll": 53,
+          "available": 27,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -62679,7 +62679,9 @@
           "instructors": [
             "WU, Lixin"
           ],
-          "assistants": [],
+          "assistants": [
+            "YAN, Ningyu"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -62698,7 +62700,9 @@
           "instructors": [
             "WU, Lixin"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Kaibo"
+          ],
           "quota": 45,
           "enroll": 42,
           "available": 3,
@@ -62807,7 +62811,9 @@
           "instructors": [
             "YE, Guibo"
           ],
-          "assistants": [],
+          "assistants": [
+            "MA, Wanteng"
+          ],
           "quota": 40,
           "enroll": 39,
           "available": 1,
@@ -62826,7 +62832,9 @@
           "instructors": [
             "YE, Guibo"
           ],
-          "assistants": [],
+          "assistants": [
+            "HOU, Zhen"
+          ],
           "quota": 40,
           "enroll": 38,
           "available": 2,
@@ -62845,7 +62853,9 @@
           "instructors": [
             "HU, Yu"
           ],
-          "assistants": [],
+          "assistants": [
+            "HO, Ho Yi Alexis"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -62864,7 +62874,9 @@
           "instructors": [
             "HU, Yu"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHENG, Jinyang"
+          ],
           "quota": 40,
           "enroll": 30,
           "available": 10,
@@ -62936,7 +62948,9 @@
           "instructors": [
             "WANG, Ke"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIN, Hangyu"
+          ],
           "quota": 52,
           "enroll": 52,
           "available": 0,
@@ -62955,7 +62969,9 @@
           "instructors": [
             "WANG, Ke"
           ],
-          "assistants": [],
+          "assistants": [
+            "HAO, Yifan"
+          ],
           "quota": 35,
           "enroll": 35,
           "available": 0,
@@ -62974,7 +62990,9 @@
           "instructors": [
             "WANG, Ke"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZENG, Yeqin"
+          ],
           "quota": 38,
           "enroll": 38,
           "available": 0,
@@ -62993,7 +63011,9 @@
           "instructors": [
             "WANG, Ke"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAN, Ziyue"
+          ],
           "quota": 41,
           "enroll": 41,
           "available": 0,
@@ -63065,7 +63085,9 @@
           "instructors": [
             "BAO, Zhigang"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Yuji"
+          ],
           "quota": 49,
           "enroll": 47,
           "available": 2,
@@ -63136,7 +63158,9 @@
           "instructors": [
             "HU, Jishan"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHENG, Zhen"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -63155,7 +63179,9 @@
           "instructors": [
             "HU, Jishan"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUO, Mengyu"
+          ],
           "quota": 30,
           "enroll": 30,
           "available": 0,
@@ -63225,7 +63251,9 @@
           "instructors": [
             "JIANG, Qingyuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAI, Sung Chit"
+          ],
           "quota": 40,
           "enroll": 36,
           "available": 4,
@@ -63295,7 +63323,9 @@
           "instructors": [
             "YE, Guibo"
           ],
-          "assistants": [],
+          "assistants": [
+            "XIA, Ruizhe"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -63314,7 +63344,9 @@
           "instructors": [
             "YE, Guibo"
           ],
-          "assistants": [],
+          "assistants": [
+            "LUO, Jianzhou"
+          ],
           "quota": 45,
           "enroll": 35,
           "available": 10,
@@ -63385,7 +63417,9 @@
           "instructors": [
             "XIA, Dong"
           ],
-          "assistants": [],
+          "assistants": [
+            "DUAN, Congyuan"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -63404,7 +63438,9 @@
           "instructors": [
             "XIA, Dong"
           ],
-          "assistants": [],
+          "assistants": [
+            "GU, Yanwu"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -63474,7 +63510,9 @@
           "instructors": [
             "CHEN, Kani"
           ],
-          "assistants": [],
+          "assistants": [
+            "SHANG, Zhenhang"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -63493,7 +63531,9 @@
           "instructors": [
             "CHEN, Kani"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHENG, Lifang"
+          ],
           "quota": 50,
           "enroll": 48,
           "available": 2,
@@ -63563,7 +63603,9 @@
           "instructors": [
             "YU, Chi Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Tianhao"
+          ],
           "quota": 40,
           "enroll": 34,
           "available": 6,
