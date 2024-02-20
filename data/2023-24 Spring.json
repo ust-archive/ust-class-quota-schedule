@@ -18941,14 +18941,14 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 48,
-          "available": 22,
+          "enroll": 47,
+          "available": 23,
           "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "Quota": 70,
-              "Enrol": 48,
-              "Avail": 22
+              "Enrol": 47,
+              "Avail": 23
             }
           },
           "remarks": []
@@ -67381,8 +67381,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 9,
-          "available": 21,
+          "enroll": 8,
+          "available": 22,
           "waitlist": 0,
           "remarks": []
         }
@@ -76526,8 +76526,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 36,
-          "available": 14,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "remarks": []
         },
@@ -76545,8 +76545,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 36,
-          "available": 14,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "remarks": []
         }
