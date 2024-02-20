@@ -13082,8 +13082,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 23,
-          "available": 37,
+          "enroll": 22,
+          "available": 38,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13108,8 +13108,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 23,
-          "available": 37,
+          "enroll": 22,
+          "available": 38,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -33168,8 +33168,7 @@
           },
           "room": "Rm 2406, Lift 17-18 (76)",
           "instructors": [
-            "CHEE, Pui Yee",
-            "ENNEN, Timo Hendrik"
+            "CHEE, Pui Yee"
           ],
           "assistants": [],
           "quota": 50,
@@ -67576,8 +67575,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 28,
-          "available": 72,
+          "enroll": 27,
+          "available": 73,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
@@ -67587,8 +67586,8 @@
             },
             "MESF": {
               "Quota": 95,
-              "Enrol": 22,
-              "Avail": 73
+              "Enrol": 21,
+              "Avail": 74
             }
           },
           "remarks": []
@@ -67705,14 +67704,14 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 51,
-          "available": 29,
+          "enroll": 50,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "MESF": {
               "Quota": 80,
-              "Enrol": 44,
-              "Avail": 36
+              "Enrol": 43,
+              "Avail": 37
             }
           },
           "remarks": []
