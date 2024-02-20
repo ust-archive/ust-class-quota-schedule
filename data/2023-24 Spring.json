@@ -18881,14 +18881,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 50,
-          "available": 10,
+          "enroll": 49,
+          "available": 11,
           "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "Quota": 60,
-              "Enrol": 47,
-              "Avail": 13
+              "Enrol": 46,
+              "Avail": 14
             }
           },
           "remarks": []
