@@ -24047,6 +24047,18 @@
     },
     {
       "program": "ELEC",
+      "code": "6900H",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "ELEC",
       "code": "6910D",
       "name": "Electronic Design Automation for VLSI Design",
       "units": 3,
