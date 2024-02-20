@@ -12948,14 +12948,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 37,
-          "available": 23,
+          "enroll": 36,
+          "available": 24,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 23,
-              "Avail": 17
+              "Enrol": 22,
+              "Avail": 18
             }
           },
           "remarks": []
@@ -12974,14 +12974,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 37,
-          "available": 23,
+          "enroll": 36,
+          "available": 24,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 23,
-              "Avail": 17
+              "Enrol": 22,
+              "Avail": 18
             }
           },
           "remarks": []
@@ -68231,7 +68231,9 @@
           "instructors": [
             "TIAN, Bing"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Shimin"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -68253,7 +68255,9 @@
           "instructors": [
             "TIAN, Bing"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Shimin"
+          ],
           "quota": 40,
           "enroll": 21,
           "available": 19,
@@ -68287,7 +68291,9 @@
           "instructors": [
             "TIAN, Bing"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Shimin"
+          ],
           "quota": 40,
           "enroll": 29,
           "available": 11,
@@ -68308,7 +68314,9 @@
           "instructors": [
             "TIAN, Bing"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Shimin"
+          ],
           "quota": 40,
           "enroll": 29,
           "available": 11,
@@ -68348,7 +68356,9 @@
           "instructors": [
             "LIN, Yi-Min"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Tin Lam Vanessa"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -68438,7 +68448,9 @@
           "instructors": [
             "POO, Mu Chou"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHIA, Jingyin"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -68493,7 +68505,9 @@
           "instructors": [
             "NELSON, Eric S"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Shidai"
+          ],
           "quota": 40,
           "enroll": 14,
           "available": 26,
