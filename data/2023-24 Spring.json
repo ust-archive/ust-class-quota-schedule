@@ -16911,7 +16911,9 @@
           "instructors": [
             "YUEN, Chi Wa"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOK, Sze Wai"
+          ],
           "quota": 67,
           "enroll": 36,
           "available": 31,
@@ -17020,7 +17022,9 @@
           "instructors": [
             "LEUNG, Siu Fai"
           ],
-          "assistants": [],
+          "assistants": [
+            "TO, Jeremy"
+          ],
           "quota": 45,
           "enroll": 37,
           "available": 8,
@@ -17039,7 +17043,9 @@
           "instructors": [
             "AU, Pak Hung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TO, Jeremy"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -17109,7 +17115,9 @@
           "instructors": [
             "LEE, Byoungchan"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Qichao"
+          ],
           "quota": 74,
           "enroll": 59,
           "available": 15,
@@ -17217,7 +17225,9 @@
           "instructors": [
             "WANG, Peng"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Ka"
+          ],
           "quota": 52,
           "enroll": 52,
           "available": 0,
@@ -17236,7 +17246,9 @@
           "instructors": [
             "WANG, Peng"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Ka"
+          ],
           "quota": 50,
           "enroll": 46,
           "available": 4,
@@ -17296,7 +17308,9 @@
           "instructors": [
             "LAI, Ernest"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Ka"
+          ],
           "quota": 18,
           "enroll": 16,
           "available": 2,
@@ -63801,7 +63815,9 @@
           "instructors": [
             "MENG, Guowu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YOU, Lei"
+          ],
           "quota": 40,
           "enroll": 12,
           "available": 28,
@@ -63871,7 +63887,9 @@
           "instructors": [
             "HU, Jishan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEONG, Kha Man"
+          ],
           "quota": 40,
           "enroll": 5,
           "available": 35,
@@ -63941,7 +63959,9 @@
           "instructors": [
             "ZHU, Yongchang"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAN, Hongze"
+          ],
           "quota": 40,
           "enroll": 12,
           "available": 28,
@@ -64011,7 +64031,9 @@
           "instructors": [
             "YAN, Min"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Wenwei"
+          ],
           "quota": 40,
           "enroll": 31,
           "available": 9,
@@ -64152,7 +64174,9 @@
           "instructors": [
             "XIANG, Yang"
           ],
-          "assistants": [],
+          "assistants": [
+            "HU, Tiankai"
+          ],
           "quota": 40,
           "enroll": 12,
           "available": 28,
@@ -64222,7 +64246,9 @@
           "instructors": [
             "QIAN, Tiezheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Yakun"
+          ],
           "quota": 30,
           "enroll": 18,
           "available": 12,
@@ -64292,7 +64318,9 @@
           "instructors": [
             "LING, Shiqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "KAZOVSKAIA, Anastasiia"
+          ],
           "quota": 37,
           "enroll": 29,
           "available": 8,
@@ -64433,7 +64461,9 @@
           "instructors": [
             "DENG, Shuoqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "XIA, Wencan"
+          ],
           "quota": 50,
           "enroll": 36,
           "available": 14,
@@ -64574,7 +64604,9 @@
           "instructors": [
             "GUO, Xinzhou"
           ],
-          "assistants": [],
+          "assistants": [
+            "XU, Shuoxun"
+          ],
           "quota": 40,
           "enroll": 17,
           "available": 23,
@@ -64590,6 +64622,17 @@
       "units": 1,
       "info": {
         "description": "This course is for academic and professional development of students. The course arranges seminars and small group activities to expose students to mathematics in real life, explore their possible career choice, and enhance the interactions between students and faculties. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded P or F. For MATH students only."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "MATH",
+      "code": "4983D",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "description": "Advanced undergraduate topics independently studied under the supervision of a faculty member. May be repeated for credit if different topics are studied. May be graded P/F or letter grade."
       },
       "attrs": [],
       "sections": []
@@ -64678,7 +64721,9 @@
           "instructors": [
             "MENG, Guowu"
           ],
-          "assistants": [],
+          "assistants": [
+            "SUN, Haofang"
+          ],
           "quota": 50,
           "enroll": 32,
           "available": 18,
