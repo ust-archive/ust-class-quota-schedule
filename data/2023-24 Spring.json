@@ -36001,8 +36001,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 24,
           "enroll": 23,
@@ -36023,8 +36022,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 24,
           "enroll": 24,
@@ -36047,8 +36045,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 24,
           "enroll": 24,
@@ -36071,8 +36068,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 25,
           "enroll": 24,
@@ -36107,8 +36103,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 20,
           "enroll": 20,
@@ -36131,8 +36126,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 20,
           "enroll": 18,
@@ -36155,8 +36149,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 20,
           "enroll": 19,
@@ -36179,8 +36172,7 @@
             "ZHANG, Jiheng"
           ],
           "assistants": [
-            "HSU, Ya-cheng",
-            "LIU, Shelton"
+            "HSU, Ya-cheng"
           ],
           "quota": 20,
           "enroll": 18,
@@ -60777,7 +60769,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "MA, Junwei"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60796,7 +60790,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "WEN, Jiayi"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60815,7 +60811,9 @@
           "instructors": [
             "TANG, Rong"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEE, Young Kyu"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60834,7 +60832,9 @@
           "instructors": [
             "TANG, Rong"
           ],
-          "assistants": [],
+          "assistants": [
+            "LONG, Wenpei"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60853,7 +60853,9 @@
           "instructors": [
             "TANG, Rong"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Bingxin"
+          ],
           "quota": 45,
           "enroll": 44,
           "available": 1,
@@ -60872,7 +60874,9 @@
           "instructors": [
             "QIAN, Shuaijie"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Huaigong"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60891,7 +60895,9 @@
           "instructors": [
             "QIAN, Shuaijie"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Tsz Wai"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -60910,7 +60916,9 @@
           "instructors": [
             "QIAN, Shuaijie"
           ],
-          "assistants": [],
+          "assistants": [
+            "YANG, Haowei"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60929,7 +60937,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "SUN, Lei"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60948,7 +60958,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIANG, Phyllis Shi-Xin"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60967,7 +60979,9 @@
           "instructors": [
             "LAM, Tsz Kin"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIANG, Phyllis Shi-Xin"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -60986,7 +61000,9 @@
           "instructors": [
             "WU, Yueping"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Yuxuan"
+          ],
           "quota": 45,
           "enroll": 33,
           "available": 12,
@@ -61005,7 +61021,9 @@
           "instructors": [
             "WU, Yueping"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Chen"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
