@@ -23711,8 +23711,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 10,
-          "available": 10,
+          "enroll": 9,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         }
