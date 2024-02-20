@@ -15817,9 +15817,7 @@
           "instructors": [
             "SIU, Kam Wing"
           ],
-          "assistants": [
-            "LAU, Tak Yee"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -15838,9 +15836,7 @@
           "instructors": [
             "SIU, Kam Wing"
           ],
-          "assistants": [
-            "LAU, Tak Yee"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -15859,9 +15855,7 @@
           "instructors": [
             "YU, Yan"
           ],
-          "assistants": [
-            "TO, Jeremy"
-          ],
+          "assistants": [],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -15880,9 +15874,7 @@
           "instructors": [
             "YU, Yan"
           ],
-          "assistants": [
-            "TO, Jeremy"
-          ],
+          "assistants": [],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -15901,9 +15893,7 @@
           "instructors": [
             "YU, Yan"
           ],
-          "assistants": [
-            "TO, Jeremy"
-          ],
+          "assistants": [],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -15922,9 +15912,7 @@
           "instructors": [
             "YU, Yan"
           ],
-          "assistants": [
-            "TO, Jeremy"
-          ],
+          "assistants": [],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -16111,7 +16099,9 @@
           "instructors": [
             "YU, Yan"
           ],
-          "assistants": [],
+          "assistants": [
+            "TO, Jeremy"
+          ],
           "quota": 60,
           "enroll": 60,
           "available": 0,
@@ -16586,7 +16576,9 @@
           "instructors": [
             "DING, Fei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Tak Yee"
+          ],
           "quota": 50,
           "enroll": 46,
           "available": 4,
@@ -16605,7 +16597,9 @@
           "instructors": [
             "ZHANG, Wenwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Tak Yee"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -16624,7 +16618,9 @@
           "instructors": [
             "DING, Fei"
           ],
-          "assistants": [],
+          "assistants": [
+            "FOK, Pik Lin"
+          ],
           "quota": 52,
           "enroll": 50,
           "available": 2,
@@ -16643,7 +16639,9 @@
           "instructors": [
             "DING, Fei"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Tak Yee"
+          ],
           "quota": 51,
           "enroll": 49,
           "available": 2,
@@ -16662,7 +16660,9 @@
           "instructors": [
             "LI, Yao"
           ],
-          "assistants": [],
+          "assistants": [
+            "FOK, Pik Lin"
+          ],
           "quota": 50,
           "enroll": 49,
           "available": 1,
@@ -16681,7 +16681,9 @@
           "instructors": [
             "LI, Yao"
           ],
-          "assistants": [],
+          "assistants": [
+            "FOK, Pik Lin"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -16700,7 +16702,9 @@
           "instructors": [
             "YUEN, Chi Wa"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOK, Sze Wai"
+          ],
           "quota": 50,
           "enroll": 43,
           "available": 7,
@@ -16719,7 +16723,9 @@
           "instructors": [
             "DING, Fei"
           ],
-          "assistants": [],
+          "assistants": [
+            "FOK, Pik Lin"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -16738,7 +16744,9 @@
           "instructors": [
             "YUEN, Chi Wa"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOK, Sze Wai"
+          ],
           "quota": 50,
           "enroll": 49,
           "available": 1,
@@ -16757,7 +16765,9 @@
           "instructors": [
             "ZHANG, Wenwen"
           ],
-          "assistants": [],
+          "assistants": [
+            "IP, Wang Hei"
+          ],
           "quota": 50,
           "enroll": 50,
           "available": 0,
@@ -16828,7 +16838,9 @@
           "instructors": [
             "MENG, Xiaoxuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Kuan"
+          ],
           "quota": 67,
           "enroll": 67,
           "available": 0,
@@ -63624,7 +63636,9 @@
           "instructors": [
             "YU, Chi Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "XU, Xin"
+          ],
           "quota": 40,
           "enroll": 23,
           "available": 17,
@@ -63694,7 +63708,9 @@
           "instructors": [
             "CHENG, Kam Hang"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Huaiyang"
+          ],
           "quota": 45,
           "enroll": 42,
           "available": 3,
@@ -63713,7 +63729,9 @@
           "instructors": [
             "CHENG, Kam Hang"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Jinyang"
+          ],
           "quota": 45,
           "enroll": 35,
           "available": 10,
