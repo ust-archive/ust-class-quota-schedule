@@ -77423,14 +77423,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 24,
-          "available": 16,
+          "enroll": 23,
+          "available": 17,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 24,
-              "Avail": 16
+              "Enrol": 23,
+              "Avail": 17
             }
           },
           "remarks": []
