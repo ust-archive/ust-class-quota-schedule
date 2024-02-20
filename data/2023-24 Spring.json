@@ -5474,8 +5474,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 26,
-          "available": 74,
+          "enroll": 25,
+          "available": 75,
           "waitlist": 0,
           "remarks": [
             "For MSc(ANCHEM) students only."
@@ -5781,8 +5781,8 @@
           ],
           "assistants": [],
           "quota": 101,
-          "enroll": 101,
-          "available": 0,
+          "enroll": 100,
+          "available": 1,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
@@ -5792,8 +5792,8 @@
             },
             "EVEM": {
               "Quota": 5,
-              "Enrol": 5,
-              "Avail": 0
+              "Enrol": 4,
+              "Avail": 1
             },
             "MCEE": {
               "Quota": 2,
@@ -6082,8 +6082,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 66,
-          "available": 24,
+          "enroll": 65,
+          "available": 25,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
@@ -6093,8 +6093,8 @@
             },
             "EVEM": {
               "Quota": 10,
-              "Enrol": 1,
-              "Avail": 9
+              "Enrol": 0,
+              "Avail": 10
             },
             "IBTM": {
               "Quota": 5,
@@ -37274,8 +37274,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 10,
-          "available": 20,
+          "enroll": 9,
+          "available": 21,
           "waitlist": 0,
           "remarks": []
         }
@@ -61262,7 +61262,9 @@
           "instructors": [
             "SU, Wei"
           ],
-          "assistants": [],
+          "assistants": [
+            "WEI, Xuchen"
+          ],
           "quota": 45,
           "enroll": 43,
           "available": 2,
@@ -61281,7 +61283,9 @@
           "instructors": [
             "LEE, Jaehun"
           ],
-          "assistants": [],
+          "assistants": [
+            "QUAN, Mingyu"
+          ],
           "quota": 45,
           "enroll": 32,
           "available": 13,
@@ -61300,7 +61304,9 @@
           "instructors": [
             "LEE, Jaehun"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Zhanmiao"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -61319,7 +61325,9 @@
           "instructors": [
             "LEE, Jaehun"
           ],
-          "assistants": [],
+          "assistants": [
+            "SHEN, Xuanyu"
+          ],
           "quota": 45,
           "enroll": 35,
           "available": 10,
@@ -61390,7 +61398,9 @@
           "instructors": [
             "FONG, Tsz Ho"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Wing Chun"
+          ],
           "quota": 35,
           "enroll": 34,
           "available": 1,
@@ -61409,7 +61419,9 @@
           "instructors": [
             "FONG, Tsz Ho"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHOY, Ka Hei"
+          ],
           "quota": 35,
           "enroll": 27,
           "available": 8,
@@ -61428,7 +61440,9 @@
           "instructors": [
             "FONG, Tsz Ho"
           ],
-          "assistants": [],
+          "assistants": [
+            "HU, Mingyun"
+          ],
           "quota": 35,
           "enroll": 19,
           "available": 16,
@@ -61575,7 +61589,9 @@
           "instructors": [
             "YAO, Jing"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Jiawang"
+          ],
           "quota": 45,
           "enroll": 44,
           "available": 1,
@@ -61594,7 +61610,9 @@
           "instructors": [
             "YAO, Jing"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Lizhong"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -61613,7 +61631,9 @@
           "instructors": [
             "YAO, Jing"
           ],
-          "assistants": [],
+          "assistants": [
+            "MAO, Jianda"
+          ],
           "quota": 30,
           "enroll": 30,
           "available": 0,
@@ -61632,7 +61652,9 @@
           "instructors": [
             "ZHANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "YAN, Bokai"
+          ],
           "quota": 50,
           "enroll": 50,
           "available": 0,
@@ -61651,7 +61673,9 @@
           "instructors": [
             "ZHANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Jiayi"
+          ],
           "quota": 50,
           "enroll": 49,
           "available": 1,
@@ -61670,7 +61694,9 @@
           "instructors": [
             "ZHANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "QIU, Jiayu"
+          ],
           "quota": 45,
           "enroll": 41,
           "available": 4,
@@ -61689,7 +61715,9 @@
           "instructors": [
             "ZHANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Xinyu"
+          ],
           "quota": 50,
           "enroll": 50,
           "available": 0,
@@ -61708,7 +61736,9 @@
           "instructors": [
             "ZHANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Yuheng"
+          ],
           "quota": 30,
           "enroll": 23,
           "available": 7,
@@ -61779,7 +61809,9 @@
           "instructors": [
             "HO, Quoc"
           ],
-          "assistants": [],
+          "assistants": [
+            "CUI, Daorong"
+          ],
           "quota": 40,
           "enroll": 25,
           "available": 15,
@@ -61798,7 +61830,9 @@
           "instructors": [
             "HO, Quoc"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Zhetian"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -61817,7 +61851,9 @@
           "instructors": [
             "HO, Quoc"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Ziyun"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -61926,7 +61962,9 @@
           "instructors": [
             "KU, Yin Bon"
           ],
-          "assistants": [],
+          "assistants": [
+            "JIANG, Yueyan"
+          ],
           "quota": 50,
           "enroll": 46,
           "available": 4,
@@ -61945,7 +61983,9 @@
           "instructors": [
             "KU, Yin Bon"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Yuntong"
+          ],
           "quota": 50,
           "enroll": 43,
           "available": 7,
@@ -61964,7 +62004,9 @@
           "instructors": [
             "KU, Yin Bon"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Yanming"
+          ],
           "quota": 50,
           "enroll": 43,
           "available": 7,
@@ -61983,7 +62025,9 @@
           "instructors": [
             "KU, Yin Bon"
           ],
-          "assistants": [],
+          "assistants": [
+            "WU, Tong"
+          ],
           "quota": 50,
           "enroll": 50,
           "available": 0,
@@ -62054,7 +62098,9 @@
           "instructors": [
             "IP, Ivan Chi Ho"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUNG, Kin Ting Ken"
+          ],
           "quota": 53,
           "enroll": 53,
           "available": 0,
@@ -62163,7 +62209,9 @@
           "instructors": [
             "HO, Hon Ming"
           ],
-          "assistants": [],
+          "assistants": [
+            "KONG, Hoi Sang"
+          ],
           "quota": 45,
           "enroll": 45,
           "available": 0,
@@ -62182,7 +62230,9 @@
           "instructors": [
             "HO, Hon Ming"
           ],
-          "assistants": [],
+          "assistants": [
+            "KONG, Hoi Sang"
+          ],
           "quota": 45,
           "enroll": 40,
           "available": 5,
@@ -62201,7 +62251,9 @@
           "instructors": [
             "HO, Hon Ming"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHENG, Wing Cheong Tommy"
+          ],
           "quota": 45,
           "enroll": 34,
           "available": 11,
@@ -62220,7 +62272,9 @@
           "instructors": [
             "HO, Hon Ming"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHENG, Wing Cheong Tommy"
+          ],
           "quota": 45,
           "enroll": 39,
           "available": 6,
@@ -62291,7 +62345,9 @@
           "instructors": [
             "YAN, Min"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Yue"
+          ],
           "quota": 40,
           "enroll": 33,
           "available": 7,
@@ -62362,7 +62418,9 @@
           "instructors": [
             "CHEN, Beifang"
           ],
-          "assistants": [],
+          "assistants": [
+            "CAO, Ying"
+          ],
           "quota": 40,
           "enroll": 39,
           "available": 1,
@@ -62433,7 +62491,9 @@
           "instructors": [
             "CHASNOV, Jeffrey Robert"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Haohan"
+          ],
           "quota": 45,
           "enroll": 38,
           "available": 7,
@@ -62452,7 +62512,9 @@
           "instructors": [
             "CHASNOV, Jeffrey Robert"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Yonglin"
+          ],
           "quota": 45,
           "enroll": 31,
           "available": 14,
@@ -62523,7 +62585,9 @@
           "instructors": [
             "MU, Mo"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Chutian"
+          ],
           "quota": 51,
           "enroll": 51,
           "available": 0,
@@ -62542,7 +62606,9 @@
           "instructors": [
             "MU, Mo"
           ],
-          "assistants": [],
+          "assistants": [
+            "PU, Zhigang"
+          ],
           "quota": 50,
           "enroll": 41,
           "available": 9,
