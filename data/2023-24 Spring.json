@@ -5437,8 +5437,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 25,
-          "available": 75,
+          "enroll": 24,
+          "available": 76,
           "waitlist": 0,
           "remarks": [
             "For MSc(ANCHEM) students only."
@@ -55125,8 +55125,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 24,
-          "available": 0,
+          "enroll": 22,
+          "available": 2,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
@@ -55147,8 +55147,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 24,
-          "available": 0,
+          "enroll": 22,
+          "available": 2,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
@@ -57547,8 +57547,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 73,
-          "available": 47,
+          "enroll": 72,
+          "available": 48,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only.",
@@ -57597,8 +57597,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 106,
-          "available": 14,
+          "enroll": 105,
+          "available": 15,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
