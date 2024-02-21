@@ -10867,8 +10867,8 @@
           "room": "Rm 6591, Lift 31-32 (88)",
           "quota": [
             60,
-            29,
-            31,
+            28,
+            32,
             0
           ]
         },
@@ -10886,8 +10886,8 @@
           "room": "Rm 6591, Lift 31-32 (88)",
           "quota": [
             60,
-            29,
-            31,
+            28,
+            32,
             0
           ]
         }
@@ -21244,14 +21244,6 @@
   "ENGG": [
     {
       "program": "ENGG",
-      "code": "1010",
-      "name": "Academic Orientation",
-      "units": 0,
-      "description": "This course is designed specifically for engineering students of the First Year of 4Y curriculum. This year-long course aims at providing an induction to the School of Engineering for the freshmen year. It will cover topics such as learning and time-management skills, purposes of university and engineering education, and planning for personal and professional development. Graded PP, P or F. For Year 1 Engineering students only.",
-      "sections": []
-    },
-    {
-      "program": "ENGG",
       "code": "1110",
       "name": "Engineering Solutions to Grand Challenges of the 21st Century",
       "units": 3,
@@ -21442,30 +21434,6 @@
     },
     {
       "program": "ENGG",
-      "code": "2991E",
-      "name": "Undergraduate Student-initiated Experiential Learning",
-      "units": 1,
-      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "ENGG",
-      "code": "2992E",
-      "name": "Undergraduate Student-initiated Experiential Learning",
-      "units": 2,
-      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "ENGG",
-      "code": "2993E",
-      "name": "Undergraduate Student-initiated Experiential Learning",
-      "units": 3,
-      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "ENGG",
       "code": "3960Z",
       "name": "Robotics Special Project: RoboMasters 2024 Robot Contest",
       "units": 4,
@@ -21581,30 +21549,6 @@
           ]
         }
       ]
-    },
-    {
-      "program": "ENTR",
-      "code": "4901Y",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 1,
-      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "ENTR",
-      "code": "4902Y",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 2,
-      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "ENTR",
-      "code": "4903Y",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 3,
-      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
-      "sections": []
     },
     {
       "program": "ENTR",
@@ -62058,8 +62002,8 @@
           "room": "G009A, CYT Bldg (80)",
           "quota": [
             80,
-            23,
-            57,
+            22,
+            58,
             0
           ]
         },
@@ -62078,8 +62022,8 @@
           "room": "G009A, CYT Bldg (80)",
           "quota": [
             80,
-            23,
-            57,
+            22,
+            58,
             0
           ]
         }
