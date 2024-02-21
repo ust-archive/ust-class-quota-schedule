@@ -9041,7 +9041,7 @@
           "section": "L1",
           "number": 2079,
           "schedule": {
-            "day": "THURSDAY",
+            "day": "TUESDAY",
             "start": "11:30:00",
             "end": "13:20:00"
           },
@@ -9060,7 +9060,7 @@
           "section": "LA1",
           "number": 2080,
           "schedule": {
-            "day": "TUESDAY",
+            "day": "THURSDAY",
             "start": "11:30:00",
             "end": "13:20:00"
           },
@@ -29192,47 +29192,9 @@
           ],
           "room": "Rm 103, Shaw Auditorium",
           "quota": [
-            10,
+            25,
             9,
-            1,
-            0
-          ]
-        },
-        {
-          "section": "T2",
-          "number": 2596,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "16:00:00",
-            "end": "16:50:00"
-          },
-          "instructors": [
-            "KAILA, Ilari"
-          ],
-          "room": "Rm 103, Shaw Auditorium",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        },
-        {
-          "section": "T3",
-          "number": 2597,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "17:00:00",
-            "end": "17:50:00"
-          },
-          "instructors": [
-            "KAILA, Ilari"
-          ],
-          "room": "Rm 103, Shaw Auditorium",
-          "quota": [
-            5,
-            0,
-            5,
+            16,
             0
           ]
         }
@@ -48828,14 +48790,6 @@
     },
     {
       "program": "LIFS",
-      "code": "3510",
-      "name": "Junior Research Project I",
-      "units": 2,
-      "description": "The objective of the course is to increase awareness of preparation in research and learn how to synthesize a research proposal. Together with the supervisor each student will identify a research question, do a literature review, familiarize themselves theoretically with technical aspects of the project and write a short proposal. Approval of a faculty supervisor is required for students to enroll in the course. Graded P or F.",
-      "sections": []
-    },
-    {
-      "program": "LIFS",
       "code": "3520",
       "name": "Junior Research Project II",
       "units": 2,
@@ -49381,14 +49335,6 @@
       "name": "Biotechnology Capstone Project",
       "units": 3,
       "description": "Under the supervision of a faculty member, students will undertake a project, which may involve investigation on topics relevant to biotechnology industry and business. The project can be delivered through the format of literature review, research, or practical study. Students are required to submit a written report that documents the project work and learning experiences. For BIOT students only. Approval of the course supervisor is needed for enrollment in the course.",
-      "sections": []
-    },
-    {
-      "program": "LIFS",
-      "code": "4973",
-      "name": "Biotechnology Project Research I",
-      "units": 3,
-      "description": "Students will undertake a research project of their choice in an area of biotechnology under faculty supervision: design of experiments, analysis of data, submission of a written report. Approval of the course instructor is needed for students to enroll in this course. For BIOT students only.",
       "sections": []
     },
     {
@@ -62525,53 +62471,6 @@
     },
     {
       "program": "OCES",
-      "code": "3203",
-      "name": "Physical Oceanography",
-      "units": 3,
-      "description": "This course adopts mathematical tools and laws of physics to unlock various oceanic motions with different temporal and spatial scales. Students will learn thermodynamic properties of seawater, equations of motion of stratified and rotating fluid, boundary current and Ekman transport, planetary waves, and eddy-mean flow interactions.",
-      "sections": [
-        {
-          "section": "L1",
-          "number": 3717,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "10:30:00",
-            "end": "11:50:00"
-          },
-          "instructors": [
-            "WANG, Yan"
-          ],
-          "room": "TBA",
-          "quota": [
-            30,
-            0,
-            30,
-            0
-          ]
-        },
-        {
-          "section": "L1",
-          "number": 3717,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "10:30:00",
-            "end": "11:50:00"
-          },
-          "instructors": [
-            "WANG, Yan"
-          ],
-          "room": "TBA",
-          "quota": [
-            30,
-            0,
-            30,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "OCES",
       "code": "3301",
       "name": "Data Analysis in Ocean Science",
       "units": 3,
@@ -64908,14 +64807,6 @@
     },
     {
       "program": "PHYS",
-      "code": "2090A",
-      "name": "Directed Studies in Physics I",
-      "units": 1,
-      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits.",
-      "sections": []
-    },
-    {
-      "program": "PHYS",
       "code": "2090B",
       "name": "Directed Studies in Physics I",
       "units": 1,
@@ -65424,14 +65315,6 @@
           ]
         }
       ]
-    },
-    {
-      "program": "PHYS",
-      "code": "3090A",
-      "name": "Directed Studies in Physics II",
-      "units": 1,
-      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
-      "sections": []
     },
     {
       "program": "PHYS",
