@@ -57510,8 +57510,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 53,
-          "available": 27,
+          "enroll": 52,
+          "available": 28,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -71385,14 +71385,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 51,
-          "available": 39,
+          "enroll": 50,
+          "available": 40,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 90,
-              "Enrol": 50,
-              "Avail": 40
+              "Enrol": 49,
+              "Avail": 41
             }
           },
           "remarks": []
