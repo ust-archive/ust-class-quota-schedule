@@ -3685,8 +3685,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 86,
-          "available": 14,
+          "enroll": 87,
+          "available": 13,
           "waitlist": 0,
           "remarks": []
         }
@@ -18129,7 +18129,7 @@
             "start": "09:00:00",
             "end": "10:50:00"
           },
-          "room": "Rm 1026, LSK Bldg (28)",
+          "room": "Rm 5508, Lift 25-26 (30)",
           "instructors": [
             "WU, Qinggong"
           ],
