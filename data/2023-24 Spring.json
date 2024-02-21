@@ -2217,8 +2217,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 33,
-          "available": 17,
+          "enroll": 32,
+          "available": 18,
           "waitlist": 0,
           "remarks": []
         },
@@ -2236,8 +2236,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 33,
-          "available": 17,
+          "enroll": 32,
+          "available": 18,
           "waitlist": 0,
           "remarks": []
         },
@@ -2255,8 +2255,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 33,
-          "available": 17,
+          "enroll": 32,
+          "available": 18,
           "waitlist": 0,
           "remarks": []
         }
@@ -3945,8 +3945,8 @@
           ],
           "assistants": [],
           "quota": 200,
-          "enroll": 177,
-          "available": 23,
+          "enroll": 176,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         },
@@ -3965,8 +3965,8 @@
           ],
           "assistants": [],
           "quota": 200,
-          "enroll": 177,
-          "available": 23,
+          "enroll": 176,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         }
@@ -4185,8 +4185,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -13121,14 +13121,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 28,
-          "available": 12,
+          "enroll": 27,
+          "available": 13,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 30,
-              "Enrol": 23,
-              "Avail": 7
+              "Enrol": 22,
+              "Avail": 8
             }
           },
           "remarks": []
@@ -13147,14 +13147,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 28,
-          "available": 12,
+          "enroll": 27,
+          "available": 13,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 30,
-              "Enrol": 23,
-              "Avail": 7
+              "Enrol": 22,
+              "Avail": 8
             }
           },
           "remarks": []
@@ -29472,8 +29472,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 18,
-          "available": 2,
+          "enroll": 17,
+          "available": 3,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -45041,8 +45041,8 @@
           ],
           "assistants": [],
           "quota": 18,
-          "enroll": 18,
-          "available": 0,
+          "enroll": 17,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -45060,8 +45060,8 @@
           ],
           "assistants": [],
           "quota": 18,
-          "enroll": 18,
-          "available": 0,
+          "enroll": 17,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -55374,8 +55374,8 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 79,
-          "available": 31,
+          "enroll": 78,
+          "available": 32,
           "waitlist": 0,
           "remarks": [
             "Venue: Room 4160"
@@ -73817,8 +73817,8 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 110,
-          "available": 0,
+          "enroll": 109,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -73836,8 +73836,8 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 110,
-          "available": 0,
+          "enroll": 109,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -73954,8 +73954,8 @@
           ],
           "assistants": [],
           "quota": 55,
-          "enroll": 43,
-          "available": 12,
+          "enroll": 42,
+          "available": 13,
           "waitlist": 0,
           "remarks": []
         }
