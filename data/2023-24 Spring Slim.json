@@ -2929,34 +2929,6 @@
     },
     {
       "program": "CENG",
-      "code": "4930",
-      "name": "Chemical Engineering Thesis Research",
-      "units": 6,
-      "description": "A final-year project course offers an opportunity to conduct individual chemical engineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering, and Chemical and Biomolecular Engineering with approval from the department.",
-      "sections": [
-        {
-          "section": "T1",
-          "number": 1795,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "instructors": [
-            "LAKERVELD, Richard"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "CENG",
       "code": "4940",
       "name": "Chemical Engineering Industrial Project",
       "units": 6,
@@ -7257,8 +7229,8 @@
           "room": "Lecture Theater F (133)",
           "quota": [
             80,
-            59,
-            21,
+            58,
+            22,
             0
           ]
         },
@@ -7276,8 +7248,8 @@
           "room": "Lecture Theater F (133)",
           "quota": [
             80,
-            59,
-            21,
+            58,
+            22,
             0
           ]
         }
@@ -12337,44 +12309,6 @@
           ]
         },
         {
-          "section": "T11",
-          "number": 1962,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T12",
-          "number": 1963,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
           "section": "T13",
           "number": 1964,
           "schedule": {
@@ -12427,25 +12361,6 @@
           "quota": [
             9,
             9,
-            0,
-            0
-          ]
-        },
-        {
-          "section": "T16",
-          "number": 1967,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "instructors": [
-            "TBA"
-          ],
-          "room": "TBA",
-          "quota": [
-            0,
-            0,
             0,
             0
           ]
@@ -20524,8 +20439,8 @@
           "room": "Rm 5583, Lift 29-30 (80)",
           "quota": [
             30,
-            27,
-            3,
+            26,
+            4,
             0
           ]
         },
@@ -20543,8 +20458,8 @@
           "room": "Rm 5583, Lift 29-30 (80)",
           "quota": [
             30,
-            27,
-            3,
+            26,
+            4,
             0
           ]
         }
@@ -49681,8 +49596,8 @@
           "room": "Rm 1409, Lift 25-26 (60)",
           "quota": [
             40,
-            26,
-            14,
+            25,
+            15,
             0
           ]
         }

@@ -3511,43 +3511,6 @@
     },
     {
       "program": "CENG",
-      "code": "4930",
-      "name": "Chemical Engineering Thesis Research",
-      "units": 6,
-      "info": {
-        "pre-requisite": "(BIEN 3910 OR CENG 3950) AND (CENG 4980 OR UROP 2100)",
-        "exclusion": "CENG 4920, CENG 4940",
-        "description": "A final-year project course offers an opportunity to conduct individual chemical engineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering, and Chemical and Biomolecular Engineering with approval from the department."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "section": "T1",
-          "number": 1795,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "LAKERVELD, Richard"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Classes held in Room 1104",
-            "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
-            "Instructor Consent Required"
-          ]
-        }
-      ]
-    },
-    {
-      "program": "CENG",
       "code": "4940",
       "name": "Chemical Engineering Industrial Project",
       "units": 6,
@@ -8487,8 +8450,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 59,
-          "available": 21,
+          "enroll": 58,
+          "available": 22,
           "waitlist": 0,
           "remarks": []
         },
@@ -8506,8 +8469,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 59,
-          "available": 21,
+          "enroll": 58,
+          "available": 22,
           "waitlist": 0,
           "remarks": []
         }
@@ -14324,48 +14287,6 @@
           ]
         },
         {
-          "section": "T11",
-          "number": 1962,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Classes held in Room 2131C"
-          ]
-        },
-        {
-          "section": "T12",
-          "number": 1963,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Classes held in Room 2131C"
-          ]
-        },
-        {
           "section": "T13",
           "number": 1964,
           "schedule": {
@@ -14422,27 +14343,6 @@
           "assistants": [],
           "quota": 9,
           "enroll": 9,
-          "available": 0,
-          "waitlist": 0,
-          "remarks": [
-            "Classes held in Room 2132B"
-          ]
-        },
-        {
-          "section": "T16",
-          "number": 1967,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "18:00:00",
-            "end": "18:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "quota": 0,
-          "enroll": 0,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -23881,8 +23781,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 27,
-          "available": 3,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         },
@@ -23900,8 +23800,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 27,
-          "available": 3,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         }
@@ -57322,8 +57222,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 26,
-          "available": 14,
+          "enroll": 25,
+          "available": 15,
           "waitlist": 0,
           "remarks": [
             "For MPhil & PhD (LIFS) students only.",
