@@ -17152,7 +17152,8 @@
             "LAI, Ernest"
           ],
           "assistants": [
-            "TSUI, Ka"
+            "TSUI, Ka",
+            "WU, Jiayi"
           ],
           "quota": 18,
           "enroll": 16,
@@ -17173,7 +17174,8 @@
             "LAI, Ernest"
           ],
           "assistants": [
-            "TSUI, Ka"
+            "TSUI, Ka",
+            "WU, Jiayi"
           ],
           "quota": 18,
           "enroll": 17,
@@ -17966,9 +17968,7 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -17987,9 +17987,7 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -18008,7 +18006,9 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -57284,8 +57284,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 57,
-          "available": 63,
+          "enroll": 56,
+          "available": 64,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
