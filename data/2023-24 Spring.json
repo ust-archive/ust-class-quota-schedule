@@ -41861,15 +41861,15 @@
           "available": 34,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 67,
-              "Enrol": 30,
-              "Avail": 37
-            },
             "ENVR": {
               "Quota": 13,
               "Enrol": 11,
               "Avail": 2
+            },
+            "EVEM": {
+              "Quota": 67,
+              "Enrol": 30,
+              "Avail": 37
             }
           },
           "remarks": []
@@ -41908,15 +41908,15 @@
           "available": 26,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 64,
-              "Enrol": 40,
-              "Avail": 24
-            },
             "ENVR": {
               "Quota": 6,
               "Enrol": 4,
               "Avail": 2
+            },
+            "EVEM": {
+              "Quota": 64,
+              "Enrol": 40,
+              "Avail": 24
             }
           },
           "remarks": []
@@ -41968,25 +41968,25 @@
           "available": 28,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 64,
-              "Enrol": 44,
-              "Avail": 20
-            },
             "CIEM": {
               "Quota": 6,
               "Enrol": 6,
               "Avail": 0
             },
-            "MCEE": {
-              "Quota": 5,
-              "Enrol": 2,
-              "Avail": 3
-            },
             "EHS": {
               "Quota": 5,
               "Enrol": 0,
               "Avail": 5
+            },
+            "EVEM": {
+              "Quota": 64,
+              "Enrol": 44,
+              "Avail": 20
+            },
+            "MCEE": {
+              "Quota": 5,
+              "Enrol": 2,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -67818,8 +67818,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 45,
-          "available": 35,
+          "enroll": 44,
+          "available": 36,
           "waitlist": 0,
           "remarks": [
             "For MSc(FinTech) students only"
