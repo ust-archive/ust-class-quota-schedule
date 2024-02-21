@@ -4825,55 +4825,6 @@
     },
     {
       "program": "CHMS",
-      "code": "5202",
-      "name": "Analytical Instrumentation Laboratory II",
-      "units": 3,
-      "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
-      "sections": [
-        {
-          "section": "T1",
-          "number": 1082,
-          "schedule": {
-            "day": "SATURDAY",
-            "start": "10:00:00",
-            "end": "10:50:00"
-          },
-          "instructors": [
-            "LI, Arnold",
-            "TUNG, Joanne Wai Ting"
-          ],
-          "room": "TBA",
-          "quota": [
-            100,
-            0,
-            100,
-            0
-          ]
-        },
-        {
-          "section": "LA1",
-          "number": 1081,
-          "schedule": {
-            "day": "SATURDAY",
-            "start": "11:00:00",
-            "end": "16:50:00"
-          },
-          "instructors": [
-            "LI, Arnold",
-            "TUNG, Joanne Wai Ting"
-          ],
-          "room": "TBA",
-          "quota": [
-            100,
-            0,
-            100,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "CHMS",
       "code": "6980",
       "name": "Analytical Research Project",
       "units": 3,
@@ -9557,8 +9508,8 @@
           "room": "Rm 2464, Lift 25-26 (122)",
           "quota": [
             105,
-            96,
-            9,
+            98,
+            7,
             0
           ]
         },
@@ -9576,8 +9527,8 @@
           "room": "Rm 2464, Lift 25-26 (122)",
           "quota": [
             105,
-            96,
-            9,
+            98,
+            7,
             0
           ]
         },
@@ -9616,8 +9567,8 @@
           "room": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             90,
-            79,
-            11,
+            81,
+            9,
             0
           ]
         }
@@ -16702,14 +16653,6 @@
       "name": "Mixed-Signal IC Design for Biosensing",
       "units": 2,
       "description": "This course aims to provide an overview of the major issues in mixed-signal circuit design and their applications in biomedical and sensory systems. The first half of the course will focus on mixed-signal IC design, beginning with two review classes on OPAMP design, filter design, and circuit noise. Subsequently, the course will cover topics such as pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half of the course will be dedicated to sensory and biomedical IC design, and will cover topics including bio-potential detection, implants, DNA detection, CCD, CMOS imaging, and CT/SPECT. Students will gain an understanding of the fundamental principles and practical techniques for mixed-signal circuit design, as well as their applications in various fields.",
-      "sections": []
-    },
-    {
-      "program": "EESM",
-      "code": "6900",
-      "name": "Independent Study",
-      "units": 3,
-      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member.",
       "sections": []
     },
     {
@@ -30016,14 +29959,6 @@
           ]
         }
       ]
-    },
-    {
-      "program": "HUMA",
-      "code": "6100A",
-      "name": "Independent Study",
-      "units": 3,
-      "description": "Independent study on a particular subject under the supervision of a faculty member; requires readings, tutorial discussions, and submission of one or more research papers; may be repeated for credit if different topics are studied. Regular students are required to enroll in a 3-credit course. Enrollment in a course below 3 credits requires the Division's approval.",
-      "sections": []
     },
     {
       "program": "HUMA",
@@ -57113,8 +57048,8 @@
           "room": "Rm 1527, Lift 22 (74)",
           "quota": [
             72,
-            45,
-            27,
+            46,
+            26,
             0
           ]
         }
@@ -58459,8 +58394,8 @@
           "room": "Rm 2504, Lift 25-26 (84)",
           "quota": [
             45,
-            10,
-            35,
+            11,
+            34,
             0
           ]
         },
@@ -58478,8 +58413,8 @@
           "room": "Rm 2504, Lift 25-26 (84)",
           "quota": [
             45,
-            10,
-            35,
+            11,
+            34,
             0
           ]
         }
@@ -61136,14 +61071,6 @@
     },
     {
       "program": "MGMT",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to Pass. No course credit is assigned.",
-      "sections": []
-    },
-    {
-      "program": "MGMT",
       "code": "7100",
       "name": "Behavioral Science",
       "units": 3,
@@ -62394,65 +62321,10 @@
     },
     {
       "program": "NANO",
-      "code": "5320",
-      "name": "Statistical Mechanics I",
-      "units": 3,
-      "description": "Laws and applications of thermodynamics, kinetic theory, phase transitions, classical statistical physics foundations, canonical and grand canonical ensemble, quantum statistical physics foundations, Fermi and Bose distributions, introduction to non-equilibrium statistical physics.",
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1524,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "instructors": [
-            "ZHANG, Rui"
-          ],
-          "room": "Rm 2504, Lift 25-26 (84)",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        },
-        {
-          "section": "L1",
-          "number": 1524,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "instructors": [
-            "ZHANG, Rui"
-          ],
-          "room": "Rm 2504, Lift 25-26 (84)",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "NANO",
       "code": "6100",
       "name": "Independent Study in Nano Science and Technology",
       "units": 3,
       "description": "An individual in-depth study of a current topic in nano science and technology under the supervision of a faculty member.  For students of NANO program only.  The instructor's approval is required for taking this course. Graded P or F.",
-      "sections": []
-    },
-    {
-      "program": "NANO",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
       "sections": []
     },
     {
@@ -63457,34 +63329,6 @@
             20,
             11,
             9,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "program": "OCES",
-      "code": "5403",
-      "name": "Deep Sea Resources",
-      "units": 3,
-      "description": "This course is designed for first-year postgraduate students. The objective of this course is to introduce the geology of the deep sea, the mining of deep sea resources, the diversity of organisms in the deep sea, the sampling of deep sea organisms, and how the deep sea resources should be regulated and protected.",
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1506,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "14:00:00",
-            "end": "16:50:00"
-          },
-          "instructors": [
-            "LAU, Stanley Chun Kwan"
-          ],
-          "room": "TBA",
-          "quota": [
-            20,
-            0,
-            20,
             0
           ]
         }

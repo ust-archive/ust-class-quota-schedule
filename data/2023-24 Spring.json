@@ -5685,63 +5685,6 @@
     },
     {
       "program": "CHMS",
-      "code": "5202",
-      "name": "Analytical Instrumentation Laboratory II",
-      "units": 3,
-      "info": {
-        "vector": "[0-1-6:3]",
-        "pre-requisite": "CHMS 5201",
-        "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critically analyze experimental protocols and procedures for likely or possible sources of error.</td></tr><tr><td>2.</td><td>Apply and extend existing analytical protocols to the analysis of new compounds or mixtures. </td></tr><tr><td>3.</td><td>Formulate the design, testing and validation of new analytical procedures or protocols.</td></tr><tr><td>4.</td><td>Carry out a risk assessment exercise for new experiments and analyses.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "section": "T1",
-          "number": 1082,
-          "schedule": {
-            "day": "SATURDAY",
-            "start": "10:00:00",
-            "end": "10:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "LI, Arnold",
-            "TUNG, Joanne Wai Ting"
-          ],
-          "assistants": [],
-          "quota": 100,
-          "enroll": 0,
-          "available": 100,
-          "waitlist": 0,
-          "remarks": []
-        },
-        {
-          "section": "LA1",
-          "number": 1081,
-          "schedule": {
-            "day": "SATURDAY",
-            "start": "11:00:00",
-            "end": "16:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "LI, Arnold",
-            "TUNG, Joanne Wai Ting"
-          ],
-          "assistants": [],
-          "quota": 100,
-          "enroll": 0,
-          "available": 100,
-          "waitlist": 0,
-          "remarks": [
-            "For MSc(ANCHEM) students only."
-          ]
-        }
-      ]
-    },
-    {
-      "program": "CHMS",
       "code": "6980",
       "name": "Analytical Research Project",
       "units": 3,
@@ -10999,8 +10942,8 @@
           ],
           "assistants": [],
           "quota": 105,
-          "enroll": 96,
-          "available": 9,
+          "enroll": 98,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -11018,8 +10961,8 @@
           ],
           "assistants": [],
           "quota": 105,
-          "enroll": 96,
-          "available": 9,
+          "enroll": 98,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -11058,8 +11001,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 79,
-          "available": 11,
+          "enroll": 81,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         }
@@ -17329,7 +17272,9 @@
           "instructors": [
             "LAI, Ernest"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Ka"
+          ],
           "quota": 18,
           "enroll": 17,
           "available": 1,
@@ -17411,7 +17356,9 @@
           "instructors": [
             "SUNADA, Kohei"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHANG, Yi"
+          ],
           "quota": 50,
           "enroll": 20,
           "available": 30,
@@ -17482,7 +17429,9 @@
           "instructors": [
             "AU, Pak Hung"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 50,
           "enroll": 42,
           "available": 8,
@@ -17552,7 +17501,9 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Hongwei"
+          ],
           "quota": 50,
           "enroll": 21,
           "available": 29,
@@ -17622,7 +17573,9 @@
           "instructors": [
             "LEUNG, Siu Fai"
           ],
-          "assistants": [],
+          "assistants": [
+            "FOK, Pik Lin"
+          ],
           "quota": 50,
           "enroll": 47,
           "available": 3,
@@ -17693,7 +17646,9 @@
           "instructors": [
             "GONG, Robin Kaiji"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Lei"
+          ],
           "quota": 50,
           "enroll": 19,
           "available": 31,
@@ -17764,7 +17719,9 @@
           "instructors": [
             "NG, Chi Yung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TO, Jeremy"
+          ],
           "quota": 50,
           "enroll": 20,
           "available": 30,
@@ -17835,7 +17792,9 @@
           "instructors": [
             "KITNEY, Paul"
           ],
-          "assistants": [],
+          "assistants": [
+            "YAO, Jingbo"
+          ],
           "quota": 50,
           "enroll": 32,
           "available": 18,
@@ -17905,7 +17864,9 @@
           "instructors": [
             "LAI, Edwin"
           ],
-          "assistants": [],
+          "assistants": [
+            "LU, Lingfei"
+          ],
           "quota": 50,
           "enroll": 14,
           "available": 36,
@@ -17976,7 +17937,9 @@
           "instructors": [
             "LIN, Yatang"
           ],
-          "assistants": [],
+          "assistants": [
+            "TO, Jeremy"
+          ],
           "quota": 53,
           "enroll": 50,
           "available": 3,
@@ -18046,7 +18009,9 @@
           "instructors": [
             "FAN, Yiu Kwan"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Ka"
+          ],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -18101,7 +18066,9 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -18120,7 +18087,9 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 50,
           "enroll": 17,
           "available": 33,
@@ -19675,19 +19644,6 @@
       "info": {
         "vector": "[2-0-0:2]",
         "description": "This course aims to provide an overview of the major issues in mixed-signal circuit design and their applications in biomedical and sensory systems. The first half of the course will focus on mixed-signal IC design, beginning with two review classes on OPAMP design, filter design, and circuit noise. Subsequently, the course will cover topics such as pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half of the course will be dedicated to sensory and biomedical IC design, and will cover topics including bio-potential detection, implants, DNA detection, CCD, CMOS imaging, and CT/SPECT. Students will gain an understanding of the fundamental principles and practical techniques for mixed-signal circuit design, as well as their applications in various fields."
-      },
-      "attrs": [],
-      "sections": []
-    },
-    {
-      "program": "EESM",
-      "code": "6900",
-      "name": "Independent Study",
-      "units": 3,
-      "info": {
-        "vector": "[3 credits]",
-        "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine a specific subject in electronic engineering.</td></tr><tr><td>2.</td><td>Formulate one or multiple problems in the specific subject.</td></tr><tr><td>3.</td><td>Integrate theoretical principles and practical skills to solve the defined problems.</td></tr><tr><td>4.</td><td>Communicate the problems and solutions through scientific writings.</td></tr></table>"
       },
       "attrs": [],
       "sections": []
@@ -35594,19 +35550,6 @@
           "remarks": []
         }
       ]
-    },
-    {
-      "program": "HUMA",
-      "code": "6100A",
-      "name": "Independent Study",
-      "units": 3,
-      "info": {
-        "vector": "[3 credits]",
-        "exclusion": "HMMA 6200",
-        "description": "Independent study on a particular subject under the supervision of a faculty member; requires readings, tutorial discussions, and submission of one or more research papers; may be repeated for credit if different topics are studied. Regular students are required to enroll in a 3-credit course. Enrollment in a course below 3 credits requires the Division's approval."
-      },
-      "attrs": [],
-      "sections": []
     },
     {
       "program": "HUMA",
@@ -65736,8 +65679,8 @@
             "ZHAO, Haoying"
           ],
           "quota": 72,
-          "enroll": 45,
-          "available": 27,
+          "enroll": 46,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "BEHI": {
@@ -65747,8 +65690,8 @@
             },
             "MCEE": {
               "Quota": 62,
-              "Enrol": 45,
-              "Avail": 17
+              "Enrol": 46,
+              "Avail": 16
             }
           },
           "remarks": []
@@ -67259,8 +67202,8 @@
           ],
           "assistants": [],
           "quota": 45,
-          "enroll": 10,
-          "available": 35,
+          "enroll": 11,
+          "available": 34,
           "waitlist": 0,
           "remarks": []
         },
@@ -67278,8 +67221,8 @@
           ],
           "assistants": [],
           "quota": 45,
-          "enroll": 10,
-          "available": 35,
+          "enroll": 11,
+          "available": 34,
           "waitlist": 0,
           "remarks": []
         }
@@ -70599,18 +70542,6 @@
     },
     {
       "program": "MGMT",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to Pass. No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct cross-disciplinary research in management studies.</td></tr><tr><td>2.</td><td>Communicate research findings effectively in written and oral presentations.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
-    {
-      "program": "MGMT",
       "code": "7100",
       "name": "Behavioral Science",
       "units": 3,
@@ -72275,60 +72206,6 @@
     },
     {
       "program": "NANO",
-      "code": "5320",
-      "name": "Statistical Mechanics I",
-      "units": 3,
-      "info": {
-        "vector": "[3-0-0:3]",
-        "exclusion": "PHYS 5310",
-        "co-list with": "PHYS 5310",
-        "description": "Laws and applications of thermodynamics, kinetic theory, phase transitions, classical statistical physics foundations, canonical and grand canonical ensemble, quantum statistical physics foundations, Fermi and Bose distributions, introduction to non-equilibrium statistical physics.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how the core principles of thermodynamics can be derived from the statistical mechanics of Nparticle systems.</td></tr><tr><td>2.</td><td>Use the basic tools of statistical mechanics (such as the partition function) to predict the macroscopic properties of a system from a given microscopic model.</td></tr><tr><td>3.</td><td>Apply these tools in conjunction with appropriate approximation techniques to solve problems in a variety of physical systems, including (but not limited to) fluids and interacting assemblies of spins in magnetic\r\nfields.</td></tr><tr><td>4.</td><td>Use the tools of statistical physics to predict the behaviour of systems in the neighbourhood of a phase transition.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1524,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "room": "Rm 2504, Lift 25-26 (84)",
-          "instructors": [
-            "ZHANG, Rui"
-          ],
-          "assistants": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0,
-          "remarks": []
-        },
-        {
-          "section": "L1",
-          "number": 1524,
-          "schedule": {
-            "day": "WEDNESDAY",
-            "start": "09:00:00",
-            "end": "10:20:00"
-          },
-          "room": "Rm 2504, Lift 25-26 (84)",
-          "instructors": [
-            "ZHANG, Rui"
-          ],
-          "assistants": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0,
-          "remarks": []
-        }
-      ]
-    },
-    {
-      "program": "NANO",
       "code": "6100",
       "name": "Independent Study in Nano Science and Technology",
       "units": 3,
@@ -72336,18 +72213,6 @@
         "vector": "[0-3-0:3]",
         "description": "An individual in-depth study of a current topic in nano science and technology under the supervision of a faculty member.  For students of NANO program only.  The instructor's approval is required for taking this course. Graded P or F.",
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct literature review.</td></tr><tr><td>2.</td><td>Write professional researh paper or report.</td></tr><tr><td>3.</td><td>Obtain in-depth understanding on a specific research topic in Nano Science or Technology.</td></tr><tr><td>4.</td><td>Explain working principles or apply experimental techniques on a research topic in Nano Science and Technology.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": []
-    },
-    {
-      "program": "NANO",
-      "code": "6990",
-      "name": "MPhil Thesis Research",
-      "units": 0,
-      "info": {
-        "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate research contriutions in form of a thesis.</td></tr><tr><td>2.</td><td>Demonstrate research achievements, on knowledge in advanceing a research field in Nano Science and Technology, in the form of thesis.</td></tr><tr><td>3.</td><td>Defend the research achievements and contributions through seminar or oral examination.</td></tr></table>"
       },
       "attrs": [],
       "sections": []
@@ -73499,41 +73364,6 @@
           "quota": 20,
           "enroll": 11,
           "available": 9,
-          "waitlist": 0,
-          "remarks": [
-            "For MSc(GMRM) students only."
-          ]
-        }
-      ]
-    },
-    {
-      "program": "OCES",
-      "code": "5403",
-      "name": "Deep Sea Resources",
-      "units": 3,
-      "info": {
-        "vector": "[3-0-0:3]",
-        "description": "This course is designed for first-year postgraduate students. The objective of this course is to introduce the geology of the deep sea, the mining of deep sea resources, the diversity of organisms in the deep sea, the sampling of deep sea organisms, and how the deep sea resources should be regulated and protected.",
-        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the major resources in the deep sea.</td></tr><tr><td>2.</td><td>Explain the interactions between the geological, biological and chemical components in the deep sea environment.</td></tr><tr><td>3.</td><td>Identify the right methodology of utilizing resources in the deep sea.</td></tr><tr><td>4.</td><td>Explain the ecological importance of deep sea resources.</td></tr><tr><td>5.</td><td>Analyze data and to take samples from the deep sea.</td></tr><tr><td>6.</td><td>Communicate scientific ideas effectively on deep sea management and regulation.</td></tr></table>"
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1506,
-          "schedule": {
-            "day": "MONDAY",
-            "start": "14:00:00",
-            "end": "16:50:00"
-          },
-          "room": "TBA",
-          "instructors": [
-            "LAU, Stanley Chun Kwan"
-          ],
-          "assistants": [],
-          "quota": 20,
-          "enroll": 0,
-          "available": 20,
           "waitlist": 0,
           "remarks": [
             "For MSc(GMRM) students only."
@@ -76824,7 +76654,9 @@
           "enroll": 10,
           "available": 30,
           "waitlist": 0,
-          "remarks": []
+          "remarks": [
+            "PHYS 5310 is not co-listing with NANO 5320 in Spring 2023-24"
+          ]
         },
         {
           "section": "L1",
@@ -76843,7 +76675,9 @@
           "enroll": 10,
           "available": 30,
           "waitlist": 0,
-          "remarks": []
+          "remarks": [
+            "PHYS 5310 is not co-listing with NANO 5320 in Spring 2023-24"
+          ]
         }
       ]
     },
