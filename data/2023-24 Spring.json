@@ -77033,14 +77033,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 11,
-          "available": 29,
+          "enroll": 10,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 30,
-              "Enrol": 9,
-              "Avail": 21
+              "Enrol": 8,
+              "Avail": 22
             }
           },
           "remarks": []
