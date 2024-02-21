@@ -26191,14 +26191,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 25,
-          "available": 25,
+          "enroll": 24,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 50,
-              "Enrol": 23,
-              "Avail": 27
+              "Enrol": 22,
+              "Avail": 28
             }
           },
           "remarks": [
