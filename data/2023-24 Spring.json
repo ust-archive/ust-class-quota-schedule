@@ -12653,8 +12653,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 6,
-          "available": 54,
+          "enroll": 5,
+          "available": 55,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -12679,8 +12679,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 6,
-          "available": 54,
+          "enroll": 5,
+          "available": 55,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13188,8 +13188,8 @@
           ],
           "assistants": [],
           "quota": 25,
-          "enroll": 14,
-          "available": 11,
+          "enroll": 15,
+          "available": 10,
           "waitlist": 0,
           "remarks": [
             "Classes held in Room 4503",
@@ -13210,8 +13210,8 @@
           ],
           "assistants": [],
           "quota": 25,
-          "enroll": 14,
-          "available": 11,
+          "enroll": 15,
+          "available": 10,
           "waitlist": 0,
           "remarks": [
             "Classes held in Room 4503",
@@ -13310,14 +13310,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 4,
-          "available": 56,
+          "enroll": 5,
+          "available": 55,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 2,
-              "Avail": 38
+              "Enrol": 3,
+              "Avail": 37
             }
           },
           "remarks": []
@@ -13336,14 +13336,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 4,
-          "available": 56,
+          "enroll": 5,
+          "available": 55,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 2,
-              "Avail": 38
+              "Enrol": 3,
+              "Avail": 37
             }
           },
           "remarks": []
@@ -41487,7 +41487,9 @@
           "instructors": [
             "JAMES, Lancelot Fitzgerald"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEE, Wai Hong"
+          ],
           "quota": 30,
           "enroll": 16,
           "available": 14,
