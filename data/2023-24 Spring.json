@@ -5668,8 +5668,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 72,
-          "available": 28,
+          "enroll": 71,
+          "available": 29,
           "waitlist": 0,
           "remarks": [
             "For MSc(ANCHEM) students only."
@@ -13110,8 +13110,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 22,
-          "available": 38,
+          "enroll": 21,
+          "available": 39,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13136,8 +13136,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 22,
-          "available": 38,
+          "enroll": 21,
+          "available": 39,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
