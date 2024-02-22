@@ -61790,8 +61790,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 93,
-          "available": 7,
+          "enroll": 92,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
@@ -61809,8 +61809,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 93,
-          "available": 7,
+          "enroll": 92,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
@@ -61893,8 +61893,8 @@
             "WU, Tong"
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
