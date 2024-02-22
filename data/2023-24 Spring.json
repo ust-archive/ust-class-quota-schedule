@@ -31681,6 +31681,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "LI, Eugene",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31700,6 +31701,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "LI, Eugene",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31721,6 +31723,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "ENGLAND, Graham",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31740,6 +31743,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "ENGLAND, Graham",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31761,6 +31765,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "LAM, Levi",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31780,6 +31785,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "LAM, Levi",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31801,6 +31807,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "GASKELL, Delian Dawn",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31820,6 +31827,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "GASKELL, Delian Dawn",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31841,7 +31849,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -31860,7 +31869,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -31881,6 +31891,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "FREEMAN, Danyal Jonathan",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31900,6 +31911,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "FREEMAN, Danyal Jonathan",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -31921,7 +31933,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -31940,7 +31953,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -32001,7 +32015,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "SAMPSON, Nicholas"
           ],
           "assistants": [],
           "quota": 20,
@@ -32020,7 +32035,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "PUN, Wing Man Winnie"
+            "PUN, Wing Man Winnie",
+            "SAMPSON, Nicholas"
           ],
           "assistants": [],
           "quota": 20,
@@ -32041,6 +32057,7 @@
           },
           "room": "G001, CYT Bldg (24)",
           "instructors": [
+            "LI, Po Lung",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -32060,6 +32077,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "LI, Po Lung",
             "PUN, Wing Man Winnie"
           ],
           "assistants": [],
@@ -32147,7 +32165,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "MEGAN, Melissa Jane"
           ],
           "assistants": [],
           "quota": 20,
@@ -32166,7 +32185,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "MEGAN, Melissa Jane"
           ],
           "assistants": [],
           "quota": 20,
@@ -32187,6 +32207,7 @@
           },
           "room": "G003, CYT Bldg (30)",
           "instructors": [
+            "FUNG, John",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32206,6 +32227,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "FUNG, John",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32227,6 +32249,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "ENGLAND, Graham",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32246,6 +32269,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "ENGLAND, Graham",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32267,7 +32291,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "WONG, Elaine Suk Yi"
           ],
           "assistants": [],
           "quota": 20,
@@ -32286,7 +32311,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "WONG, Elaine Suk Yi"
           ],
           "assistants": [],
           "quota": 20,
@@ -32307,6 +32333,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "CHAN, Thomas Anthony Chun Hun",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32326,6 +32353,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "CHAN, Thomas Anthony Chun Hun",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32347,7 +32375,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "WONG, Kai Hung"
           ],
           "assistants": [],
           "quota": 20,
@@ -32366,7 +32395,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "WONG, Kai Hung"
           ],
           "assistants": [],
           "quota": 20,
@@ -32387,7 +32417,8 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "LIAO, May"
           ],
           "assistants": [],
           "quota": 20,
@@ -32406,7 +32437,8 @@
           },
           "room": "TBA",
           "instructors": [
-            "LAW, Chun Yin"
+            "LAW, Chun Yin",
+            "LIAO, May"
           ],
           "assistants": [],
           "quota": 20,
@@ -32427,6 +32459,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "CHONG, Doreen",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32446,6 +32479,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "CHONG, Doreen",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32467,6 +32501,7 @@
           },
           "room": "Rm 3494, Lift 25-26 (20)",
           "instructors": [
+            "HOPKINS, Mark",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32486,6 +32521,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "HOPKINS, Mark",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32507,6 +32543,7 @@
           },
           "room": "Rm 5560, Lift 27-28 (30)",
           "instructors": [
+            "CHEUNG, Colin",
             "LAW, Chun Yin"
           ],
           "assistants": [],
@@ -32526,6 +32563,7 @@
           },
           "room": "TBA",
           "instructors": [
+            "CHEUNG, Colin",
             "LAW, Chun Yin"
           ],
           "assistants": [],
