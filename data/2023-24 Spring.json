@@ -77558,14 +77558,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 35,
-          "available": 5,
+          "enroll": 34,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 39,
-              "Enrol": 34,
-              "Avail": 5
+              "Enrol": 33,
+              "Avail": 6
             }
           },
           "remarks": []
