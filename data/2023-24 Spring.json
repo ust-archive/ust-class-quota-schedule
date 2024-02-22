@@ -779,7 +779,9 @@
           "instructors": [
             "YANG, Daniel G."
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Tak Ming"
+          ],
           "quota": 70,
           "enroll": 70,
           "available": 0,
@@ -798,7 +800,9 @@
           "instructors": [
             "YANG, Daniel G."
           ],
-          "assistants": [],
+          "assistants": [
+            "LEUNG, Tak Ming"
+          ],
           "quota": 70,
           "enroll": 70,
           "available": 0,
@@ -830,7 +834,9 @@
           "instructors": [
             "MORRIS, Arthur"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Chun Him Leon"
+          ],
           "quota": 78,
           "enroll": 78,
           "available": 0,
@@ -849,7 +855,9 @@
           "instructors": [
             "MORRIS, Arthur"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Chun Him Leon"
+          ],
           "quota": 78,
           "enroll": 78,
           "available": 0,
