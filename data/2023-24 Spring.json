@@ -42011,14 +42011,14 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 46,
-          "available": 34,
+          "enroll": 45,
+          "available": 35,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 13,
-              "Enrol": 11,
-              "Avail": 2
+              "Enrol": 10,
+              "Avail": 3
             },
             "EVEM": {
               "Quota": 67,
@@ -42058,14 +42058,14 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 44,
-          "available": 26,
+          "enroll": 43,
+          "available": 27,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 6,
-              "Enrol": 4,
-              "Avail": 2
+              "Enrol": 3,
+              "Avail": 3
             },
             "EVEM": {
               "Quota": 64,
