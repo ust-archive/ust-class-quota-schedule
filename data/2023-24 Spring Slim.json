@@ -35124,14 +35124,6 @@
     },
     {
       "program": "ISOM",
-      "code": "6390C",
-      "name": "Independent Study in Information Systems",
-      "units": 3,
-      "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)",
-      "sections": []
-    },
-    {
-      "program": "ISOM",
       "code": "6670E",
       "name": "Machine Learning for Prescriptive Business Analytics",
       "units": 2,
