@@ -7151,8 +7151,8 @@
           ],
           "assistants": [],
           "quota": 182,
-          "enroll": 182,
-          "available": 0,
+          "enroll": 181,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -7170,8 +7170,8 @@
           ],
           "assistants": [],
           "quota": 182,
-          "enroll": 182,
-          "available": 0,
+          "enroll": 181,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -7189,8 +7189,8 @@
           ],
           "assistants": [],
           "quota": 93,
-          "enroll": 71,
-          "available": 22,
+          "enroll": 70,
+          "available": 23,
           "waitlist": 0,
           "remarks": []
         },
@@ -7227,8 +7227,8 @@
           ],
           "assistants": [],
           "quota": 62,
-          "enroll": 55,
-          "available": 7,
+          "enroll": 54,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
@@ -8081,8 +8081,8 @@
           ],
           "assistants": [],
           "quota": 171,
-          "enroll": 169,
-          "available": 2,
+          "enroll": 168,
+          "available": 3,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 2; Spring: 4"
@@ -47893,7 +47893,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MUDDEMAN, Gary"
           ],
           "assistants": [],
           "quota": 20,
@@ -47912,7 +47912,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MUDDEMAN, Gary"
           ],
           "assistants": [],
           "quota": 20,
@@ -47931,7 +47931,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -47950,7 +47950,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -47969,7 +47969,7 @@
           },
           "room": "Rm 2131B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -47988,7 +47988,7 @@
           },
           "room": "Rm 2131B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -48007,7 +48007,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -48026,7 +48026,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "STAMPER, Suzan"
           ],
           "assistants": [],
           "quota": 20,
@@ -48045,7 +48045,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MUDDEMAN, Gary"
           ],
           "assistants": [],
           "quota": 20,
@@ -48064,7 +48064,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MUDDEMAN, Gary"
           ],
           "assistants": [],
           "quota": 20,
@@ -48111,7 +48111,7 @@
           },
           "room": "Rm 5619, Lift 31-32 (60)",
           "instructors": [
-            "TBA"
+            "MELICAN, Mark Anthony"
           ],
           "assistants": [],
           "quota": 60,
@@ -48160,7 +48160,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -48179,7 +48179,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -48198,7 +48198,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -48217,7 +48217,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -48236,7 +48236,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -48255,7 +48255,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -48274,7 +48274,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -48293,7 +48293,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -48312,7 +48312,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -48331,7 +48331,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -48378,7 +48378,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -48397,7 +48397,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -48416,7 +48416,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -48435,7 +48435,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -48482,7 +48482,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -48501,7 +48501,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -48520,7 +48520,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -48539,7 +48539,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -48586,7 +48586,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LIANG, Sheila, Xin"
           ],
           "assistants": [],
           "quota": 20,
@@ -48605,7 +48605,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LIANG, Sheila, Xin"
           ],
           "assistants": [],
           "quota": 20,
@@ -48624,7 +48624,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -48643,7 +48643,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -48662,7 +48662,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "LIANG, Sheila, Xin"
           ],
           "assistants": [],
           "quota": 20,
@@ -48681,7 +48681,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "LIANG, Sheila, Xin"
           ],
           "assistants": [],
           "quota": 20,
@@ -48728,7 +48728,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -48747,7 +48747,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -48766,7 +48766,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -48785,7 +48785,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -48833,7 +48833,7 @@
           },
           "room": "Rm 2126A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -48852,7 +48852,7 @@
           },
           "room": "Rm 2126A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -48871,7 +48871,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -48890,7 +48890,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -48909,7 +48909,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -48928,7 +48928,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -48947,7 +48947,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -48966,7 +48966,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -48985,7 +48985,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 21,
@@ -49004,7 +49004,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 21,
@@ -49023,7 +49023,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -49042,7 +49042,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -49086,7 +49086,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -49107,7 +49107,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -49157,7 +49157,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49176,7 +49176,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49195,7 +49195,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49214,7 +49214,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49233,7 +49233,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49252,7 +49252,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -49271,7 +49271,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -49290,7 +49290,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -49309,7 +49309,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -49328,7 +49328,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHOU, Tong"
           ],
           "assistants": [],
           "quota": 20,
@@ -49347,7 +49347,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -49366,7 +49366,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YUAN, Su"
           ],
           "assistants": [],
           "quota": 20,
@@ -49385,7 +49385,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -49404,7 +49404,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -49423,7 +49423,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -49442,7 +49442,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -49489,7 +49489,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49508,7 +49508,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49527,7 +49527,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49546,7 +49546,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49565,7 +49565,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49584,7 +49584,7 @@
           },
           "room": "Rm 2128B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49603,7 +49603,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49622,7 +49622,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -49641,7 +49641,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49660,7 +49660,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49679,7 +49679,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49698,7 +49698,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49717,7 +49717,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49736,7 +49736,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49755,7 +49755,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49774,7 +49774,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -49793,7 +49793,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49812,7 +49812,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Crystal L Y"
           ],
           "assistants": [],
           "quota": 20,
@@ -49859,7 +49859,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -49878,7 +49878,7 @@
           },
           "room": "Rm 2130B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -49897,7 +49897,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -49916,7 +49916,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -49935,7 +49935,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -49954,7 +49954,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "DU, Yingzi"
           ],
           "assistants": [],
           "quota": 20,
@@ -49973,7 +49973,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -49992,7 +49992,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -50011,7 +50011,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -50030,7 +50030,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -50049,7 +50049,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50068,7 +50068,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50087,7 +50087,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHONG, Yin"
           ],
           "assistants": [],
           "quota": 20,
@@ -50106,7 +50106,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZHONG, Yin"
           ],
           "assistants": [],
           "quota": 20,
@@ -50125,7 +50125,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -50144,7 +50144,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "XU, Xiufen"
           ],
           "assistants": [],
           "quota": 20,
@@ -50195,7 +50195,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -50214,7 +50214,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -50233,7 +50233,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50252,7 +50252,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50271,7 +50271,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -50290,7 +50290,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "REN, Tao"
           ],
           "assistants": [],
           "quota": 20,
@@ -50309,7 +50309,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50328,7 +50328,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50347,7 +50347,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -50366,7 +50366,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SUEN, Hiu Yeung"
           ],
           "assistants": [],
           "quota": 20,
@@ -50385,7 +50385,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50404,7 +50404,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50423,7 +50423,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -50442,7 +50442,7 @@
           },
           "room": "Rm 2129B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -50461,7 +50461,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50480,7 +50480,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50499,7 +50499,7 @@
           },
           "room": "Rm 2131B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -50518,7 +50518,7 @@
           },
           "room": "Rm 2131B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "RAO, Emma"
           ],
           "assistants": [],
           "quota": 20,
@@ -50537,7 +50537,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50556,7 +50556,7 @@
           },
           "room": "Rm 2130C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "quota": 20,
@@ -50575,7 +50575,7 @@
           },
           "room": "Rm 2131C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50594,7 +50594,7 @@
           },
           "room": "Rm 2131C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "YU, Wai Ying"
           ],
           "assistants": [],
           "quota": 20,
@@ -50640,7 +50640,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -50659,7 +50659,7 @@
           },
           "room": "Rm 2130A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -50678,7 +50678,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -50697,7 +50697,7 @@
           },
           "room": "Rm 2128A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Lok Yee Lorraine"
           ],
           "assistants": [],
           "quota": 20,
@@ -50743,7 +50743,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -50762,7 +50762,7 @@
           },
           "room": "Rm 2132C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -50781,7 +50781,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -50800,7 +50800,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "NUO, Min"
           ],
           "assistants": [],
           "quota": 20,
@@ -50819,7 +50819,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -50838,7 +50838,7 @@
           },
           "room": "Rm 2128C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 20,
@@ -50857,7 +50857,7 @@
           },
           "room": "Rm 2131C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 21,
@@ -50876,7 +50876,7 @@
           },
           "room": "Rm 2131C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FUNG, Eddy"
           ],
           "assistants": [],
           "quota": 21,
@@ -50908,7 +50908,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Thomas Anthony Chun Hun"
           ],
           "assistants": [],
           "quota": 20,
@@ -50927,7 +50927,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "CHAN, Thomas Anthony Chun Hun"
           ],
           "assistants": [],
           "quota": 20,
@@ -50946,7 +50946,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -50965,7 +50965,7 @@
           },
           "room": "Rm 2129C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -50984,7 +50984,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FARMER, Rebecca"
           ],
           "assistants": [],
           "quota": 20,
@@ -51003,7 +51003,7 @@
           },
           "room": "Rm 2132A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FARMER, Rebecca"
           ],
           "assistants": [],
           "quota": 20,
@@ -51022,7 +51022,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -51041,7 +51041,7 @@
           },
           "room": "Rm 2127A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -51060,7 +51060,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -51079,7 +51079,7 @@
           },
           "room": "Rm 2131A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Pui"
           ],
           "assistants": [],
           "quota": 20,
@@ -51098,7 +51098,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FARMER, Rebecca"
           ],
           "assistants": [],
           "quota": 20,
@@ -51117,7 +51117,7 @@
           },
           "room": "Rm 2127C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "FARMER, Rebecca"
           ],
           "assistants": [],
           "quota": 20,
@@ -51136,7 +51136,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "CHAN, Thomas Anthony Chun Hun"
           ],
           "assistants": [],
           "quota": 23,
@@ -51155,7 +51155,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "CHAN, Thomas Anthony Chun Hun"
           ],
           "assistants": [],
           "quota": 23,
@@ -51187,7 +51187,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZYCHOWICZ, Piotr"
           ],
           "assistants": [],
           "quota": 20,
@@ -51206,7 +51206,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZYCHOWICZ, Piotr"
           ],
           "assistants": [],
           "quota": 20,
@@ -51225,7 +51225,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZYCHOWICZ, Piotr"
           ],
           "assistants": [],
           "quota": 20,
@@ -51244,7 +51244,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "ZYCHOWICZ, Piotr"
           ],
           "assistants": [],
           "quota": 20,
@@ -51276,7 +51276,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Ping Chung Eric"
           ],
           "assistants": [],
           "quota": 20,
@@ -51295,7 +51295,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LEE, Ping Chung Eric"
           ],
           "assistants": [],
           "quota": 20,
@@ -51314,7 +51314,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51333,7 +51333,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51352,7 +51352,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -51371,7 +51371,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -51390,7 +51390,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51409,7 +51409,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51428,7 +51428,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51447,7 +51447,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51466,7 +51466,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51485,7 +51485,7 @@
           },
           "room": "Rm 2129A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Wai Leung Bruce"
           ],
           "assistants": [],
           "quota": 20,
@@ -51504,7 +51504,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -51523,7 +51523,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -51542,7 +51542,7 @@
           },
           "room": "Rm 2126A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -51561,7 +51561,7 @@
           },
           "room": "Rm 2126A, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -51580,7 +51580,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "MAK, Linda Y O"
           ],
           "assistants": [],
           "quota": 20,
@@ -51599,7 +51599,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "MAK, Linda Y O"
           ],
           "assistants": [],
           "quota": 20,
@@ -51618,7 +51618,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "LEE, Ping Chung Eric"
           ],
           "assistants": [],
           "quota": 20,
@@ -51637,7 +51637,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "LEE, Ping Chung Eric"
           ],
           "assistants": [],
           "quota": 20,
@@ -51656,7 +51656,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51675,7 +51675,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51694,7 +51694,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MAK, Linda Y O"
           ],
           "assistants": [],
           "quota": 20,
@@ -51713,7 +51713,7 @@
           },
           "room": "Rm 2127B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MAK, Linda Y O"
           ],
           "assistants": [],
           "quota": 20,
@@ -51732,7 +51732,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51751,7 +51751,7 @@
           },
           "room": "Rm 2611, Lift 31-32 (28)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51770,7 +51770,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51789,7 +51789,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51808,7 +51808,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -51827,7 +51827,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -51846,7 +51846,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51865,7 +51865,7 @@
           },
           "room": "Rm 2610, Lift 31-32 (26)",
           "instructors": [
-            "TBA"
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51884,7 +51884,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51903,7 +51903,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WONG, Elaine Yee Ling"
           ],
           "assistants": [],
           "quota": 20,
@@ -51922,7 +51922,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51941,7 +51941,7 @@
           },
           "room": "Rm 5504, Lift 25-26 (24)",
           "instructors": [
-            "TBA"
+            "WO, Bernadette Wan-Lan"
           ],
           "assistants": [],
           "quota": 20,
@@ -51960,7 +51960,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -51979,7 +51979,7 @@
           },
           "room": "Rm 2612B, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -52011,7 +52011,7 @@
           },
           "room": "Rm 2126C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -52030,7 +52030,7 @@
           },
           "room": "Rm 2126C, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -52049,7 +52049,7 @@
           },
           "room": "Rm 2132B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -52068,7 +52068,7 @@
           },
           "room": "Rm 2132B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "SADHWANI, Dinesh Arjan"
           ],
           "assistants": [],
           "quota": 20,
@@ -52087,7 +52087,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -52106,7 +52106,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -52125,7 +52125,7 @@
           },
           "room": "Rm 2612A, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -52144,7 +52144,7 @@
           },
           "room": "Rm 2612A, Lift 31-32 (29)",
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "quota": 20,
@@ -52163,7 +52163,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -52182,7 +52182,7 @@
           },
           "room": "Rm 2126B, Lift 19 (28)",
           "instructors": [
-            "TBA"
+            "MA, Martin, T. C."
           ],
           "assistants": [],
           "quota": 20,
@@ -52215,7 +52215,7 @@
           },
           "room": "Rm 2503, Lift 25-26 (87)",
           "instructors": [
-            "TBA"
+            "HUSSIN, Nora Anniesha Binte"
           ],
           "assistants": [],
           "quota": 20,
@@ -52234,7 +52234,7 @@
           },
           "room": "Rm 2503, Lift 25-26 (87)",
           "instructors": [
-            "TBA"
+            "HUSSIN, Nora Anniesha Binte"
           ],
           "assistants": [],
           "quota": 20,
@@ -77075,14 +77075,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 10,
-          "available": 30,
+          "enroll": 11,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 30,
-              "Enrol": 8,
-              "Avail": 22
+              "Enrol": 9,
+              "Avail": 21
             }
           },
           "remarks": []
