@@ -66886,8 +66886,8 @@
           ],
           "assistants": [],
           "quota": 26,
-          "enroll": 24,
-          "available": 2,
+          "enroll": 25,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -66924,8 +66924,8 @@
           ],
           "assistants": [],
           "quota": 26,
-          "enroll": 21,
-          "available": 5,
+          "enroll": 20,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         }
