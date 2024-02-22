@@ -77322,14 +77322,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 88,
-          "available": 2,
+          "enroll": 87,
+          "available": 3,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 90,
-              "Enrol": 88,
-              "Avail": 2
+              "Enrol": 87,
+              "Avail": 3
             }
           },
           "remarks": []
