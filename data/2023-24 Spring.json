@@ -12005,8 +12005,8 @@
           ],
           "assistants": [],
           "quota": 75,
-          "enroll": 65,
-          "available": 10,
+          "enroll": 66,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -12024,8 +12024,8 @@
           ],
           "assistants": [],
           "quota": 75,
-          "enroll": 65,
-          "available": 10,
+          "enroll": 66,
+          "available": 9,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a real-time online mode"
@@ -59955,8 +59955,8 @@
           ],
           "assistants": [],
           "quota": 35,
-          "enroll": 29,
-          "available": 6,
+          "enroll": 30,
+          "available": 5,
           "waitlist": 0,
           "remarks": [
             "Venue: Room CYTG010"
@@ -59976,8 +59976,8 @@
           ],
           "assistants": [],
           "quota": 35,
-          "enroll": 29,
-          "available": 6,
+          "enroll": 30,
+          "available": 5,
           "waitlist": 0,
           "remarks": [
             "Venue: Room CYTG010"
@@ -60042,8 +60042,8 @@
             "ZHANG, Wenlin"
           ],
           "quota": 35,
-          "enroll": 29,
-          "available": 6,
+          "enroll": 30,
+          "available": 5,
           "waitlist": 0,
           "remarks": [
             "Venue: LTF"
@@ -67483,8 +67483,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 15,
-          "available": 5,
+          "enroll": 14,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         }
