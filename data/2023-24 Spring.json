@@ -77281,14 +77281,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 23,
-          "available": 17,
+          "enroll": 22,
+          "available": 18,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 23,
-              "Avail": 17
+              "Enrol": 22,
+              "Avail": 18
             }
           },
           "remarks": []
@@ -77322,14 +77322,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 89,
-          "available": 1,
+          "enroll": 88,
+          "available": 2,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 90,
-              "Enrol": 89,
-              "Avail": 1
+              "Enrol": 88,
+              "Avail": 2
             }
           },
           "remarks": []
@@ -77558,14 +77558,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 34,
-          "available": 6,
+          "enroll": 33,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 39,
-              "Enrol": 33,
-              "Avail": 6
+              "Enrol": 32,
+              "Avail": 7
             }
           },
           "remarks": []
