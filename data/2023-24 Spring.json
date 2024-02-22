@@ -35,6 +35,8 @@
             "CHEUNG, Kwok Yip"
           ],
           "assistants": [
+            "DAI, Ting",
+            "DENG, Jin",
             "YI, Yi"
           ],
           "quota": 70,
@@ -56,6 +58,8 @@
             "CHEUNG, Kwok Yip"
           ],
           "assistants": [
+            "DAI, Ting",
+            "DENG, Jin",
             "YI, Yi"
           ],
           "quota": 70,
@@ -1316,7 +1320,9 @@
           "instructors": [
             "LAI, David"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAM, Nathalie"
+          ],
           "quota": 66,
           "enroll": 66,
           "available": 0,
@@ -1335,7 +1341,9 @@
           "instructors": [
             "LAI, David"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAM, Nathalie"
+          ],
           "quota": 66,
           "enroll": 66,
           "available": 0,
