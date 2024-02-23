@@ -1192,8 +1192,8 @@
           "assistants": [
             "YI, Yi"
           ],
-          "quota": 65,
-          "enroll": 65,
+          "quota": 66,
+          "enroll": 66,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -1213,8 +1213,8 @@
           "assistants": [
             "YI, Yi"
           ],
-          "quota": 65,
-          "enroll": 65,
+          "quota": 66,
+          "enroll": 66,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -32080,8 +32080,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
+          "enroll": 20,
+          "available": 0,
           "waitlist": 0,
           "remarks": [
             "Venue : Room 3494"
@@ -32144,8 +32144,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 13,
-          "available": 7,
+          "enroll": 12,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
@@ -81064,8 +81064,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 51,
-          "available": 9,
+          "enroll": 52,
+          "available": 8,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode"
