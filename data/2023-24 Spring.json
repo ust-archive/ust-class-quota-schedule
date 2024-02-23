@@ -26268,14 +26268,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 60,
-              "Enrol": 45,
-              "Avail": 15
+              "Enrol": 44,
+              "Avail": 16
             }
           },
           "remarks": [
@@ -57576,8 +57576,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 28,
-          "available": 92,
+          "enroll": 27,
+          "available": 93,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -71402,14 +71402,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 16,
-          "available": 84,
+          "enroll": 15,
+          "available": 85,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 14,
-              "Avail": 79
+              "Enrol": 13,
+              "Avail": 80
             },
             "CSIT": {
               "Quota": 7,
@@ -71447,14 +71447,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 52,
-          "available": 48,
+          "enroll": 51,
+          "available": 49,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 49,
-              "Avail": 44
+              "Enrol": 48,
+              "Avail": 45
             },
             "CSIT": {
               "Quota": 7,
