@@ -13043,14 +13043,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 27,
+          "available": 33,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 14,
-              "Avail": 26
+              "Enrol": 13,
+              "Avail": 27
             }
           },
           "remarks": []
@@ -13069,14 +13069,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 27,
+          "available": 33,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 14,
-              "Avail": 26
+              "Enrol": 13,
+              "Avail": 27
             }
           },
           "remarks": []
@@ -13177,14 +13177,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 49,
-          "available": 11,
+          "enroll": 48,
+          "available": 12,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 35,
-              "Avail": 5
+              "Enrol": 34,
+              "Avail": 6
             }
           },
           "remarks": []
@@ -13203,14 +13203,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 49,
-          "available": 11,
+          "enroll": 48,
+          "available": 12,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 35,
-              "Avail": 5
+              "Enrol": 34,
+              "Avail": 6
             }
           },
           "remarks": []
