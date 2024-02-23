@@ -57576,8 +57576,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 30,
-          "available": 90,
+          "enroll": 28,
+          "available": 92,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -77283,14 +77283,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 22,
-          "available": 18,
+          "enroll": 21,
+          "available": 19,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 22,
-              "Avail": 18
+              "Enrol": 21,
+              "Avail": 19
             }
           },
           "remarks": []
