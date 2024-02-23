@@ -6114,16 +6114,6 @@
           "available": 25,
           "waitlist": 0,
           "quotaDetail": {
-            "IBTM": {
-              "Quota": 5,
-              "Enrol": 1,
-              "Avail": 4
-            },
-            "MCEE": {
-              "Quota": 2,
-              "Enrol": 2,
-              "Avail": 0
-            },
             "CIEM": {
               "Quota": 73,
               "Enrol": 62,
@@ -6133,6 +6123,16 @@
               "Quota": 10,
               "Enrol": 0,
               "Avail": 10
+            },
+            "IBTM": {
+              "Quota": 5,
+              "Enrol": 1,
+              "Avail": 4
+            },
+            "MCEE": {
+              "Quota": 2,
+              "Enrol": 2,
+              "Avail": 0
             }
           },
           "remarks": []
