@@ -24597,8 +24597,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 27,
-          "available": 13,
+          "enroll": 29,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         },
@@ -24616,8 +24616,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 27,
-          "available": 13,
+          "enroll": 29,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         }
@@ -57576,8 +57576,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 31,
-          "available": 89,
+          "enroll": 30,
+          "available": 90,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -59699,8 +59699,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 34,
-          "available": 6,
+          "enroll": 33,
+          "available": 7,
           "waitlist": 0,
           "remarks": [
             "For MA(SOSC) students only"
@@ -77107,14 +77107,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 23,
-          "available": 27,
+          "enroll": 24,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 21,
-              "Avail": 19
+              "Enrol": 22,
+              "Avail": 18
             }
           },
           "remarks": []
@@ -77652,14 +77652,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 92,
-          "available": 8,
+          "enroll": 93,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
               "Quota": 100,
-              "Enrol": 92,
-              "Avail": 8
+              "Enrol": 93,
+              "Avail": 7
             }
           },
           "remarks": []
