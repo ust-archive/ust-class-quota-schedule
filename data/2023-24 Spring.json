@@ -11828,8 +11828,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in an experiential learning mode"
@@ -11849,8 +11849,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in an experiential learning mode"
@@ -39847,8 +39847,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -39866,8 +39866,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -39961,8 +39961,8 @@
           ],
           "assistants": [],
           "quota": 53,
-          "enroll": 40,
-          "available": 13,
+          "enroll": 41,
+          "available": 12,
           "waitlist": 0,
           "remarks": []
         },
@@ -62547,8 +62547,8 @@
             "YAN, Ningyu"
           ],
           "quota": 45,
-          "enroll": 43,
-          "available": 2,
+          "enroll": 42,
+          "available": 3,
           "waitlist": 0,
           "remarks": []
         },
@@ -62568,8 +62568,8 @@
             "WANG, Kaibo"
           ],
           "quota": 45,
-          "enroll": 42,
-          "available": 3,
+          "enroll": 43,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         }
