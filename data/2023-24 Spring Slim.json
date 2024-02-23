@@ -45058,6 +45058,7 @@
             "end": "10:20:00"
           },
           "instructors": [
+            "CHAN, Sandy Wai Ching",
             "HUSSIN, Nora Anniesha Binte"
           ],
           "room": "Rm 2503, Lift 25-26 (87)",
@@ -45077,6 +45078,7 @@
             "end": "10:20:00"
           },
           "instructors": [
+            "CHAN, Sandy Wai Ching",
             "HUSSIN, Nora Anniesha Binte"
           ],
           "room": "Rm 2503, Lift 25-26 (87)",
@@ -49894,8 +49896,8 @@
           "room": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             120,
-            70,
-            50,
+            69,
+            51,
             0
           ]
         }
