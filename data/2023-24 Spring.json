@@ -77521,14 +77521,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 19,
-          "available": 21,
+          "enroll": 18,
+          "available": 22,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 19,
-              "Avail": 21
+              "Enrol": 18,
+              "Avail": 22
             }
           },
           "remarks": []
