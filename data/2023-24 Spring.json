@@ -35664,14 +35664,14 @@
           ],
           "assistants": [],
           "quota": 95,
-          "enroll": 44,
-          "available": 51,
+          "enroll": 43,
+          "available": 52,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 80,
-              "Enrol": 33,
-              "Avail": 47
+              "Enrol": 32,
+              "Avail": 48
             },
             "EVEM": {
               "Quota": 10,
