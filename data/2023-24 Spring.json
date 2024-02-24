@@ -13110,14 +13110,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 21,
-          "available": 39,
+          "enroll": 20,
+          "available": 40,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 6,
-              "Avail": 34
+              "Enrol": 5,
+              "Avail": 35
             }
           },
           "remarks": []
@@ -13136,14 +13136,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 21,
-          "available": 39,
+          "enroll": 20,
+          "available": 40,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 6,
-              "Avail": 34
+              "Enrol": 5,
+              "Avail": 35
             }
           },
           "remarks": []
@@ -57821,8 +57821,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 36,
-          "available": 84,
+          "enroll": 35,
+          "available": 85,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
