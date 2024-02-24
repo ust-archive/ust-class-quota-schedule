@@ -71355,14 +71355,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 65,
-          "available": 25,
+          "enroll": 64,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 80,
-              "Enrol": 55,
-              "Avail": 25
+              "Enrol": 54,
+              "Avail": 26
             },
             "BEHI": {
               "Quota": 10,
