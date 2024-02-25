@@ -26976,14 +26976,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 39,
-          "available": 21,
+          "enroll": 38,
+          "available": 22,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 60,
-              "Enrol": 39,
-              "Avail": 21
+              "Enrol": 38,
+              "Avail": 22
             }
           },
           "remarks": [
