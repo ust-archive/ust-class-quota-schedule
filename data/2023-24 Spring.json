@@ -1701,14 +1701,14 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 31,
-          "available": 39,
+          "enroll": 30,
+          "available": 40,
           "waitlist": 0,
           "quotaDetail": {
             "AESF": {
               "Quota": 70,
-              "Enrol": 31,
-              "Avail": 39
+              "Enrol": 30,
+              "Avail": 40
             }
           },
           "remarks": []
