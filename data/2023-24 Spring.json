@@ -3807,8 +3807,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 87,
-          "available": 13,
+          "enroll": 89,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         }
@@ -55145,8 +55145,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 23,
-          "available": 1,
+          "enroll": 24,
+          "available": 0,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
@@ -55167,8 +55167,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 23,
-          "available": 1,
+          "enroll": 24,
+          "available": 0,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
