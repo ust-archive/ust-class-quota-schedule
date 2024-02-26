@@ -57611,8 +57611,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 58,
-          "available": 62,
+          "enroll": 59,
+          "available": 61,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -57785,8 +57785,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 109,
-          "available": 11,
+          "enroll": 110,
+          "available": 10,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -64976,8 +64976,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 41,
-          "available": 19,
+          "enroll": 40,
+          "available": 20,
           "waitlist": 0,
           "remarks": []
         }
