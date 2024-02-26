@@ -35963,15 +35963,15 @@
           "available": 10,
           "waitlist": 0,
           "quotaDetail": {
-            "MESF": {
-              "Quota": 10,
-              "Enrol": 2,
-              "Avail": 8
-            },
             "IBTM": {
               "Quota": 95,
               "Enrol": 92,
               "Avail": 3
+            },
+            "MESF": {
+              "Quota": 10,
+              "Enrol": 2,
+              "Avail": 8
             }
           },
           "remarks": []
@@ -58048,8 +58048,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 42,
-          "available": 38,
+          "enroll": 41,
+          "available": 39,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -58207,8 +58207,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 31,
-          "available": 89,
+          "enroll": 30,
+          "available": 90,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
