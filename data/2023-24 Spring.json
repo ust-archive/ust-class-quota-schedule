@@ -5901,14 +5901,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 23,
-          "available": 27,
+          "enroll": 22,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 50,
-              "Enrol": 23,
-              "Avail": 27
+              "Enrol": 22,
+              "Avail": 28
             }
           },
           "remarks": []
@@ -26356,14 +26356,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 12,
-          "available": 38,
+          "enroll": 11,
+          "available": 39,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 50,
-              "Enrol": 12,
-              "Avail": 38
+              "Enrol": 11,
+              "Avail": 39
             }
           },
           "remarks": [
