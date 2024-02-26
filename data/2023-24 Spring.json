@@ -12976,8 +12976,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 35,
-          "available": 25,
+          "enroll": 34,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13002,8 +13002,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 35,
-          "available": 25,
+          "enroll": 34,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -14894,8 +14894,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 69,
-          "available": 21,
+          "enroll": 68,
+          "available": 22,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
@@ -14905,8 +14905,8 @@
             },
             "CSIT": {
               "Quota": 83,
-              "Enrol": 55,
-              "Avail": 28
+              "Enrol": 54,
+              "Avail": 29
             }
           },
           "remarks": []
