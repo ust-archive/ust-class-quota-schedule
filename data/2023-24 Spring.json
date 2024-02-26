@@ -1192,8 +1192,8 @@
           "assistants": [
             "YI, Yi"
           ],
-          "quota": 66,
-          "enroll": 66,
+          "quota": 67,
+          "enroll": 67,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -1213,8 +1213,8 @@
           "assistants": [
             "YI, Yi"
           ],
-          "quota": 66,
-          "enroll": 66,
+          "quota": 67,
+          "enroll": 67,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -34396,8 +34396,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 98,
-          "available": 2,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -34415,8 +34415,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 98,
-          "available": 2,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -60217,8 +60217,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 134,
-          "available": 1,
+          "enroll": 135,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -60236,8 +60236,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 134,
-          "available": 1,
+          "enroll": 135,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -60754,8 +60754,8 @@
             "WANG, Bingxin"
           ],
           "quota": 45,
-          "enroll": 44,
-          "available": 1,
+          "enroll": 45,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
