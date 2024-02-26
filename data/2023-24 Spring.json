@@ -6110,8 +6110,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 65,
-          "available": 25,
+          "enroll": 66,
+          "available": 24,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
@@ -6121,8 +6121,8 @@
             },
             "EVEM": {
               "Quota": 10,
-              "Enrol": 0,
-              "Avail": 10
+              "Enrol": 1,
+              "Avail": 9
             },
             "IBTM": {
               "Quota": 5,
@@ -37172,8 +37172,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 13,
-          "available": 17,
+          "enroll": 14,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         }
@@ -42114,14 +42114,14 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 52,
-          "available": 28,
+          "enroll": 53,
+          "available": 27,
           "waitlist": 0,
           "quotaDetail": {
             "EVEM": {
               "Quota": 64,
-              "Enrol": 44,
-              "Avail": 20
+              "Enrol": 45,
+              "Avail": 19
             },
             "CIEM": {
               "Quota": 6,
@@ -77187,14 +77187,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 11,
-          "available": 29,
+          "enroll": 12,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 30,
-              "Enrol": 9,
-              "Avail": 21
+              "Enrol": 10,
+              "Avail": 20
             }
           },
           "remarks": []
@@ -77652,14 +77652,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 93,
-          "available": 7,
+          "enroll": 94,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
               "Quota": 100,
-              "Enrol": 93,
-              "Avail": 7
+              "Enrol": 94,
+              "Avail": 6
             }
           },
           "remarks": []
