@@ -6110,14 +6110,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 65,
-          "available": 25,
+          "enroll": 64,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 73,
-              "Enrol": 61,
-              "Avail": 12
+              "Enrol": 60,
+              "Avail": 13
             },
             "EVEM": {
               "Quota": 10,
