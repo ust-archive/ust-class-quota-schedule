@@ -5426,8 +5426,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 24,
-          "available": 6,
+          "enroll": 23,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
@@ -62387,8 +62387,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 84,
-          "available": 6,
+          "enroll": 85,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         },
@@ -62406,8 +62406,8 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 84,
-          "available": 6,
+          "enroll": 85,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         },
@@ -62486,8 +62486,8 @@
             "KONG, Hoi Sang"
           ],
           "quota": 45,
-          "enroll": 40,
-          "available": 5,
+          "enroll": 41,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         },
