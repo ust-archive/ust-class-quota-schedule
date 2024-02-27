@@ -10624,8 +10624,8 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 55,
-          "available": 15,
+          "enroll": 56,
+          "available": 14,
           "waitlist": 0,
           "remarks": []
         },
@@ -10643,8 +10643,8 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 55,
-          "available": 15,
+          "enroll": 56,
+          "available": 14,
           "waitlist": 0,
           "remarks": []
         },
@@ -10721,8 +10721,8 @@
           ],
           "assistants": [],
           "quota": 70,
-          "enroll": 64,
-          "available": 6,
+          "enroll": 65,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         }
@@ -13043,8 +13043,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 27,
-          "available": 33,
+          "enroll": 26,
+          "available": 34,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13069,8 +13069,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 27,
-          "available": 33,
+          "enroll": 26,
+          "available": 34,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -35743,8 +35743,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 14,
-          "available": 6,
+          "enroll": 13,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
@@ -35784,8 +35784,8 @@
           ],
           "assistants": [],
           "quota": 23,
-          "enroll": 17,
-          "available": 6,
+          "enroll": 16,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
@@ -60489,8 +60489,8 @@
           ],
           "assistants": [],
           "quota": 143,
-          "enroll": 133,
-          "available": 10,
+          "enroll": 132,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         },
@@ -60508,8 +60508,8 @@
           ],
           "assistants": [],
           "quota": 143,
-          "enroll": 133,
-          "available": 10,
+          "enroll": 132,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         },
@@ -60909,8 +60909,8 @@
             "SHA, Yu Hin"
           ],
           "quota": 48,
-          "enroll": 44,
-          "available": 4,
+          "enroll": 43,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         },
@@ -74203,8 +74203,8 @@
           ],
           "assistants": [],
           "quota": 125,
-          "enroll": 119,
-          "available": 6,
+          "enroll": 120,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         },
@@ -74222,8 +74222,8 @@
           ],
           "assistants": [],
           "quota": 125,
-          "enroll": 119,
-          "available": 6,
+          "enroll": 120,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         },
