@@ -12976,14 +12976,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 33,
-          "available": 27,
+          "enroll": 32,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 21,
-              "Avail": 19
+              "Enrol": 20,
+              "Avail": 20
             }
           },
           "remarks": []
@@ -13002,14 +13002,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 33,
-          "available": 27,
+          "enroll": 32,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 21,
-              "Avail": 19
+              "Enrol": 20,
+              "Avail": 20
             }
           },
           "remarks": []
@@ -28931,7 +28931,7 @@
       "info": {
         "vector": "[2-0-0:2]",
         "previous code": "FINA 6910F",
-        "description": "This course is designed for students who intend to work in the finance industry as economists or strategists (e.g. rates strategist), both on the sell-side or the buy-side. This course starts from the fundamentals of central banks, particularly the balance sheet and relates it to central bank operations and the money creation process. The course will the deep dive the Federal Reserve, covering both traditional and non-conventional policy tools. By incorporating macroeconomic diagnostics, students are encouraged to put themselves in the shoes of policymakers and predict policy decisions. This course will also study the monetary policy transmission mechanism and the link between financial and real sectors. In addition, this course links policy decisions to the pricing of assets, such as rates. The core principle of this course is “Learning by Doing”: students will be given a plenty of opportunities to conduct data analysis to study the monetary policy impact to financial markets and real economy.",
+        "description": "This course focuses on the role of central banks, in particular the Federal Reserve in the United States, and how its monetary policy operations affect the financial markets. Through conducting data analysis, students will learn the interaction between monetary policy and private-sector banking system, the fixed income security and stock markets. The course also covers the policy impact on the pricing and liquidity in those financial markets. Upon completing the course, students will be able to understand the news about the monetary policy around the world and interpret them using data.",
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Execute Federal Open Market Committee (FOMC) cycle and policy communications.</td></tr><tr><td>2.</td><td>Recognize the changing market structure of the Treasury securities.</td></tr><tr><td>3.</td><td>Evaluate how stock market react to the FOMC announcement and macroeconomic news.</td></tr><tr><td>4.</td><td>Use Federal Funds Futures, Eurodollar Futures to predict interest rates.</td></tr></table>"
       },
       "attrs": [],
@@ -58079,8 +58079,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 67,
-          "available": 53,
+          "enroll": 66,
+          "available": 54,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only.",
@@ -73524,7 +73524,9 @@
             "HE, Ding",
             "ZHANG, Qiong"
           ],
-          "assistants": [],
+          "assistants": [
+            "MA, Qun"
+          ],
           "quota": 20,
           "enroll": 8,
           "available": 12,

@@ -11151,8 +11151,8 @@
           "room": "G009B, CYT Bldg (70)",
           "quota": [
             60,
-            33,
-            27,
+            32,
+            28,
             0
           ]
         },
@@ -11170,8 +11170,8 @@
           "room": "G009B, CYT Bldg (70)",
           "quota": [
             60,
-            33,
-            27,
+            32,
+            28,
             0
           ]
         }
@@ -24122,7 +24122,7 @@
       "code": "5110",
       "name": "Central Bank Operations",
       "units": 2,
-      "description": "This course is designed for students who intend to work in the finance industry as economists or strategists (e.g. rates strategist), both on the sell-side or the buy-side. This course starts from the fundamentals of central banks, particularly the balance sheet and relates it to central bank operations and the money creation process. The course will the deep dive the Federal Reserve, covering both traditional and non-conventional policy tools. By incorporating macroeconomic diagnostics, students are encouraged to put themselves in the shoes of policymakers and predict policy decisions. This course will also study the monetary policy transmission mechanism and the link between financial and real sectors. In addition, this course links policy decisions to the pricing of assets, such as rates. The core principle of this course is “Learning by Doing”: students will be given a plenty of opportunities to conduct data analysis to study the monetary policy impact to financial markets and real economy.",
+      "description": "This course focuses on the role of central banks, in particular the Federal Reserve in the United States, and how its monetary policy operations affect the financial markets. Through conducting data analysis, students will learn the interaction between monetary policy and private-sector banking system, the fixed income security and stock markets. The course also covers the policy impact on the pricing and liquidity in those financial markets. Upon completing the course, students will be able to understand the news about the monetary policy around the world and interpret them using data.",
       "sections": []
     },
     {
@@ -49896,8 +49896,8 @@
           "room": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             120,
-            67,
-            53,
+            66,
+            54,
             0
           ]
         }
