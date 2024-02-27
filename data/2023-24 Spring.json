@@ -5901,14 +5901,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 22,
-          "available": 28,
+          "enroll": 21,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 50,
-              "Enrol": 22,
-              "Avail": 28
+              "Enrol": 21,
+              "Avail": 29
             }
           },
           "remarks": []
@@ -81229,8 +81229,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 8,
+          "available": 12,
           "waitlist": 0,
           "quotaDetail": {
             "SOSC": {
