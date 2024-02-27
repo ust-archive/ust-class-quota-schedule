@@ -26736,14 +26736,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 11,
-          "available": 39,
+          "enroll": 10,
+          "available": 40,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 50,
-              "Enrol": 11,
-              "Avail": 39
+              "Enrol": 10,
+              "Avail": 40
             }
           },
           "remarks": [
@@ -58042,8 +58042,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 40,
-          "available": 40,
+          "enroll": 39,
+          "available": 41,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -58079,8 +58079,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 65,
-          "available": 55,
+          "enroll": 64,
+          "available": 56,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only.",
@@ -58129,8 +58129,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 99,
-          "available": 21,
+          "enroll": 97,
+          "available": 23,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
