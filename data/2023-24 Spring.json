@@ -15896,9 +15896,7 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 57,
           "available": 1,
@@ -15917,9 +15915,7 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 57,
           "available": 1,
@@ -15938,9 +15934,7 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -15959,9 +15953,7 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -15980,9 +15972,7 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -16001,9 +15991,7 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [
-            "YIP, Victor Chi Lok"
-          ],
+          "assistants": [],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -16085,7 +16073,9 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 58,
           "enroll": 57,
           "available": 1,
@@ -16104,7 +16094,9 @@
           "instructors": [
             "LI, Xuan"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -16123,7 +16115,9 @@
           "instructors": [
             "RAO, Deyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIP, Victor Chi Lok"
+          ],
           "quota": 58,
           "enroll": 58,
           "available": 0,
@@ -73441,7 +73435,10 @@
             "LI, Jiying",
             "WYATT, Alex"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Junwei",
+            "WANG, Xiao"
+          ],
           "quota": 20,
           "enroll": 5,
           "available": 15,
@@ -73465,7 +73462,10 @@
             "LI, Jiying",
             "WYATT, Alex"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Junwei",
+            "WANG, Xiao"
+          ],
           "quota": 20,
           "enroll": 5,
           "available": 15,
