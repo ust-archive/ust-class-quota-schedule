@@ -2644,8 +2644,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 27,
-          "available": 3,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         }
@@ -2710,8 +2710,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 40,
-          "available": 20,
+          "enroll": 39,
+          "available": 21,
           "waitlist": 0,
           "remarks": [
             "Classes held in CYTLTL"
@@ -24113,8 +24113,8 @@
             "CAI, Jinzhi"
           ],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 8,
+          "available": 12,
           "waitlist": 0,
           "remarks": []
         }
