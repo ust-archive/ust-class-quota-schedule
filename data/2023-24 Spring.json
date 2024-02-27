@@ -36537,10 +36537,10 @@
             "QIU, Xuan"
           ],
           "assistants": [
-            "LI, Xueqi",
             "WANG, Tianshi",
             "WANG, Xiaojie",
-            "WEI, Fengxing"
+            "WEI, Fengxing",
+            "XU, Tianzhuang"
           ],
           "quota": 150,
           "enroll": 135,
@@ -60085,8 +60085,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 32,
-          "available": 8,
+          "enroll": 31,
+          "available": 9,
           "waitlist": 0,
           "remarks": [
             "For MA(SOSC) students only"
