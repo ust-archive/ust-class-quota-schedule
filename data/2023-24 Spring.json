@@ -14211,8 +14211,8 @@
             "TBA"
           ],
           "assistants": [],
-          "quota": 6,
-          "enroll": 6,
+          "quota": 7,
+          "enroll": 7,
           "available": 0,
           "waitlist": 0,
           "remarks": [
@@ -60121,8 +60121,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 39,
-          "available": 1,
+          "enroll": 38,
+          "available": 2,
           "waitlist": 0,
           "remarks": [
             "For MA(SOSC) students only"
@@ -60755,8 +60755,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 124,
-          "available": 11,
+          "enroll": 125,
+          "available": 10,
           "waitlist": 0,
           "remarks": []
         },
@@ -60774,8 +60774,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 124,
-          "available": 11,
+          "enroll": 125,
+          "available": 10,
           "waitlist": 0,
           "remarks": []
         },
@@ -61392,8 +61392,8 @@
             "LIU, Hongyu"
           ],
           "quota": 45,
-          "enroll": 38,
-          "available": 7,
+          "enroll": 39,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         },
