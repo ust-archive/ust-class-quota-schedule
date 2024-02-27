@@ -24149,8 +24149,8 @@
             "NAN, Fuhai"
           ],
           "quota": 25,
-          "enroll": 20,
-          "available": 5,
+          "enroll": 19,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         }
@@ -26648,14 +26648,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 44,
-          "available": 16,
+          "enroll": 43,
+          "available": 17,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 60,
-              "Enrol": 44,
-              "Avail": 16
+              "Enrol": 43,
+              "Avail": 17
             }
           },
           "remarks": [
@@ -58201,8 +58201,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 30,
-          "available": 90,
+          "enroll": 29,
+          "available": 91,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -77677,8 +77677,8 @@
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 22,
-              "Avail": 18
+              "Enrol": 21,
+              "Avail": 19
             }
           },
           "remarks": []
@@ -77876,8 +77876,8 @@
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 38,
-              "Avail": 2
+              "Enrol": 37,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -77954,8 +77954,8 @@
           "quotaDetail": {
             "PPOL": {
               "Quota": 39,
-              "Enrol": 32,
-              "Avail": 7
+              "Enrol": 31,
+              "Avail": 8
             }
           },
           "remarks": []
