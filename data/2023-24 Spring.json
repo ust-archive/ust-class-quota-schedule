@@ -36289,14 +36289,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 88,
-          "available": 2,
+          "enroll": 87,
+          "available": 3,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 90,
-              "Enrol": 87,
-              "Avail": 3
+              "Enrol": 86,
+              "Avail": 4
             }
           },
           "remarks": []
