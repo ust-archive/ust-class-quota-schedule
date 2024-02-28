@@ -77360,8 +77360,8 @@
           ],
           "assistants": [],
           "quota": 42,
-          "enroll": 41,
-          "available": 1,
+          "enroll": 42,
+          "available": 0,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
