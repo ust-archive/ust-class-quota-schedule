@@ -11151,8 +11151,8 @@
           "room": "G009B, CYT Bldg (70)",
           "quota": [
             60,
-            32,
-            28,
+            31,
+            29,
             0
           ]
         },
@@ -11170,8 +11170,8 @@
           "room": "G009B, CYT Bldg (70)",
           "quota": [
             60,
-            32,
-            28,
+            31,
+            29,
             0
           ]
         }
@@ -11480,8 +11480,8 @@
           "room": "Rm 2503, Lift 25-26 (87)",
           "quota": [
             60,
-            4,
-            56,
+            3,
+            57,
             0
           ]
         },
@@ -11499,8 +11499,8 @@
           "room": "Rm 2503, Lift 25-26 (87)",
           "quota": [
             60,
-            4,
-            56,
+            3,
+            57,
             0
           ]
         }
@@ -21362,7 +21362,7 @@
       "code": "1200",
       "name": "Engineering Team Design Experience",
       "units": 3,
-      "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and work towards a final road show\ndemonstration before the end of the term. Students in this course will be divided into design teams with a common goal: construct their project artifact or virtual 3D model, taken from a wide range of engineering and design contexts. There will be three main aspects: engineering skills, design/creativity, and teamwork. Fundamental engineering skills will be introduced in different engineering fields, such as 3D modelling or hands-on prototyping skills, along with exposure to various kinds of advanced technology available. Some class sessions will focus on design thinking and creativity. They are key to creating practical and interesting products. Students will work together in teams to realize their common idea of their final roadshow project, to have a real-world experience working with a design team.",
+      "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and work towards a final road show demonstration before the end of the term. Students in this course will be divided into design teams with a common goal: construct their project artifact or virtual 3D model, taken from a wide range of engineering and design contexts. There will be three main aspects: engineering skills, design/creativity, and teamwork. Fundamental engineering skills will be introduced in different engineering fields, such as 3D modelling or hands-on prototyping skills, along with exposure to various kinds of advanced technology available. Some class sessions will focus on design thinking and creativity. They are key to creating practical and interesting products. Students will work together in teams to realize their common idea of their final roadshow project, to have a real-world experience working with a design team.",
       "sections": [
         {
           "section": "T1",

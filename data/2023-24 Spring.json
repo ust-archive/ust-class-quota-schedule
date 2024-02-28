@@ -13016,14 +13016,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 32,
-          "available": 28,
+          "enroll": 31,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 20,
-              "Avail": 20
+              "Enrol": 19,
+              "Avail": 21
             }
           },
           "remarks": []
@@ -13042,14 +13042,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 32,
-          "available": 28,
+          "enroll": 31,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 20,
-              "Avail": 20
+              "Enrol": 19,
+              "Avail": 21
             }
           },
           "remarks": []
@@ -13472,14 +13472,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 4,
-          "available": 56,
+          "enroll": 3,
+          "available": 57,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 2,
-              "Avail": 38
+              "Enrol": 1,
+              "Avail": 39
             }
           },
           "remarks": []
@@ -13498,14 +13498,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 4,
-          "available": 56,
+          "enroll": 3,
+          "available": 57,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 2,
-              "Avail": 38
+              "Enrol": 1,
+              "Avail": 39
             }
           },
           "remarks": []
@@ -25439,7 +25439,7 @@
         "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (T) for 30-credit program",
         "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
         "previous code": "CORE 1200",
-        "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and work towards a final road show\ndemonstration before the end of the term. Students in this course will be divided into design teams with a common goal: construct their project artifact or virtual 3D model, taken from a wide range of engineering and design contexts. There will be three main aspects: engineering skills, design/creativity, and teamwork. Fundamental engineering skills will be introduced in different engineering fields, such as 3D modelling or hands-on prototyping skills, along with exposure to various kinds of advanced technology available. Some class sessions will focus on design thinking and creativity. They are key to creating practical and interesting products. Students will work together in teams to realize their common idea of their final roadshow project, to have a real-world experience working with a design team."
+        "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and work towards a final road show demonstration before the end of the term. Students in this course will be divided into design teams with a common goal: construct their project artifact or virtual 3D model, taken from a wide range of engineering and design contexts. There will be three main aspects: engineering skills, design/creativity, and teamwork. Fundamental engineering skills will be introduced in different engineering fields, such as 3D modelling or hands-on prototyping skills, along with exposure to various kinds of advanced technology available. Some class sessions will focus on design thinking and creativity. They are key to creating practical and interesting products. Students will work together in teams to realize their common idea of their final roadshow project, to have a real-world experience working with a design team."
       },
       "attrs": [
         {
@@ -35484,7 +35484,9 @@
           "instructors": [
             "CHANG, David Cheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Alan Z"
+          ],
           "quota": 60,
           "enroll": 23,
           "available": 37,
@@ -35503,7 +35505,9 @@
           "instructors": [
             "CHANG, David Cheng"
           ],
-          "assistants": [],
+          "assistants": [
+            "HUANG, Alan Z"
+          ],
           "quota": 60,
           "enroll": 23,
           "available": 37,
@@ -35535,7 +35539,9 @@
           "instructors": [
             "CHEUNG, Siu Woo"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZHAO, Heng"
+          ],
           "quota": 60,
           "enroll": 8,
           "available": 52,
