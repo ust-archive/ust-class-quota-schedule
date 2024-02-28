@@ -17150,8 +17150,8 @@
           ],
           "assistants": [],
           "quota": 52,
-          "enroll": 52,
-          "available": 0,
+          "enroll": 51,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -17169,8 +17169,8 @@
           ],
           "assistants": [],
           "quota": 52,
-          "enroll": 52,
-          "available": 0,
+          "enroll": 51,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -17228,8 +17228,8 @@
             "TSUI, Ka"
           ],
           "quota": 52,
-          "enroll": 52,
-          "available": 0,
+          "enroll": 51,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -34944,7 +34944,9 @@
           "instructors": [
             "MA, Jianxiong"
           ],
-          "assistants": [],
+          "assistants": [
+            "JI, Xinrong"
+          ],
           "quota": 100,
           "enroll": 77,
           "available": 23,
@@ -35006,7 +35008,9 @@
           "instructors": [
             "KWONG, Yee Ngan"
           ],
-          "assistants": [],
+          "assistants": [
+            "NAM, Kyung-ah"
+          ],
           "quota": 100,
           "enroll": 93,
           "available": 7,
@@ -35025,7 +35029,9 @@
           "instructors": [
             "KWONG, Yee Ngan"
           ],
-          "assistants": [],
+          "assistants": [
+            "NAM, Kyung-ah"
+          ],
           "quota": 100,
           "enroll": 93,
           "available": 7,
@@ -35068,7 +35074,9 @@
           "instructors": [
             "PAN, Ping"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Christie"
+          ],
           "quota": 100,
           "enroll": 100,
           "available": 0,
@@ -35087,7 +35095,9 @@
           "instructors": [
             "PAN, Ping"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Christie"
+          ],
           "quota": 100,
           "enroll": 100,
           "available": 0,
@@ -35118,7 +35128,9 @@
           "instructors": [
             "SZE, Man Lun Amy"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Kai Chi"
+          ],
           "quota": 4,
           "enroll": 3,
           "available": 1,
@@ -35139,7 +35151,9 @@
           "instructors": [
             "SZE, Man Lun Amy"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Kai Chi"
+          ],
           "quota": 4,
           "enroll": 1,
           "available": 3,
@@ -35160,7 +35174,9 @@
           "instructors": [
             "SZE, Man Lun Amy"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Kai Chi"
+          ],
           "quota": 4,
           "enroll": 3,
           "available": 1,
@@ -35193,7 +35209,9 @@
           "instructors": [
             "KAILA, Ilari"
           ],
-          "assistants": [],
+          "assistants": [
+            "TAM, Alvin Lok-Hei"
+          ],
           "quota": 25,
           "enroll": 9,
           "available": 16,
@@ -35253,7 +35271,9 @@
           "instructors": [
             "LO, Yi-chin"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHUI, Yin To"
+          ],
           "quota": 60,
           "enroll": 30,
           "available": 30,
@@ -35304,7 +35324,9 @@
           "instructors": [
             "WU, Shengqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEE, Chee Yong"
+          ],
           "quota": 100,
           "enroll": 90,
           "available": 10,
@@ -35370,7 +35392,9 @@
           "instructors": [
             "HO, Virgil Kit Yiu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Xiaocong"
+          ],
           "quota": 35,
           "enroll": 30,
           "available": 5,
@@ -35389,7 +35413,9 @@
           "instructors": [
             "HO, Virgil Kit Yiu"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Xiaocong"
+          ],
           "quota": 35,
           "enroll": 30,
           "available": 5,
@@ -58034,8 +58060,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 54,
-          "available": 66,
+          "enroll": 53,
+          "available": 67,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
