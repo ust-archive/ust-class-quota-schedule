@@ -25320,7 +25320,9 @@
             "CHAN, Yui Bun",
             "LAVIGNE, Paul David"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHONG, Nga Shun"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -25340,7 +25342,9 @@
             "CHAN, Yui Bun",
             "LAVIGNE, Paul David"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHONG, Nga Shun"
+          ],
           "quota": 40,
           "enroll": 40,
           "available": 0,
@@ -25469,7 +25473,9 @@
             "CHONG, Nga Shun",
             "LAVIGNE, Paul David"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Pak Ho"
+          ],
           "quota": 45,
           "enroll": 38,
           "available": 7,
