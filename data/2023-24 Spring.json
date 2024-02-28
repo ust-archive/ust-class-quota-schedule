@@ -18334,14 +18334,14 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 18,
-          "available": 2,
+          "enroll": 17,
+          "available": 3,
           "waitlist": 0,
           "quotaDetail": {
             "SBM": {
               "Quota": 20,
-              "Enrol": 17,
-              "Avail": 3
+              "Enrol": 16,
+              "Avail": 4
             }
           },
           "remarks": [
@@ -65509,8 +65509,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 21,
-          "available": 19,
+          "enroll": 20,
+          "available": 20,
           "waitlist": 0,
           "remarks": []
         },
@@ -65528,8 +65528,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 21,
-          "available": 19,
+          "enroll": 20,
+          "available": 20,
           "waitlist": 0,
           "remarks": []
         }
@@ -79961,8 +79961,8 @@
           ],
           "assistants": [],
           "quota": 300,
-          "enroll": 272,
-          "available": 28,
+          "enroll": 273,
+          "available": 27,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
@@ -79982,8 +79982,8 @@
           ],
           "assistants": [],
           "quota": 300,
-          "enroll": 272,
-          "available": 28,
+          "enroll": 273,
+          "available": 27,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
