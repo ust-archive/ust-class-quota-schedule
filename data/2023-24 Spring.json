@@ -26688,14 +26688,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 43,
-          "available": 17,
+          "enroll": 42,
+          "available": 18,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 60,
-              "Enrol": 43,
-              "Avail": 17
+              "Enrol": 42,
+              "Avail": 18
             }
           },
           "remarks": [
@@ -65444,8 +65444,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 14,
-          "available": 6,
+          "enroll": 13,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
