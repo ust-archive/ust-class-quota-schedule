@@ -5900,14 +5900,14 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 104,
-          "available": 6,
+          "enroll": 103,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 110,
-              "Enrol": 104,
-              "Avail": 6
+              "Enrol": 103,
+              "Avail": 7
             }
           },
           "remarks": []
@@ -13407,8 +13407,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13433,8 +13433,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -34605,7 +34605,9 @@
           "instructors": [
             "LI, Siya"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Ge"
+          ],
           "quota": 60,
           "enroll": 30,
           "available": 30,
@@ -34665,7 +34667,9 @@
           "instructors": [
             "POSADAS, Baryon Tensor"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Jia"
+          ],
           "quota": 120,
           "enroll": 112,
           "available": 8,
@@ -34684,7 +34688,9 @@
           "instructors": [
             "POSADAS, Baryon Tensor"
           ],
-          "assistants": [],
+          "assistants": [
+            "HE, Jia"
+          ],
           "quota": 120,
           "enroll": 112,
           "available": 8,
@@ -34727,7 +34733,9 @@
           "instructors": [
             "JIN, Huan"
           ],
-          "assistants": [],
+          "assistants": [
+            "ZOU, Sirong"
+          ],
           "quota": 100,
           "enroll": 18,
           "available": 82,
@@ -34766,7 +34774,9 @@
             "MA, Xiaolu",
             "QIN, Zhen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Kangdi"
+          ],
           "quota": 60,
           "enroll": 39,
           "available": 21,
@@ -34787,7 +34797,9 @@
             "MA, Xiaolu",
             "QIN, Zhen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Kangdi"
+          ],
           "quota": 60,
           "enroll": 39,
           "available": 21,
@@ -34866,7 +34878,9 @@
           "instructors": [
             "SHARE, Michael Barry"
           ],
-          "assistants": [],
+          "assistants": [
+            "SHI, Yuhua"
+          ],
           "quota": 100,
           "enroll": 99,
           "available": 1,
@@ -34885,7 +34899,9 @@
           "instructors": [
             "SHARE, Michael Barry"
           ],
-          "assistants": [],
+          "assistants": [
+            "SHI, Yuhua"
+          ],
           "quota": 100,
           "enroll": 99,
           "available": 1,
