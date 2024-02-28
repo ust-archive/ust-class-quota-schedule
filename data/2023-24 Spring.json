@@ -12679,14 +12679,14 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 47,
-          "available": 38,
+          "enroll": 46,
+          "available": 39,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 26,
-              "Avail": 14
+              "Enrol": 25,
+              "Avail": 15
             }
           },
           "remarks": []
@@ -12705,14 +12705,14 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 47,
-          "available": 38,
+          "enroll": 46,
+          "available": 39,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 26,
-              "Avail": 14
+              "Enrol": 25,
+              "Avail": 15
             }
           },
           "remarks": []
@@ -55357,8 +55357,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 24,
-          "available": 0,
+          "enroll": 23,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
@@ -55379,8 +55379,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 24,
-          "available": 0,
+          "enroll": 23,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a blended learning mode",
