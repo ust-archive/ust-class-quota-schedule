@@ -18717,14 +18717,14 @@
           ],
           "assistants": [],
           "quota": 15,
-          "enroll": 13,
-          "available": 2,
+          "enroll": 12,
+          "available": 3,
           "waitlist": 0,
           "quotaDetail": {
             "SBM": {
               "Quota": 15,
-              "Enrol": 11,
-              "Avail": 4
+              "Enrol": 10,
+              "Avail": 5
             }
           },
           "remarks": [
@@ -18745,14 +18745,14 @@
           ],
           "assistants": [],
           "quota": 15,
-          "enroll": 13,
-          "available": 2,
+          "enroll": 12,
+          "available": 3,
           "waitlist": 0,
           "quotaDetail": {
             "SBM": {
               "Quota": 15,
-              "Enrol": 11,
-              "Avail": 4
+              "Enrol": 10,
+              "Avail": 5
             }
           },
           "remarks": [
@@ -33500,7 +33500,9 @@
           "instructors": [
             "CHU, Shun"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAU, Chun Hong"
+          ],
           "quota": 60,
           "enroll": 26,
           "available": 34,
@@ -33560,7 +33562,9 @@
           "instructors": [
             "CHEE, Pui Yee"
           ],
-          "assistants": [],
+          "assistants": [
+            "ENNEN, Timo Hendrik"
+          ],
           "quota": 100,
           "enroll": 88,
           "available": 12,
@@ -33641,7 +33645,9 @@
           "instructors": [
             "GUO, Qiuzi"
           ],
-          "assistants": [],
+          "assistants": [
+            "KAN, Yue Ming"
+          ],
           "quota": 100,
           "enroll": 99,
           "available": 1,
@@ -33683,7 +33689,9 @@
           "instructors": [
             "CABOARA, Marco"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Chong"
+          ],
           "quota": 100,
           "enroll": 98,
           "available": 2,
@@ -33702,7 +33710,9 @@
           "instructors": [
             "CABOARA, Marco"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Chong"
+          ],
           "quota": 100,
           "enroll": 98,
           "available": 2,
@@ -33753,7 +33763,9 @@
           "instructors": [
             "NAM, Sai Lok"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Kok Tsun"
+          ],
           "quota": 126,
           "enroll": 126,
           "available": 0,
@@ -33772,7 +33784,9 @@
           "instructors": [
             "NAM, Sai Lok"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Kok Tsun"
+          ],
           "quota": 126,
           "enroll": 126,
           "available": 0,
@@ -33819,7 +33833,9 @@
           "instructors": [
             "ZHANG, Min"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Yuqi"
+          ],
           "quota": 110,
           "enroll": 110,
           "available": 0,
@@ -33838,7 +33854,9 @@
           "instructors": [
             "ZHANG, Min"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Yuqi"
+          ],
           "quota": 110,
           "enroll": 110,
           "available": 0,
@@ -68512,8 +68530,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 44,
-          "available": 36,
+          "enroll": 43,
+          "available": 37,
           "waitlist": 0,
           "remarks": [
             "For MSc(FinTech) students only"
@@ -69781,8 +69799,8 @@
             "LEE, Siu Keung"
           ],
           "quota": 65,
-          "enroll": 58,
-          "available": 7,
+          "enroll": 57,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
