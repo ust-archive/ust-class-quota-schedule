@@ -71994,14 +71994,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 63,
-          "available": 27,
+          "enroll": 62,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 80,
-              "Enrol": 53,
-              "Avail": 27
+              "Enrol": 52,
+              "Avail": 28
             },
             "BEHI": {
               "Quota": 10,
