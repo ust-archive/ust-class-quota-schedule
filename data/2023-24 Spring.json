@@ -26473,14 +26473,14 @@
           ],
           "assistants": [],
           "quota": 95,
-          "enroll": 46,
-          "available": 49,
+          "enroll": 45,
+          "available": 50,
           "waitlist": 0,
           "quotaDetail": {
             "ENVR": {
               "Quota": 70,
-              "Enrol": 32,
-              "Avail": 38
+              "Enrol": 31,
+              "Avail": 39
             },
             "EVEM": {
               "Quota": 20,
