@@ -42308,6 +42308,18 @@
     },
     {
       "program": "ISOM",
+      "code": "6680B",
+      "name": "Business Analytics Practicum",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "This course provides students practical experience in business analytics through independent study and business case analysis under the supervision of faculty members."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "ISOM",
       "code": "6790L",
       "name": "Service Analytics",
       "units": 2,
