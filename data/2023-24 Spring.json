@@ -25383,7 +25383,10 @@
           "instructors": [
             "WONG, Kai Sun Albert"
           ],
-          "assistants": [],
+          "assistants": [
+            "FUNG, Grace",
+            "LAVIGNE, Paul David"
+          ],
           "quota": 96,
           "enroll": 75,
           "available": 21,
