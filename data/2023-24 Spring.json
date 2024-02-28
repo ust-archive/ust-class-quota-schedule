@@ -5900,14 +5900,14 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 105,
-          "available": 5,
+          "enroll": 104,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 110,
-              "Enrol": 105,
-              "Avail": 5
+              "Enrol": 104,
+              "Avail": 6
             }
           },
           "remarks": []
