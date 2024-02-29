@@ -30883,8 +30883,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 30,
-          "available": 0,
+          "enroll": 29,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -58077,8 +58077,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 51,
-          "available": 69,
+          "enroll": 50,
+          "available": 70,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -58252,8 +58252,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 59,
-          "available": 61,
+          "enroll": 58,
+          "available": 62,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -66792,8 +66792,8 @@
           ],
           "assistants": [],
           "quota": 65,
-          "enroll": 59,
-          "available": 6,
+          "enroll": 58,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -66811,8 +66811,8 @@
           ],
           "assistants": [],
           "quota": 65,
-          "enroll": 59,
-          "available": 6,
+          "enroll": 58,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -66868,8 +66868,8 @@
           ],
           "assistants": [],
           "quota": 65,
-          "enroll": 59,
-          "available": 6,
+          "enroll": 58,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -66906,8 +66906,8 @@
           ],
           "assistants": [],
           "quota": 65,
-          "enroll": 59,
-          "available": 6,
+          "enroll": 58,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
