@@ -559,8 +559,8 @@
             "LAM, Sau Yee"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -580,8 +580,8 @@
             "LAM, Sau Yee"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -16387,8 +16387,8 @@
           ],
           "assistants": [],
           "quota": 51,
-          "enroll": 51,
-          "available": 0,
+          "enroll": 50,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -16406,8 +16406,8 @@
           ],
           "assistants": [],
           "quota": 51,
-          "enroll": 51,
-          "available": 0,
+          "enroll": 50,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -16684,8 +16684,8 @@
             "FOK, Pik Lin"
           ],
           "quota": 51,
-          "enroll": 51,
-          "available": 0,
+          "enroll": 50,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -42967,8 +42967,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
+          "enroll": 18,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         },
@@ -42986,8 +42986,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
+          "enroll": 18,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         },
@@ -58876,8 +58876,8 @@
           ],
           "assistants": [],
           "quota": 54,
-          "enroll": 54,
-          "available": 0,
+          "enroll": 53,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -58895,8 +58895,8 @@
           ],
           "assistants": [],
           "quota": 54,
-          "enroll": 54,
-          "available": 0,
+          "enroll": 53,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -58952,8 +58952,8 @@
           ],
           "assistants": [],
           "quota": 54,
-          "enroll": 54,
-          "available": 0,
+          "enroll": 53,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -59003,8 +59003,8 @@
           ],
           "assistants": [],
           "quota": 55,
-          "enroll": 55,
-          "available": 0,
+          "enroll": 54,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -59022,8 +59022,8 @@
           ],
           "assistants": [],
           "quota": 55,
-          "enroll": 55,
-          "available": 0,
+          "enroll": 54,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -59117,8 +59117,8 @@
           ],
           "assistants": [],
           "quota": 55,
-          "enroll": 55,
-          "available": 0,
+          "enroll": 54,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
