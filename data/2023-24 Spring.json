@@ -13016,8 +13016,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 29,
-          "available": 31,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13042,8 +13042,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 29,
-          "available": 31,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -39674,7 +39674,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Qiwei"
+          ],
           "quota": 50,
           "enroll": 7,
           "available": 43,
