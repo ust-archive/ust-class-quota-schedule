@@ -18096,7 +18096,7 @@
       "units": 3,
       "info": {
         "pre-requisite": "ECON 3800",
-        "description": "This course is a supervised course which trains student to do proper economic research. This course is Part II of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students to produce a tangible research output in the form of a written thesis. An individual faculty supervisor will be assigned to each student. The research output will be disseminated via the end-of-the-semester UG research workshop where all students taking this course are invited to present their work."
+        "description": "This course is a supervised course which trains student to do proper economic research. This course is Part II of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students to produce a tangible research output in the form of a written thesis. An individual faculty supervisor will be assigned to each student. The research output will be disseminated via the end-of-the-semester UG research workshop where all students taking this course are invited to present their work. For BBA(ECON), BSc(ECOF) and BSc(MAEC) students in their fourth-year of study, including students taking an additional major in any of these programs."
       },
       "attrs": [],
       "sections": []
@@ -58301,8 +58301,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 36,
-          "available": 44,
+          "enroll": 35,
+          "available": 45,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -58460,8 +58460,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 29,
-          "available": 91,
+          "enroll": 28,
+          "available": 92,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
