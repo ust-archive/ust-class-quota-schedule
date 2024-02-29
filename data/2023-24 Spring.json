@@ -6024,14 +6024,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 29,
-          "available": 61,
+          "enroll": 28,
+          "available": 62,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 90,
-              "Enrol": 28,
-              "Avail": 62
+              "Enrol": 27,
+              "Avail": 63
             }
           },
           "remarks": []
