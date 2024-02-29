@@ -78131,14 +78131,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 36,
-          "available": 4,
+          "enroll": 35,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 36,
-              "Avail": 4
+              "Enrol": 35,
+              "Avail": 5
             }
           },
           "remarks": []
