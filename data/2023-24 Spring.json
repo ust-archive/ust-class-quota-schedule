@@ -8380,8 +8380,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 15,
-          "available": 15,
+          "enroll": 14,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         }
