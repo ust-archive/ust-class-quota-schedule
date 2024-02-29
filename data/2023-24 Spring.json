@@ -5900,14 +5900,14 @@
           ],
           "assistants": [],
           "quota": 110,
-          "enroll": 103,
-          "available": 7,
+          "enroll": 102,
+          "available": 8,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 110,
-              "Enrol": 103,
-              "Avail": 7
+              "Enrol": 102,
+              "Avail": 8
             }
           },
           "remarks": []
@@ -12679,8 +12679,8 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 45,
-          "available": 40,
+          "enroll": 44,
+          "available": 41,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -12705,8 +12705,8 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 45,
-          "available": 40,
+          "enroll": 44,
+          "available": 41,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13016,8 +13016,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 30,
-          "available": 30,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13042,8 +13042,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 30,
-          "available": 30,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -58075,8 +58075,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 52,
-          "available": 68,
+          "enroll": 51,
+          "available": 69,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAED) students only."
@@ -77971,14 +77971,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 87,
-          "available": 3,
+          "enroll": 86,
+          "available": 4,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 90,
-              "Enrol": 87,
-              "Avail": 3
+              "Enrol": 86,
+              "Avail": 4
             }
           },
           "remarks": []
