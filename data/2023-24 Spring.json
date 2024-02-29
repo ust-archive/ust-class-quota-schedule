@@ -72133,14 +72133,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 26,
-          "available": 74,
+          "enroll": 25,
+          "available": 75,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 24,
-              "Avail": 69
+              "Enrol": 23,
+              "Avail": 70
             },
             "CSIT": {
               "Quota": 7,
