@@ -13016,14 +13016,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 31,
-          "available": 29,
+          "enroll": 30,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 19,
-              "Avail": 21
+              "Enrol": 18,
+              "Avail": 22
             }
           },
           "remarks": []
@@ -13042,14 +13042,14 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 31,
-          "available": 29,
+          "enroll": 30,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 19,
-              "Avail": 21
+              "Enrol": 18,
+              "Avail": 22
             }
           },
           "remarks": []
