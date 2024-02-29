@@ -3775,8 +3775,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         }
@@ -72088,14 +72088,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 49,
-          "available": 51,
+          "enroll": 48,
+          "available": 52,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 46,
-              "Avail": 47
+              "Enrol": 45,
+              "Avail": 48
             },
             "CSIT": {
               "Quota": 7,
