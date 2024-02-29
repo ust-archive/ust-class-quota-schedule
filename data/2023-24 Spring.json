@@ -6065,14 +6065,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 93,
-          "available": 7,
+          "enroll": 92,
+          "available": 8,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "Quota": 100,
-              "Enrol": 93,
-              "Avail": 7
+              "Enrol": 92,
+              "Avail": 8
             }
           },
           "remarks": []
@@ -58462,8 +58462,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 28,
-          "available": 92,
+          "enroll": 27,
+          "available": 93,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
@@ -72133,14 +72133,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 25,
-          "available": 75,
+          "enroll": 24,
+          "available": 76,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 93,
-              "Enrol": 23,
-              "Avail": 70
+              "Enrol": 22,
+              "Avail": 71
             },
             "CSIT": {
               "Quota": 7,
