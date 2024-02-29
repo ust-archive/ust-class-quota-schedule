@@ -19271,14 +19271,14 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 70,
-          "available": 15,
+          "enroll": 69,
+          "available": 16,
           "waitlist": 0,
           "quotaDetail": {
             "EESM": {
               "Quota": 85,
-              "Enrol": 70,
-              "Avail": 15
+              "Enrol": 69,
+              "Avail": 16
             }
           },
           "remarks": []
@@ -68161,8 +68161,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 13,
-          "available": 17,
+          "enroll": 12,
+          "available": 18,
           "waitlist": 0,
           "remarks": []
         }
