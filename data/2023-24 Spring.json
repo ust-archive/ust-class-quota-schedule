@@ -4027,8 +4027,8 @@
           ],
           "assistants": [],
           "quota": 215,
-          "enroll": 210,
-          "available": 5,
+          "enroll": 211,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         },
@@ -4047,8 +4047,8 @@
           ],
           "assistants": [],
           "quota": 215,
-          "enroll": 210,
-          "available": 5,
+          "enroll": 211,
+          "available": 4,
           "waitlist": 0,
           "remarks": []
         },
@@ -9265,8 +9265,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
+          "enroll": 41,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -9284,8 +9284,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
+          "enroll": 41,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         }
@@ -35710,7 +35710,7 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 50,
+          "enroll": 51,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -75554,8 +75554,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 87,
-          "available": 13,
+          "enroll": 88,
+          "available": 12,
           "waitlist": 0,
           "remarks": []
         },
@@ -75630,8 +75630,8 @@
           ],
           "assistants": [],
           "quota": 24,
-          "enroll": 23,
-          "available": 1,
+          "enroll": 24,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         }
@@ -79961,8 +79961,8 @@
           ],
           "assistants": [],
           "quota": 300,
-          "enroll": 273,
-          "available": 27,
+          "enroll": 274,
+          "available": 26,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
@@ -79982,8 +79982,8 @@
           ],
           "assistants": [],
           "quota": 300,
-          "enroll": 273,
-          "available": 27,
+          "enroll": 274,
+          "available": 26,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
@@ -80756,8 +80756,8 @@
             "PARK, Sangyoon"
           ],
           "assistants": [],
-          "quota": 41,
-          "enroll": 41,
+          "quota": 42,
+          "enroll": 42,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -80775,8 +80775,8 @@
             "PARK, Sangyoon"
           ],
           "assistants": [],
-          "quota": 41,
-          "enroll": 41,
+          "quota": 42,
+          "enroll": 42,
           "available": 0,
           "waitlist": 0,
           "remarks": []
