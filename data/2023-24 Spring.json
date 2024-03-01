@@ -13473,14 +13473,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 26,
-          "available": 14,
+          "enroll": 25,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 30,
-              "Enrol": 22,
-              "Avail": 8
+              "Enrol": 21,
+              "Avail": 9
             }
           },
           "remarks": []
@@ -13499,14 +13499,14 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 26,
-          "available": 14,
+          "enroll": 25,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 30,
-              "Enrol": 22,
-              "Avail": 8
+              "Enrol": 21,
+              "Avail": 9
             }
           },
           "remarks": []
@@ -35977,8 +35977,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 18,
-          "available": 2,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -36076,8 +36076,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 12,
-          "available": 8,
+          "enroll": 13,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
