@@ -6327,7 +6327,21 @@
             "LEUNG, Anthony",
             "LO, Irene Man Chi"
           ],
-          "assistants": [],
+          "assistants": [
+            "BATISTA ARAUJO DE SOUSA, Raul",
+            "DONG, Taoran",
+            "JIANG, Zhenliang",
+            "KUAI, Qi",
+            "LAI, Ngo Tin",
+            "LAM, Yeung Ho",
+            "LI, Ruidong",
+            "LIU, Yinhan",
+            "LUNG, Cheuk Wai",
+            "MAN, Hoi Kit Justin",
+            "RAGAVAN, Prasanna",
+            "WANG, Xiaoying",
+            "ZHANG, Yu"
+          ],
           "quota": 170,
           "enroll": 170,
           "available": 0,
@@ -6407,7 +6421,13 @@
           "instructors": [
             "HU, Thomas"
           ],
-          "assistants": [],
+          "assistants": [
+            "CANLAS, Andrea Marcelino",
+            "HAN, Yingyue",
+            "JIN, Yuhang",
+            "XIAO, Shihao",
+            "XU, Weifan"
+          ],
           "quota": 180,
           "enroll": 99,
           "available": 81,
@@ -6426,7 +6446,13 @@
           "instructors": [
             "HU, Thomas"
           ],
-          "assistants": [],
+          "assistants": [
+            "CANLAS, Andrea Marcelino",
+            "HAN, Yingyue",
+            "JIN, Yuhang",
+            "XIAO, Shihao",
+            "XU, Weifan"
+          ],
           "quota": 180,
           "enroll": 99,
           "available": 81,
@@ -6511,7 +6537,16 @@
             "HU, Thomas",
             "NG, Chun Keung"
           ],
-          "assistants": [],
+          "assistants": [
+            "GUO, Xiaowen",
+            "HUANG, Cong",
+            "LIANG, Zhaolun",
+            "LIANG, Zhenyu",
+            "LIN, Fangzhou",
+            "LIU, Wenli",
+            "WU, Zhaoji",
+            "XU, Yuqing"
+          ],
           "quota": 96,
           "enroll": 96,
           "available": 0,
@@ -6534,7 +6569,16 @@
             "HU, Thomas",
             "NG, Chun Keung"
           ],
-          "assistants": [],
+          "assistants": [
+            "GUO, Xiaowen",
+            "HUANG, Cong",
+            "LIANG, Zhaolun",
+            "LIANG, Zhenyu",
+            "LIN, Fangzhou",
+            "LIU, Wenli",
+            "WU, Zhaoji",
+            "XU, Yuqing"
+          ],
           "quota": 96,
           "enroll": 96,
           "available": 0,
@@ -6615,7 +6659,10 @@
           "instructors": [
             "QIU, Jishen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Shing Chi",
+            "QUIATCHON, Pauline Rose Jamili"
+          ],
           "quota": 30,
           "enroll": 24,
           "available": 6,
@@ -6634,7 +6681,10 @@
           "instructors": [
             "QIU, Jishen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAM, Shing Chi",
+            "QUIATCHON, Pauline Rose Jamili"
+          ],
           "quota": 30,
           "enroll": 24,
           "available": 6,
@@ -6687,7 +6737,10 @@
             "PAN, Yuxin",
             "TSE, Tim K.T."
           ],
-          "assistants": [],
+          "assistants": [
+            "KE, Yanyu",
+            "RAZIZADEH, Omid"
+          ],
           "quota": 170,
           "enroll": 157,
           "available": 13,
@@ -6707,7 +6760,10 @@
             "PAN, Yuxin",
             "TSE, Tim K.T."
           ],
-          "assistants": [],
+          "assistants": [
+            "KE, Yanyu",
+            "RAZIZADEH, Omid"
+          ],
           "quota": 170,
           "enroll": 157,
           "available": 13,
@@ -6781,7 +6837,14 @@
             "JIAN, Sisi",
             "YU, Yantao"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Xinyu",
+            "HO, Cheuk Kin",
+            "LIU, Jiaqi",
+            "PAN, Zaolin",
+            "TANG, Shixuan",
+            "TIAN, Fei"
+          ],
           "quota": 180,
           "enroll": 164,
           "available": 16,
@@ -6801,7 +6864,14 @@
             "JIAN, Sisi",
             "YU, Yantao"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Xinyu",
+            "HO, Cheuk Kin",
+            "LIU, Jiaqi",
+            "PAN, Zaolin",
+            "TANG, Shixuan",
+            "TIAN, Fei"
+          ],
           "quota": 180,
           "enroll": 164,
           "available": 16,
@@ -6873,7 +6943,14 @@
           "instructors": [
             "SHANG, Chii"
           ],
-          "assistants": [],
+          "assistants": [
+            "DUAN, Yixiao",
+            "HEUZARD, Arnaud Guillaume",
+            "PENG, Jiadong",
+            "RUAN, Xinyi",
+            "SCHEIBEL CASSOL, Gabriela",
+            "TAYARA, Adel"
+          ],
           "quota": 198,
           "enroll": 196,
           "available": 2,
@@ -6892,7 +6969,14 @@
           "instructors": [
             "SHANG, Chii"
           ],
-          "assistants": [],
+          "assistants": [
+            "DUAN, Yixiao",
+            "HEUZARD, Arnaud Guillaume",
+            "PENG, Jiadong",
+            "RUAN, Xinyi",
+            "SCHEIBEL CASSOL, Gabriela",
+            "TAYARA, Adel"
+          ],
           "quota": 198,
           "enroll": 196,
           "available": 2,
@@ -6964,7 +7048,14 @@
           "instructors": [
             "GHIDAOUI, Mohamed Salah"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Yilin",
+            "CUI, Jie",
+            "CUI, Yiran",
+            "LIEBER, Jonathan Kyle",
+            "MENG, Xin",
+            "ZHONG, Shuping"
+          ],
           "quota": 180,
           "enroll": 175,
           "available": 5,
@@ -6983,7 +7074,14 @@
           "instructors": [
             "GHIDAOUI, Mohamed Salah"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Yilin",
+            "CUI, Jie",
+            "CUI, Yiran",
+            "LIEBER, Jonathan Kyle",
+            "MENG, Xin",
+            "ZHONG, Shuping"
+          ],
           "quota": 180,
           "enroll": 175,
           "available": 5,
@@ -7142,7 +7240,12 @@
           "instructors": [
             "ZHANG, Xueqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "DAVIES, Iyinoluwa Esegbuyotaroghene E",
+            "XIE, Linghui",
+            "ZHANG, Xuan",
+            "ZU, Fuhao"
+          ],
           "quota": 160,
           "enroll": 145,
           "available": 15,
@@ -7161,7 +7264,12 @@
           "instructors": [
             "ZHANG, Xueqing"
           ],
-          "assistants": [],
+          "assistants": [
+            "DAVIES, Iyinoluwa Esegbuyotaroghene E",
+            "XIE, Linghui",
+            "ZHANG, Xuan",
+            "ZU, Fuhao"
+          ],
           "quota": 160,
           "enroll": 145,
           "available": 15,
@@ -7237,7 +7345,10 @@
           "instructors": [
             "ZHANG, Shenghan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Jun",
+            "WANG, Zetao"
+          ],
           "quota": 30,
           "enroll": 6,
           "available": 24,
@@ -7258,7 +7369,10 @@
           "instructors": [
             "ZHANG, Shenghan"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Jun",
+            "WANG, Zetao"
+          ],
           "quota": 30,
           "enroll": 6,
           "available": 24,
@@ -7311,7 +7425,14 @@
           "instructors": [
             "DIMITRAKOPOULOS, Ilias"
           ],
-          "assistants": [],
+          "assistants": [
+            "HOMAEI, Hossein",
+            "KHODABAKHSHI, Nahid",
+            "QIN, Shaofeng",
+            "TANG, Yihong",
+            "VERDUZCO MARTINEZ, Luis Fernando",
+            "ZHONG, Xi"
+          ],
           "quota": 182,
           "enroll": 181,
           "available": 1,
@@ -7330,7 +7451,14 @@
           "instructors": [
             "DIMITRAKOPOULOS, Ilias"
           ],
-          "assistants": [],
+          "assistants": [
+            "HOMAEI, Hossein",
+            "KHODABAKHSHI, Nahid",
+            "QIN, Shaofeng",
+            "TANG, Yihong",
+            "VERDUZCO MARTINEZ, Luis Fernando",
+            "ZHONG, Xi"
+          ],
           "quota": 182,
           "enroll": 181,
           "available": 1,
@@ -7458,7 +7586,12 @@
             "CHEN, Guanghao",
             "DENG, Yangfan"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Yuanjun",
+            "LIU, Yuewei",
+            "SIRIWEERA, Withanage Buddhima Sharmane",
+            "XIAO, Chengyu"
+          ],
           "quota": 30,
           "enroll": 23,
           "available": 7,
@@ -7478,7 +7611,12 @@
             "CHEN, Guanghao",
             "DENG, Yangfan"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIU, Yuanjun",
+            "LIU, Yuewei",
+            "SIRIWEERA, Withanage Buddhima Sharmane",
+            "XIAO, Chengyu"
+          ],
           "quota": 30,
           "enroll": 23,
           "available": 7,
@@ -7550,7 +7688,13 @@
           "instructors": [
             "YANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "DI, Yining",
+            "LIN, Yue",
+            "MA, Yaochen",
+            "ZENG, Wenjia",
+            "ZHOU, Bolong"
+          ],
           "quota": 160,
           "enroll": 156,
           "available": 4,
@@ -7569,7 +7713,13 @@
           "instructors": [
             "YANG, Hai"
           ],
-          "assistants": [],
+          "assistants": [
+            "DI, Yining",
+            "LIN, Yue",
+            "MA, Yaochen",
+            "ZENG, Wenjia",
+            "ZHOU, Bolong"
+          ],
           "quota": 160,
           "enroll": 156,
           "available": 4,
@@ -7639,7 +7789,14 @@
           "instructors": [
             "SO, Pui San"
           ],
-          "assistants": [],
+          "assistants": [
+            "BHATTA, Aastha",
+            "LI, Shihao",
+            "PAN, Tianli",
+            "ZHANG, Xiaolong",
+            "ZHOU, Qianyu",
+            "ZHU, Pengyu"
+          ],
           "quota": 180,
           "enroll": 170,
           "available": 10,
@@ -7658,7 +7815,14 @@
           "instructors": [
             "SO, Pui San"
           ],
-          "assistants": [],
+          "assistants": [
+            "BHATTA, Aastha",
+            "LI, Shihao",
+            "PAN, Tianli",
+            "ZHANG, Xiaolong",
+            "ZHOU, Qianyu",
+            "ZHU, Pengyu"
+          ],
           "quota": 180,
           "enroll": 170,
           "available": 10,
@@ -7729,7 +7893,10 @@
           "instructors": [
             "WANG, Zhe"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIN, Zinan",
+            "ZHAO, Lige"
+          ],
           "quota": 50,
           "enroll": 31,
           "available": 19,
@@ -7971,7 +8138,9 @@
           "instructors": [
             "LEE, Barry"
           ],
-          "assistants": [],
+          "assistants": [
+            "DAGUIO, Reina Nette Ruiz"
+          ],
           "quota": 50,
           "enroll": 42,
           "available": 8,
@@ -8022,7 +8191,10 @@
           "instructors": [
             "XUE, Tianju"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOHEBI, Parastoo",
+            "ZHANG, Shihong"
+          ],
           "quota": 70,
           "enroll": 25,
           "available": 45,
@@ -8041,7 +8213,10 @@
           "instructors": [
             "XUE, Tianju"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOHEBI, Parastoo",
+            "ZHANG, Shihong"
+          ],
           "quota": 70,
           "enroll": 25,
           "available": 45,
@@ -8093,7 +8268,10 @@
           "instructors": [
             "ZHANG, Xiangru"
           ],
-          "assistants": [],
+          "assistants": [
+            "WANG, Dingxiang",
+            "ZHANG, Xuanwei"
+          ],
           "quota": 120,
           "enroll": 46,
           "available": 74,
@@ -8125,7 +8303,9 @@
           "instructors": [
             "ZHOU, Shelley"
           ],
-          "assistants": [],
+          "assistants": [
+            "DENG, Jiayan"
+          ],
           "quota": 73,
           "enroll": 67,
           "available": 6,
@@ -8158,7 +8338,10 @@
           "instructors": [
             "LI, Sen"
           ],
-          "assistants": [],
+          "assistants": [
+            "HU, Yulong",
+            "ZHU, Hongbo"
+          ],
           "quota": 50,
           "enroll": 39,
           "available": 11,
@@ -8177,7 +8360,10 @@
           "instructors": [
             "LI, Sen"
           ],
-          "assistants": [],
+          "assistants": [
+            "HU, Yulong",
+            "ZHU, Hongbo"
+          ],
           "quota": 50,
           "enroll": 39,
           "available": 11,
@@ -8209,7 +8395,11 @@
           "instructors": [
             "ZHAO, Jidong"
           ],
-          "assistants": [],
+          "assistants": [
+            "KU, Quan",
+            "RAJAPAKSE, Rajapakse Koralalage Anjan M.",
+            "YANG, Changyi"
+          ],
           "quota": 50,
           "enroll": 39,
           "available": 11,
@@ -37701,8 +37891,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 22,
-          "available": 8,
+          "enroll": 23,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
