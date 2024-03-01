@@ -12679,8 +12679,8 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 44,
-          "available": 41,
+          "enroll": 43,
+          "available": 42,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -12705,8 +12705,8 @@
           ],
           "assistants": [],
           "quota": 85,
-          "enroll": 44,
-          "available": 41,
+          "enroll": 43,
+          "available": 42,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13016,8 +13016,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 25,
+          "available": 35,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13042,8 +13042,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 25,
+          "available": 35,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13083,8 +13083,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 25,
+          "available": 35,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13109,8 +13109,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 25,
+          "available": 35,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13407,8 +13407,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 44,
-          "available": 16,
+          "enroll": 43,
+          "available": 17,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -13433,8 +13433,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 44,
-          "available": 16,
+          "enroll": 43,
+          "available": 17,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
@@ -56046,7 +56046,11 @@
             "HO, Sarah Elizabeth",
             "TANG, Jessica Ce Mun"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Wing Tung",
+            "GILL, Sunveer Singh",
+            "HONG, Cheung"
+          ],
           "quota": 50,
           "enroll": 23,
           "available": 27,
@@ -56068,7 +56072,11 @@
             "HO, Sarah Elizabeth",
             "TANG, Jessica Ce Mun"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Wing Tung",
+            "GILL, Sunveer Singh",
+            "HONG, Cheung"
+          ],
           "quota": 50,
           "enroll": 49,
           "available": 1,
@@ -56090,7 +56098,11 @@
             "HO, Sarah Elizabeth",
             "TANG, Jessica Ce Mun"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Wing Tung",
+            "GILL, Sunveer Singh",
+            "HONG, Cheung"
+          ],
           "quota": 50,
           "enroll": 43,
           "available": 7,
@@ -56125,7 +56137,16 @@
           "instructors": [
             "AMIN, Aftab"
           ],
-          "assistants": [],
+          "assistants": [
+            "BAI, Xinpeng",
+            "LAM, Tsz Kwan",
+            "LAU, Hiu Yan",
+            "LIU, Liangyi",
+            "TAM, Sing Ting",
+            "TANG, Bingjie",
+            "WANG, Tingxuan",
+            "XIAO, Nan"
+          ],
           "quota": 110,
           "enroll": 92,
           "available": 18,
@@ -56144,7 +56165,16 @@
           "instructors": [
             "AMIN, Aftab"
           ],
-          "assistants": [],
+          "assistants": [
+            "BAI, Xinpeng",
+            "CHAN, Ho Yung",
+            "CHEN, Mengxian",
+            "LAM, Tsz Kwan",
+            "LIU, Liangyi",
+            "WANG, Tingxuan",
+            "XIAO, Nan",
+            "YE, Ziyun"
+          ],
           "quota": 110,
           "enroll": 96,
           "available": 14,
@@ -56165,7 +56195,16 @@
           "instructors": [
             "AMIN, Aftab"
           ],
-          "assistants": [],
+          "assistants": [
+            "BAI, Xinpeng",
+            "LAM, Tsz Kwan",
+            "LI, Ruizhe",
+            "LI, Weijia",
+            "LIU, Liangyi",
+            "WANG, Tingxuan",
+            "XIAO, Nan",
+            "YEUNG, Tsz Kwan"
+          ],
           "quota": 110,
           "enroll": 78,
           "available": 32,
@@ -56533,7 +56572,18 @@
             "AMIN, Aftab",
             "LAM, Yeung"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Yanfei",
+            "HUANG, Chujun",
+            "LEE, Seayoung",
+            "LEI, Yingshou",
+            "LIU, Hang",
+            "PAN, Enze",
+            "PHAM BINH, Minh",
+            "YANG, Hao",
+            "ZENG, Jiamin",
+            "ZOU, Yan"
+          ],
           "quota": 130,
           "enroll": 130,
           "available": 0,
@@ -56873,7 +56923,18 @@
           "instructors": [
             "LAM, Yeung"
           ],
-          "assistants": [],
+          "assistants": [
+            "CAI, Yanqing",
+            "DAI, Zixuan",
+            "LI, Yulin",
+            "LUO, Zixiang",
+            "MOON, Woo Jin",
+            "SUEN, Ching Monica",
+            "WANG, Juyuan",
+            "WANG, Zigao",
+            "ZHOU, Nan",
+            "ZHU, Yalin"
+          ],
           "quota": 50,
           "enroll": 50,
           "available": 0,
@@ -56997,7 +57058,14 @@
             "HUNG, Siu Chun",
             "LI, Laam"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHEN, Zhiqin",
+            "GOONETILLEKE, Shehani Helena",
+            "LI, Chun Wa",
+            "LIANG, Jingwen",
+            "LIN, Muyun",
+            "YU, Nian"
+          ],
           "quota": 56,
           "enroll": 45,
           "available": 11,
@@ -57313,7 +57381,13 @@
           "instructors": [
             "WANG, Jiguang"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Jiabao",
+            "MO, Zongchao",
+            "TANG, Jihong",
+            "XIONG, Kewei",
+            "YANG, Mengqi"
+          ],
           "quota": 22,
           "enroll": 12,
           "available": 10,
@@ -57504,7 +57578,12 @@
           "instructors": [
             "NGUYEN, Tuan Anh"
           ],
-          "assistants": [],
+          "assistants": [
+            "LE, Cong Truc",
+            "LE, Minh Ngoc",
+            "LE, Thi Nhu Y",
+            "NGO, Minh Khoa"
+          ],
           "quota": 30,
           "enroll": 11,
           "available": 19,
@@ -57526,7 +57605,12 @@
           "instructors": [
             "NGUYEN, Tuan Anh"
           ],
-          "assistants": [],
+          "assistants": [
+            "LE, Cong Truc",
+            "LE, Minh Ngoc",
+            "LE, Thi Nhu Y",
+            "NGO, Minh Khoa"
+          ],
           "quota": 30,
           "enroll": 11,
           "available": 19,
