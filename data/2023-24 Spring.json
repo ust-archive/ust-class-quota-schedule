@@ -78247,14 +78247,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 86,
-          "available": 4,
+          "enroll": 85,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 90,
-              "Enrol": 86,
-              "Avail": 4
+              "Enrol": 85,
+              "Avail": 5
             }
           },
           "remarks": []
