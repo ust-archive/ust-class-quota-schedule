@@ -37701,8 +37701,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 22,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         }
@@ -58462,8 +58462,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 26,
-          "available": 94,
+          "enroll": 25,
+          "available": 95,
           "waitlist": 0,
           "remarks": [
             "For MSc(MAFM) students only."
