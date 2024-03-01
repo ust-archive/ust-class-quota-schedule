@@ -72464,14 +72464,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 46,
-          "available": 44,
+          "enroll": 45,
+          "available": 45,
           "waitlist": 0,
           "quotaDetail": {
             "BDT": {
               "Quota": 90,
-              "Enrol": 45,
-              "Avail": 45
+              "Enrol": 44,
+              "Avail": 46
             }
           },
           "remarks": []
