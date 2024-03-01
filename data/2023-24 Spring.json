@@ -36043,8 +36043,8 @@
           ],
           "assistants": [],
           "quota": 23,
-          "enroll": 18,
-          "available": 5,
+          "enroll": 17,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         }
@@ -57533,7 +57533,13 @@
           "instructors": [
             "WANG, Jiguang"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Jiabao",
+            "MO, Zongchao",
+            "TANG, Jihong",
+            "XIONG, Kewei",
+            "YANG, Mengqi"
+          ],
           "quota": 22,
           "enroll": 12,
           "available": 10,
@@ -57552,7 +57558,13 @@
           "instructors": [
             "WANG, Jiguang"
           ],
-          "assistants": [],
+          "assistants": [
+            "LI, Jiabao",
+            "MO, Zongchao",
+            "TANG, Jihong",
+            "XIONG, Kewei",
+            "YANG, Mengqi"
+          ],
           "quota": 22,
           "enroll": 12,
           "available": 10,
