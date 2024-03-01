@@ -47600,8 +47600,8 @@
             "SAMPSON, Nicholas"
           ],
           "assistants": [],
-          "quota": 20,
-          "enroll": 20,
+          "quota": 21,
+          "enroll": 21,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -47619,8 +47619,8 @@
             "SAMPSON, Nicholas"
           ],
           "assistants": [],
-          "quota": 20,
-          "enroll": 20,
+          "quota": 21,
+          "enroll": 21,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -48665,8 +48665,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -48684,8 +48684,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
