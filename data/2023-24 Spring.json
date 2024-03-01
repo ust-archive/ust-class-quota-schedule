@@ -2043,14 +2043,14 @@
             "LI, Jiatao"
           ],
           "quota": 60,
-          "enroll": 39,
-          "available": 21,
+          "enroll": 38,
+          "available": 22,
           "waitlist": 0,
           "quotaDetail": {
             "BEHI": {
               "Quota": 55,
-              "Enrol": 37,
-              "Avail": 18
+              "Enrol": 36,
+              "Avail": 19
             },
             "MCEE": {
               "Quota": 5,
@@ -44001,8 +44001,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -44020,8 +44020,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -59956,8 +59956,8 @@
           ],
           "assistants": [],
           "quota": 56,
-          "enroll": 56,
-          "available": 0,
+          "enroll": 55,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -59975,8 +59975,8 @@
           ],
           "assistants": [],
           "quota": 56,
-          "enroll": 56,
-          "available": 0,
+          "enroll": 55,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -60108,8 +60108,8 @@
           ],
           "assistants": [],
           "quota": 56,
-          "enroll": 56,
-          "available": 0,
+          "enroll": 55,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -70091,8 +70091,8 @@
             "LEE, Siu Keung"
           ],
           "quota": 65,
-          "enroll": 63,
-          "available": 2,
+          "enroll": 62,
+          "available": 3,
           "waitlist": 0,
           "remarks": []
         },
