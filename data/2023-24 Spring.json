@@ -6154,16 +6154,6 @@
           "available": 26,
           "waitlist": 0,
           "quotaDetail": {
-            "CIEM": {
-              "Quota": 73,
-              "Enrol": 60,
-              "Avail": 13
-            },
-            "EVEM": {
-              "Quota": 10,
-              "Enrol": 1,
-              "Avail": 9
-            },
             "IBTM": {
               "Quota": 5,
               "Enrol": 1,
@@ -6173,6 +6163,16 @@
               "Quota": 2,
               "Enrol": 2,
               "Avail": 0
+            },
+            "CIEM": {
+              "Quota": 73,
+              "Enrol": 60,
+              "Avail": 13
+            },
+            "EVEM": {
+              "Quota": 10,
+              "Enrol": 1,
+              "Avail": 9
             }
           },
           "remarks": []
