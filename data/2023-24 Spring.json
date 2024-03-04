@@ -79345,6 +79345,19 @@
         }
       ],
       "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6780",
+      "name": "Professional Development in Ethics, Innovation and Technology for Research Postgraduate Students",
+      "units": 1,
+      "info": {
+        "vector": "[0-1-0:1]",
+        "description": "This one-credit course is intended to provide basic professional training to research postgraduate students in the School of Business and Management. The course will begin with lectures and a workshop on ethics in research, which is designed to enable students to keep abreast of current issues in research and trends within the corporate, private and government sectors, as it relates to the impact and usage of technology. Students will be provided with the opportunities to interact with individuals in the corporate sector to engage in discourse of a practical nature. The mode of delivery will consist of lectures given by faculty and/ or guest speakers, students reading groups, discipline-specific workshops on various topics. Graded  PP, P or F.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain ethical issues in regards to research for human subjects.</td></tr><tr><td>2.</td><td>Recognize such ethical issues as it relates to private information of clients in industry.</td></tr><tr><td>3.</td><td>Identify new research techniques employed in their discipline.</td></tr><tr><td>4.</td><td>Exemplify various impacts of new technology in business sector.</td></tr><tr><td>5.</td><td>Consult and comment on matters relevant to the academic and lay communities.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
     }
   ],
   "SCIE": [
