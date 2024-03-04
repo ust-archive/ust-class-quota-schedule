@@ -42842,15 +42842,15 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 67,
-              "Enrol": 30,
-              "Avail": 37
-            },
             "ENVR": {
               "Quota": 13,
               "Enrol": 10,
               "Avail": 3
+            },
+            "EVEM": {
+              "Quota": 67,
+              "Enrol": 30,
+              "Avail": 37
             }
           },
           "remarks": []
