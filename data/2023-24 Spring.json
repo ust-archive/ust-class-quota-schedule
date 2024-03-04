@@ -25143,8 +25143,8 @@
           ],
           "assistants": [],
           "quota": 10,
-          "enroll": 2,
-          "available": 8,
+          "enroll": 3,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
@@ -58219,8 +58219,8 @@
           ],
           "assistants": [],
           "quota": 200,
-          "enroll": 176,
-          "available": 24,
+          "enroll": 181,
+          "available": 19,
           "waitlist": 0,
           "remarks": [
             "For MPhil & PhD (LIFS) students only."
@@ -68552,6 +68552,18 @@
       "info": {
         "vector": "[1 credit]",
         "previous code": "MECH 695C",
+        "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "MECH",
+      "code": "6950D",
+      "name": "Independent Studies",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
         "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)"
       },
       "attrs": [],

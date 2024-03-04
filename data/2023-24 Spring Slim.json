@@ -20955,8 +20955,8 @@
           "room": "Rm 2126A, Lift 19 (28)",
           "quota": [
             10,
-            2,
-            8,
+            3,
+            7,
             0
           ]
         }
@@ -49587,8 +49587,8 @@
           "room": "Lecture Theater C (211)",
           "quota": [
             200,
-            176,
-            24,
+            181,
+            19,
             0
           ]
         }
@@ -58675,6 +58675,14 @@
     {
       "program": "MECH",
       "code": "6950C",
+      "name": "Independent Studies",
+      "units": 1,
+      "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)",
+      "sections": []
+    },
+    {
+      "program": "MECH",
+      "code": "6950D",
       "name": "Independent Studies",
       "units": 1,
       "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)",
