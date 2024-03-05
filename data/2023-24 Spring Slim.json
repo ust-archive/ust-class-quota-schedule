@@ -20684,6 +20684,40 @@
       "sections": []
     }
   ],
+  "EMBA": [
+    {
+      "program": "EMBA",
+      "code": "5010",
+      "name": "Frameworks for Strategic Analysis",
+      "units": 2,
+      "description": "Explores economic principles of business strategy and develops an analytic framework for identifying and evaluating alternative strategies.",
+      "sections": []
+    },
+    {
+      "program": "EMBA",
+      "code": "5070",
+      "name": "Statistical Decision Analysis",
+      "units": 1,
+      "description": "Explores the use of sample data for purposes of estimating, predicting, forecasting, and decision-making.",
+      "sections": []
+    },
+    {
+      "program": "EMBA",
+      "code": "5660",
+      "name": "Capstone",
+      "units": 1,
+      "description": "This course is intended as a capstone for students' Executive MBA experience. Students will develop an integrated understanding of business planning and strategy and test strategies in a competitive environment.",
+      "sections": []
+    },
+    {
+      "program": "EMBA",
+      "code": "5710",
+      "name": "Leading a Global Company",
+      "units": 1,
+      "description": "The focus of this class is to provide a thorough understanding of what is involved in leading a global company. Through a combination of lectures, cases and readings, the class will discuss and debate the key ingredients required to establish and manage a global company.",
+      "sections": []
+    }
+  ],
   "EMIA": [
     {
       "program": "EMIA",
