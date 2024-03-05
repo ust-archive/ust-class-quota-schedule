@@ -2884,8 +2884,8 @@
           ],
           "assistants": [],
           "quota": 150,
-          "enroll": 74,
-          "available": 76,
+          "enroll": 75,
+          "available": 75,
           "waitlist": 0,
           "remarks": []
         },
@@ -2903,8 +2903,8 @@
           ],
           "assistants": [],
           "quota": 150,
-          "enroll": 74,
-          "available": 76,
+          "enroll": 75,
+          "available": 75,
           "waitlist": 0,
           "remarks": []
         },
@@ -2922,8 +2922,8 @@
           ],
           "assistants": [],
           "quota": 150,
-          "enroll": 74,
-          "available": 76,
+          "enroll": 75,
+          "available": 75,
           "waitlist": 0,
           "remarks": []
         }
@@ -61143,8 +61143,8 @@
             "TANG, Rong"
           ],
           "assistants": [],
-          "quota": 135,
-          "enroll": 135,
+          "quota": 136,
+          "enroll": 136,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -61162,8 +61162,8 @@
             "TANG, Rong"
           ],
           "assistants": [],
-          "quota": 135,
-          "enroll": 135,
+          "quota": 136,
+          "enroll": 136,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -61638,8 +61638,8 @@
           "assistants": [
             "LEE, Young Kyu"
           ],
-          "quota": 45,
-          "enroll": 45,
+          "quota": 46,
+          "enroll": 46,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -80044,8 +80044,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 109,
-          "available": 11,
+          "enroll": 110,
+          "available": 10,
           "waitlist": 0,
           "remarks": []
         },
@@ -80063,8 +80063,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 109,
-          "available": 11,
+          "enroll": 110,
+          "available": 10,
           "waitlist": 0,
           "remarks": []
         }
