@@ -13240,6 +13240,14 @@
     },
     {
       "program": "DBAP",
+      "code": "6300B",
+      "name": "DBA Residential Program",
+      "units": 1,
+      "description": "Students will conduct research under the supervision of their faculty advisors. Students need to be on campus for at least two days for research activities in each regular term. In addition, there should be at least 10 contact hours with the advisors during the term. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "DBAP",
       "code": "7980",
       "name": "DBA Thesis Research",
       "units": 30,
@@ -44250,7 +44258,7 @@
             "end": "11:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 5504, Lift 25-26 (24)",
           "quota": [
@@ -44269,7 +44277,7 @@
             "end": "11:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 5504, Lift 25-26 (24)",
           "quota": [
@@ -44516,7 +44524,7 @@
             "end": "14:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 2611, Lift 31-32 (28)",
           "quota": [
@@ -44535,7 +44543,7 @@
             "end": "14:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 2611, Lift 31-32 (28)",
           "quota": [
@@ -44744,7 +44752,7 @@
             "end": "17:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 5504, Lift 25-26 (24)",
           "quota": [
@@ -44763,7 +44771,7 @@
             "end": "17:50:00"
           },
           "instructors": [
-            "WONG, Elaine Yee Ling"
+            "WONG, Elaine Suk Yi"
           ],
           "room": "Rm 5504, Lift 25-26 (24)",
           "quota": [
