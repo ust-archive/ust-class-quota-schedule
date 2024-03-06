@@ -4710,8 +4710,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 85,
-          "available": 15,
+          "enroll": 84,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         },
@@ -4730,8 +4730,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 85,
-          "available": 15,
+          "enroll": 84,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         }
@@ -4762,8 +4762,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 78,
-          "available": 22,
+          "enroll": 77,
+          "available": 23,
           "waitlist": 0,
           "remarks": []
         },
@@ -4781,8 +4781,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 78,
-          "available": 22,
+          "enroll": 77,
+          "available": 23,
           "waitlist": 0,
           "remarks": []
         }
@@ -4922,8 +4922,8 @@
             "LEUNG, Yan Wai"
           ],
           "quota": 35,
-          "enroll": 35,
-          "available": 0,
+          "enroll": 34,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -15298,8 +15298,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 22,
-          "available": 38,
+          "enroll": 21,
+          "available": 39,
           "waitlist": 0,
           "remarks": []
         },
@@ -50293,8 +50293,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -50312,8 +50312,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -80133,8 +80133,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 110,
-          "available": 10,
+          "enroll": 109,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         },
@@ -80152,8 +80152,8 @@
           ],
           "assistants": [],
           "quota": 120,
-          "enroll": 110,
-          "available": 10,
+          "enroll": 109,
+          "available": 11,
           "waitlist": 0,
           "remarks": []
         }
