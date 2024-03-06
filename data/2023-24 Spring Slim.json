@@ -19941,6 +19941,14 @@
     },
     {
       "program": "ELEC",
+      "code": "4940F",
+      "name": "Independent Study",
+      "units": 1,
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department.",
+      "sections": []
+    },
+    {
+      "program": "ELEC",
       "code": "5050",
       "name": "Advanced CMOS Devices",
       "units": 3,
@@ -65407,6 +65415,14 @@
           ]
         }
       ]
+    },
+    {
+      "program": "PHYS",
+      "code": "3090A",
+      "name": "Directed Studies in Physics II",
+      "units": 1,
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits.",
+      "sections": []
     },
     {
       "program": "PHYS",
