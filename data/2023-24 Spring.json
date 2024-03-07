@@ -15986,7 +15986,9 @@
           "instructors": [
             "SIU, Kam Wing"
           ],
-          "assistants": [],
+          "assistants": [
+            "MOK, Sze Wai"
+          ],
           "quota": 150,
           "enroll": 94,
           "available": 56,
