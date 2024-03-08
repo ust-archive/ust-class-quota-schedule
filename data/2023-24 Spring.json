@@ -5636,8 +5636,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 85,
-          "available": 15,
+          "enroll": 86,
+          "available": 14,
           "waitlist": 0,
           "remarks": [
             "For MSc(ANCHEM) students only."
@@ -8273,8 +8273,8 @@
             "ZHANG, Xuanwei"
           ],
           "quota": 120,
-          "enroll": 46,
-          "available": 74,
+          "enroll": 47,
+          "available": 73,
           "waitlist": 0,
           "remarks": []
         }
@@ -58298,8 +58298,8 @@
           ],
           "assistants": [],
           "quota": 200,
-          "enroll": 181,
-          "available": 19,
+          "enroll": 183,
+          "available": 17,
           "waitlist": 0,
           "remarks": [
             "For MPhil & PhD (LIFS) students only."
