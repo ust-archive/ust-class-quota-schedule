@@ -36375,15 +36375,15 @@
           "available": 10,
           "waitlist": 0,
           "quotaDetail": {
-            "IBTM": {
-              "Quota": 95,
-              "Enrol": 92,
-              "Avail": 3
-            },
             "MESF": {
               "Quota": 10,
               "Enrol": 2,
               "Avail": 8
+            },
+            "IBTM": {
+              "Quota": 95,
+              "Enrol": 92,
+              "Avail": 3
             }
           },
           "remarks": []
