@@ -42921,15 +42921,15 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
-            "ENVR": {
-              "Quota": 13,
-              "Enrol": 10,
-              "Avail": 3
-            },
             "EVEM": {
               "Quota": 67,
               "Enrol": 30,
               "Avail": 37
+            },
+            "ENVR": {
+              "Quota": 13,
+              "Enrol": 10,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -42968,15 +42968,15 @@
           "available": 27,
           "waitlist": 0,
           "quotaDetail": {
-            "ENVR": {
-              "Quota": 6,
-              "Enrol": 3,
-              "Avail": 3
-            },
             "EVEM": {
               "Quota": 64,
               "Enrol": 40,
               "Avail": 24
+            },
+            "ENVR": {
+              "Quota": 6,
+              "Enrol": 3,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -43028,25 +43028,25 @@
           "available": 27,
           "waitlist": 0,
           "quotaDetail": {
-            "CIEM": {
-              "Quota": 6,
-              "Enrol": 6,
-              "Avail": 0
-            },
-            "EHS": {
-              "Quota": 5,
-              "Enrol": 0,
-              "Avail": 5
-            },
             "EVEM": {
               "Quota": 64,
               "Enrol": 45,
               "Avail": 19
             },
+            "CIEM": {
+              "Quota": 6,
+              "Enrol": 6,
+              "Avail": 0
+            },
             "MCEE": {
               "Quota": 5,
               "Enrol": 2,
               "Avail": 3
+            },
+            "EHS": {
+              "Quota": 5,
+              "Enrol": 0,
+              "Avail": 5
             }
           },
           "remarks": []
