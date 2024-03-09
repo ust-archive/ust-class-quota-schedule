@@ -36420,14 +36420,14 @@
           "available": 6,
           "waitlist": 0,
           "quotaDetail": {
-            "MESF": {
-              "Quota": 12,
-              "Enrol": 9,
-              "Avail": 3
-            },
             "IBTM": {
               "Quota": 82,
               "Enrol": 79,
+              "Avail": 3
+            },
+            "MESF": {
+              "Quota": 12,
+              "Enrol": 9,
               "Avail": 3
             }
           },
