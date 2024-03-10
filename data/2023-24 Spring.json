@@ -36466,6 +36466,11 @@
           "available": 52,
           "waitlist": 0,
           "quotaDetail": {
+            "MESF": {
+              "Quota": 5,
+              "Enrol": 4,
+              "Avail": 1
+            },
             "IBTM": {
               "Quota": 80,
               "Enrol": 32,
@@ -36475,11 +36480,6 @@
               "Quota": 10,
               "Enrol": 7,
               "Avail": 3
-            },
-            "MESF": {
-              "Quota": 5,
-              "Enrol": 4,
-              "Avail": 1
             }
           },
           "remarks": []
