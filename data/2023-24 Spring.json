@@ -35883,8 +35883,8 @@
             "ZHANG, Min"
           ],
           "assistants": [],
-          "quota": 28,
-          "enroll": 28,
+          "quota": 29,
+          "enroll": 29,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -37970,8 +37970,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 24,
-          "available": 6,
+          "enroll": 25,
+          "available": 5,
           "waitlist": 0,
           "remarks": []
         }
@@ -68766,8 +68766,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 26,
-          "available": 74,
+          "enroll": 27,
+          "available": 73,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
@@ -68777,8 +68777,8 @@
             },
             "MESF": {
               "Quota": 95,
-              "Enrol": 20,
-              "Avail": 75
+              "Enrol": 21,
+              "Avail": 74
             }
           },
           "remarks": []
