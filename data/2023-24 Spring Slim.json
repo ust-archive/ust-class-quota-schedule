@@ -16666,8 +16666,8 @@
           "room": "Lecture Theater A (401)",
           "quota": [
             400,
-            399,
-            1,
+            400,
+            0,
             0
           ]
         },
@@ -16685,8 +16685,8 @@
           "room": "Lecture Theater A (401)",
           "quota": [
             400,
-            399,
-            1,
+            400,
+            0,
             0
           ]
         },
@@ -16760,8 +16760,8 @@
           ],
           "room": "Rm 1104, Acad Concourse (120)",
           "quota": [
-            80,
-            80,
+            81,
+            81,
             0,
             0
           ]
@@ -31234,6 +31234,24 @@
       "name": "Doctoral Thesis Research",
       "units": 0,
       "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "sections": []
+    }
+  ],
+  "IMBA": [
+    {
+      "program": "IMBA",
+      "code": "5460",
+      "name": "Innovative Thinking",
+      "units": 1,
+      "description": "This course focuses on using structured creativity templates to “think inside the box”. It provides best-practice tools for rapid creativity leading to valuable ideas and innovative solutions. It aims to develop the students’ understanding of creativity and innovation.",
+      "sections": []
+    },
+    {
+      "program": "IMBA",
+      "code": "6900Y",
+      "name": "Negotiations Globally",
+      "units": 1,
+      "description": "The course provides students with a comprehensive understanding of negotiation strategy in a global context, fostering intellectual breadth and awareness of core concepts. It aims to develop practical skills that enable students to effectively apply negotiation strategies in various real-world scenarios.",
       "sections": []
     }
   ],

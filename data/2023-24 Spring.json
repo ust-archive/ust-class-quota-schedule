@@ -20043,8 +20043,8 @@
             "TANG TANG, Raymundo Saijong"
           ],
           "quota": 400,
-          "enroll": 399,
-          "available": 1,
+          "enroll": 400,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -20064,8 +20064,8 @@
             "TANG TANG, Raymundo Saijong"
           ],
           "quota": 400,
-          "enroll": 399,
-          "available": 1,
+          "enroll": 400,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -20183,8 +20183,8 @@
             "WANG, Haonan",
             "ZENG, Min"
           ],
-          "quota": 80,
-          "enroll": 80,
+          "quota": 81,
+          "enroll": 81,
           "available": 0,
           "waitlist": 0,
           "remarks": []
@@ -37997,6 +37997,33 @@
       "info": {
         "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
+  "IMBA": [
+    {
+      "program": "IMBA",
+      "code": "5460",
+      "name": "Innovative Thinking",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This course focuses on using structured creativity templates to “think inside the box”. It provides best-practice tools for rapid creativity leading to valuable ideas and innovative solutions. It aims to develop the students’ understanding of creativity and innovation.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the Structured Creativity methodology and process, based on shared repeatable patters for the generation of creative ideas.</td></tr><tr><td>2.</td><td>Learn the process of rapid product and service development using the Closed World and Function Follows Form approach - the approach for identifying and breaking Functional Fixedness and Structural Fixedness.</td></tr><tr><td>3.</td><td>Learn to apply the main thinking tools and templates of Structured Creativity to rapidly identify and create new products, services, processes, and tools.</td></tr><tr><td>4.</td><td>Learn and apply cutting edge digital technology for the rapid creation of innovative ideas based on the Structured Creativity approach.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "IMBA",
+      "code": "6900Y",
+      "name": "Negotiations Globally",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "The course provides students with a comprehensive understanding of negotiation strategy in a global context, fostering intellectual breadth and awareness of core concepts. It aims to develop practical skills that enable students to effectively apply negotiation strategies in various real-world scenarios."
       },
       "attrs": [],
       "sections": []
