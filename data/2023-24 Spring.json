@@ -2710,8 +2710,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 39,
-          "available": 21,
+          "enroll": 40,
+          "available": 20,
           "waitlist": 0,
           "remarks": [
             "Classes held in CYTLTL"
@@ -3807,8 +3807,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 90,
-          "available": 10,
+          "enroll": 92,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         }
@@ -24801,8 +24801,8 @@
             "TU, Fengbin"
           ],
           "assistants": [],
-          "quota": 44,
-          "enroll": 44,
+          "quota": 45,
+          "enroll": 45,
           "available": 0,
           "waitlist": 0,
           "quotaDetail": {
