@@ -28,14 +28,14 @@ function convertTitle (title) {
   // code: 1010
   // name: Accounting, Business and Society
   // units: 3
-  const regex = /(\w+)\s+(\w+)\s+-\s+(.+)\s+\((\d+)\s+units?\)/
+  const regex = /(\w+)\s+(\w+)\s+-\s+(.+)\s+\(([\d\\.]+)\s+units?\)/
   const match = title.match(regex)
   if (match) {
     return {
       program: match[1],
       code: match[2],
       name: match[3],
-      units: parseInt(match[4], 10)
+      units: parseFloat(match[4])
     }
   } else {
     throw new Error(`Invalid course string format: ${title}.`)
