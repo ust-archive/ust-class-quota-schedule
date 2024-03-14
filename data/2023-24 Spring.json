@@ -29249,7 +29249,7 @@
       "info": {
         "vector": "[2-0-0:2]",
         "previous code": "FINA 6910F",
-        "description": "This course focuses on the role of central banks, in particular the Federal Reserve in the United States, and how its monetary policy operations affect the financial markets. Through conducting data analysis, students will learn the interaction between monetary policy and private-sector banking system, the fixed income security and stock markets. The course also covers the policy impact on the pricing and liquidity in those financial markets. Upon completing the course, students will be able to understand the news about the monetary policy around the world and interpret them using data.",
+        "description": "This course is designed for students who intend to work in the finance industry as economists or strategists (e.g. rates strategist), both on the sell-side or the buy-side. This course starts from the fundamentals of central banks, particularly the balance sheet and relates it to central bank operations and the money creation process. The course will deep dive the Federal Reserve, covering both traditional and non-conventional policy tools. By incorporating macroeconomic diagnostics, students are encouraged to put themselves in the shoes of policymakers and predict policy decisions. This course will also study the monetary policy transmission mechanism and the link between financial and real sectors. In addition, this course links policy decisions to the pricing of assets, such as rates. The core principle of this course is “Learning by Doing”: students will be given plenty of opportunities to conduct data analysis to study the monetary policy impact to financial markets and real economy.",
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Execute Federal Open Market Committee (FOMC) cycle and policy communications.</td></tr><tr><td>2.</td><td>Recognize the changing market structure of the Treasury securities.</td></tr><tr><td>3.</td><td>Evaluate how stock market react to the FOMC announcement and macroeconomic news.</td></tr><tr><td>4.</td><td>Use Federal Funds Futures, Eurodollar Futures to predict interest rates.</td></tr></table>"
       },
       "attrs": [],
@@ -38018,12 +38018,36 @@
     },
     {
       "program": "IMBA",
+      "code": "6900X",
+      "name": "Corporate Innovation",
+      "units": 0.5,
+      "info": {
+        "vector": "[0.5-0-0:0.5]",
+        "description": "This course study, discuss, and comprehend the essence of corporate innovation, including its driving forces, culture, and the innovation strategies at various stages of corporate development. Students will gain an understanding of proven principles and methods of corporate innovation through practical application. They will also be encouraged to analyze and compare different innovation strategies, apply their knowledge to real-world scenarios, and develop their own solutions. By the end of the course, students will possess the ability to flexibly utilize various innovation methods and effectively implement their learning in practical business settings."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "IMBA",
       "code": "6900Y",
       "name": "Negotiations Globally",
       "units": 1,
       "info": {
         "vector": "[1-0-0:1]",
         "description": "The course provides students with a comprehensive understanding of negotiation strategy in a global context, fostering intellectual breadth and awareness of core concepts. It aims to develop practical skills that enable students to effectively apply negotiation strategies in various real-world scenarios."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "IMBA",
+      "code": "6900Z",
+      "name": "Cross-Cultural Management",
+      "units": 0.5,
+      "info": {
+        "vector": "[0.5-0-0:0.5]",
+        "description": "To better equip managers to effectively manage a diverse workforce in the cross-cultural environments to maximize individual contribution and accomplish organizational missions."
       },
       "attrs": [],
       "sections": []
@@ -42948,15 +42972,15 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 67,
-              "Enrol": 30,
-              "Avail": 37
-            },
             "ENVR": {
               "Quota": 13,
               "Enrol": 10,
               "Avail": 3
+            },
+            "EVEM": {
+              "Quota": 67,
+              "Enrol": 30,
+              "Avail": 37
             }
           },
           "remarks": []
@@ -42995,15 +43019,15 @@
           "available": 27,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 64,
-              "Enrol": 40,
-              "Avail": 24
-            },
             "ENVR": {
               "Quota": 6,
               "Enrol": 3,
               "Avail": 3
+            },
+            "EVEM": {
+              "Quota": 64,
+              "Enrol": 40,
+              "Avail": 24
             }
           },
           "remarks": []
@@ -43055,25 +43079,25 @@
           "available": 27,
           "waitlist": 0,
           "quotaDetail": {
-            "EVEM": {
-              "Quota": 64,
-              "Enrol": 45,
-              "Avail": 19
-            },
             "CIEM": {
               "Quota": 6,
               "Enrol": 6,
               "Avail": 0
             },
-            "MCEE": {
-              "Quota": 5,
-              "Enrol": 2,
-              "Avail": 3
-            },
             "EHS": {
               "Quota": 5,
               "Enrol": 0,
               "Avail": 5
+            },
+            "EVEM": {
+              "Quota": 64,
+              "Enrol": 45,
+              "Avail": 19
+            },
+            "MCEE": {
+              "Quota": 5,
+              "Enrol": 2,
+              "Avail": 3
             }
           },
           "remarks": []
@@ -78807,7 +78831,9 @@
           "instructors": [
             "WANG, Jiying"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "quota": 35,
           "enroll": 33,
           "available": 2,
@@ -78828,7 +78854,9 @@
           "instructors": [
             "WANG, Jiying"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "quota": 35,
           "enroll": 30,
           "available": 5,

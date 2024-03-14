@@ -24172,7 +24172,7 @@
       "code": "5110",
       "name": "Central Bank Operations",
       "units": 2,
-      "description": "This course focuses on the role of central banks, in particular the Federal Reserve in the United States, and how its monetary policy operations affect the financial markets. Through conducting data analysis, students will learn the interaction between monetary policy and private-sector banking system, the fixed income security and stock markets. The course also covers the policy impact on the pricing and liquidity in those financial markets. Upon completing the course, students will be able to understand the news about the monetary policy around the world and interpret them using data.",
+      "description": "This course is designed for students who intend to work in the finance industry as economists or strategists (e.g. rates strategist), both on the sell-side or the buy-side. This course starts from the fundamentals of central banks, particularly the balance sheet and relates it to central bank operations and the money creation process. The course will deep dive the Federal Reserve, covering both traditional and non-conventional policy tools. By incorporating macroeconomic diagnostics, students are encouraged to put themselves in the shoes of policymakers and predict policy decisions. This course will also study the monetary policy transmission mechanism and the link between financial and real sectors. In addition, this course links policy decisions to the pricing of assets, such as rates. The core principle of this course is “Learning by Doing”: students will be given plenty of opportunities to conduct data analysis to study the monetary policy impact to financial markets and real economy.",
       "sections": []
     },
     {
@@ -31248,10 +31248,26 @@
     },
     {
       "program": "IMBA",
+      "code": "6900X",
+      "name": "Corporate Innovation",
+      "units": 0.5,
+      "description": "This course study, discuss, and comprehend the essence of corporate innovation, including its driving forces, culture, and the innovation strategies at various stages of corporate development. Students will gain an understanding of proven principles and methods of corporate innovation through practical application. They will also be encouraged to analyze and compare different innovation strategies, apply their knowledge to real-world scenarios, and develop their own solutions. By the end of the course, students will possess the ability to flexibly utilize various innovation methods and effectively implement their learning in practical business settings.",
+      "sections": []
+    },
+    {
+      "program": "IMBA",
       "code": "6900Y",
       "name": "Negotiations Globally",
       "units": 1,
       "description": "The course provides students with a comprehensive understanding of negotiation strategy in a global context, fostering intellectual breadth and awareness of core concepts. It aims to develop practical skills that enable students to effectively apply negotiation strategies in various real-world scenarios.",
+      "sections": []
+    },
+    {
+      "program": "IMBA",
+      "code": "6900Z",
+      "name": "Cross-Cultural Management",
+      "units": 0.5,
+      "description": "To better equip managers to effectively manage a diverse workforce in the cross-cultural environments to maximize individual contribution and accomplish organizational missions.",
       "sections": []
     }
   ],
