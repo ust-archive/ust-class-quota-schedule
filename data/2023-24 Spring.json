@@ -15672,7 +15672,9 @@
           "instructors": [
             "PENG, Zhichao"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAO, Zitong"
+          ],
           "quota": 40,
           "enroll": 32,
           "available": 8,
