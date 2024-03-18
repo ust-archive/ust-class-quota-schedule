@@ -13769,14 +13769,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 72,
-          "available": 28,
+          "enroll": 71,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 100,
-              "Enrol": 71,
-              "Avail": 29
+              "Enrol": 70,
+              "Avail": 30
             }
           },
           "remarks": [
