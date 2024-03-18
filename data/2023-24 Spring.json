@@ -28750,9 +28750,11 @@
           },
           "room": "TBA",
           "instructors": [
+            "TBA"
+          ],
+          "assistants": [
             "LO, George"
           ],
-          "assistants": [],
           "quota": 160,
           "enroll": 135,
           "available": 25,
@@ -28782,9 +28784,11 @@
           },
           "room": "G010, LSK Bldg",
           "instructors": [
+            "TBA"
+          ],
+          "assistants": [
             "LO, George"
           ],
-          "assistants": [],
           "quota": 35,
           "enroll": 17,
           "available": 18,
