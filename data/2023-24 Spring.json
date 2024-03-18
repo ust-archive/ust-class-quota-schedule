@@ -78903,7 +78903,9 @@
           "instructors": [
             "ASGHARI, Vahid"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIN, Zhendong"
+          ],
           "quota": 55,
           "enroll": 48,
           "available": 7,
@@ -78922,7 +78924,9 @@
           "instructors": [
             "ASGHARI, Vahid"
           ],
-          "assistants": [],
+          "assistants": [
+            "YIN, Zhendong"
+          ],
           "quota": 55,
           "enroll": 48,
           "available": 7,
@@ -78939,7 +78943,7 @@
           },
           "room": "G009B, CYT Bldg (70)",
           "instructors": [
-            "YIN, Zhendong"
+            "TBA"
           ],
           "assistants": [],
           "quota": 55,
