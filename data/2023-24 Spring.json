@@ -13077,8 +13077,8 @@
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 38,
-              "Avail": 2
+              "Enrol": 39,
+              "Avail": 1
             }
           },
           "remarks": []
@@ -13103,8 +13103,8 @@
           "quotaDetail": {
             "CSE": {
               "Quota": 40,
-              "Enrol": 38,
-              "Avail": 2
+              "Enrol": 39,
+              "Avail": 1
             }
           },
           "remarks": []
