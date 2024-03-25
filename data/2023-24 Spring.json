@@ -12581,7 +12581,7 @@
             "start": "10:30:00",
             "end": "11:20:00"
           },
-          "room": "Rm 4213, Lift 19 (67)",
+          "room": "Rm 4210, Lift 19 (67)",
           "instructors": [
             "IEONG, Sze Chung Ricci"
           ],
@@ -12600,7 +12600,7 @@
             "start": "11:30:00",
             "end": "14:20:00"
           },
-          "room": "Rm 4213, Lift 19 (67)",
+          "room": "Rm 4210, Lift 19 (67)",
           "instructors": [
             "IEONG, Sze Chung Ricci"
           ],
@@ -27451,7 +27451,7 @@
       "units": 3,
       "info": {
         "vector": "[3 credits]",
-        "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different."
+        "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. May be graded by letter or P/F for different offerings."
       },
       "attrs": [],
       "sections": []

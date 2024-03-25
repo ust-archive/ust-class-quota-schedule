@@ -10479,7 +10479,7 @@
           "instructors": [
             "IEONG, Sze Chung Ricci"
           ],
-          "room": "Rm 4213, Lift 19 (67)",
+          "room": "Rm 4210, Lift 19 (67)",
           "quota": [
             66,
             14,
@@ -10498,7 +10498,7 @@
           "instructors": [
             "IEONG, Sze Chung Ricci"
           ],
-          "room": "Rm 4213, Lift 19 (67)",
+          "room": "Rm 4210, Lift 19 (67)",
           "quota": [
             66,
             14,
@@ -22528,7 +22528,7 @@
       "code": "6100F",
       "name": "Independent Study",
       "units": 3,
-      "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different.",
+      "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. May be graded by letter or P/F for different offerings.",
       "sections": []
     },
     {
