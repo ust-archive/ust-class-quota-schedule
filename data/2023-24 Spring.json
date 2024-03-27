@@ -517,8 +517,8 @@
             "LAM, Sau Yee"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -538,8 +538,8 @@
             "LAM, Sau Yee"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -17392,8 +17392,8 @@
           ],
           "assistants": [],
           "quota": 45,
-          "enroll": 37,
-          "available": 8,
+          "enroll": 36,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -17411,8 +17411,8 @@
           ],
           "assistants": [],
           "quota": 45,
-          "enroll": 37,
-          "available": 8,
+          "enroll": 36,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -17470,8 +17470,8 @@
             "TO, Jeremy"
           ],
           "quota": 45,
-          "enroll": 37,
-          "available": 8,
+          "enroll": 36,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -17523,8 +17523,8 @@
           ],
           "assistants": [],
           "quota": 74,
-          "enroll": 59,
-          "available": 15,
+          "enroll": 58,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         },
@@ -17542,8 +17542,8 @@
           ],
           "assistants": [],
           "quota": 74,
-          "enroll": 59,
-          "available": 15,
+          "enroll": 58,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         },
@@ -17563,8 +17563,8 @@
             "WANG, Qichao"
           ],
           "quota": 74,
-          "enroll": 59,
-          "available": 15,
+          "enroll": 58,
+          "available": 16,
           "waitlist": 0,
           "remarks": []
         }
@@ -31601,8 +31601,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 27,
-          "available": 3,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -31622,8 +31622,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 29,
-          "available": 1,
+          "enroll": 28,
+          "available": 2,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -32001,8 +32001,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 43,
-          "available": 7,
+          "enroll": 42,
+          "available": 8,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -32550,8 +32550,8 @@
           ],
           "assistants": [],
           "quota": 98,
-          "enroll": 94,
-          "available": 4,
+          "enroll": 93,
+          "available": 5,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -34354,8 +34354,8 @@
             "WANG, Yuqi"
           ],
           "quota": 110,
-          "enroll": 110,
-          "available": 0,
+          "enroll": 109,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -34375,8 +34375,8 @@
             "WANG, Yuqi"
           ],
           "quota": 110,
-          "enroll": 110,
-          "available": 0,
+          "enroll": 109,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -35399,8 +35399,8 @@
             "SHI, Yuhua"
           ],
           "quota": 100,
-          "enroll": 99,
-          "available": 1,
+          "enroll": 98,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         },
@@ -35420,8 +35420,8 @@
             "SHI, Yuhua"
           ],
           "quota": 100,
-          "enroll": 99,
-          "available": 1,
+          "enroll": 98,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         }
@@ -42382,8 +42382,8 @@
             "DENG, Stacy"
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         },
@@ -42403,8 +42403,8 @@
             "DENG, Stacy"
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         }
@@ -42437,8 +42437,8 @@
             "DENG, Stacy"
           ],
           "quota": 36,
-          "enroll": 28,
-          "available": 8,
+          "enroll": 27,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -42458,8 +42458,8 @@
             "DENG, Stacy"
           ],
           "quota": 36,
-          "enroll": 28,
-          "available": 8,
+          "enroll": 27,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         }
@@ -47936,8 +47936,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -47955,8 +47955,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -49211,8 +49211,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -49230,8 +49230,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -61771,8 +61771,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 112,
-          "available": 23,
+          "enroll": 111,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         },
@@ -61790,8 +61790,8 @@
           ],
           "assistants": [],
           "quota": 135,
-          "enroll": 112,
-          "available": 23,
+          "enroll": 111,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         },
@@ -62462,8 +62462,8 @@
             "HUANG, Zhanmiao"
           ],
           "quota": 45,
-          "enroll": 45,
-          "available": 0,
+          "enroll": 44,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -70539,8 +70539,8 @@
             "LEE, Siu Keung"
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 0,
           "remarks": []
         },
@@ -70602,8 +70602,8 @@
             "LEE, Siu Keung"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -81013,8 +81013,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -81032,8 +81032,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -81231,8 +81231,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 74,
-          "available": 6,
+          "enroll": 73,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         },
@@ -81250,8 +81250,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 74,
-          "available": 6,
+          "enroll": 73,
+          "available": 7,
           "waitlist": 0,
           "remarks": []
         }
