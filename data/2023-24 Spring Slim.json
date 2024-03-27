@@ -67443,6 +67443,22 @@
     },
     {
       "program": "SBMT",
+      "code": "5460",
+      "name": "Business Plans Competition",
+      "units": 1,
+      "description": "The objective of this course is to provide hands on perspective of what it takes to start a successful business from the business plan, to funding, to beginning operations.  Students will go overseas to participate in international business plan competitions.  Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "5470",
+      "name": "Case Analysis Competition",
+      "units": 1,
+      "description": "The objective of this course is to provide hands on perspective of what it takes to analyze a real-life business case.  Students will go overseas to participant in international case competitions.  Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
       "code": "5700",
       "name": "Global Network Week",
       "units": 2,

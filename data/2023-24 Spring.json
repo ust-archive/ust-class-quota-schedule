@@ -79516,6 +79516,33 @@
     },
     {
       "program": "SBMT",
+      "code": "5460",
+      "name": "Business Plans Competition",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "exclusion": "SBMT 6010J",
+        "description": "The objective of this course is to provide hands on perspective of what it takes to start a successful business from the business plan, to funding, to beginning operations.  Students will go overseas to participate in international business plan competitions.  Graded P or F.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Create ideas and formulate feasible strategies for startups or venture at early growth stage.</td></tr><tr><td>2.</td><td>Develop and deliver persuasive business presentations.</td></tr><tr><td>3.</td><td>Integrate and apply the knowledge learnt in business operation.</td></tr><tr><td>4.</td><td>Increase exposure  in a global business context.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "5470",
+      "name": "Case Analysis Competition",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "The objective of this course is to provide hands on perspective of what it takes to analyze a real-life business case.  Students will go overseas to participant in international case competitions.  Graded P or F.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyse a relevant  current case.</td></tr><tr><td>2.</td><td>Evaluate various business solutions.</td></tr><tr><td>3.</td><td>Develop and prepare a convincing presentation.</td></tr><tr><td>4.</td><td>Increase exposure  in a global business context.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "SBMT",
       "code": "5700",
       "name": "Global Network Week",
       "units": 2,
