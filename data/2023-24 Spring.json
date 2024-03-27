@@ -32442,8 +32442,8 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 36,
-          "available": 14,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -39649,8 +39649,8 @@
             "HAN, Chih Kang"
           ],
           "quota": 102,
-          "enroll": 102,
-          "available": 0,
+          "enroll": 101,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -39670,8 +39670,8 @@
             "HAN, Chih Kang"
           ],
           "quota": 102,
-          "enroll": 102,
-          "available": 0,
+          "enroll": 101,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -40117,8 +40117,8 @@
             "DENG, Stacy"
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
@@ -40140,8 +40140,8 @@
             "DENG, Stacy"
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a conventional face-to-face mode"
@@ -69897,8 +69897,8 @@
             "HO, Kin Yan Kevin"
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0,
           "remarks": []
         },
@@ -70044,8 +70044,8 @@
             "HO, Kin Yan Kevin"
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0,
           "remarks": []
         },
@@ -70371,8 +70371,8 @@
             "NG, Jay Barry"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -70392,8 +70392,8 @@
             "NG, Jay Barry"
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -74854,8 +74854,8 @@
           ],
           "assistants": [],
           "quota": 65,
-          "enroll": 53,
-          "available": 12,
+          "enroll": 51,
+          "available": 14,
           "waitlist": 0,
           "remarks": [
             "Students should seek the instructor's approval to take this course.",
@@ -78427,14 +78427,14 @@
           ],
           "assistants": [],
           "quota": 50,
-          "enroll": 23,
-          "available": 27,
+          "enroll": 22,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 40,
-              "Enrol": 21,
-              "Avail": 19
+              "Enrol": 20,
+              "Avail": 20
             }
           },
           "remarks": []
@@ -78644,14 +78644,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 85,
-          "available": 5,
+          "enroll": 84,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "Quota": 90,
-              "Enrol": 85,
-              "Avail": 5
+              "Enrol": 84,
+              "Avail": 6
             }
           },
           "remarks": []
@@ -78972,14 +78972,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 94,
-          "available": 6,
+          "enroll": 93,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
               "Quota": 100,
-              "Enrol": 94,
-              "Avail": 6
+              "Enrol": 93,
+              "Avail": 7
             }
           },
           "remarks": []
