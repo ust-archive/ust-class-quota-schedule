@@ -34354,8 +34354,8 @@
             "WANG, Yuqi"
           ],
           "quota": 110,
-          "enroll": 109,
-          "available": 1,
+          "enroll": 110,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -34375,8 +34375,8 @@
             "WANG, Yuqi"
           ],
           "quota": 110,
-          "enroll": 109,
-          "available": 1,
+          "enroll": 110,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         }
@@ -42382,8 +42382,8 @@
             "DENG, Stacy"
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -42403,8 +42403,8 @@
             "DENG, Stacy"
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         }
@@ -42437,8 +42437,8 @@
             "DENG, Stacy"
           ],
           "quota": 36,
-          "enroll": 27,
-          "available": 9,
+          "enroll": 28,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         },
@@ -42458,8 +42458,8 @@
             "DENG, Stacy"
           ],
           "quota": 36,
-          "enroll": 27,
-          "available": 9,
+          "enroll": 28,
+          "available": 8,
           "waitlist": 0,
           "remarks": []
         }
@@ -81040,8 +81040,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
+          "enroll": 80,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         },
@@ -81059,8 +81059,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
+          "enroll": 80,
+          "available": 0,
           "waitlist": 0,
           "remarks": []
         }
