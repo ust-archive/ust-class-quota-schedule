@@ -4710,8 +4710,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 84,
-          "available": 16,
+          "enroll": 83,
+          "available": 17,
           "waitlist": 0,
           "remarks": []
         },
@@ -4730,8 +4730,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 84,
-          "available": 16,
+          "enroll": 83,
+          "available": 17,
           "waitlist": 0,
           "remarks": []
         }
@@ -4762,8 +4762,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 77,
-          "available": 23,
+          "enroll": 76,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         },
@@ -4781,8 +4781,8 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 77,
-          "available": 23,
+          "enroll": 76,
+          "available": 24,
           "waitlist": 0,
           "remarks": []
         }
@@ -4922,8 +4922,8 @@
             "LEUNG, Yan Wai"
           ],
           "quota": 35,
-          "enroll": 34,
-          "available": 1,
+          "enroll": 33,
+          "available": 2,
           "waitlist": 0,
           "remarks": []
         },
@@ -9155,8 +9155,8 @@
           ],
           "assistants": [],
           "quota": 77,
-          "enroll": 77,
-          "available": 0,
+          "enroll": 76,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -9174,8 +9174,8 @@
           ],
           "assistants": [],
           "quota": 77,
-          "enroll": 77,
-          "available": 0,
+          "enroll": 76,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -9261,8 +9261,8 @@
             "YANG, Rui"
           ],
           "quota": 170,
-          "enroll": 149,
-          "available": 21,
+          "enroll": 148,
+          "available": 22,
           "waitlist": 0,
           "remarks": [
             "The class is delivered in a real-time online mode"
@@ -30930,8 +30930,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 16,
-          "available": 4,
+          "enroll": 15,
+          "available": 5,
           "waitlist": 0,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
@@ -47138,8 +47138,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
@@ -47157,8 +47157,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 0,
           "remarks": []
         },
