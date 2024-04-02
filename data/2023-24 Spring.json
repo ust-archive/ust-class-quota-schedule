@@ -25107,6 +25107,19 @@
     },
     {
       "program": "EMBA",
+      "code": "5460",
+      "name": "Understanding Consumers",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This course will give participants an appreciation of how getting inside the mind of the consumer enables the marketing manager to design better effective marketing strategies, with a particular emphasis on effective communication tactics.  This course provides both a micro and macro perspective on the factors influencing a customer.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop effective managerial marketing strategies.</td></tr><tr><td>2.</td><td>Examine the theory and research concerning the psychology of the consumer, with the goal of understanding how marketing managers can use these ideas.</td></tr><tr><td>3.</td><td>Assess the appropriate use of consumer behavior concepts, logical development of conclusions and implications.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "EMBA",
       "code": "5660",
       "name": "Capstone",
       "units": 1,
