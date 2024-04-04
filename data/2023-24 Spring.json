@@ -5853,6 +5853,11 @@
           "available": 1,
           "waitlist": 0,
           "quotaDetail": {
+            "MCEE": {
+              "Quota": 2,
+              "Enrol": 2,
+              "Avail": 0
+            },
             "CIEM": {
               "Quota": 94,
               "Enrol": 94,
@@ -5862,11 +5867,6 @@
               "Quota": 5,
               "Enrol": 4,
               "Avail": 1
-            },
-            "MCEE": {
-              "Quota": 2,
-              "Enrol": 2,
-              "Avail": 0
             }
           },
           "remarks": []
