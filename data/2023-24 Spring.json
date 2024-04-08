@@ -14008,14 +14008,14 @@
           ],
           "assistants": [],
           "quota": 100,
-          "enroll": 71,
-          "available": 29,
+          "enroll": 70,
+          "available": 30,
           "waitlist": 0,
           "quotaDetail": {
             "CSE": {
               "Quota": 100,
-              "Enrol": 70,
-              "Avail": 30
+              "Enrol": 69,
+              "Avail": 31
             }
           },
           "remarks": [
