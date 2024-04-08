@@ -14134,6 +14134,18 @@
     },
     {
       "program": "COMP",
+      "code": "6922G",
+      "name": "Research Project",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "COMP",
       "code": "6931A",
       "name": "Independent Studies",
       "units": 3,
