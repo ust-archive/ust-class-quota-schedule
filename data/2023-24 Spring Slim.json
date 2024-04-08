@@ -67547,6 +67547,14 @@
     },
     {
       "program": "SBMT",
+      "code": "6200A",
+      "name": "Independent Study",
+      "units": 1,
+      "description": "Study of selected issues from various departments under the supervision of a faculty member from SBM. (Special permission from the Associate Dean is required for MBA students to take this course.)",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
       "code": "6200B",
       "name": "Independent Study",
       "units": 2,
