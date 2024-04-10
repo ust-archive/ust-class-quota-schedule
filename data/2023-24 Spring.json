@@ -36635,14 +36635,14 @@
           ],
           "assistants": [],
           "quota": 105,
-          "enroll": 95,
-          "available": 10,
+          "enroll": 94,
+          "available": 11,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 95,
-              "Enrol": 92,
-              "Avail": 3
+              "Enrol": 91,
+              "Avail": 4
             },
             "MESF": {
               "Quota": 10,
@@ -36680,14 +36680,14 @@
           ],
           "assistants": [],
           "quota": 94,
-          "enroll": 88,
-          "available": 6,
+          "enroll": 87,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 82,
-              "Enrol": 79,
-              "Avail": 3
+              "Enrol": 78,
+              "Avail": 4
             },
             "MESF": {
               "Quota": 12,
@@ -36776,14 +36776,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 27,
-          "available": 63,
+          "enroll": 26,
+          "available": 64,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 80,
-              "Enrol": 25,
-              "Avail": 55
+              "Enrol": 24,
+              "Avail": 56
             },
             "MESF": {
               "Quota": 10,
@@ -36822,14 +36822,14 @@
           ],
           "assistants": [],
           "quota": 90,
-          "enroll": 87,
-          "available": 3,
+          "enroll": 86,
+          "available": 4,
           "waitlist": 0,
           "quotaDetail": {
             "IBTM": {
               "Quota": 90,
-              "Enrol": 86,
-              "Avail": 4
+              "Enrol": 85,
+              "Avail": 5
             }
           },
           "remarks": []
