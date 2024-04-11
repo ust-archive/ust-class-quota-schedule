@@ -20711,6 +20711,14 @@
     },
     {
       "program": "EMBA",
+      "code": "5030",
+      "name": "Accounting: Financial Reports, Control and Analysis",
+      "units": 1,
+      "description": "This course provides an overview of the two major areas in accounting: financial accounting and managerial accounting.",
+      "sections": []
+    },
+    {
+      "program": "EMBA",
       "code": "5070",
       "name": "Statistical Decision Analysis",
       "units": 1,
@@ -20731,6 +20739,14 @@
       "name": "Capstone",
       "units": 1,
       "description": "This course is intended as a capstone for students' Executive MBA experience. Students will develop an integrated understanding of business planning and strategy and test strategies in a competitive environment.",
+      "sections": []
+    },
+    {
+      "program": "EMBA",
+      "code": "5680",
+      "name": "Microeconomics",
+      "units": 1,
+      "description": "The course will focus on the economic forces that determine the extent to which businesses can capture the value that they create.",
       "sections": []
     },
     {

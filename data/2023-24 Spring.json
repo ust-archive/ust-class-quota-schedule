@@ -25106,6 +25106,19 @@
     },
     {
       "program": "EMBA",
+      "code": "5030",
+      "name": "Accounting: Financial Reports, Control and Analysis",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This course provides an overview of the two major areas in accounting: financial accounting and managerial accounting.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct basic financial statement analysis.</td></tr><tr><td>2.</td><td>Identify how the three financial statements interrelate.</td></tr><tr><td>3.</td><td>Interpret data in financial accounts in order to make business decisions.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "EMBA",
       "code": "5070",
       "name": "Statistical Decision Analysis",
       "units": 1,
@@ -25139,6 +25152,19 @@
         "vector": "[1-0-0:1]",
         "description": "This course is intended as a capstone for students' Executive MBA experience. Students will develop an integrated understanding of business planning and strategy and test strategies in a competitive environment.",
         "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Integrate their accumulated knowledge to analyze how different topics fit together in a C-level perspective.</td></tr><tr><td>2.</td><td>Formulate a company strategy and execute it through multiple complex tactical decisions.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "EMBA",
+      "code": "5680",
+      "name": "Microeconomics",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "The course will focus on the economic forces that determine the extent to which businesses can capture the value that they create.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Construct a fact-based, logically grounded analysis of a competitive market that will allow them to make educated conjectures about the likely path of prices in that market.</td></tr><tr><td>2.</td><td>Identify the categories of cost relevant for critical business decisions.</td></tr><tr><td>3.</td><td>Construct models of how government interactions shape the determination of prices and the distribution of value in competitive markets.</td></tr><tr><td>4.</td><td>Make profit maximizing pricing decisions based on cost and demand fundamentals.</td></tr></table>"
       },
       "attrs": [],
       "sections": []
