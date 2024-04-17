@@ -1,0 +1,1466 @@
+{
+  "ACCT": [
+    {
+      "program": "ACCT",
+      "code": "1010",
+      "name": "Accounting, Business and Society",
+      "units": 3,
+      "description": "Overview of accounting in business and social contexts; use of accounting information for accountability and decision-making in companies, non-profit organizations, and government; major elements of accounting, including assets, liabilities, revenues and expenses; discharge of accountability by companies through corporate social and environmental reports. The aim of this course is to make students aware of how accounting could be applicable to fundamental business transactions and ways to evaluate how businesses are operated.",
+      "sections": []
+    },
+    {
+      "program": "ACCT",
+      "code": "2010",
+      "name": "Principles of Accounting I",
+      "units": 3,
+      "description": "For SB&M students, and programs that designate the course as a required/specified elective course. This is the first course of the principles of accounting sequence. Introduction to the concepts and principles of financial accounting, including the analysis, recording, and reporting of business transactions and preparation of financial statements.",
+      "sections": []
+    },
+    {
+      "program": "ACCT",
+      "code": "5650",
+      "name": "Corporate Governance and Compliance",
+      "units": 2,
+      "description": "The course covers corporate governance at two levels. At the practice level, it builds on students' prior knowledge of company law, and introduces them to the various requirements of compliance by company boards as stipulated in the Hong Kong regulatory framework. At the company policies level, this course introduces students to broader aspects of corporate governance, focusing on the multitude and interaction of stakeholders and how their interests may be protected.",
+      "sections": []
+    },
+    {
+      "program": "ACCT",
+      "code": "5801",
+      "name": "Cryptocurrency, Blockchain and Their Business Applications",
+      "units": 2,
+      "description": "This course discusses cryptocurrencies (including Bitcoin, Ethereum, and others), blockchain, also known as distributed ledger technology (DLT), and their multidimensional business applications. The course provides a basic set of skills to understand cryptocurrencies and blockchain/DLT. We will also discuss the latest development in the field.",
+      "sections": []
+    }
+  ],
+  "AESF": [
+    {
+      "program": "AESF",
+      "code": "6950A",
+      "name": "Aeronautical Independent Project",
+      "units": 3,
+      "description": "An independent research project on Aeronautical Engineering carried out under the supervision of a faculty member.",
+      "sections": []
+    },
+    {
+      "program": "AESF",
+      "code": "6950B",
+      "name": "Aeronautical Independent Project",
+      "units": 6,
+      "description": "An independent research project on Aeronautical Engineering carried out under the supervision of a faculty member.",
+      "sections": []
+    },
+    {
+      "program": "AESF",
+      "code": "6950D",
+      "name": "Aeronautical Independent Project",
+      "units": 6,
+      "description": "An independent research project on Aeronautical Engineering carried out under the supervision of a faculty member.",
+      "sections": []
+    }
+  ],
+  "BEHI": [
+    {
+      "program": "BEHI",
+      "code": "6101A",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent research project carried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    },
+    {
+      "program": "BEHI",
+      "code": "6101B",
+      "name": "Independent Project",
+      "units": 6,
+      "description": "An independent research project carried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    }
+  ],
+  "BIEN": [
+    {
+      "program": "BIEN",
+      "code": "4990",
+      "name": "Academic and Professional Development II",
+      "units": 1,
+      "description": "For final-year Bioengineering students. This course is designed to prepare students for the workplace, to instill in them a sense of professional responsibility, and to enhance their career management skills. Students are required to attend selected workshops and seminars by practicing bioengineers. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "BTEC": [
+    {
+      "program": "BTEC",
+      "code": "5210",
+      "name": "Principles and Application in Biotechnology",
+      "units": 4,
+      "description": "The goal of this course is to provide an interdisciplinary, state-of-the-art introduction to biotechnology.  Topics include the molecular foundations of biotechnology, molecular microbiology, biotech process development and scale-up, product approval and regulatory affairs, genomics, microarray analysis, proteomics, computational biology, molecular modeling, analytical biotechnology, and bioterrorism and biotechnology.",
+      "sections": []
+    }
+  ],
+  "CENG": [
+    {
+      "program": "CENG",
+      "code": "4950",
+      "name": "Chem-E-Car",
+      "units": 3,
+      "description": "This course is a platform for entry-level engineer students to participate in Chem-E-car competition, i.e. to design and construct a car powered by a chemical or biochemical energy source that will safely carry a specified load over a given distance and stop. The objective of this course is to develop the ability to control an electrochemical reaction, and to obtain hands-on experience on a practical engineering project, especially in chemical engineering field. Students will be given the opportunity to interact with each other, to integrate the learning experience to design and build a device, and chances to prepare for starting their future career in engineering. It is a student-led project, designed to motivate students for engineers. Graded DI/PA/F. Enrollment in the project course require instructor's approval.",
+      "sections": []
+    },
+    {
+      "program": "CENG",
+      "code": "4980X",
+      "name": "Investigation Project",
+      "units": 3,
+      "description": "Students conduct in-depth experimental or computational investigations on selected topics in one of the departmental research areas. Students work under supervision and are encouraged to use their own initiative to complete an appropriate program of work within the time allocated. Enrollment is subject to approval by department and supervisor. Graded Distinction/Pass/Fail. May be repeated for credits. May be graded PP.",
+      "sections": []
+    },
+    {
+      "program": "CENG",
+      "code": "6900C",
+      "name": "Independent Study",
+      "units": 1,
+      "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "CHEM": [
+    {
+      "program": "CHEM",
+      "code": "1002",
+      "name": "Introduction to Chemistry of Cosmetics",
+      "units": 3,
+      "description": "This course concentrates on the basic scientific principles in cosmetic science. Various topics with emphasis on molecular approach related to cosmetic products' formulation and proper uses of cosmetic products will be covered. Major topics include definition of cosmetics, make-up cosmetics, skin-care cosmetics, hair-care cosmetics, vehicles of cosmetic products, surfactants, colorants, alpha hydroxyl acids & beta hydroxyl acids, anti-oxidants and sunscreens, skin-whitening agents, hydrating substances / moisturizers, antiperspirants & deodorants and botanical ingredients.",
+      "sections": []
+    },
+    {
+      "program": "CHEM",
+      "code": "1008",
+      "name": "Introductory Chemistry",
+      "units": 3,
+      "description": "This course targets science or engineering students with very little to no chemistry background. It provides a general introduction to basic principles of chemistry. Key topics include state of matters, atoms and elements, molecules and compounds, atomic structures and periodicity, molecular structures, quantities in chemical reactions, bonding theories, acids and bases, and solution chemistry. Students without HKDSE qualifications may seek instructor's approval for enrolment.",
+      "sections": []
+    },
+    {
+      "program": "CHEM",
+      "code": "3610B",
+      "name": "Chemistry Internship",
+      "units": 3,
+      "description": "This course provides students with an opportunity to gain work experience in the  chemistry field. Students will undertake training and supervised internships in our collaborating organizations/units. Credits assigned for each offering may be different depending on the total workload hours required. For CHEM students with instructor’s approval only. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "CHEM",
+      "code": "4680",
+      "name": "Undergraduate Research",
+      "units": 3,
+      "description": "Students do original research in accordance with their ability and background, and under the supervision of a faculty. The final course grade is determined based on an oral presentation and a written report to be submitted to a judging committee, which includes the faculty supervisor plus at least one other faculty. Enrollment in the course requires approval of the faculty supervisor.",
+      "sections": []
+    },
+    {
+      "program": "CHEM",
+      "code": "4691",
+      "name": "Capstone Research I",
+      "units": 3,
+      "description": "Students will carry out a research project in one of the Chemistry research laboratories under the supervision of a faculty member. This research-based course provides students an opportunity to integrate and apply their chemical knowledge learnt in regular lecture and laboratory courses. At the end of the course, students are required to submit a written report and deliver an oral presentation to document their learning experiences. For CHEM students only. Students should seek instructor's approval prior to enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "CHEM",
+      "code": "4692",
+      "name": "Capstone Research II",
+      "units": 3,
+      "description": "Continuation of research project started in CHEM 4691 and to be conducted under the supervision of a faculty member/teaching staff. A written report and oral presentation are required to document their learning experiences. Students should seek instructor's approval prior to enrollment in the course.",
+      "sections": []
+    }
+  ],
+  "CIEM": [
+    {
+      "program": "CIEM",
+      "code": "6980",
+      "name": "MSc Project",
+      "units": 6,
+      "description": "An independent project carried out under the supervision of a faculty member.",
+      "sections": []
+    }
+  ],
+  "CIVL": [
+    {
+      "program": "CIVL",
+      "code": "2120",
+      "name": "Mechanics of Materials",
+      "units": 3,
+      "description": "Analysis of stress, strain and deformation; linear and non-linear material behavior; strain energy; bending of beams, deflection; stability and buckling of compression members; shear and torsional stresses.",
+      "sections": []
+    },
+    {
+      "program": "CIVL",
+      "code": "5840",
+      "name": "Advanced Concrete Technology",
+      "units": 3,
+      "description": "Fundamental concepts (workability, strength, dimension stability, and durability); updated concrete technology (micro structural engineering, development of special concretes); concrete fracture and modeling; nondestructive evaluation methods for concrete structures.",
+      "sections": []
+    },
+    {
+      "program": "CIVL",
+      "code": "6050I",
+      "name": "Civil Engineering Seminar I",
+      "units": 0,
+      "description": "Discussion of current research by faculty members, and guest lectures on recent advances in civil engineering. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "CIVL",
+      "code": "6060O",
+      "name": "Civil Engineering Seminar II",
+      "units": 0,
+      "description": "Presentation of current graduate research by postgraduate students. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "COMP": [
+    {
+      "program": "COMP",
+      "code": "1029C",
+      "name": "C Programming Bridging Course",
+      "units": 1,
+      "description": "This course introduces the C programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the C language. The course covers basic programming topics, such as variables, control, loops, and functions, to more advanced topics. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "1029J",
+      "name": "Java Programming Bridging Course",
+      "units": 1,
+      "description": "This course introduces the Java programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the Java language. The course covers basic programming topics such as variables, control statements, loops, functions, and object-oriented programming concepts. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "1029P",
+      "name": "Python Programming Bridging Course",
+      "units": 1,
+      "description": "This course introduces the Python programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the Python language. The course covers basic programming topics, such as variables, functions and loops, to more advanced topics. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "1029V",
+      "name": "Excel VBA Programming Bridging Course",
+      "units": 1,
+      "description": "This course introduces the VBA programming language, in the context of Microsoft Excel. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to VBA, within Excel. The course covers basic programming topics, such as variables, functions and loops, to more advanced topics. Appropriate features of the Excel program are also covered. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "2711",
+      "name": "Discrete Mathematical Tools for Computer Science",
+      "units": 4,
+      "description": "Basic concepts in discrete mathematics needed for the study of computer science: enumeration techniques, basic number theory, logic and proofs, recursion and recurrences, probability theory and graph theory. The approach of this course is specifically computer science application oriented.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "3311",
+      "name": "Database Management Systems",
+      "units": 3,
+      "description": "Principles of database systems; conceptual modeling and data models; logical and physical database design; query languages and query processing; database services including concurrency, crash recovery, security and integrity. Hands-on DBMS experience.",
+      "sections": []
+    }
+  ],
+  "CSIT": [
+    {
+      "program": "CSIT",
+      "code": "6910A",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit.",
+      "sections": []
+    },
+    {
+      "program": "CSIT",
+      "code": "6910D",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit.",
+      "sections": []
+    }
+  ],
+  "ECON": [
+    {
+      "program": "ECON",
+      "code": "6110V",
+      "name": "ESG Investing",
+      "units": 2,
+      "description": "Environmental, Social and Governance (ESG) issues are now an important topic in finance and investment. Social concerns, such as child labour and workers’ rights, have become important considerations for consumers, policy-makers and investors.   At the same time, Governance issues, relating to how companies are managed, are now attracting more attention than before. This course considers the implications of ESG issues for investors.",
+      "sections": []
+    },
+    {
+      "program": "ECON",
+      "code": "6110W",
+      "name": "Macroeconomic Research and the Financial Industry",
+      "units": 2,
+      "description": "The course aims to prepare students as economists or macro strategists in the financial industry. We will introduce how to conduct macroeconomic research in the financial industry. The course will cover both analysis on cyclical economic fluctuations and secular trends due to structural change, with a focus on the China economy. We will discuss how the macro data and trends will impact financial markets and asset prices. By the end of the course, students will learn how to build a holistic framework and use it to make predictions and conduct counterfactual scenario analysis.",
+      "sections": []
+    }
+  ],
+  "EEMT": [
+    {
+      "program": "EEMT",
+      "code": "5520",
+      "name": "Service Operations Management",
+      "units": 3,
+      "description": "This course will expose students to the diversified service industries and equip them with knowledge and skills of improving productivity and quality of service firms.  Students will learn the latest concepts, techniques, and methodologies in service system design, service level, quality of service, service product life cycle, measurements, design for serviceability, analysis, productivity in services, client satisfaction, training, and services logistics.  They will also learn how to apply the knowledge to decision making in planning, organizing, and managing service operations.\r",
+      "sections": []
+    }
+  ],
+  "EESM": [
+    {
+      "program": "EESM",
+      "code": "6900",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member.",
+      "sections": []
+    },
+    {
+      "program": "EESM",
+      "code": "6910",
+      "name": "Departmental and Professional Seminar",
+      "units": 0,
+      "description": "Various departmental and professional seminars and workshops presented by postgraduate students, faculty or guest speakers. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "ENEG": [
+    {
+      "program": "ENEG",
+      "code": "4980A",
+      "name": "Investigation Project",
+      "units": 3,
+      "description": "Students conduct in-depth experimental or computational investigations on selected topics related to energy. The research experience will be beneficial for them to expose to cutting-edge research projects and apply for graduate school later on. Students work under supervision and are encouraged to use their own initiative to complete an appropriate program of work within the time allocated. Enrollment is subject to approval by the program director and supervisor. May be repeated for credits. May be graded PP. For SUSEE students only.",
+      "sections": []
+    }
+  ],
+  "ENGG": [
+    {
+      "program": "ENGG",
+      "code": "1110",
+      "name": "Engineering Solutions to Grand Challenges of the 21st Century",
+      "units": 3,
+      "description": "Throughout human history, engineering has driven the advance of civilization. In the past century engineering has recorded its greatest accomplishments, but for all these accomplishments the century ahead poses formidable problems sustaining civilization advancement. This course will broaden and raise student's awareness of challenges faced by coming generations such as climate change, clean water and healthcare. Students will work in small groups in a collaborative learning environment to explore in details and in multiple dimensions the key issues around selected major challenges with experts in the areas. Suggested and proposed engineering solutions based on advances in science and technology will be explored and discussed. Students will be encouraged to develop and present their own innovative engineering approaches to address these major challenges.",
+      "sections": []
+    },
+    {
+      "program": "ENGG",
+      "code": "2900H",
+      "name": "Community Services Project: STEAM Project for the Community",
+      "units": 2,
+      "description": "The aim of this course is to provide more chances for UG student self-development, let them not only apply what have learnt from the course, but also acquire different kinds of hand-on experiences by delivering the designed STEAM program to the community. In so doing, the 1st semester will learn the 21st century skill requirement of Education, while in 2nd Semester, they will have chance to deliver their design program and serve the community. Approval from the course coordinator is needed prior to enrolling in the course. Graded PP, P or F. Students may repeat the course for credits if different topics are taken.",
+      "sections": []
+    },
+    {
+      "program": "ENGG",
+      "code": "6200",
+      "name": "MSc Practical Learning and Enrichment",
+      "units": 0,
+      "description": "The course aims to broaden MSc students' horizon and enrich their learning experiences through practice and participating in overseas research internship, professional learning trips and summer programs arranged with partner universities or institutes. Students are required to engage in practical training and research, laboratory work, industrial visits, professional courses and workshops depending on the available opportunities. Graded PP, P or F.",
+      "sections": []
+    }
+  ],
+  "ENTR": [
+    {
+      "program": "ENTR",
+      "code": "3360",
+      "name": "From Product Innovations to Successful Technology Startups",
+      "units": 3,
+      "description": "This course is intended for students who want to seriously pursue technology startups. Students will be guided to identify critical steps and important milestones associated with each step in order to build a technology startup. The course requires students to take an existing project idea with early conceptual design and prototype, and bring it to the next level of project realization. Lecture topics include market research, industrial design, patent law, supply chain management and business model development. Cross-college faculty and external experts will provide individual and team mentoring for student projects. Company visits, field trips, trade shows and interactions with experienced entrepreneurs will be arranged. Students with good performance in this course are recommended to different funding and incubation opportunities. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "ENTR",
+      "code": "4901Z",
+      "name": "Student-led Entrepreneurship Acceleration Project",
+      "units": 1,
+      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "ENTR",
+      "code": "4902Z",
+      "name": "Student-led Entrepreneurship Acceleration Project",
+      "units": 2,
+      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "ENTR",
+      "code": "4903Z",
+      "name": "Student-led Entrepreneurship Acceleration Project",
+      "units": 3,
+      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "ENTR",
+      "code": "4904Z",
+      "name": "Student-led Entrepreneurship Acceleration Project",
+      "units": 4,
+      "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    }
+  ],
+  "EVSM": [
+    {
+      "program": "EVSM",
+      "code": "6950A",
+      "name": "MSc Project",
+      "units": 3,
+      "description": "An independent project on selected topics in environmental science under the supervision of a faculty member. Participation of external organizations in these projects will be particularly encouraged. The responsibility of control, administration and assessment of the projects rests with the University. The course may be repeated once for credits. This course is for MSc students only. Approval from instructor is required.",
+      "sections": []
+    },
+    {
+      "program": "EVSM",
+      "code": "6950B",
+      "name": "MSc Project",
+      "units": 3,
+      "description": "An independent project on selected topics in environmental science under the supervision of a faculty member. Participation of external organizations in these projects will be particularly encouraged. The responsibility of control, administration and assessment of the projects rests with the University. The course may be repeated once for credits. This course is for MSc students only. Approval from instructor is required.",
+      "sections": []
+    }
+  ],
+  "FINA": [
+    {
+      "program": "FINA",
+      "code": "5390",
+      "name": "Venture Capital and Private Equity",
+      "units": 2,
+      "description": "Topics include: (1) An overview of the venture capital and private equity markets in Asia; (2) Deal structuring; (3) Valuation techniques; (4) Due diligence and post-investment management; (5) Understanding the terms in term sheets; (6) Negotiating term sheets; (7) Going public, trade sale and other exit strategies.  Real-world examples from throughout Asia will be used to illustrate these topics.",
+      "sections": []
+    }
+  ],
+  "GNED": [
+    {
+      "program": "GNED",
+      "code": "2510",
+      "name": "Career Building",
+      "units": 1,
+      "description": "The course is open to all undergraduate students, with priority given to Year 2 students or above. It aims at empowering students in making rewarding career choices by 1) introducing the career planning process, 2) enhancing their understanding of the current job market and employers' expectation, and 3) equipping them with essential and practical job search skills like CV writing, interview, aptitude test, group discussion, etc. so as to increase their competitiveness. Experiential learning opportunities and personalized feedback will be provided to prepare students for the recruitment process. Seasoned practitioners from different sectors will be invited to shed light on recruitment criteria and industry updates. Graded DI/PA/F. Detailed course contents are available at the Career Center website.",
+      "sections": []
+    }
+  ],
+  "HMMA": [
+    {
+      "program": "HMMA",
+      "code": "6300",
+      "name": "Building a Future Career in Chinese Cultural Studies",
+      "units": 0,
+      "description": "In this self-guided, portfolio-based course, students will reflect on their career goals in connection with their program's content. They will create a portfolio that incorporates insights from courses, seminars, and other relevant events attended during their studies. The course culminates in a written reflection. This course is exclusively designed for MA(CC) students, enriching their understanding of potential career paths in the field of Chinese culture. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "HUMA": [
+    {
+      "program": "HUMA",
+      "code": "1102",
+      "name": "Enjoyment of Classical Music",
+      "units": 3,
+      "description": "From the power and beauty of the orchestra to masterpieces of the church and concert hall, students will gain an in-depth appreciation for the history and fundamentals of Western classical music. The listening and analytical skills demonstrated will bring about a deeper understanding of music as an art form. Previous musical training, albeit helpful, is not required.",
+      "sections": []
+    },
+    {
+      "program": "HUMA",
+      "code": "1154",
+      "name": "Photography",
+      "units": 3,
+      "description": "This course provides an overview of the various forms of Photography, explores the relationship between visual communication and art. The course will examine the collaborative process between light and graphic, concepts and skills. The increasing influences of images and trends from visual media will also be discussed.",
+      "sections": []
+    },
+    {
+      "program": "HUMA",
+      "code": "2101",
+      "name": "Enjoyment of Western Opera",
+      "units": 3,
+      "description": "An examination of the historical development of western opera, and selected western operas with their related literary texts. This course will also put some emphasis on works that are related to Asian cultures, and operas that will be performed in Hong Kong. No previous knowledge of opera is required.",
+      "sections": []
+    },
+    {
+      "program": "HUMA",
+      "code": "2107",
+      "name": "Introduction to Electronic Music Composition",
+      "units": 3,
+      "description": "This course will develop students' appreciation of various types of electronic music via an open, creative environment for its composition. We will explore the nature of sound and approaches to its organization -- listening deeply to music and the world around us -- and cover theory and practice in digital audio signal processing. Since we will be working with 'concrete sound', students need not have any prior experience in music notation or composition to participate in the course. The course will culminate in an open concert-presentation of final works that students will have developed over the semester.",
+      "sections": []
+    },
+    {
+      "program": "HUMA",
+      "code": "2202",
+      "name": "The Modern Japanese Novel",
+      "units": 3,
+      "description": "This course surveys the literary and cultural history of Japan from the Meiji period (1868-1912) up to the Second World War (1941-1945), paying a particular attention to the origins and subsequent development of the narrative form of the novel. Topics of discussion will include: the relationship between the narrative form of the novel and the imagination of the nation-state, gender and literary genre, the fragmentation of narrative in modernist writings, the demarcation between “pure” and “mass” literature, and the role of translation in constructing conceptions of Japanese literature.",
+      "sections": []
+    }
+  ],
+  "IBTM": [
+    {
+      "program": "IBTM",
+      "code": "6950A",
+      "name": "Independent Studies",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    },
+    {
+      "program": "IBTM",
+      "code": "6950B",
+      "name": "Independent Studies",
+      "units": 6,
+      "description": "An independent project carried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    }
+  ],
+  "ISDN": [
+    {
+      "program": "ISDN",
+      "code": "3002",
+      "name": "Third Year Design Project II",
+      "units": 3,
+      "description": "This course is the second part of the third-year project course offered to third year students. The focus of this course is testing and redesigning of the design concept generated in 3001. The process is repeated until a final design emerges. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "ISDN",
+      "code": "3360",
+      "name": "From Product Innovations to Successful Technology Startups",
+      "units": 3,
+      "description": "This course is intended for students who want to seriously pursue technology startups. Students will be guided to identify critical steps and important milestones associated with each step in order to build a technology startup. The course requires students to take an existing project idea with early conceptual design and prototype, and bring it to the next level of project realization. Lecture topics include market research, industrial design, patent law, supply chain management and business model development. Cross-college faculty and external experts will provide individual and team mentoring for student projects. Company visits, field trips, trade shows and interactions with experienced entrepreneurs will be arranged. Students with good performance in this course are recommended to different funding and incubation opportunities. Instructor's approval is required for enrollment in the course.",
+      "sections": []
+    }
+  ],
+  "ISOM": [
+    {
+      "program": "ISOM",
+      "code": "1380",
+      "name": "Technology and Innovation: Social and Business Perspectives",
+      "units": 3,
+      "description": "This course describes the development of technology and innovation from social and business perspectives.  It covers the technology side of innovations, how an invention can be developed into a successful commercial product, the role of innovation in society and how innovations are created from a socioeconomic perspective.  It highlights that successful development and adoption of innovative products relies not only on the technology itself but also a complex process that is subject to the impact of cultural, political, economic and managerial factors.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "2310",
+      "name": "Fundamentals of E-Commerce: Business, Technology, and the Society",
+      "units": 3,
+      "description": "The course covers important topics related to e-commerce including unique features of e-commerce technology, the history and background of the Internet, the evolution of e-commerce from its early years to today, key components of e-commerce business models, major trends of business-to-business,  business-to-consumer, and consumer-to-consumer services, the use of various techniques such as search engine analytics, online social networks, and location-based technologies, as well as the ethical, social, and political issues related to e-commerce.  Various prominent e-commerce models and development will also be covered in the course.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "3400",
+      "name": "Business Applications Development in Python",
+      "units": 3,
+      "description": "This course introduces programing concepts and applications with Python programming language. The applications are mainly in the domain of business analytics. The course covers topics including general programming concepts, object-oriented design, and external Python packages for data manipulation, visualization and analytics.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "4010",
+      "name": "Digital Business Strategy: Harnessing Platform, Crowd, and Machine",
+      "units": 3,
+      "description": "This course is designed for students who want a broad understanding of the opportunities and challenges presented by the modern digital revolution undergoing our time. The three key words that sum up the modern digital revolution are online/digital platforms, AI-driven machines, and crowds.Information and communication technologies (ICT) and artificial intelligence (AI) enable and drive digital platforms, creating and nurturing networks and facilitating value-creating matches and interactions between market participants from the crowd. Students will learn about the fundamental principles at work behind the platform innovation and disruption of today and tomorrow by surveying a full of examples of digital platforms powered by technology and crowds.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "5270",
+      "name": "Big Data Analytics",
+      "units": 2,
+      "description": "Data plays an increasingly important role in business decision making. This course introduces the key concepts and applications of business analytics in the world of Big Data. Example business problems to be solved analytically include customer relationship management, financial trading, social media marketing, search engine strategy, etc. Hands-on experience with popular data analytical tools will be included.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "5360",
+      "name": "Information Systems Auditing",
+      "units": 2,
+      "description": "This course introduces the fundamental concepts of information systems (IS) auditing.  Topics include IS control and assurance, COBIT, business continuity planning, protection of information assets, auditing the network infrastructure, physical access exposures and controls, and disaster recovery management.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "5420",
+      "name": "Integrated Business Simulation and Strategy",
+      "units": 2,
+      "description": "Students compete in operating and managing a virtual business as teams using the CapStone Business Simulation software that has been adopted by more than 500 business schools and universities worldwide.  This team-based competition using business simulation tools provide an active-learning, hands-on business management experience integrating strategy, finance, marketing, accounting, human resources training and operations management perspectives for operating a complete business enterprise.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "5460",
+      "name": "Project Management",
+      "units": 2,
+      "description": "This course covers the essential project management skills to ensure successful implementation of high-technology projects.  Topics include investment decisions, resource planning, budgeting, scheduling, outsourcing, and risk assessment and control, as major components of the PMBOK (Project Management Body of Knowledge).",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "6790N",
+      "name": "Mastering The Customer Experience: Mapping the End-to-End Customer Journey",
+      "units": 2,
+      "description": "In today's competitive business landscape, delivering exceptional customer experiences (CX) is paramount for success. This comprehensive course provides a deep understanding of the customer-centric culture strategy and customer journey mapping (CJM). The course equips students with the skills to enhance the end-to-end customer experiences and design the Customer Journey Map. From initial touchpoints to post-purchase interactions, this course explores the critical stages of the customer journey and empowers students to create seamless, personalized, and memorable customer experiences at every step. The course equips students with strategies and practical tools to improve customer satisfaction, loyalty, and advocacy. Through a combination of theoretical frameworks, case studies, and group exercises, students will develop the skills necessary to analyze customer needs and pain points, design effective customer journey maps, and implement customer-centric strategies and transformations under operations management in a business-to-business (B2B) setting. Consent of instructor is required.",
+      "sections": []
+    },
+    {
+      "program": "ISOM",
+      "code": "7000Q",
+      "name": "IS Doctoral Seminar",
+      "units": 4,
+      "description": "Presentation and discussions of current research topics in Information Systems for doctoral students.",
+      "sections": []
+    }
+  ],
+  "JEVE": [
+    {
+      "program": "JEVE",
+      "code": "6980B",
+      "name": "Independent Project",
+      "units": 6,
+      "description": "This 3-6 credit project should be supervised by a faculty member who teaches a course in the program, subject to the approval of Program Director.",
+      "sections": []
+    }
+  ],
+  "LABU": [
+    {
+      "program": "LABU",
+      "code": "2040",
+      "name": "Business Case Analyses",
+      "units": 3,
+      "description": "This course seeks to equip students with persuasive communication skills, both oral and written, through analyzing business cases and presenting solutions to problems identified. It provides students with a solid framework and hands-on practice to communicate persuasively and professionally in business settings. In presenting the case problem, analysis and recommendations, students learn to identify issues, develop and organize key ideas, and eventually to persuade the audience of the validity of the arguments and proposed actions. The course sharpens students' ability to explain and support ideas logically, coherently and cohesively using various techniques, to communicate clearly, concisely and accurately, and in appropriate tone and style. Through a range of learning activities involving reading, discussion, writing and making oral presentations, students also develop critical reading, critical thinking and problem solving skills as well as teamwork and leadership skills. For students who have this course as a program requirement.",
+      "sections": []
+    },
+    {
+      "program": "LABU",
+      "code": "2060",
+      "name": "Effective Communication in Business",
+      "units": 3,
+      "description": "The course activates students' previously acquired English language skills into a useful managerial communication toolkit targeted toward specific business applications and strategies. Students will learn how to be an effective communicator in the global workplace. The course is designed and structured to address the learning needs of students in job-seeking and in their early careers. Students will have opportunities to learn and practice how to succeed in business writing, presentations, interviews, meetings, and collaborative assignments. The course also introduces students to strategies for handling the communication challenges which fresh graduates can expect in the global workplace. For students who have this course as a program requirement.",
+      "sections": []
+    }
+  ],
+  "LANG": [
+    {
+      "program": "LANG",
+      "code": "1416P",
+      "name": "Effective Chinese Communication",
+      "units": 3,
+      "description": "This course seeks to enhance the market competitiveness of HKUST graduates by making them effective users of spoken Putonghua and Standard Written Chinese in meeting communicative needs in academic, social and professional contexts. The course materials and activities help students acquire fluency and accuracy in the use of Chinese by engaging them in authentic communication tasks based  on  real-life situations and needs. Students’ mastery of Putonghua phonology and Chinese syntax and lexis will also be enhanced through in-class teaching and outside class practice.",
+      "sections": []
+    },
+    {
+      "program": "LANG",
+      "code": "2010",
+      "name": "English for Science I",
+      "units": 3,
+      "description": "An English course for students of the School of Science. The course introduces students to the language and discourse of science and develops their competence in speaking and writing about scientific topics.",
+      "sections": []
+    },
+    {
+      "program": "LANG",
+      "code": "2030",
+      "name": "Technical Communication I",
+      "units": 3,
+      "description": "The course provides students with a broad introduction to English within the discipline of engineering. A central aim of the course is to encourage students to analyze critically the wider social implications of engineering products and processes, through the careful examination of texts (and other media) beyond their own specific engineering field and to communicate effectively by delivering oral presentations and writing reports on topics relevant to all engineers.",
+      "sections": []
+    }
+  ],
+  "LIFS": [
+    {
+      "program": "LIFS",
+      "code": "1020",
+      "name": "Biology of Human Health",
+      "units": 3,
+      "description": "This course introduces the basic biological principles of human health and diseases with an emphasis on the contemporary leading causes of death in Hong Kong and the world. Topics mainly focus on common and emerging diseases, aging, and the influence of biotechnology, environment, and culture on human health. Students without HKDSE qualifications may seek instructor’s approval for enrolment.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "3510",
+      "name": "Junior Research Project I",
+      "units": 2,
+      "description": "The objective of the course is to increase awareness of preparation in research and learn how to synthesize a research proposal. Together with the supervisor each student will identify a research question, do a literature review, familiarize themselves theoretically with technical aspects of the project and write a short proposal. Approval of a faculty supervisor is required for students to enroll in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "3520",
+      "name": "Junior Research Project II",
+      "units": 2,
+      "description": "The aim of the course is for students to acquire hands-on laboratory experience in conducting a short research project and producing a formal written report. Each student will conduct the bench work for the proposal developed in the prerequisite course LIFS 3510 and hence under the same faculty supervisor as LIFS 3510. Due to the short duration, emphasis is on appreciation of the research process rather than results obtained. Approval of a faculty supervisor is required for students to enroll in the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "4910A",
+      "name": "Independent Study",
+      "units": 1,
+      "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "4960",
+      "name": "Biological Science Capstone Project",
+      "units": 3,
+      "description": "Under the supervision of a faculty member, students will undertake a project, which may involve investigation on topics in an area of Biological Science. The project can be delivered through the format of literature review, research, or practical study. Students are required to submit a written report that documents the project work and learning experiences. For BISC students only. Approval of the course supervisor is needed for students to enroll in this course.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "4963",
+      "name": "Biotechnology Capstone Project",
+      "units": 3,
+      "description": "Under the supervision of a faculty member, students will undertake a project, which may involve investigation on topics relevant to biotechnology industry and business. The project can be delivered through the format of literature review, research, or practical study. Students are required to submit a written report that documents the project work and learning experiences. For BIOT students only. Approval of the course supervisor is needed for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
+      "code": "6420A",
+      "name": "Project Research",
+      "units": 1,
+      "description": "Project research in one of the life science research laboratories under the supervision of a faculty member. Graded P or F. (for Visiting Internship Postgraduate student)",
+      "sections": []
+    }
+  ],
+  "MAFS": [
+    {
+      "program": "MAFS",
+      "code": "5270",
+      "name": "Mathematical Market Microstructure",
+      "units": 3,
+      "description": "This course will study special classes of stochastic processes that can capture market behavior at micro level and their practical implications in algorithmic and low-latency trading. Topics covered include structural models of price formation process at microstructure level, information-based vs. inventory-based models, stochastic control and optimization in trading, and real time risk management.",
+      "sections": []
+    },
+    {
+      "program": "MAFS",
+      "code": "5360",
+      "name": "Computing for Finance in Python",
+      "units": 3,
+      "description": "This course teaches Python programming techniques with a strong focus on using mini-projects with industry backgrounds in trading, aiming to equip students with solid program-solving skills in the following contexts: medium- and high-frequency multi-factor model development, OTC trading system development with block-chain technology applied, abnormal trading behavior detection, trading simulator design and development.",
+      "sections": []
+    },
+    {
+      "program": "MAFS",
+      "code": "6100P",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "Completion of an independent project under the supervisor of a faculty in financial mathematics or statistics.  Scope may include (i) identifying a non-reference problem and proposing the methods of solution, (ii) acquiring a specific research skill.",
+      "sections": []
+    }
+  ],
+  "MASS": [
+    {
+      "program": "MASS",
+      "code": "6000",
+      "name": "Developing a Career in Social Science",
+      "units": 0,
+      "description": "This is a portfolio-based course. Upon completion of this course, students are required to submit a written reflection about their own career plans, in relation to the content of the PGD/MA(SOSC) program. The reflection is carried out by means of collating a portfolio and will include specific reference to the content of seminars and events that have taken place during their program. For PGD/MA(SOSC) students only. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "MATH": [
+    {
+      "program": "MATH",
+      "code": "2111",
+      "name": "Matrix Algebra and Applications",
+      "units": 3,
+      "description": "Systems of linear equations; vector spaces; linear transformations; matrix representation of linear transformations; linear operators, eigenvalues and eigenvectors; similarity invariants and canonical forms.",
+      "sections": []
+    },
+    {
+      "program": "MATH",
+      "code": "2411",
+      "name": "Applied Statistics",
+      "units": 4,
+      "description": "A systematic introduction to statistical inference, including the necessary probabilistic background, point and interval estimation, hypothesis testing.",
+      "sections": []
+    },
+    {
+      "program": "MATH",
+      "code": "2421",
+      "name": "Probability",
+      "units": 4,
+      "description": "Sample spaces, conditional probability, random variables, independence, discrete and continuous distributions, expectation, correlation, moment generating function, distributions of function of random variables, law of large numbers and limit theorems.",
+      "sections": []
+    }
+  ],
+  "MCEE": [
+    {
+      "program": "MCEE",
+      "code": "6980A",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member.",
+      "sections": []
+    },
+    {
+      "program": "MCEE",
+      "code": "6980B",
+      "name": "Independent Project",
+      "units": 6,
+      "description": "An independent project carried out under the supervision of a faculty member.",
+      "sections": []
+    }
+  ],
+  "MESF": [
+    {
+      "program": "MESF",
+      "code": "6950A",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent research project on Mechanical Engineeringcarried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    },
+    {
+      "program": "MESF",
+      "code": "6950C",
+      "name": "Independent Project",
+      "units": 6,
+      "description": "An independent research project on Mechanical Engineering carried out under the supervision of a faculty member. May be graded PP.",
+      "sections": []
+    }
+  ],
+  "MGCS": [
+    {
+      "program": "MGCS",
+      "code": "5024",
+      "name": "China in Comparative Perspective",
+      "units": 3,
+      "description": "This course explores the empirical and analytic value of studying China in comparative perspective. General comparative method and approaches that have been used to explain politics in modern China will be reviewed. The course also considers how the study of China can contribute to concept formation and broader debates in social science.",
+      "sections": []
+    },
+    {
+      "program": "MGCS",
+      "code": "6981",
+      "name": "Research Experience in Global China Studies",
+      "units": 1,
+      "description": "This course enables students to experience conducting research on a chosen topic under the supervision of a faculty of the School of Humanities and Social Science. Approval from faculty supervisor(s) is required. The student is required to submit a written report upon completion of this course.",
+      "sections": []
+    }
+  ],
+  "MGMT": [
+    {
+      "program": "MGMT",
+      "code": "1110",
+      "name": "Introduction to Management",
+      "units": 3,
+      "description": "This course provides students with a systematic approach to acquiring a solid foundation in the principles and current practices of management. The focus of the course is about the interaction between individuals (managers) and the organization. We will explore what managers do through discussion of the four fundamental functions of managers, namely planning, organizing, leading and controlling. Topics include: evolution of management theories, environmental influences on management, organizational culture, strategic management, organizational design, change management, organizational control and human resources management.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "5210",
+      "name": "Preparing to Lead",
+      "units": 2,
+      "description": "The practical study of managerial work. Examines communication skills and offers the opportunity for assessment and feedback. Organizational contexts, team building and case work. This is a required immersion program for MBA programs. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "5230",
+      "name": "Management of Organizations",
+      "units": 2,
+      "description": "Include motivation theories, leadership, group dynamics, job design, decision making, power and politics, organizational structure and design, and organizational change.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "5410",
+      "name": "Strategic Management",
+      "units": 2,
+      "description": "Major techniques and approaches to the development and implementation of corporate strategies. Underlying concepts, analytical techniques, internal and external competitor analysis and evaluation of strategic options. This is a core course for MBA.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "5550",
+      "name": "Effective Negotiations",
+      "units": 2,
+      "description": "This course focuses on two-party negotiations in a wide variety of settings ranging from simple buyer-seller bargains to complex, multiple-issue strategic relationships.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "6501L",
+      "name": "Globalization Strategies",
+      "units": 2,
+      "description": "This course is about understanding and formulating globalization strategies for firms and executives. One major aim is to help identify the strengths and weaknesses of (giant and start-up, especially tech) companies and their competitors, define the strategies, and develop implementation plans with an understanding of technological and economic trends while being mindful of the increasingly complex political environment. Case studies will be drawn from key economies such as the US, China, and European countries.",
+      "sections": []
+    },
+    {
+      "program": "MGMT",
+      "code": "6501M",
+      "name": "Management and Decision Making with Artificial Intelligence",
+      "units": 2,
+      "description": "In the rapidly evolving landscape of modern business, artificial intelligence (AI) has emerged as a cornerstone technology driving strategic decision-making processes. \"Managing with Artificial Intelligence\" is a comprehensive course designed to equip current and future leaders with the knowledge and skills necessary to leverage AI tools effectively in managerial contexts. Over this course, participants will dive into the fundamentals of AI, exploring how machine learning, natural language processing, and predictive analytics can inform and enhance decision-making in various business domains. By the end of this course, participants will have a solid foundation in managing with AI, ready to harness its potential to transform decision-making and competitive strategies across multiple industries.",
+      "sections": []
+    }
+  ],
+  "MILE": [
+    {
+      "program": "MILE",
+      "code": "6001",
+      "name": "Developing a Career in International Language Education",
+      "units": 0,
+      "description": "This is a self-study, portfolio-based course. Students are required to submit a written reflection about their own career plans, in relation to the content of their program, upon completion of this course. The reflection is carried out by means of collating a portfolio, and will include specific reference to the content of alumni and guest seminars and events that have taken place during their program. For MA(ILE) students only. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "MSBD": [
+    {
+      "program": "MSBD",
+      "code": "5014A",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit.",
+      "sections": []
+    },
+    {
+      "program": "MSBD",
+      "code": "5014B",
+      "name": "Independent Project",
+      "units": 3,
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit.",
+      "sections": []
+    }
+  ],
+  "MTLE": [
+    {
+      "program": "MTLE",
+      "code": "6980",
+      "name": "Technology Leadership and Entrepreneurship Project",
+      "units": 9,
+      "description": "This 3-term project course is the hallmark of the MSc Program in Technology Leadership and Entrepreneurship. The students will be expected to brainstorm, prototype, and launch an alpha release of a product or a service over the duration of the course. In the first term, students will engage in early stage brainstorming, ideation, team-forming, product contest, pitches, including participation in case competition. In the second term, each team will go through a sustained and concentrated effort in prototype building and complete an alpha-release, or engineering prototype of their product which is launch-ready in the third term.",
+      "sections": []
+    }
+  ],
+  "OCES": [
+    {
+      "program": "OCES",
+      "code": "2201A",
+      "name": "Internship",
+      "units": 4,
+      "description": "This course aims to provide students with hands-on experience in environmental and ocean science fields. Students will undertake training and duties under the internship supervisors. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course.",
+      "sections": []
+    },
+    {
+      "program": "OCES",
+      "code": "2201B",
+      "name": "Internship",
+      "units": 3,
+      "description": "This course aims to provide students with hands-on experience in environmental and ocean science fields. Students will undertake training and duties under the internship supervisors. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course.",
+      "sections": []
+    },
+    {
+      "program": "OCES",
+      "code": "6112",
+      "name": "Research Project in Global Marine Resources Management II",
+      "units": 6,
+      "description": "This course is a continuation of OCES 6111. Students are required to submit interim reports of their works and present their research progress. This course is for MSc(GMRM) students only. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "OCES",
+      "code": "6113",
+      "name": "Research Project in Global Marine Resources Management III",
+      "units": 6,
+      "description": "This course is a continuation of OCES 6112. Students are required to submit written reports of their works and present the major findings in a symposium attended by peers and faculty members. This course is for MSc(GMRM) students only.",
+      "sections": []
+    }
+  ],
+  "PHYS": [
+    {
+      "program": "PHYS",
+      "code": "1002",
+      "name": "Introduction to Astrophysics and Astronomy",
+      "units": 3,
+      "description": "This course addresses the origin of modern astronomy, the solar system, seasons, moon & eclipses, motion & gravity, light & telescopes, star light & atoms, stars (binary, formation, evolution and death), neutron stars & black holes, normal galaxies, peculiar galaxies, dark matter, dark energy and cosmology.",
+      "sections": [
+        {
+          "section": "L1",
+          "number": 1123,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "10:00:00",
+            "end": "12:20:00"
+          },
+          "instructors": [
+            "CHEN, Tian Wen"
+          ],
+          "room": "Rm 2405, Lift 17-18 (92)",
+          "quota": [
+            80,
+            0,
+            80,
+            0
+          ]
+        },
+        {
+          "section": "L1",
+          "number": 1123,
+          "schedule": {
+            "day": "THURSDAY",
+            "start": "10:00:00",
+            "end": "12:20:00"
+          },
+          "instructors": [
+            "CHEN, Tian Wen"
+          ],
+          "room": "Rm 2405, Lift 17-18 (92)",
+          "quota": [
+            80,
+            0,
+            80,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "program": "PHYS",
+      "code": "1113",
+      "name": "Laboratory for General Physics I",
+      "units": 1,
+      "description": "A laboratory course to accompany PHYS 1111/PHYS 1112/PHYS 1312. Experiments in mechanics and heat are chosen to illustrate the experimental foundations of physics presented in the lecture courses.",
+      "sections": [
+        {
+          "section": "T1",
+          "number": 1125,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "09:30:00",
+            "end": "10:50:00"
+          },
+          "instructors": [
+            "PANT, Nidhi"
+          ],
+          "room": "Rm 4502, Lift 25-26 (60)",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "section": "LA1",
+          "number": 1124,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "11:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "PANT, Nidhi"
+          ],
+          "room": "Rm 6140",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "section": "LA1",
+          "number": 1124,
+          "schedule": {
+            "day": "THURSDAY",
+            "start": "11:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "PANT, Nidhi"
+          ],
+          "room": "Rm 6140",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "program": "PHYS",
+      "code": "1114",
+      "name": "General Physics II",
+      "units": 3,
+      "description": "This course targets students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1314. This course employs a calculus‐based approach. Key topics include Coulomb's law, electric field and potential, Gauss' law, capacitance, circuits, magnetic force and field, Ampere's law, electromagnetic induction, AC circuit, Maxwell's equations, electromagnetic waves, wave optics, interference and diffraction.",
+      "sections": [
+        {
+          "section": "L1",
+          "number": 1126,
+          "schedule": {
+            "day": "MONDAY",
+            "start": "10:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "CHEUNG, Man Fung"
+          ],
+          "room": "Lecture Theater D (216)",
+          "quota": [
+            60,
+            0,
+            60,
+            0
+          ]
+        },
+        {
+          "section": "L1",
+          "number": 1126,
+          "schedule": {
+            "day": "WEDNESDAY",
+            "start": "10:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "CHEUNG, Man Fung"
+          ],
+          "room": "Lecture Theater D (216)",
+          "quota": [
+            60,
+            0,
+            60,
+            0
+          ]
+        },
+        {
+          "section": "T1",
+          "number": 1127,
+          "schedule": {
+            "day": "WEDNESDAY",
+            "start": "14:00:00",
+            "end": "15:20:00"
+          },
+          "instructors": [
+            "CHEUNG, Man Fung"
+          ],
+          "room": "Rm 4502, Lift 25-26 (60)",
+          "quota": [
+            30,
+            0,
+            30,
+            0
+          ]
+        },
+        {
+          "section": "T2",
+          "number": 1128,
+          "schedule": {
+            "day": "WEDNESDAY",
+            "start": "14:00:00",
+            "end": "15:20:00"
+          },
+          "instructors": [
+            "CHEUNG, Man Fung"
+          ],
+          "room": "Rm 4503, Lift 25-26 (64)",
+          "quota": [
+            30,
+            0,
+            30,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "program": "PHYS",
+      "code": "1115",
+      "name": "Laboratory for General Physics II",
+      "units": 1,
+      "description": "A laboratory course to accompany PHYS 1114/1314. Experiments in static and current electricity and magnetism, and optics are chosen to illustrate the experimental foundations of physics presented in the lecture courses.",
+      "sections": [
+        {
+          "section": "T1",
+          "number": 1133,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "09:30:00",
+            "end": "10:50:00"
+          },
+          "instructors": [
+            "NG, Yee Fai"
+          ],
+          "room": "Rm 4503, Lift 25-26 (64)",
+          "quota": [
+            40,
+            0,
+            40,
+            0
+          ]
+        },
+        {
+          "section": "LA1",
+          "number": 1131,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "11:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "NG, Yee Fai"
+          ],
+          "room": "Rm 6137, Lift 19, 22",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "section": "LA1",
+          "number": 1131,
+          "schedule": {
+            "day": "THURSDAY",
+            "start": "11:00:00",
+            "end": "12:50:00"
+          },
+          "instructors": [
+            "NG, Yee Fai"
+          ],
+          "room": "Rm 6137, Lift 19, 22",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "section": "LA2",
+          "number": 1132,
+          "schedule": {
+            "day": "TUESDAY",
+            "start": "14:00:00",
+            "end": "15:50:00"
+          },
+          "instructors": [
+            "NG, Yee Fai"
+          ],
+          "room": "Rm 6137, Lift 19, 22",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        },
+        {
+          "section": "LA2",
+          "number": 1132,
+          "schedule": {
+            "day": "THURSDAY",
+            "start": "14:00:00",
+            "end": "15:50:00"
+          },
+          "instructors": [
+            "NG, Yee Fai"
+          ],
+          "room": "Rm 6137, Lift 19, 22",
+          "quota": [
+            20,
+            0,
+            20,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "program": "PHYS",
+      "code": "3060",
+      "name": "Physics Internship",
+      "units": 3,
+      "description": "This course provides students with an opportunity to gain work experience in physics. Students will undertake internships in companies/organizations. For PHYS students with instructor's approval only. Graded P or F.",
+      "sections": []
+    }
+  ],
+  "PPOL": [
+    {
+      "program": "PPOL",
+      "code": "5440",
+      "name": "Sustainable Urban Design and Development",
+      "units": 3,
+      "description": "This course is designed for postgraduate students who want to learn about urban sustainability, an emerging and still developing field that draws on different disciplines, such as industrial ecology, urban political ecology, urban ecology, and planning and how public policy and public management approach it. It will explore how to make cities more sustainable in terms of environmental, social, and economic aspects and equip students with the theoretical and methodological tools to draft and analyze strategies and their viability. The course will also introduce and evaluate various approaches to foster more sustainable and resilient forms of urbanization and urban life, such as localization, industrial symbiosis, and ecological restoration and review processes of reducing the dependence on external resources and increasing the local production and consumption of goods and services. These approaches will be examined in different contexts and scales, from local to global, and from individual to collective.",
+      "sections": []
+    },
+    {
+      "program": "PPOL",
+      "code": "6120",
+      "name": "Capstone Project",
+      "units": 3,
+      "description": "Capstone project offers a unique opportunity for students to focus on specific areas of public policy and management in Hong Kong, China, or Asia and carry out in-depth studies. Students may expect discussions of issues that have been the cornerstones of the regions’ development that they choose. HKUST is well-positioned to share the experience of effective governance across Greater China in particular, and Asia-Pacific in general. Faculty supervisors will work with students to reach out to the practitioners in the public sector. Students will apply what they have learnt in class to analyze and solve the problems in the real and dynamic society. The project brings students to reflect on the overall training in the MPM Program and helps them consolidate their knowledge in the area.",
+      "sections": []
+    }
+  ],
+  "SBMT": [
+    {
+      "program": "SBMT",
+      "code": "2200W",
+      "name": "Social Enterprise Internship Program",
+      "units": 2,
+      "description": "The course is intended to give business undergraduate students an opportunity to gain exposure in the area of social entrepreneurship and apply their knowledge to solve real-world challenges facing these organizations. It is conducted in the form of an internship program at a designated social enterprise under the supervision of the School of Business and Management. Approval from the course coordinator is needed prior to enrolling in the course. Graded P or F. Students may repeat the course for credits if different topics are taken.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "3300N",
+      "name": "Business Competitions",
+      "units": 1,
+      "description": "In each business competition, students will be required to examine the conceptual and practical aspects of business policies and policy decision making by utilizing all the concepts, theories and tools that they learned in previous courses. This 1-credit course is offered in recognition of the students' outstanding performance in their participation of business competitions. Approval from the course coordinator is needed prior to enrolling in the course. Graded P or F. Students may repeat the course for credits if different case competitions are taken.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "5300",
+      "name": "Enhancing Professional Skills",
+      "units": 2,
+      "description": "It aims at helping MBA students work intensively on developing or improving some key presentation skills which will be useful to them throughout their business careers. Simply put, the essence of Enhancing Professional Skills as “Making a Logical, Effective and Persuasive Business Presentation\". Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6011M",
+      "name": "C-suite Life",
+      "units": 2,
+      "description": "The course aims to provide a simulated and role-play environment to enable students to apply their MBA learnings and experience in a complex management world. C-Suite Life is a real-time, live case-study which covers a broad range of business challenges spanning the field of management. Full engagement from students is expected.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6350A",
+      "name": "MBA Practical Internship Experience",
+      "units": 1,
+      "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6350B",
+      "name": "MBA Practical Internship Experience",
+      "units": 2,
+      "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6350C",
+      "name": "MBA Practical Internship Experience",
+      "units": 3,
+      "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6350D",
+      "name": "MBA Practical Internship Experience",
+      "units": 4,
+      "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6360A",
+      "name": "MBA Career Development Program",
+      "units": 1,
+      "description": "The course provides students access to practical and customized learning opportunities to be equipped with knowledge, skills and attributes to further advance in their careers. Workshops and training sessions such as recruitment talks and executive sharing can keep students exposed to valuable career connections, abreast with the latest development in the commercial world and trends in the job market. Through these career development activities, students will get to evaluate their own strengths and weaknesses, identify areas for improvement, collect feedback on interview techniques, further improve and formulate a personalized strategy to develop their career goals. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "6360D",
+      "name": "MBA Career Development Program",
+      "units": 4,
+      "description": "The course provides students access to practical and customized learning opportunities to be equipped with knowledge, skills and attributes to further advance in their careers. Workshops and training sessions such as recruitment talks and executive sharing can keep students exposed to valuable career connections, abreast with the latest development in the commercial world and trends in the job market. Through these career development activities, students will get to evaluate their own strengths and weaknesses, identify areas for improvement, collect feedback on interview techniques, further improve and formulate a personalized strategy to develop their career goals. Consent of instructor is required. Graded PP, P or F.",
+      "sections": []
+    }
+  ],
+  "SOSC": [
+    {
+      "program": "SOSC",
+      "code": "1969",
+      "name": "Discovering Mind and Behavior",
+      "units": 3,
+      "description": "This course introduces the fundamental scientific knowledge about human thinking and behavior processes and illustrates the relevance of this knowledge to the betterment of human performance and well-being in a wide variety of settings in society.",
+      "sections": []
+    },
+    {
+      "program": "SOSC",
+      "code": "6100A",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval.",
+      "sections": []
+    },
+    {
+      "program": "SOSC",
+      "code": "6100B",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval.",
+      "sections": []
+    }
+  ],
+  "UROP": [
+    {
+      "program": "UROP",
+      "code": "1000",
+      "name": "Undergraduate Research Opportunities",
+      "units": 0,
+      "description": "This course is developed under the Undergraduate Research Opportunities Program (UROP). It provides a platform on which students can gain some hands-on experience in conducting research in faculty-led projects during the summer session. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the project. This course can only be taken once for stipend option only; no course credit is assigned. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "UROP",
+      "code": "1100M",
+      "name": "Undergraduate Research Opportunities Series 1",
+      "units": 1,
+      "description": "This is the first course of a four-course series under the Undergraduate Research Opportunities Program (UROP), which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 1100 is a pre-requisite for proceeding to UROP 2100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of each course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "UROP",
+      "code": "2100M",
+      "name": "Undergraduate Research Opportunities Series 2",
+      "units": 1,
+      "description": "This is the second course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 1100 is a prerequisite for proceeding to UROP 2100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "UROP",
+      "code": "3100M",
+      "name": "Undergraduate Research Opportunities Series 3",
+      "units": 1,
+      "description": "This is the third course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 2100 or UROP 3200 is a prerequisite for proceeding to UROP 3100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "UROP",
+      "code": "3200",
+      "name": "Undergraduate Research Opportunities with Mini-conference Experience",
+      "units": 1,
+      "description": "This course provides a platform on which students can gain hands-on research experience and have a continued Undergraduate Research Opportunities Program (UROP) experience by taking the same research project or different project led by the same faculty supervisor. Students are required to participate in a mini- conference to deliver project presentations and to submit a final report. Approval by faculty supervisor(s) is required. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "UROP",
+      "code": "4100M",
+      "name": "Undergraduate Research Opportunities Series 4",
+      "units": 1,
+      "description": "This is the final course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 3100 or UROP 3200 is a prerequisite for proceeding to UROP 4100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F.",
+      "sections": []
+    }
+  ]
+}
