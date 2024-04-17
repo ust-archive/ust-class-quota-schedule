@@ -755,6 +755,16 @@
       "sections": []
     }
   ],
+  "MARK": [
+    {
+      "program": "MARK",
+      "code": "2120",
+      "name": "Marketing Management",
+      "units": 3,
+      "description": "Introduction to marketing from the perspective of the decision-maker; controllable variables (product, price, promotion and distribution), uncontrollable variables (competition, law, society, technology, and economy), consumer behavior and marketing research.",
+      "sections": []
+    }
+  ],
   "MASS": [
     {
       "program": "MASS",
