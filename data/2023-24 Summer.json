@@ -1615,6 +1615,48 @@
       "sections": []
     }
   ],
+  "MIMT": [
+    {
+      "program": "MIMT",
+      "code": "5010",
+      "name": "Market Research for Business Applications",
+      "units": 2,
+      "info": {
+        "vector": "[2-0-0:2]",
+        "exclusion": "MARK 5310",
+        "description": "This course aims to investigate the market research process and its application as a problem-solving tool for management decision making. Methods, techniques, and procedures of market research will be discussed, including topics on defining research problems, designing a research project, and in collecting, analyzing, recording and interpreting data, and report writing and presentation.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Evaluate marketing research and identify the opportunities and potential limitations of it.</td></tr><tr><td>2.</td><td>Identify the challenges and opportunities of executing a marketing research project in an international context.</td></tr><tr><td>3.</td><td>Critically evaluate and analyze marketing research data.</td></tr><tr><td>4.</td><td>Explain how new technological developments (big data, social media, mobile and physiological devices) may facilitate marketing research.</td></tr><tr><td>5.</td><td>Design and implement a marketing research project to solve business problems.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "MIMT",
+      "code": "5020",
+      "name": "Managerial Decision Making",
+      "units": 2,
+      "info": {
+        "vector": "[2-0-0:2]",
+        "description": "High quality managerial decisions require quality decision content and quality decision making process. This course focuses on the concepts and techniques that can develop effective decision-making skills for those who will be in management positions, both as individuals and in teams. Emphasis of topics will be put on how to facilitate and formalize the decision-making process, reveal decision-making biases and enable decision analysis to work as a powerful and flexible management tool that can address many types of business problems. It helps students understand what traps might be involved in the decision-making process and what can be done to improve the quality of decisions as a manager.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe how human beings make decisions and identify the major errors and biases in thinking and judgment.</td></tr><tr><td>2.</td><td>Increase the awareness of removing the obstacles in decision making.</td></tr><tr><td>3.</td><td>Suggest some strategies to overcome the obstacles in decision making.</td></tr><tr><td>4.</td><td>Apply decision making techniques and strategies in daily and managerial contexts.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "MIMT",
+      "code": "6110",
+      "name": "Skill Seminar I",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This skill seminar will be offered to develop the students' essential business and communication skills necessary to work in a global business environment such as communication, teamwork, negotiation and presentation skills. Some possible skill seminars include topics on time management, inter-cultural skills, group work abilities, international negotiation techniques, presentation skills, to name a few.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop essential business communication skills for various business objectives in a global context.</td></tr><tr><td>2.</td><td>Deliver well prepared and organized writing and presentation results.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
   "MSBD": [
     {
       "program": "MSBD",
