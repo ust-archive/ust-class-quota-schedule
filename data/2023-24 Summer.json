@@ -2195,8 +2195,8 @@
     },
     {
       "program": "SBMT",
-      "code": "6300G",
-      "name": "Global Study Tour - UK",
+      "code": "6300D",
+      "name": "Global Study Tour - London",
       "units": 2,
       "info": {
         "vector": "[2 credits]",
