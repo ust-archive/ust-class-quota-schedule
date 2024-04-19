@@ -80,6 +80,14 @@
   "BIEN": [
     {
       "program": "BIEN",
+      "code": "4930",
+      "name": "Bioengineering Thesis Research",
+      "units": 6,
+      "description": "A final-year project course offers an opportunity to conduct individual bioengineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major with approval from the department only.",
+      "sections": []
+    },
+    {
+      "program": "BIEN",
       "code": "4990",
       "name": "Academic and Professional Development II",
       "units": 1,
@@ -946,6 +954,14 @@
       "name": "Skill Seminar I",
       "units": 1,
       "description": "This skill seminar will be offered to develop the students' essential business and communication skills necessary to work in a global business environment such as communication, teamwork, negotiation and presentation skills. Some possible skill seminars include topics on time management, inter-cultural skills, group work abilities, international negotiation techniques, presentation skills, to name a few.",
+      "sections": []
+    },
+    {
+      "program": "MIMT",
+      "code": "6300",
+      "name": "International Internship",
+      "units": 0,
+      "description": "Students are required to work on a minimum of 10-week international internship to get practical work experience to prepare for graduate employment. The location of international internship together with students' home country, home school and exchange school must cover at least three countries. Students' performance in the internship will be assessed and evaluated by the company upon completion of the internship. Graded PP, P or F.",
       "sections": []
     }
   ],
