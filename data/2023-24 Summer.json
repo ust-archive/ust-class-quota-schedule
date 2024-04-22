@@ -2281,11 +2281,11 @@
     },
     {
       "program": "SBMT",
-      "code": "6360A",
+      "code": "6360D",
       "name": "MBA Career Development Program",
-      "units": 1,
+      "units": 4,
       "info": {
-        "vector": "[1 credit]",
+        "vector": "[4 credits]",
         "description": "The course provides students access to practical and customized learning opportunities to be equipped with knowledge, skills and attributes to further advance in their careers. Workshops and training sessions such as recruitment talks and executive sharing can keep students exposed to valuable career connections, abreast with the latest development in the commercial world and trends in the job market. Through these career development activities, students will get to evaluate their own strengths and weaknesses, identify areas for improvement, collect feedback on interview techniques, further improve and formulate a personalized strategy to develop their career goals. Consent of instructor is required. Graded PP, P or F."
       },
       "attrs": [],
@@ -2293,11 +2293,11 @@
     },
     {
       "program": "SBMT",
-      "code": "6360D",
+      "code": "6360F",
       "name": "MBA Career Development Program",
-      "units": 4,
+      "units": 1,
       "info": {
-        "vector": "[4 credits]",
+        "vector": "[1 credit]",
         "description": "The course provides students access to practical and customized learning opportunities to be equipped with knowledge, skills and attributes to further advance in their careers. Workshops and training sessions such as recruitment talks and executive sharing can keep students exposed to valuable career connections, abreast with the latest development in the commercial world and trends in the job market. Through these career development activities, students will get to evaluate their own strengths and weaknesses, identify areas for improvement, collect feedback on interview techniques, further improve and formulate a personalized strategy to develop their career goals. Consent of instructor is required. Graded PP, P or F."
       },
       "attrs": [],
