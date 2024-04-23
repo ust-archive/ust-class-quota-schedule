@@ -2209,6 +2209,32 @@
     },
     {
       "program": "SBMT",
+      "code": "5730",
+      "name": "MBA Accelerator - Python",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This pre-program course aims to provide elementary or refreshing knowledge in technical skills to prepare students for the academic demands and rigor of MBA courses. Python is used for creating high-level abstractions for well-written and well-optimized frameworks, where business applications rely on. The course will cover Python programming language for developing business applications, the practical libraries and packages. Graded P or F.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply fundamental knowledge in business programming and Python syntax.</td></tr><tr><td>2.</td><td>Generate a better sense of MBA learning momentum and minimize the gap in technical knowledge level among students from different background to assist  smooth transition to learning.</td></tr><tr><td>3.</td><td>Recognize the level of techniques and skills required for accomplishing the study plan ahead.</td></tr><tr><td>4.</td><td>Design and debug Python programs.</td></tr><tr><td>5.</td><td>Develop business applications with Python.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "5740",
+      "name": "MBA Accelerator - Data Analysis",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This pre-program course aims to provide elementary or refreshing knowledge in quantitative and analysis hard skills to prepare students for the academic demands and rigor of MBA courses. It will cover data and variation, probability model and association between random variables at introductory level. Graded P or F.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply fundamental knowledge in quantitative skills and statistics analysis.</td></tr><tr><td>2.</td><td>Generate a better sense of MBA learning momentum and minimize the gap in knowledge level among students from different background to assist smooth transition to learning.</td></tr><tr><td>3.</td><td>Recognize the level of statistics and hard skills required for accomplishing the study plan ahead.</td></tr><tr><td>4.</td><td>Recognize and describe statistical methods typically used in the analysis of business data.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "SBMT",
       "code": "6011M",
       "name": "C-suite Life",
       "units": 2,

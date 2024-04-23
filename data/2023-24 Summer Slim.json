@@ -1384,6 +1384,22 @@
     },
     {
       "program": "SBMT",
+      "code": "5730",
+      "name": "MBA Accelerator - Python",
+      "units": 1,
+      "description": "This pre-program course aims to provide elementary or refreshing knowledge in technical skills to prepare students for the academic demands and rigor of MBA courses. Python is used for creating high-level abstractions for well-written and well-optimized frameworks, where business applications rely on. The course will cover Python programming language for developing business applications, the practical libraries and packages. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
+      "code": "5740",
+      "name": "MBA Accelerator - Data Analysis",
+      "units": 1,
+      "description": "This pre-program course aims to provide elementary or refreshing knowledge in quantitative and analysis hard skills to prepare students for the academic demands and rigor of MBA courses. It will cover data and variation, probability model and association between random variables at introductory level. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "SBMT",
       "code": "6011M",
       "name": "C-suite Life",
       "units": 2,
