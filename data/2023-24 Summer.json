@@ -301,6 +301,20 @@
   "CIEM": [
     {
       "program": "CIEM",
+      "code": "5180",
+      "name": "Construction Technology for Civil Engineering Works",
+      "units": 3,
+      "info": {
+        "vector": "[3-0-0:3]",
+        "previous code": "CIEM 6000S",
+        "description": "This course intends to provide an overview of modern construction technology for civil engineering works with special attention paid to recent development trends and major construction works in Hong Kong. The course starts with the design/construction interface and focuses on the Contractor’s perspective. In particular, ground improvements, reclamation works, excavation-lateral support system and modular construction as well as digital construction will be highlighted. With an aim to help students who have limited exposure to construction practice, this course uses a Capstone project to help the students to form a comprehensive view of a construction project, including site layouts, construction practice, contract type, and construction methods. Students would be required to apply the knowledge learned to describe a real-life construction project and critically analyze the construction activities.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the routines of local construction practice with an international exposure.</td></tr><tr><td>2.</td><td>Professionally describe a construction project and its main elements and characteristics.</td></tr><tr><td>3.</td><td>Explain the connections between design and construction.</td></tr><tr><td>4.</td><td>Analyze the full set of construction activities including both underground and superstructure works.</td></tr><tr><td>5.</td><td>Identify key construction methods and technologies for both permanent and temporary works.</td></tr><tr><td>6.</td><td>Be aware of the current construction practice and its future trends.</td></tr><tr><td>7.</td><td>Describe ways of improving construction process by innovations.</td></tr><tr><td>8.</td><td>Interpret the contract, commercial, planning and HSE (Health, Safety and Environmental) perspectives of a construction project.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "CIEM",
       "code": "6980",
       "name": "MSc Project",
       "units": 6,
