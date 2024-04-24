@@ -192,6 +192,22 @@
     },
     {
       "program": "CIEM",
+      "code": "5310",
+      "name": "Structural Analysis and Design of Tall Buildings",
+      "units": 3,
+      "description": "Integrated treatment of analytical methods and technical aspects in design of tall building structures, including structural modeling, frames, shear walls, outrigger-braced systems, core-walls, tubular structures, and special topics.",
+      "sections": []
+    },
+    {
+      "program": "CIEM",
+      "code": "5390",
+      "name": "Coastal Structures Design",
+      "units": 3,
+      "description": "The course will cover basic wave characteristics, linear wave theory, wave transformation processes, wind-wave generation, coastal processes, wave-structure interaction, design procedures and requirements for coastal structures such as seawalls, breakwaters and beaches.",
+      "sections": []
+    },
+    {
+      "program": "CIEM",
       "code": "6980",
       "name": "MSc Project",
       "units": 6,

@@ -315,6 +315,33 @@
     },
     {
       "program": "CIEM",
+      "code": "5310",
+      "name": "Structural Analysis and Design of Tall Buildings",
+      "units": 3,
+      "info": {
+        "vector": "[3-0-0:3]",
+        "exclusion": "CIVL 5310 (prior to 2022-23)",
+        "description": "Integrated treatment of analytical methods and technical aspects in design of tall building structures, including structural modeling, frames, shear walls, outrigger-braced systems, core-walls, tubular structures, and special topics.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the engineering mechanics and structural modelling techniques on which the analysis and design of tall building structures are based.</td></tr><tr><td>2.</td><td>Identify the structural behaviour and performance of different forms of tall buildings and the analysis and design principles of tall building structures.</td></tr><tr><td>3.</td><td>Conduct analysis and preliminary design of different types of tall building structures.</td></tr><tr><td>4.</td><td>Apply the modern engineering software ETABS for the analysis and design of tall building structures.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "CIEM",
+      "code": "5390",
+      "name": "Coastal Structures Design",
+      "units": 3,
+      "info": {
+        "vector": "[3-0-0:3]",
+        "description": "The course will cover basic wave characteristics, linear wave theory, wave transformation processes, wind-wave generation, coastal processes, wave-structure interaction, design procedures and requirements for coastal structures such as seawalls, breakwaters and beaches.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the challenges that confront costal engineers.</td></tr><tr><td>2.</td><td>Integrate various approaches and tools to analyze and design costal structures.</td></tr><tr><td>3.</td><td>Describe and apply the principles that underpin the estimation of wave loads on structures.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "CIEM",
       "code": "6980",
       "name": "MSc Project",
       "units": 6,
