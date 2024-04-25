@@ -1374,6 +1374,14 @@
     },
     {
       "program": "PPOL",
+      "code": "6100R",
+      "name": "Public Policy Perspectives on Crime Prevention and Criminal Justice",
+      "units": 3,
+      "description": "This course provides a comprehensive exploration of crime prevention and justice administration from various public policy perspectives. It covers internationally recognized standards and norms, their application to real-world issues in crime prevention and criminal justice, and the importance of human rights and the rule of law. Students will learn about norms and standards for criminal justice institutions and gain critical competencies to assess crime prevention efforts and the effectiveness of criminal justice institutions.",
+      "sections": []
+    },
+    {
+      "program": "PPOL",
       "code": "6120",
       "name": "Capstone Project",
       "units": 3,
