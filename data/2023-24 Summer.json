@@ -968,6 +968,18 @@
         }
       ],
       "sections": []
+    },
+    {
+      "program": "HUMA",
+      "code": "7990",
+      "name": "Doctoral Thesis Research",
+      "units": 0,
+      "info": {
+        "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Produce a scholarly work on the basis of original research, the level of originality of which is appropriate to the doctoral degree.</td></tr><tr><td>2.</td><td>Be fully aware of the conceptual and methodological problems relating to the chosen research topic.</td></tr><tr><td>3.</td><td>Possess a solid command of bibliographical materials in the field of study.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
     }
   ],
   "IBTM": [
