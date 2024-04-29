@@ -786,6 +786,34 @@
       "sections": []
     }
   ],
+  "GFIN": [
+    {
+      "program": "GFIN",
+      "code": "5050",
+      "name": "Applied Corporate Finance and Valuation",
+      "units": 2,
+      "info": {
+        "vector": "[2-0-0:2]",
+        "description": "This course focuses on the valuation of companies and the creation of shareholder value by looking at the interplay of corporate strategy and finance.  The course exposes participants to valuation frameworks that can readily be applied to improve business and strategic decision-making.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Illustrate how firms create value by restructuring debt, managing financial distress, and determining optimal leverage.</td></tr><tr><td>2.</td><td>Measure value of assets and liabilities by applying direct valuation methods such as discounted cash flow analysis.</td></tr><tr><td>3.</td><td>Measure value of assets by applying relative valuation methods such as comparable companies analysis.</td></tr><tr><td>4.</td><td>Quantify the impact of decisions to restructure assets on firm value.</td></tr><tr><td>5.</td><td>Identify sources of value creation in mergers and acquisitions and decide on the method of payments.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "GFIN",
+      "code": "5100",
+      "name": "Financial Markets and Corporate Finance in China",
+      "units": 2,
+      "info": {
+        "vector": "[2-0-0:2]",
+        "description": "This course provides an overview of China's financial markets, the reform of financial institutions and corporate risk management.  Students will gain an understanding of the recent developments in financial services and corporate practices in China.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Interpret macroeconomic releases issued by the Chinese Government.</td></tr><tr><td>2.</td><td>Assess the impact of macroeconomic releases on business opportunities in China.</td></tr><tr><td>3.</td><td>Identify investment opportunities and risks of domestic and foreign investments in China.</td></tr><tr><td>4.</td><td>Identify capital sources such as informal banking and private equity in China.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
   "GNED": [
     {
       "program": "GNED",

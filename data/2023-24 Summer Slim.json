@@ -477,6 +477,24 @@
       "sections": []
     }
   ],
+  "GFIN": [
+    {
+      "program": "GFIN",
+      "code": "5050",
+      "name": "Applied Corporate Finance and Valuation",
+      "units": 2,
+      "description": "This course focuses on the valuation of companies and the creation of shareholder value by looking at the interplay of corporate strategy and finance.  The course exposes participants to valuation frameworks that can readily be applied to improve business and strategic decision-making.",
+      "sections": []
+    },
+    {
+      "program": "GFIN",
+      "code": "5100",
+      "name": "Financial Markets and Corporate Finance in China",
+      "units": 2,
+      "description": "This course provides an overview of China's financial markets, the reform of financial institutions and corporate risk management.  Students will gain an understanding of the recent developments in financial services and corporate practices in China.",
+      "sections": []
+    }
+  ],
   "GNED": [
     {
       "program": "GNED",
