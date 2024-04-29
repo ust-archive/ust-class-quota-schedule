@@ -865,6 +865,14 @@
       "units": 4,
       "description": "Sample spaces, conditional probability, random variables, independence, discrete and continuous distributions, expectation, correlation, moment generating function, distributions of function of random variables, law of large numbers and limit theorems.",
       "sections": []
+    },
+    {
+      "program": "MATH",
+      "code": "4985O",
+      "name": "Independent Study: Percolation Theory",
+      "units": 1,
+      "description": "Percolation theory is the study of random connected components that appear if one removes edges or vertices of a graph according to a certain prescribed rule. The particularly simple model of Bernoulli percolation has originally been devised as a description for porous media by Broadbent and Hammersley in the 1950s, and its mathematically rich phenomenology has attracted much attention since then. The principal objective of this independent study course is to study important techniques used in Bernoulli percolation on Zd, d ≥ 2, in particular the FKG- and BK-inequalities, enhancements, exponential decay, renormalization, the Burton-Keane argument, and planar techniques such as Russo-Seymour-Welsh (RSW) theory. Towards the end, certain extensions of Bernoulli percolation models (correlated percolation, continuum percolation) will also be shortly discussed. Some familiarity with concepts from measure-theoretic probability theory (on the level of MATH 2431 Honors Probability) is helpful to follow this course. Students should seek the course instructor's approval to take this course.",
+      "sections": []
     }
   ],
   "MCEE": [
