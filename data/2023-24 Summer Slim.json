@@ -1403,6 +1403,14 @@
       "units": 3,
       "description": "This course provides students with an opportunity to gain work experience in physics. Students will undertake internships in companies/organizations. For PHYS students with instructor's approval only. Graded P or F.",
       "sections": []
+    },
+    {
+      "program": "PHYS",
+      "code": "6100B",
+      "name": "Individual Study in Physics",
+      "units": 1,
+      "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course.",
+      "sections": []
     }
   ],
   "PPOL": [

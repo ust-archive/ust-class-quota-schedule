@@ -2243,6 +2243,18 @@
       },
       "attrs": [],
       "sections": []
+    },
+    {
+      "program": "PHYS",
+      "code": "6100B",
+      "name": "Individual Study in Physics",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course."
+      },
+      "attrs": [],
+      "sections": []
     }
   ],
   "PPOL": [
