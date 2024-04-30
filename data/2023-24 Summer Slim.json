@@ -795,6 +795,16 @@
       "sections": []
     }
   ],
+  "MAED": [
+    {
+      "program": "MAED",
+      "code": "6980",
+      "name": "MSc Project",
+      "units": 3,
+      "description": "In this course, the student will do a project in an area of mathematics or mathematics education under the guidance of a faculty member. The project either surveys a topic, develops teaching plans and materials, or describes an investigation completed by the student.",
+      "sections": []
+    }
+  ],
   "MAFS": [
     {
       "program": "MAFS",

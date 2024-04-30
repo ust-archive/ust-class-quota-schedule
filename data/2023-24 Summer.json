@@ -1381,6 +1381,21 @@
       "sections": []
     }
   ],
+  "MAED": [
+    {
+      "program": "MAED",
+      "code": "6980",
+      "name": "MSc Project",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "In this course, the student will do a project in an area of mathematics or mathematics education under the guidance of a faculty member. The project either surveys a topic, develops teaching plans and materials, or describes an investigation completed by the student.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain advanced mathematical theories, concepts and principles using precise mathematical language, and identify the applications of this knowledge in different daily life scenarios.</td></tr><tr><td>2.</td><td>Apply independent judgment to investigative mathematical work or relevant educational materials.</td></tr><tr><td>3.</td><td>Apply a rigorous, logical and analytic approach to execute tasks and solve mathematical problems.</td></tr><tr><td>4.</td><td>Communicate mathematical concepts and methods effectively to a range of audiences, both orally and in writing.</td></tr><tr><td>5.</td><td>Work effectively on a prescribed topic in mathematics or mathematics education, and show the capability of delivering presentations in front of professional teachers or scientific experts.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
   "MAFS": [
     {
       "program": "MAFS",
