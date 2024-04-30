@@ -1394,6 +1394,18 @@
       },
       "attrs": [],
       "sections": []
+    },
+    {
+      "program": "MAED",
+      "code": "6981A",
+      "name": "Independent Study",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "Independent study of selected mathematical topic(s) under the supervision of a faculty member. Consent of instructor is required, and each student can only study this course for once."
+      },
+      "attrs": [],
+      "sections": []
     }
   ],
   "MAFS": [

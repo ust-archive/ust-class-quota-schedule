@@ -803,6 +803,14 @@
       "units": 3,
       "description": "In this course, the student will do a project in an area of mathematics or mathematics education under the guidance of a faculty member. The project either surveys a topic, develops teaching plans and materials, or describes an investigation completed by the student.",
       "sections": []
+    },
+    {
+      "program": "MAED",
+      "code": "6981A",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "Independent study of selected mathematical topic(s) under the supervision of a faculty member. Consent of instructor is required, and each student can only study this course for once.",
+      "sections": []
     }
   ],
   "MAFS": [
