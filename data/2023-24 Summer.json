@@ -1564,6 +1564,18 @@
     },
     {
       "program": "MATH",
+      "code": "4985N",
+      "name": "Independent Study: Immediate Complex Analysis",
+      "units": 3,
+      "info": {
+        "pre-requisite": "MATH 4023",
+        "description": "This course consists of a selection of topics in intermediate complex analysis, including the construction of meromorphic functions, some special functions and their relations with other branches of mathematics, differential equations in the complex domain and monodromy, the growth and distribution of zeros of entire or holomorphic functions, and some fractional calculus. Students should seek the course instructor's approval to take this course."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "MATH",
       "code": "4985O",
       "name": "Independent Study: Percolation Theory",
       "units": 1,
