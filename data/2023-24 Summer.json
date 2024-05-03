@@ -1008,6 +1008,43 @@
       "sections": []
     }
   ],
+  "IEDA": [
+    {
+      "program": "IEDA",
+      "code": "1901",
+      "name": "Industrial Training and Experience",
+      "units": 0,
+      "info": {
+        "description": "This course is intended to provide UG students with practical hands-on training in the form of either a full-time internship training or industrial training course in an industrial simulated environment. Students who opt for internship training should complete a full-time internship training for a period of at least 4 weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the industrial engineering and decision analytics. Students must also complete the USTSIEB Safety Training module. For IEDA students in their second year of study or above only. Students should seek approval of the internship coordinator for enrollment in the course. Graded P, PP or F."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "IEDA",
+      "code": "4920",
+      "name": "Decision Analytics Final Year Project",
+      "units": 6,
+      "info": {
+        "exclusion": "IEDA 4901, IEDA 4960",
+        "description": "This is a one-year course undertaken by students in their final year. The course will require students to engage in a company sponsored project that provides practical experience to the students on topics they have learnt in their major courses. The project requires regular involvement by a specific professional in the sponsoring company, and will be supervised by a faculty in the department. Depending on the complexity of the project and the capacity of the sponsoring company, the project may be undertaken by either a single student, or a group with a maximum of four students. For projects with multiple members in a group, the role and deliverables of each student must be clearly laid out at the outset. For DA students in their fourth year of study only. May be graded PP."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "IEDA",
+      "code": "4960",
+      "name": "Industrial Engineering and Engineering Management Final Year Project",
+      "units": 6,
+      "info": {
+        "exclusion": "IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990",
+        "description": "A one year long final year project related to industrial engineering and engineering management. Supervised by a faculty member. A project proposal and a final report are required. Credit load will be spread over the year. For IEEM students in their fourth year of study only. May be graded PP."
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
   "ISDN": [
     {
       "program": "ISDN",
@@ -1945,8 +1982,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 13,
-          "available": 67,
+          "enroll": 11,
+          "available": 69,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -1966,8 +2003,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 13,
-          "available": 67,
+          "enroll": 11,
+          "available": 69,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
