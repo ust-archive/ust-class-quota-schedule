@@ -495,6 +495,18 @@
     },
     {
       "program": "COMP",
+      "code": "4971C",
+      "name": "Independent Work",
+      "units": 3,
+      "info": {
+        "previous code": "COMP 390C",
+        "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "COMP",
       "code": "4971D",
       "name": "Independent Work",
       "units": 4,
@@ -2355,6 +2367,18 @@
       "info": {
         "vector": "[3-0-0:3]",
         "description": "This course provides a comprehensive exploration of crime prevention and justice administration from various public policy perspectives. It covers internationally recognized standards and norms, their application to real-world issues in crime prevention and criminal justice, and the importance of human rights and the rule of law. Students will learn about norms and standards for criminal justice institutions and gain critical competencies to assess crime prevention efforts and the effectiveness of criminal justice institutions."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "PPOL",
+      "code": "6100S",
+      "name": "The Political Economy of Poverty, Inequality, and Development",
+      "units": 3,
+      "info": {
+        "vector": "[3-0-0:3]",
+        "description": "Why is poverty such an intractable problem in a world of unprecedented wealth? Why does global inequality keep increasing in most of the world, and why has this problem been ignored for such a long time? Why are some countries able to develop and others not? And perhaps most uncomfortably, is it possible to achieve universal progress on poverty, inequality, and development, or does progress necessarily mean that some people and countries fall behind as others advance in the current systemic configuration? In this course, we will draw on key theories of political economy and development as well as on long-standing debates in the history of development thought and practice to try and answer these and other related questions, and critically evaluate a wide range of mainstream and alternative development models and issues, and the complex politics behind them. The course will be useful to those pursuing a career in the public and private sectors, international organizations, civil society organizations, journalism, or academia, as well as to anyone wanting to understand poverty, inequality, and development better and to make a difference."
       },
       "attrs": [],
       "sections": []
