@@ -284,6 +284,14 @@
     },
     {
       "program": "COMP",
+      "code": "1991",
+      "name": "Industrial Experience",
+      "units": 0,
+      "description": "Full-time internship training for a period of at least six weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the computer science and engineering profession. Cantonese or other working languages may be used in off-campus trainings and internships, in some situations. For students of the Department of Computer Science and Engineering in their second year of study or above only. Internship coordinator's approval is required for enrollment in the course. Graded P, PP or F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
       "code": "2711",
       "name": "Discrete Mathematical Tools for Computer Science",
       "units": 4,
@@ -312,6 +320,22 @@
       "name": "Independent Work",
       "units": 4,
       "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "4981",
+      "name": "Final Year Project",
+      "units": 6,
+      "description": "Students are expected to complete a project in an area of specialization in Computer Science and Engineering under the guidance of a faculty member. Objectives are to integrate the classroom material from several courses, and to apply them to solve practical problems. Credit load will be spread over the year. For students in the BEng in Computer Science and BEng in Computer Engineering programs under the four-year degree only.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
+      "code": "4981H",
+      "name": "Final Year Thesis",
+      "units": 6,
+      "description": "Students are expected to conduct research under the supervision of a faculty member, summarize their work in an individual thesis and make a defense at the end. Credit load will be spread over the year. For students in the BEng in Computer Science and BEng in Computer Engineering programs under the four-year degree only. Instructor's approval is required for enrollment in the course.",
       "sections": []
     }
   ],
