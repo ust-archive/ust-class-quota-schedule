@@ -226,6 +226,14 @@
     },
     {
       "program": "CIVL",
+      "code": "3020",
+      "name": "Internship Training",
+      "units": 0,
+      "description": "For students of the Civil and Environmental Engineering Department only. Internship training provides students the opportunity to gain professional experience and to apply theories to real-life situations. Students are required to complete a minimum of six weeks on-the-job training in civil engineering consulting firms, contractors, developers or relevant government departments, or an equivalent of 5-week mock construction training under the supervision of professional practitioners. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "CIVL",
       "code": "5840",
       "name": "Advanced Concrete Technology",
       "units": 3,
