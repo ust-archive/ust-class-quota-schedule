@@ -2724,6 +2724,17 @@
   "TEMG": [
     {
       "program": "TEMG",
+      "code": "4940D",
+      "name": "T&M Prototyping and Research Project: Smart Digital Solutions - Net Zero Carbon Building AECOM",
+      "units": 3,
+      "info": {
+        "description": "The goal of TEMG4940 series of experiential-learning courses is for T&M-DDP students to gain deep insight into an industry domain by working with corporate-sponsor(s) to understand a new trend in the industry, appreciate the business challenges behind the problem, and develop a working prototype incorporating innovative business strategies and advanced software tools. Instructor consent is required for this course."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "TEMG",
       "code": "4970C",
       "name": "T&M IBPC Startup Project: ABPC2024 Deep Tech Startup Competition in Singapore",
       "units": 3,
