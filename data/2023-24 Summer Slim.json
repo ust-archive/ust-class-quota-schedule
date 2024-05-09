@@ -663,6 +663,16 @@
       "sections": []
     }
   ],
+  "IDPO": [
+    {
+      "program": "IDPO",
+      "code": "2920",
+      "name": "Undergraduate Practice Opportunities",
+      "units": 3,
+      "description": "This course intends to enhance students’ career readiness by participating in a series of career workshops, taking up a full-time internship and engaging in post-internship self-reflection. Also, students will attend a conference upon internship completion to share their experience and get insights and feedback from senior business executives, career coaches, and professors. Students will learn more about themselves, important job-hunting skills and how to transition into being a professional smoothly. Relevant one-on-one career coaching sessions are also available to guide students to identify a career suiting their interests and passions. For Year 2 or above students. Graded PP, P or F.",
+      "sections": []
+    }
+  ],
   "IEDA": [
     {
       "program": "IEDA",
@@ -1247,8 +1257,8 @@
           "room": "Rm 2405, Lift 17-18 (92)",
           "quota": [
             80,
-            56,
-            24,
+            61,
+            19,
             0
           ]
         },
@@ -1266,8 +1276,8 @@
           "room": "Rm 2405, Lift 17-18 (92)",
           "quota": [
             80,
-            56,
-            24,
+            61,
+            19,
             0
           ]
         }
@@ -1294,8 +1304,8 @@
           "room": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             20,
-            2,
-            18,
+            3,
+            17,
             0
           ]
         },
@@ -1313,8 +1323,8 @@
           "room": "Rm 6140",
           "quota": [
             20,
-            2,
-            18,
+            3,
+            17,
             0
           ]
         },
@@ -1332,8 +1342,8 @@
           "room": "Rm 6140",
           "quota": [
             20,
-            2,
-            18,
+            3,
+            17,
             0
           ]
         }
@@ -1360,8 +1370,8 @@
           "room": "Lecture Theater D (216)",
           "quota": [
             60,
-            23,
-            37,
+            24,
+            36,
             0
           ]
         },
@@ -1379,8 +1389,8 @@
           "room": "Lecture Theater D (216)",
           "quota": [
             60,
-            23,
-            37,
+            24,
+            36,
             0
           ]
         },
@@ -1398,8 +1408,8 @@
           "room": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
-            23,
-            7,
+            24,
+            6,
             0
           ]
         },
@@ -1445,8 +1455,8 @@
           "room": "Rm 4503, Lift 25-26 (64)",
           "quota": [
             40,
-            10,
-            30,
+            11,
+            29,
             0
           ]
         },
@@ -1464,8 +1474,8 @@
           "room": "Rm 6137, Lift 19, 22",
           "quota": [
             20,
-            9,
-            11,
+            10,
+            10,
             0
           ]
         },
@@ -1483,8 +1493,8 @@
           "room": "Rm 6137, Lift 19, 22",
           "quota": [
             20,
-            9,
-            11,
+            10,
+            10,
             0
           ]
         },

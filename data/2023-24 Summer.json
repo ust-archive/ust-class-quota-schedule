@@ -1122,6 +1122,19 @@
       "sections": []
     }
   ],
+  "IDPO": [
+    {
+      "program": "IDPO",
+      "code": "2920",
+      "name": "Undergraduate Practice Opportunities",
+      "units": 3,
+      "info": {
+        "description": "This course intends to enhance students’ career readiness by participating in a series of career workshops, taking up a full-time internship and engaging in post-internship self-reflection. Also, students will attend a conference upon internship completion to share their experience and get insights and feedback from senior business executives, career coaches, and professors. Students will learn more about themselves, important job-hunting skills and how to transition into being a professional smoothly. Relevant one-on-one career coaching sessions are also available to guide students to identify a career suiting their interests and passions. For Year 2 or above students. Graded PP, P or F."
+      },
+      "attrs": [],
+      "sections": []
+    }
+  ],
   "IEDA": [
     {
       "program": "IEDA",
@@ -2108,8 +2121,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 56,
-          "available": 24,
+          "enroll": 61,
+          "available": 19,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2129,8 +2142,8 @@
           ],
           "assistants": [],
           "quota": 80,
-          "enroll": 56,
-          "available": 24,
+          "enroll": 61,
+          "available": 19,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2163,8 +2176,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 2,
-          "available": 18,
+          "enroll": 3,
+          "available": 17,
           "waitlist": 0,
           "remarks": []
         },
@@ -2182,8 +2195,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 2,
-          "available": 18,
+          "enroll": 3,
+          "available": 17,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2203,8 +2216,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 2,
-          "available": 18,
+          "enroll": 3,
+          "available": 17,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2238,8 +2251,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 23,
-          "available": 37,
+          "enroll": 24,
+          "available": 36,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2259,8 +2272,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 23,
-          "available": 37,
+          "enroll": 24,
+          "available": 36,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2280,8 +2293,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 23,
-          "available": 7,
+          "enroll": 24,
+          "available": 6,
           "waitlist": 0,
           "remarks": []
         },
@@ -2331,8 +2344,8 @@
           ],
           "assistants": [],
           "quota": 40,
-          "enroll": 10,
-          "available": 30,
+          "enroll": 11,
+          "available": 29,
           "waitlist": 0,
           "remarks": []
         },
@@ -2350,8 +2363,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 10,
+          "available": 10,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2371,8 +2384,8 @@
           ],
           "assistants": [],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 10,
+          "available": 10,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
