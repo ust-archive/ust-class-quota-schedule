@@ -1220,6 +1220,14 @@
     },
     {
       "program": "OCES",
+      "code": "6012A",
+      "name": "Global Perspectives in Environmental Health and Safety",
+      "units": 1,
+      "description": "This special topic course offers students a unique opportunity to engage directly with leading environmental agents, companies, NGOs, and government departments overseas. By visiting these organizations, students will gain firsthand exposure to innovative practices in environmental protection and sustainability. The course includes visits to various facilities, bridging theoretical knowledge with real-world applications. Instructor’s approval is required for enrollment in the course.",
+      "sections": []
+    },
+    {
+      "program": "OCES",
       "code": "6112",
       "name": "Research Project in Global Marine Resources Management II",
       "units": 6,
