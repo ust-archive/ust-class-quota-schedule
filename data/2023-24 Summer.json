@@ -651,6 +651,19 @@
       },
       "attrs": [],
       "sections": []
+    },
+    {
+      "program": "EEMT",
+      "code": "6900",
+      "name": "Independent Study",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "An Independent study carried under the supervision of a faculty member.",
+        "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identity a research or industrial problem related to engineering management.</td></tr><tr><td>2.</td><td>Apply the knowledge learned through the program to analyze and solve the identified problem.</td></tr><tr><td>3.</td><td>Apply project management skills to finish a project independently. </td></tr><tr><td>4.</td><td>Demonstrate effective communication skills with the supervisor and scientific writing skills in the thesis.</td></tr></table>"
+      },
+      "attrs": [],
+      "sections": []
     }
   ],
   "EESM": [

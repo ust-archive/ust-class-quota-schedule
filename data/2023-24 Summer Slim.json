@@ -407,6 +407,14 @@
       "units": 3,
       "description": "This course will expose students to the diversified service industries and equip them with knowledge and skills of improving productivity and quality of service firms.  Students will learn the latest concepts, techniques, and methodologies in service system design, service level, quality of service, service product life cycle, measurements, design for serviceability, analysis, productivity in services, client satisfaction, training, and services logistics.  They will also learn how to apply the knowledge to decision making in planning, organizing, and managing service operations.\r",
       "sections": []
+    },
+    {
+      "program": "EEMT",
+      "code": "6900",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "An Independent study carried under the supervision of a faculty member.",
+      "sections": []
     }
   ],
   "EESM": [
