@@ -799,6 +799,28 @@
     },
     {
       "program": "ENGG",
+      "code": "4950F",
+      "name": "Engineering Special Project: Summer Research Program",
+      "units": 1,
+      "info": {
+        "description": "This program aims to provide students with hands-on experience and networking opportunities through a research internship in their field of study in an international context. Enrollment in the project course may require instructor's approval. Graded P or F."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "ENGG",
+      "code": "4950U",
+      "name": "Engineering Special Project: Summer Research Program",
+      "units": 3,
+      "info": {
+        "description": "This program aims to provide students with hands-on experience and networking opportunities through a research internship in their field of study in an international context. Enrollment in the project course may require instructor's approval. Graded P or F."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "ENGG",
       "code": "6200",
       "name": "MSc Practical Learning and Enrichment",
       "units": 0,
