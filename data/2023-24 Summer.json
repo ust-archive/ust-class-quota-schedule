@@ -1504,7 +1504,7 @@
       "info": {
         "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
         "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
-        "exclusion": "Level 3 or above in HKDSE 1/2x Biology or in HKDSE 1x Biology, LIFS 1901, LIFS 1902",
+        "exclusion": "Level 3 or above in HKDSE 1/2x Biology or in HKDSE 1x Biology, LIFS 1010, LIFS 1901, LIFS 1902, LIFS 1930, LIFS 2060",
         "previous code": "CORE 1130",
         "description": "This course introduces the basic biological principles of human health and diseases with an emphasis on the contemporary leading causes of death in Hong Kong and the world. Topics mainly focus on common and emerging diseases, aging, and the influence of biotechnology, environment, and culture on human health. Students without HKDSE qualifications may seek instructor’s approval for enrolment."
       },
