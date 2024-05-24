@@ -703,6 +703,14 @@
       "units": 3,
       "description": "This course intends to enhance students’ career readiness by participating in a series of career workshops, taking up a full-time internship and engaging in post-internship self-reflection. Also, students will attend a conference upon internship completion to share their experience and get insights and feedback from senior business executives, career coaches, and professors. Students will learn more about themselves, important job-hunting skills and how to transition into being a professional smoothly. Relevant one-on-one career coaching sessions are also available to guide students to identify a career suiting their interests and passions. For Year 2 or above students. Graded PP, P or F.",
       "sections": []
+    },
+    {
+      "program": "IDPO",
+      "code": "4950B",
+      "name": "Interdisciplinary Special Project",
+      "units": 3,
+      "description": "Special projects on selected interdisciplinary topics supervised by one or a group of faculty members. May be repeated for credits if different topics are taken. Enrollment may require approval of the course instructor. For DDP, RMBI, EVMT, and IIM students or those with approval from instructor for enrolling in the course.",
+      "sections": []
     }
   ],
   "IEDA": [
