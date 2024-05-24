@@ -397,6 +397,14 @@
       "units": 2,
       "description": "The course aims to prepare students as economists or macro strategists in the financial industry. We will introduce how to conduct macroeconomic research in the financial industry. The course will cover both analysis on cyclical economic fluctuations and secular trends due to structural change, with a focus on the China economy. We will discuss how the macro data and trends will impact financial markets and asset prices. By the end of the course, students will learn how to build a holistic framework and use it to make predictions and conduct counterfactual scenario analysis.",
       "sections": []
+    },
+    {
+      "program": "ECON",
+      "code": "6120Z",
+      "name": "International Macroeconomics and Finance",
+      "units": 3,
+      "description": "The course aims at introduce some basics of small open economy models which aims to understand emerging economies. These include understanding their business cycles, sudden stops, sovereign debt crisis, macroprudential policy, etc.  Part II of the course is on the basics of two-country economy models, which is often used to describe the international dimension of advanced economies (e.g. the US and Eurozone). These include understanding international portfolios, exchange rate dynamics, international monetary system.  Both empirical patterns and real and \nnominal models of these economies will be used.",
+      "sections": []
     }
   ],
   "EEMT": [
@@ -928,6 +936,14 @@
     },
     {
       "program": "LIFS",
+      "code": "4910C",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F.",
+      "sections": []
+    },
+    {
+      "program": "LIFS",
       "code": "4960",
       "name": "Biological Science Capstone Project",
       "units": 3,
@@ -1256,6 +1272,14 @@
       "name": "Internship",
       "units": 3,
       "description": "This course aims to provide students with hands-on experience in environmental and ocean science fields. Students will undertake training and duties under the internship supervisors. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course.",
+      "sections": []
+    },
+    {
+      "program": "OCES",
+      "code": "4910C",
+      "name": "Independent Study",
+      "units": 3,
+      "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F.",
       "sections": []
     },
     {
