@@ -2560,6 +2560,18 @@
     },
     {
       "program": "PPOL",
+      "code": "6100T",
+      "name": "Special Topics in Public Policy: Urban Innovation and Development",
+      "units": 3,
+      "info": {
+        "vector": "[3-0-0:3]",
+        "description": "The summer course will take place from July 20 to July 30, focusing on the theme of urban innovation and development. This course will require 140 hours of study, including 48 hours for a structured programme of academic work, such as lectures and seminars at HKUST and in a host university, symposiums and workshops with local government officials and key industry stakeholders, and field trips to observe and experience relevant sites in Wuxi, Suzhou, and Shanghai. Students will have the opportunity to visit various high-tech enterprises, universities, and financial institutions and learn about local development policies. The course will provide students with invaluable opportunities to engage in face-to-face exchanges with industry leaders, enhancing their employment prospects. Additionally, participants will gain firsthand experience and insights into cutting-edge technology industries, including new energy, robotics, semiconductors, and more. The summer trip is sponsored by Wu Xi United Front Work Department, Wuxi Economic Development Zone Management Committee, Suzhou Industrial Park Administration Committee and Shanghai Pudong New Area and the Administrative Committee."
+      },
+      "attrs": [],
+      "sections": []
+    },
+    {
+      "program": "PPOL",
       "code": "6120",
       "name": "Capstone Project",
       "units": 3,
