@@ -1314,46 +1314,7 @@
       "name": "Introduction to Astrophysics and Astronomy",
       "units": 3,
       "description": "This course addresses the origin of modern astronomy, the solar system, seasons, moon & eclipses, motion & gravity, light & telescopes, star light & atoms, stars (binary, formation, evolution and death), neutron stars & black holes, normal galaxies, peculiar galaxies, dark matter, dark energy and cosmology.",
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1123,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "10:00:00",
-            "end": "12:20:00"
-          },
-          "instructors": [
-            "CHEN, Tian Wen"
-          ],
-          "room": "Rm 2405, Lift 17-18 (92)",
-          "quota": [
-            80,
-            80,
-            0,
-            30
-          ]
-        },
-        {
-          "section": "L1",
-          "number": 1123,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "10:00:00",
-            "end": "12:20:00"
-          },
-          "instructors": [
-            "CHEN, Tian Wen"
-          ],
-          "room": "Rm 2405, Lift 17-18 (92)",
-          "quota": [
-            80,
-            80,
-            0,
-            30
-          ]
-        }
-      ]
+      "sections": []
     },
     {
       "program": "PHYS",

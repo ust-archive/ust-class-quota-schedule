@@ -2209,50 +2209,7 @@
           "description": "Students admitted from 2022"
         }
       ],
-      "sections": [
-        {
-          "section": "L1",
-          "number": 1123,
-          "schedule": {
-            "day": "TUESDAY",
-            "start": "10:00:00",
-            "end": "12:20:00"
-          },
-          "room": "Rm 2405, Lift 17-18 (92)",
-          "instructors": [
-            "CHEN, Tian Wen"
-          ],
-          "assistants": [],
-          "quota": 80,
-          "enroll": 80,
-          "available": 0,
-          "waitlist": 30,
-          "remarks": [
-            "Add/Drop Deadline : 24-Jun-2024"
-          ]
-        },
-        {
-          "section": "L1",
-          "number": 1123,
-          "schedule": {
-            "day": "THURSDAY",
-            "start": "10:00:00",
-            "end": "12:20:00"
-          },
-          "room": "Rm 2405, Lift 17-18 (92)",
-          "instructors": [
-            "CHEN, Tian Wen"
-          ],
-          "assistants": [],
-          "quota": 80,
-          "enroll": 80,
-          "available": 0,
-          "waitlist": 30,
-          "remarks": [
-            "Add/Drop Deadline : 24-Jun-2024"
-          ]
-        }
-      ]
+      "sections": []
     },
     {
       "program": "PHYS",
