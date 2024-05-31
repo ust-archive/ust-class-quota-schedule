@@ -316,6 +316,14 @@
     },
     {
       "program": "COMP",
+      "code": "4900",
+      "name": "Academic and Professional Development",
+      "units": 0,
+      "description": "This course is for academic and professional development of students in the programs offered by the Department of Computer Science and Engineering. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded P/PP/F.",
+      "sections": []
+    },
+    {
+      "program": "COMP",
       "code": "4971C",
       "name": "Independent Work",
       "units": 3,
