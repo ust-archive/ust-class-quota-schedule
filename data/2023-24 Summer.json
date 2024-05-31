@@ -2322,8 +2322,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 30,
-          "available": 30,
+          "enroll": 31,
+          "available": 29,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2343,8 +2343,8 @@
           ],
           "assistants": [],
           "quota": 60,
-          "enroll": 30,
-          "available": 30,
+          "enroll": 31,
+          "available": 29,
           "waitlist": 0,
           "remarks": [
             "Add/Drop Deadline : 24-Jun-2024"
@@ -2383,8 +2383,8 @@
           ],
           "assistants": [],
           "quota": 30,
-          "enroll": 0,
-          "available": 30,
+          "enroll": 1,
+          "available": 29,
           "waitlist": 0,
           "remarks": []
         }
