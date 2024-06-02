@@ -19,7 +19,8 @@
     "lint": "npx eslint . --fix",
     "package": "ncc build src/index.js --license licenses.txt --minify",
     "package:watch": "npm run package -- --watch",
-    "all": "npm run lint && npm run package"
+    "all": "npm run lint && npm run package",
+    "run": "node src/index.js"
   },
   "license": "MIT",
   "dependencies": {

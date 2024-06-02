@@ -1,3 +1,5 @@
+// noinspection JSIgnoredPromiseFromCall
+
 /**
  * The entrypoint for the action.
  */
