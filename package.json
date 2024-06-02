@@ -1,8 +1,8 @@
 {
-  "name": "quota-action-at-ust",
-  "description": "The GitHub Action for Quota @ UST. Snapshots the quota page periodically.",
+  "name": "ust-class-quota-schedule",
+  "description": "The GitHub Action that snapshots the HKUST class quota & schedule page periodically.",
   "version": "0.0.0",
-  "author": "LI, Yu Hong Harry",
+  "author": "Flandia Yingman",
   "private": true,
   "keywords": [
     "GitHub",

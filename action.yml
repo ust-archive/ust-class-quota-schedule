@@ -1,6 +1,6 @@
-name: Quota Action @ UST
-description: The GitHub Action for Quota @ UST. Snapshots the quota page periodically.
-author: LI, Yu Hong Harry
+name: UST Class Quota & Schedule
+description: The GitHub Action that snapshots the HKUST class quota & schedule page periodically.
+author: Flandia Yingman
 
 runs:
   using: node20
