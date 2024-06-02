@@ -42,7 +42,7 @@ jobs:
       - name: Commit This
         continue-on-error: true
         run: |
-          now=$(date +"%s")
+          now=$(TZ=Asia/Hong_Kong date --iso-8601=seconds)
           git commit -a -m "update: $now"
       - name: Push This
         uses: ad-m/github-push-action@master
