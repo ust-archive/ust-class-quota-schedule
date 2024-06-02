@@ -1,11 +1,12 @@
-# Quota (Data) @ UST
+# UST Class Quota Schedule
 
-This repository contains 
+This repository contains:
 
-1. The historical class quota data of HKUST (from 2023-24 Spring)
+1. The (historical) class quota & schedule data of HKUST.
 2. The GitHub Action that updates the data regularly.
 
-The default period of update is 5 minutes. 
+> [!NOTE]
+> The update period is 5 minutes.
 
 ## Structure
 
@@ -19,35 +20,34 @@ The commit message indicates the time of the update. The format is as follows:
 update: ${UPDATE_TIME}
 ```
 
-The `${UPDATE_TIME}` is in epoch seconds.
+where `${UPDATE_TIME}` is the time of the update, formatted in ISO 8601 with the Hong Kong timezone.
 
 ### Parsed Data
 
-The data is stored in the repository following the structure below:
+The parsed data is stored in the repository following the structure below:
 
 ```
-${TERM_CODE}/${PROGRAM_CODE}.json
+data/${TERM_CODE}.json
 ```
 
-- `TERM_CODE`: the first two digits is the last two digits of the year; the last two digits represent the term.
-    - Fall: `10`
-    - Winter: `20`
-    - Spring: `30`
-    - Summer: `40`
-- `PROGRAM_CODE`: the program code of the course.
+where `TERM_CODE` represents the term of the data. The first two digits represent the academic year; the last two digits
+represent the term.
 
+- Fall: `10`
+- Winter: `20`
+- Spring: `30`
+- Summer: `40`
 
-For example, the data of COMP in 2023-24 Spring is stored in `2330/COMP.json`.
-
-> [!CAUTION] 
-> The schema of the JSON files may be changed in the future. However, I will try not to do it.
+For example, the data of 2023-24 Spring is stored in `2330.json`; the data of 2023-24 Summer is stored in `2340.json`.
 
 ### Raw Data
 
 The raw data is stored in the repository following the structure below:
 
 ```
-${TERM_CODE}/src/${PROGRAM_CODE}.html
+data/${TERM_CODE}/${SUBJECT_CODE}.html
 ```
 
-This is the raw data directly from the webpage. 
+where `TERM_CODE` is the term code (same as above), and `SUBJECT_CODE` is the subject code, for example, `ACCT` is accounting. 
+
+The raw data is the HTML content of the class quota & schedule page of HKUST. 
