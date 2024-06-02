@@ -1,0 +1,3756 @@
+{
+  "CENG": [
+    {
+      "subject": "CENG",
+      "course": "6900C",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1030,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            1,
+            9,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "CIVL": [
+    {
+      "subject": "CIVL",
+      "course": "2020",
+      "name": "Industrial and BIM Training",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1106,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            179,
+            177,
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "3020",
+      "name": "Internship Training",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1032,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            50,
+            46,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6010A",
+      "name": "Directed Studies",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1097,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6050H",
+      "name": "Civil Engineering Seminar I",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1036,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            2,
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6060M",
+      "name": "Civil Engineering Seminar II",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1038,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            1,
+            4,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "COMP": [
+    {
+      "subject": "COMP",
+      "course": "1029C",
+      "name": "C Programming Bridging Course",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1039,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "LA1",
+          "number": 1040,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [
+            "XIAO, Huiru"
+          ],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "1029J",
+      "name": "Java Programming Bridging Course",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1041,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "LA1",
+          "number": 1042,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [
+            "USMAN, Muhammad"
+          ],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "1029P",
+      "name": "Python Programming Bridging Course",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1043,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            50,
+            11,
+            39,
+            0
+          ]
+        },
+        {
+          "code": "LA1",
+          "number": 1044,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [
+            "WEI, Maofeng"
+          ],
+          "venue": "TBA",
+          "quota": [
+            50,
+            11,
+            39,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "1029V",
+      "name": "Excel VBA Programming Bridging Course",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1045,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "LA1",
+          "number": 1046,
+          "schedules": [],
+          "instructors": [
+            "LAM, Gibson"
+          ],
+          "assistants": [
+            "CHING, Phoebe Mae Lim"
+          ],
+          "venue": "TBA",
+          "quota": [
+            50,
+            50,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "1991",
+      "name": "Industrial Experience",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1115,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "4900",
+      "name": "Academic and Professional Development",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1085,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            7,
+            4,
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "4971A",
+      "name": "Independent Work",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1102,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "4971F",
+      "name": "Independent Work",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1080,
+          "schedules": [],
+          "instructors": [
+            "ROSSITER, David"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "4981",
+      "name": "Final Year Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1101,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "6922C",
+      "name": "Research Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1108,
+          "schedules": [],
+          "instructors": [
+            "CHEN, Hao"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "6922E",
+      "name": "Research Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1103,
+          "schedules": [],
+          "instructors": [
+            "CHEN, Long"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "DBAP": [
+    {
+      "subject": "DBAP",
+      "course": "5160",
+      "name": "Frontiers in Management Research",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1064,
+          "schedules": [],
+          "instructors": [
+            "LI, J.T."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            13,
+            11,
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "DBAP",
+      "course": "5170",
+      "name": "Frontiers in Marketing Research",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1063,
+          "schedules": [],
+          "instructors": [
+            "VAN DER LANS, Ralf",
+            "ZHAO, Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            13,
+            10,
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "DBAP",
+      "course": "5410",
+      "name": "Asset Allocation and Portfolio Analysis",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1061,
+          "schedules": [],
+          "instructors": [
+            "CHEN, Zhanhui",
+            "LI, Yingying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "DBAP",
+      "course": "5810",
+      "name": "Information Processing for Marketing Strategy",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1062,
+          "schedules": [],
+          "instructors": [
+            "YAN, Dengfeng"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            6,
+            6,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "DBAP",
+      "course": "6100B",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1116,
+          "schedules": [],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ECON": [
+    {
+      "subject": "ECON",
+      "course": "5341",
+      "name": "Topics in Monetary Policy and Central Banking",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1016,
+          "schedules": [
+            {
+              "fromDate": "2024-01-10",
+              "toDate": "2024-01-26",
+              "day": "MONDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-10",
+              "toDate": "2024-01-26",
+              "day": "WEDNESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-10",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "LORETAN, Michael Stanislaus"
+          ],
+          "assistants": [
+            "TO, Jeremy"
+          ],
+          "venue": "Rm 4619, Lift 31-32 (126)",
+          "quota": [
+            100,
+            83,
+            17,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
+      "course": "6120X",
+      "name": "Topic in Econometrics, Applied Spatial and Network Econometric Models",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1096,
+          "schedules": [
+            {
+              "fromDate": "2024-01-09",
+              "toDate": "2024-01-25",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "16:20:00"
+            },
+            {
+              "fromDate": "2024-01-09",
+              "toDate": "2024-01-25",
+              "day": "THURSDAY",
+              "from": "14:00:00",
+              "to": "16:20:00"
+            }
+          ],
+          "instructors": [
+            "LEE, Lung-fei"
+          ],
+          "assistants": [],
+          "venue": "Rm 1027, LSK Bldg (40)",
+          "quota": [
+            20,
+            3,
+            17,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "EESM": [
+    {
+      "subject": "EESM",
+      "course": "6980M",
+      "name": "MSc Project",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1065,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-24",
+              "day": "WEDNESDAY",
+              "from": "18:00:00",
+              "to": "21:50:00"
+            }
+          ],
+          "instructors": [
+            "SARFRAZ, Khawar"
+          ],
+          "assistants": [],
+          "venue": "Rm 2464, Lift 25-26 (122)",
+          "quota": [
+            40,
+            39,
+            1,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1066,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-24",
+              "day": "WEDNESDAY",
+              "from": "15:00:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "SARFRAZ, Khawar"
+          ],
+          "assistants": [],
+          "venue": "Rm 2464, Lift 25-26 (122)",
+          "quota": [
+            40,
+            39,
+            1,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ELEC": [
+    {
+      "subject": "ELEC",
+      "course": "2991",
+      "name": "Industrial Experience (Electronic Engineering)",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1110,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "course": "4940A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1111,
+          "schedules": [],
+          "instructors": [
+            "WOO, Kam Tim"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            10,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "course": "4940C",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1098,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "course": "6900A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1104,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "EMBA": [
+    {
+      "subject": "EMBA",
+      "course": "5020",
+      "name": "Analytical Approach to Uncertainty",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1126,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            27,
+            27,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "T1",
+          "number": 1128,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            27,
+            27,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "EMBA",
+      "course": "5060",
+      "name": "Leadership and Organizations",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1127,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            24,
+            24,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "EMBA",
+      "course": "5090",
+      "name": "Leadership and Decision Making",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1124,
+          "schedules": [],
+          "instructors": [
+            "WANG, Caroline"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            24,
+            24,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1124,
+          "schedules": [],
+          "instructors": [
+            "WANG, Caroline"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            24,
+            24,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "EMBA",
+      "course": "5580",
+      "name": "Digital Marketing",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1123,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            27,
+            27,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ENEG": [
+    {
+      "subject": "ENEG",
+      "course": "4980A",
+      "name": "Investigation Project",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1029,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            1,
+            4,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ENGG": [
+    {
+      "subject": "ENGG",
+      "course": "1900",
+      "name": "Service Learning Program",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1047,
+          "schedules": [],
+          "instructors": [
+            "WOO, Kam Tim"
+          ],
+          "assistants": [
+            "CHIN, Lai Ting",
+            "YIM, Tak Sang"
+          ],
+          "venue": "TBA",
+          "quota": [
+            20,
+            9,
+            11,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENGG",
+      "course": "2010",
+      "name": "Engineering Seminar Series",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1093,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENGG",
+      "course": "3960E",
+      "name": "Robotics Special Project: Development of Robot Design Contest Course",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1048,
+          "schedules": [],
+          "instructors": [
+            "WOO, Kam Tim"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            30,
+            26,
+            4,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ENTR": [
+    {
+      "subject": "ENTR",
+      "course": "3360",
+      "name": "From Product Innovations to Successful Technology Startups",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1004,
+          "schedules": [],
+          "instructors": [
+            "LEUNG, Suk Wai Winnie"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            6,
+            14,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ENVR": [
+    {
+      "subject": "ENVR",
+      "course": "1080",
+      "name": "The Smart Consumer - Uncovering the Hidden Story behind the Product Label",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1070,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-05",
+              "day": "WEDNESDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-05",
+              "day": "FRIDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            }
+          ],
+          "instructors": [
+            "SAUERWEIN, Meike"
+          ],
+          "assistants": [],
+          "venue": "Rm 5620, Lift 31-32 (70)",
+          "quota": [
+            65,
+            60,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1070,
+          "schedules": [
+            {
+              "fromDate": "2024-01-08",
+              "toDate": "2024-01-10",
+              "day": "MONDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-08",
+              "toDate": "2024-01-10",
+              "day": "WEDNESDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            }
+          ],
+          "instructors": [
+            "SAUERWEIN, Meike"
+          ],
+          "assistants": [],
+          "venue": "Rm 2465, Lift 25-26 (122)",
+          "quota": [
+            65,
+            60,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1070,
+          "schedules": [
+            {
+              "fromDate": "2024-01-12",
+              "toDate": "2024-01-17",
+              "day": "MONDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-12",
+              "toDate": "2024-01-17",
+              "day": "WEDNESDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-12",
+              "toDate": "2024-01-17",
+              "day": "FRIDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            }
+          ],
+          "instructors": [
+            "SAUERWEIN, Meike"
+          ],
+          "assistants": [],
+          "venue": "Rm 5620, Lift 31-32 (70)",
+          "quota": [
+            65,
+            60,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1070,
+          "schedules": [
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-29",
+              "day": "MONDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-29",
+              "day": "WEDNESDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-29",
+              "day": "FRIDAY",
+              "from": "10:00:00",
+              "to": "13:20:00"
+            }
+          ],
+          "instructors": [
+            "SAUERWEIN, Meike"
+          ],
+          "assistants": [],
+          "venue": "Rm 5620, Lift 31-32 (70)",
+          "quota": [
+            65,
+            60,
+            5,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "2811",
+      "name": "Environmental Management and Technology Study Trip II",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1088,
+          "schedules": [
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "MONDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "TUESDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "SUNDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "DELINA, Laurence L.",
+            "LAU, Pui Sang",
+            "WANG, Zhe"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "2900A",
+      "name": "Internship/Service Learning",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1090,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            1,
+            9,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "2900B",
+      "name": "Internship/Service Learning",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1091,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            1,
+            9,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "3001",
+      "name": "Academic and Professional Development II",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1079,
+          "schedules": [],
+          "instructors": [
+            "LAU, Pui Sang"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "6100B",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1089,
+          "schedules": [
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "MONDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "TUESDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            },
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-13",
+              "day": "SUNDAY",
+              "from": "09:00:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "DELINA, Laurence L.",
+            "LAU, Pui Sang",
+            "WANG, Zhe"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            22,
+            22,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "EVSM": [
+    {
+      "subject": "EVSM",
+      "course": "6950A",
+      "name": "MSc Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1012,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            6,
+            14,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "GFIN": [
+    {
+      "subject": "GFIN",
+      "course": "5010",
+      "name": "Foundations of Investments",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1074,
+          "schedules": [],
+          "instructors": [
+            "YU, Jialin"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            32,
+            28,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "GFIN",
+      "course": "5400",
+      "name": "Asset Allocation",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1075,
+          "schedules": [],
+          "instructors": [
+            "BHATTACHARYA, Utpal"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            33,
+            29,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "GFIN",
+      "course": "5500",
+      "name": "Behavioral Finance",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1076,
+          "schedules": [],
+          "instructors": [
+            "MUKHERJEE, Abhiroop"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            33,
+            30,
+            3,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "IEDA": [
+    {
+      "subject": "IEDA",
+      "course": "1901",
+      "name": "Industrial Training and Experience",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1117,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "IMBA": [
+    {
+      "subject": "IMBA",
+      "course": "5120",
+      "name": "Managing Emerging Technologies",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1119,
+          "schedules": [],
+          "instructors": [
+            "HUI, Kai Lung"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            39,
+            39,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IMBA",
+      "course": "5340",
+      "name": "Investment Analysis",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1121,
+          "schedules": [],
+          "instructors": [
+            "CHEN, Zhanhui"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            47,
+            47,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IMBA",
+      "course": "5360",
+      "name": "Strategic Value and Supply Chain Management",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1120,
+          "schedules": [],
+          "instructors": [
+            "LI, Qing"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            48,
+            48,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IMBA",
+      "course": "5530",
+      "name": "Data-Driven Decision Making",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1125,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            42,
+            42,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IMBA",
+      "course": "6900T",
+      "name": "Behavioral Finance",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1122,
+          "schedules": [],
+          "instructors": [
+            "MUKHERJEE, Abhiroop"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            32,
+            32,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ISDN": [
+    {
+      "subject": "ISDN",
+      "course": "1011",
+      "name": "Industrial Training",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1015,
+          "schedules": [],
+          "instructors": [
+            "CHAN, Chi Ming"
+          ],
+          "assistants": [
+            "CHEUNG, Chong Mo",
+            "XU, Nathan"
+          ],
+          "venue": "TBA",
+          "quota": [
+            30,
+            29,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "course": "3360",
+      "name": "From Product Innovations to Successful Technology Startups",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1014,
+          "schedules": [],
+          "instructors": [
+            "LEUNG, Suk Wai Winnie"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            2,
+            18,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "course": "6710C",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1081,
+          "schedules": [],
+          "instructors": [
+            "LI, Mitch"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            2,
+            3,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "ISOM": [
+    {
+      "subject": "ISOM",
+      "course": "1090",
+      "name": "Social Media: Collective Intelligence & Creativity",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1017,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-05",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-05",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "TEH, Jack Her Hock"
+          ],
+          "assistants": [
+            "LEE, Aaron Chun Hay"
+          ],
+          "venue": "Rm 2464, Lift 25-26 (122)",
+          "quota": [
+            80,
+            71,
+            9,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1017,
+          "schedules": [
+            {
+              "fromDate": "2024-01-08",
+              "toDate": "2024-01-24",
+              "day": "MONDAY",
+              "from": "09:00:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-08",
+              "toDate": "2024-01-24",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-08",
+              "toDate": "2024-01-24",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TEH, Jack Her Hock"
+          ],
+          "assistants": [],
+          "venue": "Rm 2464, Lift 25-26 (122)",
+          "quota": [
+            80,
+            71,
+            9,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "1380",
+      "name": "Technology and Innovation: Social and Business Perspectives",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1018,
+          "schedules": [
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-23",
+              "day": "TUESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-23",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-23",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Se Joon"
+          ],
+          "assistants": [
+            "WAN, On Yu"
+          ],
+          "venue": "Rm 2465, Lift 25-26 (122)",
+          "quota": [
+            80,
+            80,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1018,
+          "schedules": [
+            {
+              "fromDate": "2024-01-25",
+              "toDate": "2024-01-25",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Se Joon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2465, Lift 25-26 (122)",
+          "quota": [
+            80,
+            80,
+            0,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1018,
+          "schedules": [
+            {
+              "fromDate": "2024-01-26",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Se Joon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2465, Lift 25-26 (122)",
+          "quota": [
+            80,
+            80,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "1700",
+      "name": "Critical Issues in Business Operations",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1022,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "LAU, Ronald"
+          ],
+          "assistants": [
+            "LEE, Wai Hong"
+          ],
+          "venue": "G012, LSK Bldg (199)",
+          "quota": [
+            192,
+            179,
+            13,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "2400",
+      "name": "Global Information Infrastructure and Policy",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1019,
+          "schedules": [
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-13",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-13",
+              "day": "WEDNESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-13",
+              "day": "THURSDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-13",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-13",
+              "day": "SATURDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "XU, Yan"
+          ],
+          "assistants": [
+            "GU, Jiaying"
+          ],
+          "venue": "G012, LSK Bldg (199)",
+          "quota": [
+            100,
+            99,
+            1,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1019,
+          "schedules": [
+            {
+              "fromDate": "2024-01-16",
+              "toDate": "2024-01-16",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "XU, Yan"
+          ],
+          "assistants": [],
+          "venue": "G012, LSK Bldg (199)",
+          "quota": [
+            100,
+            99,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "3400",
+      "name": "Business Applications Development in Python",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1020,
+          "schedules": [
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-25",
+              "day": "TUESDAY",
+              "from": "15:00:00",
+              "to": "18:20:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-25",
+              "day": "THURSDAY",
+              "from": "15:00:00",
+              "to": "18:20:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-25",
+              "day": "FRIDAY",
+              "from": "15:00:00",
+              "to": "18:20:00"
+            }
+          ],
+          "instructors": [
+            "JIA, Jia"
+          ],
+          "assistants": [
+            "PANG, Ngai Cheung"
+          ],
+          "venue": "Rm 1007, LSK Bldg (80)",
+          "quota": [
+            40,
+            31,
+            9,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1020,
+          "schedules": [
+            {
+              "fromDate": "2024-01-26",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "15:00:00",
+              "to": "18:50:00"
+            }
+          ],
+          "instructors": [
+            "JIA, Jia"
+          ],
+          "assistants": [],
+          "venue": "Rm 1007, LSK Bldg (80)",
+          "quota": [
+            40,
+            31,
+            9,
+            0
+          ]
+        },
+        {
+          "code": "LA1",
+          "number": 1021,
+          "schedules": [
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-26",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "14:50:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-26",
+              "day": "THURSDAY",
+              "from": "14:00:00",
+              "to": "14:50:00"
+            },
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "14:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [
+            "PANG, Ngai Cheung"
+          ],
+          "venue": "G021, LSK Bldg",
+          "quota": [
+            40,
+            31,
+            9,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "4740",
+      "name": "Enterprise Resource Management",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1023,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "MONDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "WEDNESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-29",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "LAU, Ronald"
+          ],
+          "assistants": [
+            "DENG, Stacy"
+          ],
+          "venue": "G001, LSK Bldg (70)",
+          "quota": [
+            60,
+            39,
+            21,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "5020",
+      "name": "Information and Technology Management",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-06",
+              "day": "SATURDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [
+            "NG, Ka Wai Tommy"
+          ],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-06",
+              "day": "SATURDAY",
+              "from": "14:30:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-07",
+              "day": "SUNDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Lecture Theater K (106)",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-07",
+              "toDate": "2024-01-07",
+              "day": "SUNDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Lecture Theater K (106)",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-20",
+              "toDate": "2024-01-20",
+              "day": "SATURDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-20",
+              "toDate": "2024-01-20",
+              "day": "SATURDAY",
+              "from": "14:30:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-21",
+              "toDate": "2024-01-21",
+              "day": "SUNDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1026,
+          "schedules": [
+            {
+              "fromDate": "2024-01-21",
+              "toDate": "2024-01-21",
+              "day": "SUNDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2001, LSK Bldg",
+          "quota": [
+            60,
+            56,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1031,
+          "schedules": [
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-05",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-05",
+              "day": "THURSDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-05",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [
+            "NG, Ka Wai Tommy"
+          ],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            50,
+            45,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1031,
+          "schedules": [
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-05",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-05",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            50,
+            45,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1031,
+          "schedules": [
+            {
+              "fromDate": "2024-01-18",
+              "toDate": "2024-01-18",
+              "day": "THURSDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            50,
+            45,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1031,
+          "schedules": [
+            {
+              "fromDate": "2024-01-18",
+              "toDate": "2024-01-18",
+              "day": "THURSDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            50,
+            45,
+            5,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1031,
+          "schedules": [
+            {
+              "fromDate": "2024-02-02",
+              "toDate": "2024-02-02",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "KOH, Tat Koon"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            50,
+            45,
+            5,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "5220",
+      "name": "FinTech Regulation and Compliance",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1025,
+          "schedules": [
+            {
+              "fromDate": "2024-01-03",
+              "toDate": "2024-01-24",
+              "day": "WEDNESDAY",
+              "from": "19:00:00",
+              "to": "22:20:00"
+            }
+          ],
+          "instructors": [
+            "FUNG, Terrance"
+          ],
+          "assistants": [
+            "LAI, Sum Yu"
+          ],
+          "venue": "TBA",
+          "quota": [
+            50,
+            49,
+            1,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1025,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-27",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "FUNG, Terrance"
+          ],
+          "assistants": [
+            "LAI, Sum Yu"
+          ],
+          "venue": "G001, LSK Bldg (70)",
+          "quota": [
+            50,
+            49,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "5370",
+      "name": "Technology and Innovation Management",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1024,
+          "schedules": [
+            {
+              "fromDate": "2024-01-04",
+              "toDate": "2024-01-25",
+              "day": "THURSDAY",
+              "from": "19:00:00",
+              "to": "22:20:00"
+            }
+          ],
+          "instructors": [
+            "KIM, Yongsuk"
+          ],
+          "assistants": [
+            "LEE, Aaron Chun Hay"
+          ],
+          "venue": "G001, LSK Bldg (70)",
+          "quota": [
+            50,
+            27,
+            23,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1024,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-27",
+              "day": "SATURDAY",
+              "from": "14:30:00",
+              "to": "17:50:00"
+            }
+          ],
+          "instructors": [
+            "KIM, Yongsuk"
+          ],
+          "assistants": [
+            "LEE, Aaron Chun Hay"
+          ],
+          "venue": "G001, LSK Bldg (70)",
+          "quota": [
+            50,
+            27,
+            23,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "5720",
+      "name": "ERP and Enterprise Systems Management",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1035,
+          "schedules": [
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-25",
+              "day": "TUESDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            },
+            {
+              "fromDate": "2024-01-02",
+              "toDate": "2024-01-25",
+              "day": "THURSDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "LAU, Ronald"
+          ],
+          "assistants": [
+            "HO, Cheuk Fan Edmond"
+          ],
+          "venue": "G001, LSK Bldg (70)",
+          "quota": [
+            60,
+            17,
+            43,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "6790K",
+      "name": "Business and Operations Transformation in a nutshell",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1037,
+          "schedules": [
+            {
+              "fromDate": "2024-01-19",
+              "toDate": "2024-01-19",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "HUANG, Xin"
+          ],
+          "assistants": [
+            "HO, Cheuk Fan Edmond"
+          ],
+          "venue": "G003, LSK Bldg (70)",
+          "quota": [
+            65,
+            18,
+            47,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1037,
+          "schedules": [
+            {
+              "fromDate": "2024-01-19",
+              "toDate": "2024-01-19",
+              "day": "FRIDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "HUANG, Xin"
+          ],
+          "assistants": [],
+          "venue": "G003, LSK Bldg (70)",
+          "quota": [
+            65,
+            18,
+            47,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1037,
+          "schedules": [
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-22",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "HUANG, Xin"
+          ],
+          "assistants": [],
+          "venue": "Rm 1001, LSK Bldg (70)",
+          "quota": [
+            65,
+            18,
+            47,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1037,
+          "schedules": [
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-22",
+              "day": "MONDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "HUANG, Xin"
+          ],
+          "assistants": [],
+          "venue": "Rm 1001, LSK Bldg (70)",
+          "quota": [
+            65,
+            18,
+            47,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "LIFS": [
+    {
+      "subject": "LIFS",
+      "course": "2011",
+      "name": "A Practicum on Wetland Conservation",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1010,
+          "schedules": [],
+          "instructors": [
+            "KO, Ice Wai Ping"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            15,
+            11,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "course": "4910D",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1114,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "course": "6660",
+      "name": "Molecular Medicine",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1011,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-27",
+              "day": "SATURDAY",
+              "from": "10:00:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            20,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "MARK": [
+    {
+      "subject": "MARK",
+      "course": "5120",
+      "name": "Marketing Strategy and Policy",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-06",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-06",
+              "toDate": "2024-01-06",
+              "day": "SATURDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-13",
+              "toDate": "2024-01-13",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "11:50:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-13",
+              "toDate": "2024-01-13",
+              "day": "SATURDAY",
+              "from": "14:30:00",
+              "to": "18:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-20",
+              "toDate": "2024-01-27",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1033,
+          "schedules": [
+            {
+              "fromDate": "2024-01-20",
+              "toDate": "2024-01-27",
+              "day": "SATURDAY",
+              "from": "14:00:00",
+              "to": "17:20:00"
+            }
+          ],
+          "instructors": [
+            "HONG, Jiewen"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            66,
+            60,
+            6,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "MATH": [
+    {
+      "subject": "MATH",
+      "course": "6911R",
+      "name": "Reading Course: Statistical Inference in Subgroup Analysis",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1099,
+          "schedules": [],
+          "instructors": [
+            "GUO, Xinzhou"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "MECH": [
+    {
+      "subject": "MECH",
+      "course": "1990",
+      "name": "Industrial Training",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1107,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "course": "6950C",
+      "name": "Independent Studies",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1105,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "OCES": [
+    {
+      "subject": "OCES",
+      "course": "4910A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1094,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "PHYS": [
+    {
+      "subject": "PHYS",
+      "course": "4090A",
+      "name": "Directed Studies in Physics III",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1087,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "course": "6100A",
+      "name": "Individual Study in Physics",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1095,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "SBMT": [
+    {
+      "subject": "SBMT",
+      "course": "2200V",
+      "name": "Social Enterprise Internship Program",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1073,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            60,
+            35,
+            25,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "3200T",
+      "name": "Corporate Project",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1049,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T2",
+          "number": 1050,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T3",
+          "number": 1051,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T4",
+          "number": 1052,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T5",
+          "number": 1053,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "3200U",
+      "name": "Corporate Project",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1054,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T2",
+          "number": 1055,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T3",
+          "number": 1056,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T4",
+          "number": 1057,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        },
+        {
+          "code": "T5",
+          "number": 1058,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            20,
+            5,
+            15,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "3300M",
+      "name": "Business Competitions",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1059,
+          "schedules": [],
+          "instructors": [
+            "HUANG, Allen"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            100,
+            37,
+            63,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "5070",
+      "name": "Sustainability Applications in the Corporate World",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1068,
+          "schedules": [
+            {
+              "fromDate": "2024-01-05",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "19:00:00",
+              "to": "22:20:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            53,
+            52,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "5300",
+      "name": "Enhancing Professional Skills",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1034,
+          "schedules": [
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-26",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "20:50:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-26",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "20:50:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-26",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "20:50:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-26",
+              "day": "THURSDAY",
+              "from": "09:30:00",
+              "to": "20:50:00"
+            },
+            {
+              "fromDate": "2024-01-22",
+              "toDate": "2024-01-26",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "20:50:00"
+            }
+          ],
+          "instructors": [
+            "DORAN, Christopher",
+            "FRANKLIN, Laurence Craig",
+            "NASON, Stephen William",
+            "SALVACRUZ, Joseph"
+          ],
+          "assistants": [],
+          "venue": "Rm 2003, LSK Bldg",
+          "quota": [
+            41,
+            35,
+            6,
+            0
+          ]
+        },
+        {
+          "code": "L1",
+          "number": 1034,
+          "schedules": [
+            {
+              "fromDate": "2024-01-28",
+              "toDate": "2024-01-28",
+              "day": "SUNDAY",
+              "from": "14:00:00",
+              "to": "18:50:00"
+            }
+          ],
+          "instructors": [
+            "DORAN, Christopher",
+            "FRANKLIN, Laurence Craig",
+            "NASON, Stephen William",
+            "SALVACRUZ, Joseph"
+          ],
+          "assistants": [],
+          "venue": "G012, LSK Bldg (199)",
+          "quota": [
+            41,
+            35,
+            6,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "6350A",
+      "name": "MBA Practical Internship Experience",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1100,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "6350D",
+      "name": "MBA Practical Internship Experience",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1112,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SBMT",
+      "course": "6360A",
+      "name": "MBA Career Development Program",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1077,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            45,
+            41,
+            4,
+            0
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1083,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "SCIE": [
+    {
+      "subject": "SCIE",
+      "course": "3900",
+      "name": "International Research Experience",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1009,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "SHSS": [
+    {
+      "subject": "SHSS",
+      "course": "1020A",
+      "name": "Humanities and Social Science Internship",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1092,
+          "schedules": [],
+          "instructors": [
+            "WONG, James K."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            8,
+            8,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "SOSC": [
+    {
+      "subject": "SOSC",
+      "course": "3700B",
+      "name": "Quantitative Social Analysis Practicum",
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1002,
+          "schedules": [],
+          "instructors": [
+            "HENDRY, David James"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            3,
+            7,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "TEMG": [
+    {
+      "subject": "TEMG",
+      "course": "1010",
+      "name": "T&M Professional Activities",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1109,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            1,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "TEMG",
+      "course": "4970B",
+      "name": "T&M IBPC Startup Project: Tech Startup for Greater Bay Area with UIUC and UBT",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1078,
+          "schedules": [],
+          "instructors": [
+            "LIN, Betty Fwei-chien"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            24,
+            24,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
