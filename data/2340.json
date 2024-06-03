@@ -1798,8 +1798,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 38,
-          "available": 12,
+          "enroll": 37,
+          "available": 13,
           "waitlist": 0
         },
         {
@@ -1813,8 +1813,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 38,
-          "available": 12,
+          "enroll": 37,
+          "available": 13,
           "waitlist": 0
         }
       ]
@@ -3181,7 +3181,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 17
+          "waitlist": 16
         }
       ]
     },
@@ -3210,8 +3210,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 3,
-          "available": 17,
+          "enroll": 4,
+          "available": 16,
           "waitlist": 0
         }
       ]
@@ -5253,8 +5253,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 7
         },
         {
@@ -5278,8 +5278,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 7
         }
       ]
@@ -6137,14 +6137,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 28,
-              "available": 32
+              "enroll": 29,
+              "available": 31
             }
           }
         },
@@ -6177,14 +6177,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 28,
-              "available": 32
+              "enroll": 29,
+              "available": 31
             }
           }
         }
@@ -12751,8 +12751,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 106,
-          "available": 94,
+          "enroll": 105,
+          "available": 95,
           "waitlist": 0
         }
       ]
