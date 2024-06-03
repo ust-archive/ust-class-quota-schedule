@@ -1240,7 +1240,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -1273,7 +1273,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -1306,7 +1306,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -1339,7 +1339,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -1372,7 +1372,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -1405,7 +1405,7 @@
           "quota": 50,
           "enroll": 39,
           "available": 11,
-          "waitlist": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -11325,14 +11325,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 10,
-          "available": 30,
+          "enroll": 11,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 9,
-              "available": 11
+              "enroll": 10,
+              "available": 10
             }
           }
         },
@@ -11358,14 +11358,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 10,
-          "available": 30,
+          "enroll": 11,
+          "available": 29,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 9,
-              "available": 11
+              "enroll": 10,
+              "available": 10
             }
           }
         }
