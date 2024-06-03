@@ -4292,8 +4292,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 98,
-          "available": 2,
+          "enroll": 97,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -4355,9 +4355,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -4380,9 +4380,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -4405,9 +4405,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4444,9 +4444,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4469,9 +4469,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4494,9 +4494,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 1
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 0
         }
       ]
     },
@@ -4572,8 +4572,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 32,
-          "available": 68,
+          "enroll": 33,
+          "available": 67,
           "waitlist": 0
         }
       ]
