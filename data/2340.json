@@ -1751,8 +1751,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 47,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -1766,8 +1766,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 47,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -3179,8 +3179,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 40,
-          "available": 0,
+          "enroll": 39,
+          "available": 1,
           "waitlist": 16
         }
       ]
@@ -5673,14 +5673,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 27,
+          "available": 33,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 26,
-              "available": 34
+              "enroll": 27,
+              "available": 33
             }
           }
         },
@@ -5706,14 +5706,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 27,
+          "available": 33,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 26,
-              "available": 34
+              "enroll": 27,
+              "available": 33
             }
           }
         },
@@ -5739,14 +5739,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 26,
-          "available": 34,
+          "enroll": 27,
+          "available": 33,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 26,
-              "available": 34
+              "enroll": 27,
+              "available": 33
             }
           }
         },
