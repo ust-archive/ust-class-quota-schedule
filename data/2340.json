@@ -4292,8 +4292,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 93,
-          "available": 7,
+          "enroll": 94,
+          "available": 6,
           "waitlist": 0
         }
       ]
@@ -5253,9 +5253,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 7
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 6
         },
         {
           "code": "L2",
@@ -5278,9 +5278,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 7
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 6
         }
       ]
     },
@@ -5586,7 +5586,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 8,
+          "waitlist": 9,
           "quotaDetail": {
             "IS": {
               "quota": 30,
@@ -5623,7 +5623,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 8,
+          "waitlist": 9,
           "quotaDetail": {
             "IS": {
               "quota": 30,
@@ -6728,9 +6728,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 63,
-          "available": 2,
-          "waitlist": 4,
+          "enroll": 64,
+          "available": 1,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -6744,8 +6744,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 20,
-              "enroll": 19,
-              "available": 1
+              "enroll": 20,
+              "available": 0
             }
           }
         },
@@ -6773,9 +6773,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 63,
-          "available": 2,
-          "waitlist": 4,
+          "enroll": 64,
+          "available": 1,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -6789,8 +6789,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 20,
-              "enroll": 19,
-              "available": 1
+              "enroll": 20,
+              "available": 0
             }
           }
         },
@@ -6818,9 +6818,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 63,
-          "available": 2,
-          "waitlist": 4,
+          "enroll": 64,
+          "available": 1,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -6834,8 +6834,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 20,
-              "enroll": 19,
-              "available": 1
+              "enroll": 20,
+              "available": 0
             }
           }
         },
@@ -6863,9 +6863,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 63,
-          "available": 2,
-          "waitlist": 4,
+          "enroll": 64,
+          "available": 1,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -6879,8 +6879,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 20,
-              "enroll": 19,
-              "available": 1
+              "enroll": 20,
+              "available": 0
             }
           }
         }
@@ -7395,7 +7395,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         },
         {
           "code": "T02",
@@ -7434,7 +7434,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 4
+          "waitlist": 5
         }
       ]
     }
@@ -12751,8 +12751,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 105,
-          "available": 95,
+          "enroll": 107,
+          "available": 93,
           "waitlist": 0
         }
       ]
