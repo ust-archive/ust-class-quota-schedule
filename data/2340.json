@@ -119,8 +119,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 15,
-          "available": 5,
+          "enroll": 16,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -229,7 +229,9 @@
             "CHEN, Yanzhen",
             "HUANG, Allen"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Chun Him Leon"
+          ],
           "venue": "TBA",
           "schedules": [
             {
@@ -962,7 +964,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 51
+          "waitlist": 50
         }
       ]
     },
@@ -1107,8 +1109,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 5,
-          "available": 5,
+          "enroll": 6,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -1455,14 +1457,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 13,
-          "available": 37,
+          "enroll": 12,
+          "available": 38,
           "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 13,
-              "available": 37
+              "enroll": 12,
+              "available": 38
             }
           }
         }
@@ -1543,8 +1545,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 5,
-          "available": 25,
+          "enroll": 11,
+          "available": 19,
           "waitlist": 0
         },
         {
@@ -1566,8 +1568,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 5,
-          "available": 25,
+          "enroll": 11,
+          "available": 19,
           "waitlist": 0
         }
       ]
@@ -2203,9 +2205,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
+          "enroll": 61,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         },
         {
           "code": "L1",
@@ -2235,9 +2237,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
+          "enroll": 61,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         },
         {
           "code": "L1",
@@ -2260,9 +2262,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
+          "enroll": 61,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         },
         {
           "code": "T1",
@@ -2290,9 +2292,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
+          "enroll": 61,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         },
         {
           "code": "LA1",
@@ -2320,9 +2322,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
+          "enroll": 61,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         }
       ]
     },
@@ -2348,6 +2350,37 @@
           "schedules": [],
           "quota": 1,
           "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "COMP",
+      "course": "4971A",
+      "name": "Independent Work",
+      "units": 1,
+      "info": {
+        "previous-code": "COMP 390A",
+        "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1248,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "LI, Mo",
+            "YI, Ke"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 3,
+          "enroll": 3,
           "available": 0,
           "waitlist": 0
         }
@@ -3701,7 +3734,9 @@
           "instructors": [
             "FRANKLIN, Laurence Craig"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHOI, C.K. Katy"
+          ],
           "venue": "Rm 2003, LSK Bldg",
           "schedules": [
             {
@@ -4602,7 +4637,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 40
+          "waitlist": 39
         },
         {
           "code": "L1",
@@ -4627,7 +4662,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 40
+          "waitlist": 39
         },
         {
           "code": "T1",
@@ -4666,7 +4701,7 @@
           "quota": 7,
           "enroll": 7,
           "available": 0,
-          "waitlist": 14
+          "waitlist": 13
         },
         {
           "code": "T2",
@@ -5551,7 +5586,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "IS": {
               "quota": 30,
@@ -5588,7 +5623,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "IS": {
               "quota": 30,
@@ -6102,14 +6137,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 29,
-          "available": 31,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 29,
-              "available": 31
+              "enroll": 28,
+              "available": 32
             }
           }
         },
@@ -6142,14 +6177,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 29,
-          "available": 31,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 29,
-              "available": 31
+              "enroll": 28,
+              "available": 32
             }
           }
         }
@@ -7469,7 +7504,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 15
+          "waitlist": 16
         }
       ]
     },
@@ -8017,8 +8052,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 26,
-          "available": 74,
+          "enroll": 28,
+          "available": 72,
           "waitlist": 0
         },
         {
@@ -8044,8 +8079,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 26,
-          "available": 74,
+          "enroll": 28,
+          "available": 72,
           "waitlist": 0
         }
       ]
@@ -8093,8 +8128,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 31,
-          "available": 69,
+          "enroll": 32,
+          "available": 68,
           "waitlist": 0
         }
       ]
@@ -8787,8 +8822,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 8,
-          "available": 2,
+          "enroll": 9,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -8826,7 +8861,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSUI, Hoi Ying"
+          ],
           "venue": "Rm 1014, LSK Bldg (80)",
           "schedules": [
             {
@@ -10151,23 +10188,23 @@
           "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
-              "fromDate": "2024-07-30",
-              "toDate": "2024-08-13",
+              "fromDate": "2024-07-31",
+              "toDate": "2024-08-07",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-07-31",
+              "toDate": "2024-08-07",
               "day": "TUESDAY",
               "from": "09:30:00",
               "to": "12:50:00"
             },
             {
-              "fromDate": "2024-07-30",
-              "toDate": "2024-08-13",
+              "fromDate": "2024-07-31",
+              "toDate": "2024-08-07",
               "day": "WEDNESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-07-30",
-              "toDate": "2024-08-13",
-              "day": "FRIDAY",
               "from": "09:30:00",
               "to": "12:50:00"
             }
@@ -10191,7 +10228,21 @@
           "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
-              "fromDate": "2024-08-16",
+              "fromDate": "2024-08-09",
+              "toDate": "2024-08-16",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-08-09",
+              "toDate": "2024-08-16",
+              "day": "THURSDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-08-09",
               "toDate": "2024-08-16",
               "day": "FRIDAY",
               "from": "09:30:00",
@@ -10714,7 +10765,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 7
+          "waitlist": 6
         },
         {
           "code": "L1",
@@ -10746,7 +10797,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 7
+          "waitlist": 6
         }
       ]
     },
@@ -12194,7 +12245,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 32,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -12239,7 +12290,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 32,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -12284,7 +12335,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 32,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -12700,8 +12751,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 104,
-          "available": 96,
+          "enroll": 106,
+          "available": 94,
           "waitlist": 0
         }
       ]
