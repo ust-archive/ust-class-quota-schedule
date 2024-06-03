@@ -94906,22 +94906,12 @@
       "name": "Physics and the Modern Society",
       "units": 3,
       "info": {
-        "attributes": "Common Core (S&T) for 36-credit program\nCommon Core (S) for 30-credit program",
         "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
         "exclusion": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
         "previous-code": "CORE 1110",
         "description": "This course is for students with no physics background. Course content: Principle of scientific theories and methods, Aristotle's law, Newtonian mechanics. Thermal physics, heat engine, energy crisis and global warming. Nature of waves and the physics of hearing and vision. Electricity and magnetism, electromagnetic waves and telecommunication. Relativity, quantum physics, nuclear energy and semiconductor. Developments and outlook of contemporary physics. Students without HKDSE qualifications may seek instructor’s approval for enrolment."
       },
-      "attrs": [
-        {
-          "title": "[4Y]",
-          "description": "Students admitted before 2022"
-        },
-        {
-          "title": "[CC22]",
-          "description": "Students admitted from 2022"
-        }
-      ],
+      "attrs": [],
       "sections": [
         {
           "code": "L1",
