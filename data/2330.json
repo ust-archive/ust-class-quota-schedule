@@ -9312,11 +9312,6 @@
           "available": 26,
           "waitlist": 0,
           "quotaDetail": {
-            "CIEM": {
-              "quota": 73,
-              "enroll": 60,
-              "available": 13
-            },
             "EVEM": {
               "quota": 10,
               "enroll": 1,
@@ -9331,6 +9326,11 @@
               "quota": 2,
               "enroll": 2,
               "available": 0
+            },
+            "CIEM": {
+              "quota": 73,
+              "enroll": 60,
+              "available": 13
             }
           }
         }
