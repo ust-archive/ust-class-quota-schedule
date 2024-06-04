@@ -61,7 +61,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 35
+          "waitlist": 36
         }
       ]
     },
@@ -561,6 +561,38 @@
           "quota": 40,
           "enroll": 0,
           "available": 40,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "BEHI",
+      "course": "6102B",
+      "name": "Integrated Design Project",
+      "units": 6,
+      "info": {
+        "vector": "[6 credits]",
+        "description": "A design project on a topic in the realm of biomolecular engineering and/or health informatics carried out as a team effort under the supervision of a faculty member. It focuses on design thinking and getting hands-on experience with the engineering design process in a broad sense, and aims to accommodate students with more industry-oriented interests. May be graded PP."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1253,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 2,
+          "enroll": 0,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -2035,7 +2067,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "L1",
@@ -2074,7 +2106,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "L1",
@@ -2099,7 +2131,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "L1",
@@ -2124,7 +2156,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "T1",
@@ -2161,7 +2193,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         }
       ]
     },
@@ -4357,9 +4389,9 @@
             }
           ],
           "quota": 100,
-          "enroll": 99,
-          "available": 1,
-          "waitlist": 0
+          "enroll": 100,
+          "available": 0,
+          "waitlist": 1
         }
       ]
     },
@@ -4420,8 +4452,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -4445,8 +4477,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -4470,8 +4502,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -4509,8 +4541,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -4534,8 +4566,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -4559,8 +4591,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -13130,8 +13162,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 13,
-          "available": 207,
+          "enroll": 14,
+          "available": 206,
           "waitlist": 0
         }
       ]
