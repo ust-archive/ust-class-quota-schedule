@@ -1867,6 +1867,7 @@
           "number": 1217,
           "schedules": [],
           "instructors": [
+            "TSOI, Yau Chat",
             "WEI, Victor Junqiu"
           ],
           "assistants": [],
@@ -9236,7 +9237,7 @@
             200,
             200,
             0,
-            11
+            12
           ]
         },
         {
@@ -9272,8 +9273,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            109,
-            91,
+            110,
+            90,
             0
           ]
         }
