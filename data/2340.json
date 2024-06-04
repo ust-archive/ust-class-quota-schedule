@@ -3275,8 +3275,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 4,
-          "available": 16,
+          "enroll": 5,
+          "available": 15,
           "waitlist": 0
         }
       ]
@@ -6948,6 +6948,89 @@
               "available": 0
             }
           }
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "6390A",
+      "name": "Independent Study in Information Systems",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)"
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1252,
+          "remarks": [
+            "For PhD(IS) students only",
+            "Instructor : Prof. BURTON-JONES, Andrew",
+            "Add/Drop Deadline : 11-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "TUESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        },
+        {
+          "code": "R1",
+          "number": 1252,
+          "remarks": [
+            "For PhD(IS) students only",
+            "Instructor : Prof. BURTON-JONES, Andrew",
+            "Add/Drop Deadline : 11-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-15",
+              "toDate": "2024-06-15",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "11:50:00"
+            }
+          ],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
         }
       ]
     },
@@ -13017,8 +13100,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 17,
-          "available": 233,
+          "enroll": 18,
+          "available": 232,
           "waitlist": 0
         }
       ]

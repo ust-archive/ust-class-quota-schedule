@@ -2519,8 +2519,8 @@
           "venue": "TBA",
           "quota": [
             20,
-            4,
-            16,
+            5,
+            15,
             0
           ]
         }
@@ -5034,6 +5034,75 @@
             64,
             1,
             3
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
+      "course": "6390A",
+      "name": "Independent Study in Information Systems",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1252,
+          "schedules": [
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "TUESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-06-11",
+              "toDate": "2024-06-14",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": "R1",
+          "number": 1252,
+          "schedules": [
+            {
+              "fromDate": "2024-06-15",
+              "toDate": "2024-06-15",
+              "day": "SATURDAY",
+              "from": "09:00:00",
+              "to": "11:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
           ]
         }
       ]
@@ -9465,8 +9534,8 @@
           "venue": "TBA",
           "quota": [
             250,
-            17,
-            233,
+            18,
+            232,
             0
           ]
         }
