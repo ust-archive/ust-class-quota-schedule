@@ -159,14 +159,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 11,
-          "available": 49,
+          "enroll": 12,
+          "available": 48,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 11,
-              "available": 49
+              "enroll": 12,
+              "available": 48
             }
           }
         },
@@ -192,14 +192,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 11,
-          "available": 49,
+          "enroll": 12,
+          "available": 48,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 11,
-              "available": 49
+              "enroll": 12,
+              "available": 48
             }
           }
         }
@@ -1270,14 +1270,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         },
@@ -1303,14 +1303,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         },
@@ -1336,14 +1336,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         },
@@ -1369,14 +1369,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         },
@@ -1402,14 +1402,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         },
@@ -1435,14 +1435,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
-          "waitlist": 3,
+          "enroll": 41,
+          "available": 9,
+          "waitlist": 2,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 41,
+              "available": 9
             }
           }
         }
@@ -2934,7 +2934,7 @@
           "quota": 70,
           "enroll": 29,
           "available": 41,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "quota": 70,
@@ -2967,7 +2967,7 @@
           "quota": 70,
           "enroll": 29,
           "available": 41,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "quota": 70,
@@ -3000,7 +3000,7 @@
           "quota": 70,
           "enroll": 29,
           "available": 41,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "quota": 70,
@@ -3033,7 +3033,7 @@
           "quota": 70,
           "enroll": 29,
           "available": 41,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "EEM": {
               "quota": 70,
@@ -4452,8 +4452,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4477,8 +4477,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4502,8 +4502,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4541,8 +4541,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4566,8 +4566,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4591,8 +4591,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         }
       ]
