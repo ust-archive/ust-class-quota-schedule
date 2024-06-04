@@ -2204,6 +2204,29 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "ECON",
+      "course": "6970B",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1249,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
     }
   ],
   "EEMT": [

@@ -2830,6 +2830,39 @@
           "waitlist": 0
         }
       ]
+    },
+    {
+      "subject": "ECON",
+      "course": "6970B",
+      "name": "Independent Study",
+      "units": 2,
+      "info": {
+        "vector": "[2 credit(s)]",
+        "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)"
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1249,
+          "remarks": [
+            "For PhD(ECON) students only",
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
     }
   ],
   "EEMT": [
