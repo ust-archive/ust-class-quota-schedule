@@ -11536,14 +11536,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 11,
-          "available": 29,
+          "enroll": 12,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 10,
-              "available": 10
+              "enroll": 11,
+              "available": 9
             }
           }
         },
@@ -11569,14 +11569,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 11,
-          "available": 29,
+          "enroll": 12,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 10,
-              "available": 10
+              "enroll": 11,
+              "available": 9
             }
           }
         }
@@ -12962,8 +12962,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 111,
-          "available": 89,
+          "enroll": 112,
+          "available": 88,
           "waitlist": 0
         }
       ]
