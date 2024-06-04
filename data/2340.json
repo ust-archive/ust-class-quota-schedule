@@ -897,8 +897,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 5,
-          "enroll": 0,
-          "available": 5,
+          "enroll": 1,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -1798,8 +1798,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 38,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -1813,8 +1813,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 38,
+          "available": 12,
           "waitlist": 0
         }
       ]
@@ -1892,8 +1892,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -1907,8 +1907,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -3117,6 +3117,37 @@
               "available": 9
             }
           }
+        }
+      ]
+    }
+  ],
+  "ELEC": [
+    {
+      "subject": "ELEC",
+      "course": "6900A",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "vector": "[0-0-0:1]",
+        "previous-code": "ELEC 690",
+        "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1251,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
         }
       ]
     }
@@ -7429,7 +7460,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "T02",
@@ -7468,7 +7499,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         }
       ]
     }
