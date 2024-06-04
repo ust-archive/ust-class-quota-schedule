@@ -159,14 +159,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 13,
-          "available": 47,
+          "enroll": 12,
+          "available": 48,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 13,
-              "available": 47
+              "enroll": 12,
+              "available": 48
             }
           }
         },
@@ -192,14 +192,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 13,
-          "available": 47,
+          "enroll": 12,
+          "available": 48,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 13,
-              "available": 47
+              "enroll": 12,
+              "available": 48
             }
           }
         }
