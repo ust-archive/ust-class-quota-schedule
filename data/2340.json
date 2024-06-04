@@ -159,14 +159,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 14,
-          "available": 46,
+          "enroll": 15,
+          "available": 45,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 14,
-              "available": 46
+              "enroll": 15,
+              "available": 45
             }
           }
         },
@@ -192,14 +192,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 14,
-          "available": 46,
+          "enroll": 15,
+          "available": 45,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 14,
-              "available": 46
+              "enroll": 15,
+              "available": 45
             }
           }
         }
@@ -5738,14 +5738,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 27,
-          "available": 33,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 27,
-              "available": 33
+              "enroll": 28,
+              "available": 32
             }
           }
         },
@@ -5771,14 +5771,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 27,
-          "available": 33,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 27,
-              "available": 33
+              "enroll": 28,
+              "available": 32
             }
           }
         },
@@ -5804,14 +5804,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 27,
-          "available": 33,
+          "enroll": 28,
+          "available": 32,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 27,
-              "available": 33
+              "enroll": 28,
+              "available": 32
             }
           }
         },
