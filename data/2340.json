@@ -159,14 +159,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 15,
-          "available": 45,
+          "enroll": 14,
+          "available": 46,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 15,
-              "available": 45
+              "enroll": 14,
+              "available": 46
             }
           }
         },
@@ -192,14 +192,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 15,
-          "available": 45,
+          "enroll": 14,
+          "available": 46,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 15,
-              "available": 45
+              "enroll": 14,
+              "available": 46
             }
           }
         }
@@ -1751,8 +1751,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 47,
-          "available": 3,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -1766,8 +1766,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 47,
-          "available": 3,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -1798,8 +1798,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 38,
-          "available": 12,
+          "enroll": 40,
+          "available": 10,
           "waitlist": 0
         },
         {
@@ -1813,8 +1813,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 38,
-          "available": 12,
+          "enroll": 40,
+          "available": 10,
           "waitlist": 0
         }
       ]
@@ -10606,8 +10606,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 2,
-          "available": 53,
+          "enroll": 3,
+          "available": 52,
           "waitlist": 0
         }
       ]
@@ -13017,8 +13017,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 2,
-          "available": 248,
+          "enroll": 6,
+          "available": 244,
           "waitlist": 0
         }
       ]
@@ -13047,8 +13047,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 2,
-          "available": 218,
+          "enroll": 4,
+          "available": 216,
           "waitlist": 0
         }
       ]
