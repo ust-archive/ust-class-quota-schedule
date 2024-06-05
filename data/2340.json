@@ -2237,9 +2237,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 4
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 3
         },
         {
           "code": "L1",
@@ -2269,9 +2269,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 4
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 3
         },
         {
           "code": "L1",
@@ -2294,9 +2294,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 4
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 3
         },
         {
           "code": "T1",
@@ -2324,9 +2324,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 4
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 3
         },
         {
           "code": "LA1",
@@ -2354,9 +2354,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 4
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 3
         }
       ]
     },
@@ -5438,8 +5438,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 8
         },
         {
@@ -5463,8 +5463,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 8
         }
       ]
@@ -12923,9 +12923,9 @@
             }
           ],
           "quota": 200,
-          "enroll": 199,
-          "available": 1,
-          "waitlist": 14
+          "enroll": 200,
+          "available": 0,
+          "waitlist": 13
         },
         {
           "code": "L2",
