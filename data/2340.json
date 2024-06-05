@@ -9879,7 +9879,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -9922,7 +9922,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -9965,7 +9965,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10008,7 +10008,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10051,7 +10051,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10094,7 +10094,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10137,7 +10137,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10180,7 +10180,7 @@
           "quota": 70,
           "enroll": 67,
           "available": 3,
-          "waitlist": 7,
+          "waitlist": 8,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10974,9 +10974,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 119,
-          "available": 1,
-          "waitlist": 7
+          "enroll": 120,
+          "available": 0,
+          "waitlist": 6
         },
         {
           "code": "L1",
@@ -11006,9 +11006,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 119,
-          "available": 1,
-          "waitlist": 7
+          "enroll": 120,
+          "available": 0,
+          "waitlist": 6
         }
       ]
     },
