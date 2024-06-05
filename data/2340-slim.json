@@ -7982,8 +7982,8 @@
           "venue": "Lecture Theater E (143)",
           "quota": [
             120,
-            120,
-            0,
+            119,
+            1,
             6
           ]
         },
@@ -8013,8 +8013,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             120,
-            120,
-            0,
+            119,
+            1,
             6
           ]
         }
