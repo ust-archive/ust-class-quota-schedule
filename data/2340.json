@@ -4930,7 +4930,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 53
+          "waitlist": 52
         }
       ]
     }
@@ -12962,8 +12962,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 118,
-          "available": 82,
+          "enroll": 119,
+          "available": 81,
           "waitlist": 0
         }
       ]
