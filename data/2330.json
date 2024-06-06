@@ -90181,6 +90181,11 @@
           "available": 6,
           "waitlist": 0,
           "quotaDetail": {
+            "MBA Bi-weekly": {
+              "quota": 2,
+              "enroll": 1,
+              "available": 1
+            },
             "Digital MBA": {
               "quota": 2,
               "enroll": 2,
@@ -90190,11 +90195,6 @@
               "quota": 36,
               "enroll": 31,
               "available": 5
-            },
-            "MBA Bi-weekly": {
-              "quota": 2,
-              "enroll": 1,
-              "available": 1
             }
           }
         },
@@ -90225,6 +90225,11 @@
           "available": 6,
           "waitlist": 0,
           "quotaDetail": {
+            "MBA Bi-weekly": {
+              "quota": 2,
+              "enroll": 1,
+              "available": 1
+            },
             "Digital MBA": {
               "quota": 2,
               "enroll": 2,
@@ -90234,11 +90239,6 @@
               "quota": 36,
               "enroll": 31,
               "available": 5
-            },
-            "MBA Bi-weekly": {
-              "quota": 2,
-              "enroll": 1,
-              "available": 1
             }
           }
         }

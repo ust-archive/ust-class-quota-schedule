@@ -4930,7 +4930,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 51
+          "waitlist": 52
         }
       ]
     }
@@ -5440,7 +5440,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         },
         {
           "code": "L1",
@@ -5465,7 +5465,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         }
       ]
     },
@@ -7829,8 +7829,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 40,
-          "available": 60,
+          "enroll": 41,
+          "available": 59,
           "waitlist": 0
         }
       ]
