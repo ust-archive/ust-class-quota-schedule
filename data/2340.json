@@ -5288,7 +5288,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 18
+          "waitlist": 17
         },
         {
           "code": "L1",
@@ -5313,7 +5313,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 18
+          "waitlist": 17
         },
         {
           "code": "L2",
@@ -5681,9 +5681,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 25,
-          "available": 25,
-          "waitlist": 8
+          "enroll": 33,
+          "available": 17,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -5706,9 +5706,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 25,
-          "available": 25,
-          "waitlist": 8
+          "enroll": 33,
+          "available": 17,
+          "waitlist": 0
         }
       ]
     },
@@ -5746,14 +5746,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 28,
-              "available": 32
+              "enroll": 29,
+              "available": 31
             }
           }
         },
@@ -5779,14 +5779,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 28,
-              "available": 32
+              "enroll": 29,
+              "available": 31
             }
           }
         },
@@ -5812,14 +5812,14 @@
             }
           ],
           "quota": 60,
-          "enroll": 28,
-          "available": 32,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0,
           "quotaDetail": {
             "ACCT": {
               "quota": 60,
-              "enroll": 28,
-              "available": 32
+              "enroll": 29,
+              "available": 31
             }
           }
         },
@@ -7459,7 +7459,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 2
+          "waitlist": 1
         },
         {
           "code": "T02",
@@ -7829,8 +7829,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 39,
-          "available": 61,
+          "enroll": 40,
+          "available": 60,
           "waitlist": 0
         }
       ]
@@ -12898,7 +12898,7 @@
           "quota": 200,
           "enroll": 200,
           "available": 0,
-          "waitlist": 13
+          "waitlist": 14
         },
         {
           "code": "L2",
