@@ -1141,8 +1141,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 6,
-          "available": 4,
+          "enroll": 7,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -4734,7 +4734,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 37
+          "waitlist": 38
         },
         {
           "code": "L1",
@@ -4759,7 +4759,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 37
+          "waitlist": 38
         },
         {
           "code": "T1",
@@ -4837,7 +4837,7 @@
           "quota": 7,
           "enroll": 7,
           "available": 0,
-          "waitlist": 10
+          "waitlist": 11
         },
         {
           "code": "T3",
@@ -5683,19 +5683,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 8,
-          "quotaDetail": {
-            "IS": {
-              "quota": 30,
-              "enroll": 3,
-              "available": 27
-            },
-            "SBM": {
-              "quota": 20,
-              "enroll": 18,
-              "available": 2
-            }
-          }
+          "waitlist": 8
         },
         {
           "code": "L1",
@@ -5720,19 +5708,7 @@
           "quota": 50,
           "enroll": 25,
           "available": 25,
-          "waitlist": 8,
-          "quotaDetail": {
-            "IS": {
-              "quota": 30,
-              "enroll": 3,
-              "available": 27
-            },
-            "SBM": {
-              "quota": 20,
-              "enroll": 18,
-              "available": 2
-            }
-          }
+          "waitlist": 8
         }
       ]
     },
@@ -10364,8 +10340,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 62,
-          "enroll": 17,
-          "available": 45,
+          "enroll": 18,
+          "available": 44,
           "waitlist": 0
         }
       ]
