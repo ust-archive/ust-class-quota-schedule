@@ -10950,9 +10950,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 119,
-          "available": 1,
-          "waitlist": 8
+          "enroll": 120,
+          "available": 0,
+          "waitlist": 7
         },
         {
           "code": "L1",
@@ -10982,9 +10982,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 119,
-          "available": 1,
-          "waitlist": 8
+          "enroll": 120,
+          "available": 0,
+          "waitlist": 7
         }
       ]
     },
@@ -11086,9 +11086,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 36,
-          "available": 24,
-          "waitlist": 2
+          "enroll": 37,
+          "available": 23,
+          "waitlist": 1
         },
         {
           "code": "T1",
@@ -11128,9 +11128,9 @@
             }
           ],
           "quota": 30,
-          "enroll": 6,
-          "available": 24,
-          "waitlist": 1
+          "enroll": 7,
+          "available": 23,
+          "waitlist": 0
         }
       ]
     },
