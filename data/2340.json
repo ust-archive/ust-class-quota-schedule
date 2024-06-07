@@ -2380,8 +2380,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 1,
-          "enroll": 1,
+          "quota": 3,
+          "enroll": 3,
           "available": 0,
           "waitlist": 0
         }
@@ -10200,7 +10200,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2003, LSK Bldg",
+          "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
               "fromDate": "2024-06-06",
@@ -10211,8 +10211,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 33,
-          "available": 27,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0
         },
         {
@@ -10227,7 +10227,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2003, LSK Bldg",
+          "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
               "fromDate": "2024-06-06",
@@ -10238,8 +10238,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 33,
-          "available": 27,
+          "enroll": 29,
+          "available": 31,
           "waitlist": 0
         }
       ]
@@ -10267,7 +10267,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2003, LSK Bldg",
+          "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
               "fromDate": "2024-06-19",
@@ -10278,8 +10278,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 48,
-          "available": 12,
+          "enroll": 45,
+          "available": 15,
           "waitlist": 0
         },
         {
@@ -10294,7 +10294,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2003, LSK Bldg",
+          "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
               "fromDate": "2024-06-19",
@@ -10305,8 +10305,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 48,
-          "available": 12,
+          "enroll": 45,
+          "available": 15,
           "waitlist": 0
         }
       ]
@@ -13135,8 +13135,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 30,
-          "available": 190,
+          "enroll": 33,
+          "available": 187,
           "waitlist": 0
         }
       ]
