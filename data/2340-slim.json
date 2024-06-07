@@ -2453,6 +2453,31 @@
       ]
     }
   ],
+  "EMBA": [
+    {
+      "subject": "EMBA",
+      "course": "6000A",
+      "name": "Family Business",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1254,
+          "schedules": [],
+          "instructors": [
+            "KING, Roger"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            10,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "ENEG": [
     {
       "subject": "ENEG",
@@ -6039,8 +6064,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            33,
-            67,
+            34,
+            66,
             0
           ]
         },
@@ -6063,8 +6088,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            33,
-            67,
+            34,
+            66,
             0
           ]
         }
@@ -6101,8 +6126,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            37,
-            63,
+            38,
+            62,
             0
           ]
         }

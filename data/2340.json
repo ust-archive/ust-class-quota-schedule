@@ -3184,6 +3184,40 @@
       ]
     }
   ],
+  "EMBA": [
+    {
+      "subject": "EMBA",
+      "course": "6000A",
+      "name": "Family Business",
+      "units": 0.5,
+      "info": {
+        "vector": "[0.5 credits]",
+        "description": "This course is specifically designed for individuals who are currently working or are contemplating working in a family business either as a family or non-family members. The material covered also gives greater understanding of the dynamics of family business for current or future private and investment bankers, accountants and the legal professionals."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1254,
+          "remarks": [
+            "For Kellogg-HKUST EMBA students only",
+            "Class Duration/Dates :01-Jun-2024 to 03-Jun-2024",
+            "Add/Drop Deadline : 01-Jun-2024"
+          ],
+          "instructors": [
+            "KING, Roger"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 10,
+          "enroll": 10,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "ENEG": [
     {
       "subject": "ENEG",
@@ -8208,8 +8242,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 33,
-          "available": 67,
+          "enroll": 34,
+          "available": 66,
           "waitlist": 0
         },
         {
@@ -8235,8 +8269,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 33,
-          "available": 67,
+          "enroll": 34,
+          "available": 66,
           "waitlist": 0
         }
       ]
@@ -8284,8 +8318,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 37,
-          "available": 63,
+          "enroll": 38,
+          "available": 62,
           "waitlist": 0
         }
       ]
