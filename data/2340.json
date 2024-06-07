@@ -7159,7 +7159,7 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
@@ -7208,7 +7208,7 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
@@ -7243,7 +7243,7 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
@@ -7292,7 +7292,7 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
@@ -7327,12 +7327,12 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "KARAHANNA-RAI, Elena"
           ],
           "assistants": [],
           "venue": "Rm 1026, LSK Bldg (28)",
@@ -7376,12 +7376,12 @@
           "number": 1070,
           "remarks": [
             "For MPhil and PhD students in IS only",
-            "Instructors : BURTON-JONES, Andrew and HARAHANNA, Elena",
+            "Instructors : BURTON-JONES, Andrew",
             "Add/Drop Deadline : 13-Jun-2024",
             "Extended Drop Deadline : 25-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "KARAHANNA-RAI, Elena"
           ],
           "assistants": [],
           "venue": "G005, LSK Bldg",
@@ -8242,8 +8242,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 36,
-          "available": 64,
+          "enroll": 37,
+          "available": 63,
           "waitlist": 0
         },
         {
@@ -8269,8 +8269,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 36,
-          "available": 64,
+          "enroll": 37,
+          "available": 63,
           "waitlist": 0
         }
       ]
@@ -9112,7 +9112,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 32
+          "waitlist": 33
         }
       ]
     },
