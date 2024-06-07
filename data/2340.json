@@ -4486,8 +4486,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4511,8 +4511,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4536,8 +4536,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4575,8 +4575,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4600,8 +4600,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4625,8 +4625,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -4703,8 +4703,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 34,
-          "available": 66,
+          "enroll": 35,
+          "available": 65,
           "waitlist": 0
         }
       ]
