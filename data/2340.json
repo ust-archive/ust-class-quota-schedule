@@ -1785,7 +1785,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         },
         {
           "code": "LA1",
@@ -1800,7 +1800,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         }
       ]
     },
@@ -1926,7 +1926,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 4
+          "waitlist": 5
         },
         {
           "code": "LA1",
@@ -1941,7 +1941,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 4
+          "waitlist": 5
         }
       ]
     },
