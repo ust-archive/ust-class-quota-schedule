@@ -4486,8 +4486,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4511,8 +4511,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4536,8 +4536,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4575,8 +4575,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4600,8 +4600,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -4625,8 +4625,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -7585,7 +7585,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 4
         },
         {
           "code": "T02",
@@ -10986,7 +10986,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L1",
@@ -11018,7 +11018,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         }
       ]
     },
@@ -12930,8 +12930,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 200,
-          "available": 0,
+          "enroll": 199,
+          "available": 1,
           "waitlist": 17
         },
         {
