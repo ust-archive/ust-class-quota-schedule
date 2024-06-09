@@ -11120,9 +11120,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 43,
-          "available": 17,
-          "waitlist": 3
+          "enroll": 44,
+          "available": 16,
+          "waitlist": 2
         },
         {
           "code": "T1",
@@ -11162,9 +11162,9 @@
             }
           ],
           "quota": 30,
-          "enroll": 13,
-          "available": 17,
-          "waitlist": 1
+          "enroll": 14,
+          "available": 16,
+          "waitlist": 0
         }
       ]
     },
