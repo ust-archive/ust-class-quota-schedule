@@ -90181,11 +90181,6 @@
           "available": 6,
           "waitlist": 0,
           "quotaDetail": {
-            "MBA": {
-              "quota": 36,
-              "enroll": 31,
-              "available": 5
-            },
             "MBA Bi-weekly": {
               "quota": 2,
               "enroll": 1,
@@ -90195,6 +90190,11 @@
               "quota": 2,
               "enroll": 2,
               "available": 0
+            },
+            "MBA": {
+              "quota": 36,
+              "enroll": 31,
+              "available": 5
             }
           }
         },
@@ -90225,11 +90225,6 @@
           "available": 6,
           "waitlist": 0,
           "quotaDetail": {
-            "MBA": {
-              "quota": 36,
-              "enroll": 31,
-              "available": 5
-            },
             "MBA Bi-weekly": {
               "quota": 2,
               "enroll": 1,
@@ -90239,6 +90234,11 @@
               "quota": 2,
               "enroll": 2,
               "available": 0
+            },
+            "MBA": {
+              "quota": 36,
+              "enroll": 31,
+              "available": 5
             }
           }
         }
