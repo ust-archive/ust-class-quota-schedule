@@ -4310,8 +4310,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 25,
-          "available": 5,
+          "enroll": 24,
+          "available": 6,
           "waitlist": 0
         }
       ]
