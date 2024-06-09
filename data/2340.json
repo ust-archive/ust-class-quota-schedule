@@ -243,8 +243,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 62,
-          "available": 3,
+          "enroll": 61,
+          "available": 4,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -259,8 +259,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 22,
-              "available": 0
+              "enroll": 21,
+              "available": 1
             }
           }
         },
@@ -288,8 +288,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 62,
-          "available": 3,
+          "enroll": 61,
+          "available": 4,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -304,8 +304,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 22,
-              "available": 0
+              "enroll": 21,
+              "available": 1
             }
           }
         },
@@ -333,8 +333,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 62,
-          "available": 3,
+          "enroll": 61,
+          "available": 4,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -349,8 +349,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 22,
-              "available": 0
+              "enroll": 21,
+              "available": 1
             }
           }
         },
@@ -378,8 +378,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 62,
-          "available": 3,
+          "enroll": 61,
+          "available": 4,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -394,8 +394,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 22,
-              "available": 0
+              "enroll": 21,
+              "available": 1
             }
           }
         }
