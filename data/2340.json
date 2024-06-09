@@ -243,8 +243,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 61,
-          "available": 4,
+          "enroll": 60,
+          "available": 5,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -259,8 +259,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 21,
-              "available": 1
+              "enroll": 20,
+              "available": 2
             }
           }
         },
@@ -288,8 +288,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 61,
-          "available": 4,
+          "enroll": 60,
+          "available": 5,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -304,8 +304,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 21,
-              "available": 1
+              "enroll": 20,
+              "available": 2
             }
           }
         },
@@ -333,8 +333,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 61,
-          "available": 4,
+          "enroll": 60,
+          "available": 5,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -349,8 +349,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 21,
-              "available": 1
+              "enroll": 20,
+              "available": 2
             }
           }
         },
@@ -378,8 +378,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 61,
-          "available": 4,
+          "enroll": 60,
+          "available": 5,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
@@ -394,8 +394,8 @@
             },
             "MBA Bi-weekly": {
               "quota": 22,
-              "enroll": 21,
-              "available": 1
+              "enroll": 20,
+              "available": 2
             }
           }
         }
@@ -5386,7 +5386,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 9
+          "waitlist": 10
         },
         {
           "code": "L2",
@@ -5411,7 +5411,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 9
+          "waitlist": 10
         }
       ]
     },
@@ -8406,7 +8406,7 @@
           "quota": 55,
           "enroll": 55,
           "available": 0,
-          "waitlist": 14
+          "waitlist": 15
         }
       ]
     }
