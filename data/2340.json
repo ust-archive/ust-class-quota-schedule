@@ -1926,7 +1926,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "LA1",
@@ -1941,7 +1941,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         }
       ]
     },
@@ -8502,7 +8502,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 35
         },
         {
           "code": "T1A",
@@ -8539,7 +8539,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 35
         }
       ]
     },
@@ -8681,8 +8681,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 34,
-          "available": 6,
+          "enroll": 33,
+          "available": 7,
           "waitlist": 0
         },
         {
@@ -8718,8 +8718,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 34,
-          "available": 6,
+          "enroll": 33,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -10984,8 +10984,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 120,
-          "available": 0,
+          "enroll": 119,
+          "available": 1,
           "waitlist": 13
         },
         {
@@ -11016,8 +11016,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 120,
-          "available": 0,
+          "enroll": 119,
+          "available": 1,
           "waitlist": 13
         }
       ]
@@ -11543,14 +11543,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 12,
-          "available": 28,
+          "enroll": 13,
+          "available": 27,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 11,
-              "available": 9
+              "enroll": 12,
+              "available": 8
             }
           }
         },
@@ -11576,14 +11576,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 12,
-          "available": 28,
+          "enroll": 13,
+          "available": 27,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 11,
-              "available": 9
+              "enroll": 12,
+              "available": 8
             }
           }
         }
