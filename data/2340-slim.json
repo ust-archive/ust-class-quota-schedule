@@ -1470,8 +1470,8 @@
           "venue": "TBA",
           "quota": [
             200,
-            161,
-            39,
+            159,
+            41,
             0
           ]
         },
@@ -1486,8 +1486,8 @@
           "venue": "TBA",
           "quota": [
             150,
-            126,
-            24,
+            116,
+            34,
             0
           ]
         },
@@ -4450,7 +4450,9 @@
           "instructors": [
             "FUNG, Terrance"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Sum Yu"
+          ],
           "venue": "Rm 1003, LSK Bldg (70)",
           "quota": [
             60,
@@ -4522,7 +4524,9 @@
           "instructors": [
             "HE, Chao"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEE, Aaron Chun Hay"
+          ],
           "venue": "Rm 2001, LSK Bldg",
           "quota": [
             65,
@@ -4728,7 +4732,9 @@
           "instructors": [
             "DIAS, Garvin Percy"
           ],
-          "assistants": [],
+          "assistants": [
+            "GU, Jiaying"
+          ],
           "venue": "G003, LSK Bldg (70)",
           "quota": [
             60,
@@ -4790,7 +4796,9 @@
           "instructors": [
             "HUI, Kai Lung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSE, Chris"
+          ],
           "venue": "TBA",
           "quota": [
             65,
@@ -4958,7 +4966,9 @@
           "instructors": [
             "HUI, Kai Lung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSE, Chris"
+          ],
           "venue": "Rm 2001, LSK Bldg",
           "quota": [
             70,
@@ -5061,7 +5071,9 @@
           "instructors": [
             "JAISINGH, Jeevan"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "venue": "TBA",
           "quota": [
             65,
@@ -6122,8 +6134,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            46,
-            54,
+            47,
+            53,
             0
           ]
         },
@@ -6146,8 +6158,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            46,
-            54,
+            47,
+            53,
             0
           ]
         }
@@ -6184,8 +6196,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            51,
-            49,
+            52,
+            48,
             0
           ]
         }
@@ -9663,8 +9675,8 @@
           "venue": "TBA",
           "quota": [
             220,
-            38,
-            182,
+            39,
+            181,
             0
           ]
         }

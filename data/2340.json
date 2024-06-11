@@ -1969,8 +1969,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 200,
-          "enroll": 161,
-          "available": 39,
+          "enroll": 159,
+          "available": 41,
           "waitlist": 0
         },
         {
@@ -1987,8 +1987,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 150,
-          "enroll": 126,
-          "available": 24,
+          "enroll": 116,
+          "available": 34,
           "waitlist": 0
         },
         {
@@ -5843,7 +5843,9 @@
           "instructors": [
             "FUNG, Terrance"
           ],
-          "assistants": [],
+          "assistants": [
+            "LAI, Sum Yu"
+          ],
           "venue": "Rm 1003, LSK Bldg (70)",
           "schedules": [
             {
@@ -5942,7 +5944,9 @@
           "instructors": [
             "HE, Chao"
           ],
-          "assistants": [],
+          "assistants": [
+            "LEE, Aaron Chun Hay"
+          ],
           "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
@@ -6300,7 +6304,9 @@
           "instructors": [
             "DIAS, Garvin Percy"
           ],
-          "assistants": [],
+          "assistants": [
+            "GU, Jiaying"
+          ],
           "venue": "G003, LSK Bldg (70)",
           "schedules": [
             {
@@ -6396,7 +6402,9 @@
           "instructors": [
             "HUI, Kai Lung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSE, Chris"
+          ],
           "venue": "TBA",
           "schedules": [
             {
@@ -6703,7 +6711,9 @@
           "instructors": [
             "HUI, Kai Lung"
           ],
-          "assistants": [],
+          "assistants": [
+            "TSE, Chris"
+          ],
           "venue": "Rm 2001, LSK Bldg",
           "schedules": [
             {
@@ -6898,7 +6908,9 @@
           "instructors": [
             "JAISINGH, Jeevan"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "venue": "TBA",
           "schedules": [
             {
@@ -8317,8 +8329,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 46,
-          "available": 54,
+          "enroll": 47,
+          "available": 53,
           "waitlist": 0
         },
         {
@@ -8344,8 +8356,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 46,
-          "available": 54,
+          "enroll": 47,
+          "available": 53,
           "waitlist": 0
         }
       ]
@@ -8393,8 +8405,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 51,
-          "available": 49,
+          "enroll": 52,
+          "available": 48,
           "waitlist": 0
         }
       ]
@@ -13244,8 +13256,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 38,
-          "available": 182,
+          "enroll": 39,
+          "available": 181,
           "waitlist": 0
         }
       ]
