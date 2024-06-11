@@ -1486,8 +1486,8 @@
           "venue": "TBA",
           "quota": [
             150,
-            131,
-            19,
+            126,
+            24,
             0
           ]
         },
@@ -1502,8 +1502,8 @@
           "venue": "TBA",
           "quota": [
             100,
-            37,
-            63,
+            28,
+            72,
             0
           ]
         }
@@ -3223,8 +3223,8 @@
           "venue": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
-            24,
-            6,
+            23,
+            7,
             0
           ]
         }
@@ -3565,8 +3565,8 @@
           "venue": "Rm 2306, Lift 17-18 (111)",
           "quota": [
             100,
-            35,
-            65,
+            34,
+            66,
             0
           ]
         }
@@ -4054,7 +4054,9 @@
           "instructors": [
             "HONG, Se Joon"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Wing Yan"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
@@ -4116,7 +4118,9 @@
           "instructors": [
             "XU, Yan"
           ],
-          "assistants": [],
+          "assistants": [
+            "IEONG, Chao"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
@@ -4185,7 +4189,9 @@
           "instructors": [
             "TEH, Jack Her Hock"
           ],
-          "assistants": [],
+          "assistants": [
+            "NG, Ka Wai Tommy"
+          ],
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
             60,
@@ -4316,7 +4322,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "PANG, Ngai Cheung"
+          ],
           "venue": "Rm 1027, LSK Bldg (40)",
           "quota": [
             30,
@@ -4385,7 +4393,9 @@
           "instructors": [
             "KIM, Yongsuk"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             50,
@@ -4784,8 +4794,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4808,8 +4818,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4832,8 +4842,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4856,8 +4866,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4880,8 +4890,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4904,8 +4914,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -4928,8 +4938,8 @@
           "venue": "TBA",
           "quota": [
             65,
-            57,
-            8,
+            56,
+            9,
             1
           ]
         },
@@ -9653,8 +9663,8 @@
           "venue": "TBA",
           "quota": [
             220,
-            37,
-            183,
+            38,
+            182,
             0
           ]
         }
@@ -9676,8 +9686,8 @@
           "venue": "TBA",
           "quota": [
             100,
-            3,
-            97,
+            4,
+            96,
             0
           ]
         }

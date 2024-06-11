@@ -1987,8 +1987,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 150,
-          "enroll": 131,
-          "available": 19,
+          "enroll": 126,
+          "available": 24,
           "waitlist": 0
         },
         {
@@ -2005,8 +2005,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 37,
-          "available": 63,
+          "enroll": 28,
+          "available": 72,
           "waitlist": 0
         }
       ]
@@ -4340,8 +4340,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 24,
-          "available": 6,
+          "enroll": 23,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -4768,8 +4768,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 35,
-          "available": 65,
+          "enroll": 34,
+          "available": 66,
           "waitlist": 0
         }
       ]
@@ -5366,7 +5366,9 @@
           "instructors": [
             "HONG, Se Joon"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHAN, Wing Yan"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "schedules": [
             {
@@ -5423,7 +5425,9 @@
           "instructors": [
             "XU, Yan"
           ],
-          "assistants": [],
+          "assistants": [
+            "IEONG, Chao"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "schedules": [
             {
@@ -5511,7 +5515,9 @@
           "instructors": [
             "TEH, Jack Her Hock"
           ],
-          "assistants": [],
+          "assistants": [
+            "NG, Ka Wai Tommy"
+          ],
           "venue": "Rm 1014, LSK Bldg (80)",
           "schedules": [
             {
@@ -5679,7 +5685,9 @@
           "instructors": [
             "TBA"
           ],
-          "assistants": [],
+          "assistants": [
+            "PANG, Ngai Cheung"
+          ],
           "venue": "Rm 1027, LSK Bldg (40)",
           "schedules": [
             {
@@ -5754,7 +5762,9 @@
           "instructors": [
             "KIM, Yongsuk"
           ],
-          "assistants": [],
+          "assistants": [
+            "WAN, On Yu"
+          ],
           "venue": "Rm 1034, LSK Bldg (80)",
           "schedules": [
             {
@@ -6398,14 +6408,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6442,14 +6452,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6486,14 +6496,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6530,14 +6540,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6574,14 +6584,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6618,14 +6628,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -6662,14 +6672,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 57,
-          "available": 8,
+          "enroll": 56,
+          "available": 9,
           "waitlist": 1,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 38,
-              "enroll": 31,
-              "available": 7
+              "enroll": 30,
+              "available": 8
             },
             "MBA": {
               "quota": 17,
@@ -13234,8 +13244,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 37,
-          "available": 183,
+          "enroll": 38,
+          "available": 182,
           "waitlist": 0
         }
       ]
@@ -13265,8 +13275,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 3,
-          "available": 97,
+          "enroll": 4,
+          "available": 96,
           "waitlist": 0
         }
       ]
