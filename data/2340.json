@@ -2005,8 +2005,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 40,
-          "available": 60,
+          "enroll": 37,
+          "available": 63,
           "waitlist": 0
         }
       ]
@@ -2664,8 +2664,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 9,
-          "available": 31,
+          "enroll": 10,
+          "available": 30,
           "waitlist": 0
         }
       ]
@@ -3342,7 +3342,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 17
+          "waitlist": 16
         }
       ]
     },
@@ -4342,6 +4342,41 @@
           "quota": 30,
           "enroll": 24,
           "available": 6,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
+  "HLTH": [
+    {
+      "subject": "HLTH",
+      "course": "1010",
+      "name": "Healthy Lifestyle",
+      "units": 0,
+      "info": {
+        "attributes": "Common Core (HLTH) for 36-credit program",
+        "description": "A compulsory, one-year course for all undergraduates to learn how to maintain a well-balanced and healthy lifestyle that will help them to manage their lives, learning, transitions and holistic development. Students will complete at least 45 hours of activities including physical and wellness assessments, sports skill classes, organized sports and fitness events, community service, as well as enrichment topics, for example, mental health, wellness, transitions, student life, and personal growth. Students with special personal reasons may seek exemption from the Director of Student Affairs. Graded P or F."
+      },
+      "attrs": [
+        {
+          "title": "[4Y]",
+          "description": "Students admitted before 2022"
+        }
+      ],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1256,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 4,
+          "enroll": 4,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -13230,8 +13265,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 2,
-          "available": 98,
+          "enroll": 3,
+          "available": 97,
           "waitlist": 0
         }
       ]

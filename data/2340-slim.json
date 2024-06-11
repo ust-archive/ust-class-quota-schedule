@@ -1502,8 +1502,8 @@
           "venue": "TBA",
           "quota": [
             100,
-            40,
-            60,
+            37,
+            63,
             0
           ]
         }
@@ -2060,8 +2060,8 @@
           "venue": "TBA",
           "quota": [
             40,
-            9,
-            31,
+            10,
+            30,
             0
           ]
         }
@@ -2569,7 +2569,7 @@
             40,
             40,
             0,
-            17
+            16
           ]
         }
       ]
@@ -3225,6 +3225,31 @@
             30,
             24,
             6,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "HLTH": [
+    {
+      "subject": "HLTH",
+      "course": "1010",
+      "name": "Healthy Lifestyle",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1256,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            4,
+            4,
+            0,
             0
           ]
         }
@@ -9651,8 +9676,8 @@
           "venue": "TBA",
           "quota": [
             100,
-            2,
-            98,
+            3,
+            97,
             0
           ]
         }
