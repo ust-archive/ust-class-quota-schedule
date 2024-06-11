@@ -702,8 +702,8 @@
             }
           ],
           "quota": 66,
-          "enroll": 66,
-          "available": 0,
+          "enroll": 65,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -731,8 +731,8 @@
             }
           ],
           "quota": 66,
-          "enroll": 66,
-          "available": 0,
+          "enroll": 65,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -760,8 +760,8 @@
             }
           ],
           "quota": 66,
-          "enroll": 66,
-          "available": 0,
+          "enroll": 65,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -779,8 +779,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 66,
-          "enroll": 66,
-          "available": 0,
+          "enroll": 65,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -3149,6 +3149,36 @@
               "available": 9
             }
           }
+        }
+      ]
+    },
+    {
+      "subject": "EESM",
+      "course": "6980H",
+      "name": "MSc Project",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "Independent project carried out under the supervision of a faculty member. This course may be run repeatedly for credit(s)."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1255,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
         }
       ]
     }
@@ -7110,8 +7140,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 36,
-          "available": 24,
+          "enroll": 33,
+          "available": 27,
           "waitlist": 0
         },
         {
@@ -7137,8 +7167,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 36,
-          "available": 24,
+          "enroll": 33,
+          "available": 27,
           "waitlist": 0
         }
       ]
@@ -9628,14 +9658,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9662,14 +9692,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9696,14 +9726,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9737,14 +9767,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9771,14 +9801,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9805,14 +9835,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         },
@@ -9839,14 +9869,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 70,
-          "available": 4,
+          "enroll": 69,
+          "available": 5,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 70,
-              "available": 4
+              "enroll": 69,
+              "available": 5
             }
           }
         }
