@@ -86694,48 +86694,9 @@
     },
     {
       "subject": "SBMT",
-      "course": "6350A",
-      "name": "MBA Practical Internship Experience",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1579,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "SBMT",
       "course": "6350B",
       "name": "MBA Practical Internship Experience",
       "sections": [
-        {
-          "code": "R1",
-          "number": 4328,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        },
         {
           "code": "R2",
           "number": 4443,
@@ -86749,29 +86710,6 @@
             1,
             1,
             0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "SBMT",
-      "course": "6350C",
-      "name": "MBA Practical Internship Experience",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1581,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
             0
           ]
         }

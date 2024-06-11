@@ -101637,45 +101637,6 @@
     },
     {
       "subject": "SBMT",
-      "course": "6350A",
-      "name": "MBA Practical Internship Experience",
-      "units": 1,
-      "info": {
-        "vector": "[1 credit]",
-        "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1579,
-          "remarks": [
-            "For FT-MBA students only",
-            "Add/Drop Deadline : 01-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0,
-          "quotaDetail": {
-            "MBA": {
-              "quota": 10,
-              "enroll": 0,
-              "available": 10
-            }
-          }
-        }
-      ]
-    },
-    {
-      "subject": "SBMT",
       "course": "6350B",
       "name": "MBA Practical Internship Experience",
       "units": 2,
@@ -101685,32 +101646,6 @@
       },
       "attrs": [],
       "sections": [
-        {
-          "code": "R1",
-          "number": 4328,
-          "remarks": [
-            "For FT-MBA students only",
-            "Add/Drop Deadline : 01-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0,
-          "quotaDetail": {
-            "MBA": {
-              "quota": 10,
-              "enroll": 0,
-              "available": 10
-            }
-          }
-        },
         {
           "code": "R2",
           "number": 4443,
@@ -101734,45 +101669,6 @@
               "quota": 1,
               "enroll": 1,
               "available": 0
-            }
-          }
-        }
-      ]
-    },
-    {
-      "subject": "SBMT",
-      "course": "6350C",
-      "name": "MBA Practical Internship Experience",
-      "units": 3,
-      "info": {
-        "vector": "[3 credits]",
-        "description": "This course is to provide students with practical work experience. Internships provide entry-level, career-related experience, and workplace competencies that employers value when hiring new employees. It is also an opportunity to explore career fields. Students can gain a clearer sense of what they still need to learn and to build professional networks. The experience will enhance students’ knowledge and likelihood of success in post-MBA job search. Course duration and credits depend on the cumulative working hours. Students are allowed to repeat this course for credits if they have more than one internship. Consent of instructor is required. Graded PP, P or F."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1581,
-          "remarks": [
-            "For FT-MBA students only",
-            "Add/Drop Deadline : 01-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0,
-          "quotaDetail": {
-            "MBA": {
-              "quota": 10,
-              "enroll": 0,
-              "available": 10
             }
           }
         }
