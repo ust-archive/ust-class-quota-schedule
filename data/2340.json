@@ -1685,8 +1685,8 @@
             }
           ],
           "quota": 10,
-          "enroll": 2,
-          "available": 8,
+          "enroll": 3,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -3342,7 +3342,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 16
+          "waitlist": 17
         }
       ]
     },
@@ -5455,7 +5455,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 10
+          "waitlist": 11
         },
         {
           "code": "L2",
@@ -5480,7 +5480,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 10
+          "waitlist": 11
         }
       ]
     },
@@ -9199,7 +9199,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 33
+          "waitlist": 34
         }
       ]
     },
@@ -13226,8 +13226,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 65,
-          "available": 185,
+          "enroll": 66,
+          "available": 184,
           "waitlist": 0
         }
       ]
