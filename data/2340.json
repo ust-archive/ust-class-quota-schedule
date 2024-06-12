@@ -7797,8 +7797,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 10,
-          "available": 10,
+          "enroll": 11,
+          "available": 9,
           "waitlist": 0
         }
       ]
