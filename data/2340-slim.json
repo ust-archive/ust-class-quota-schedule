@@ -1734,7 +1734,7 @@
             60,
             60,
             0,
-            1
+            2
           ]
         },
         {
@@ -1765,7 +1765,7 @@
             60,
             60,
             0,
-            1
+            2
           ]
         },
         {
@@ -1789,7 +1789,7 @@
             60,
             60,
             0,
-            1
+            2
           ]
         },
         {
@@ -1820,7 +1820,7 @@
             60,
             60,
             0,
-            1
+            2
           ]
         },
         {
@@ -1851,7 +1851,7 @@
             60,
             60,
             0,
-            1
+            2
           ]
         }
       ]
@@ -2060,8 +2060,8 @@
           "venue": "TBA",
           "quota": [
             102,
-            0,
-            102,
+            13,
+            89,
             0
           ]
         }
@@ -2106,8 +2106,8 @@
           "venue": "TBA",
           "quota": [
             22,
-            0,
-            22,
+            5,
+            17,
             0
           ]
         }
@@ -2129,8 +2129,8 @@
           "venue": "TBA",
           "quota": [
             2,
-            0,
-            2,
+            1,
+            1,
             0
           ]
         }
@@ -5810,75 +5810,6 @@
   "LANG": [
     {
       "subject": "LANG",
-      "course": "1403A",
-      "name": "Academic English for University Studies",
-      "sections": [
-        {
-          "code": "T01",
-          "number": 1266,
-          "schedules": [
-            {
-              "fromDate": "2024-06-18",
-              "toDate": "2024-06-18",
-              "day": "TUESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            1,
-            0,
-            1,
-            0
-          ]
-        },
-        {
-          "code": "T01",
-          "number": 1266,
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "MONDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "WEDNESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "FRIDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            1,
-            0,
-            1,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "LANG",
       "course": "1403I",
       "name": "Academic English for University Studies",
       "sections": [
@@ -5914,9 +5845,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            7,
             5,
-            2,
+            5,
+            0,
             0
           ]
         }
@@ -5959,9 +5890,9 @@
           "assistants": [],
           "venue": "Rm 2126A, Lift 19 (28)",
           "quota": [
-            23,
             22,
-            1,
+            22,
+            0,
             0
           ]
         },
@@ -5983,9 +5914,9 @@
           "assistants": [],
           "venue": "Rm 2126C, Lift 19 (28)",
           "quota": [
-            19,
             14,
-            5,
+            14,
+            0,
             0
           ]
         },
@@ -6021,9 +5952,9 @@
           "assistants": [],
           "venue": "Rm 2126C, Lift 19 (28)",
           "quota": [
-            19,
             14,
-            5,
+            14,
+            0,
             0
           ]
         }
@@ -6052,9 +5983,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            11,
             3,
-            8,
+            3,
+            0,
             0
           ]
         },
@@ -6090,9 +6021,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            11,
             3,
-            8,
+            3,
+            0,
             0
           ]
         }
@@ -8369,8 +8300,8 @@
           "venue": "TBA",
           "quota": [
             55,
-            10,
-            45,
+            11,
+            44,
             0
           ]
         }
@@ -10174,8 +10105,8 @@
           "venue": "TBA",
           "quota": [
             250,
-            88,
-            162,
+            89,
+            161,
             0
           ]
         }

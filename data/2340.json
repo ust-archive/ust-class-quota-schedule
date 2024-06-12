@@ -2268,7 +2268,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -2300,7 +2300,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -2325,7 +2325,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         },
         {
           "code": "T1",
@@ -2355,7 +2355,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         },
         {
           "code": "LA1",
@@ -2385,7 +2385,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         }
       ]
     },
@@ -2649,8 +2649,7 @@
           "code": "R1",
           "number": 1268,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Instructor Consent Required"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
           ],
           "instructors": [
             "TBA"
@@ -2659,8 +2658,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 102,
-          "enroll": 0,
-          "available": 102,
+          "enroll": 13,
+          "available": 89,
           "waitlist": 0
         }
       ]
@@ -2679,8 +2678,7 @@
           "code": "R1",
           "number": 1269,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Instructor Consent Required"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
           ],
           "instructors": [
             "TBA"
@@ -2709,8 +2707,7 @@
           "code": "R1",
           "number": 1270,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Instructor Consent Required"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
           ],
           "instructors": [
             "TBA"
@@ -2719,8 +2716,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 22,
-          "enroll": 0,
-          "available": 22,
+          "enroll": 5,
+          "available": 17,
           "waitlist": 0
         }
       ]
@@ -2739,8 +2736,7 @@
           "code": "R1",
           "number": 1271,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Instructor Consent Required"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
           ],
           "instructors": [
             "TBA"
@@ -2749,8 +2745,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 2,
-          "enroll": 0,
-          "available": 2,
+          "enroll": 1,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -7899,91 +7895,6 @@
   "LANG": [
     {
       "subject": "LANG",
-      "course": "1403A",
-      "name": "Academic English for University Studies",
-      "units": 3,
-      "info": {
-        "attributes": "Common Core (E-Comm) for 30-credit program",
-        "pre-requisite": "LANG 1401 OR LANG 1402 OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
-        "exclusion": "LANG 1003",
-        "previous-code": "CORE 1403A",
-        "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning."
-      },
-      "attrs": [
-        {
-          "title": "[CC22]",
-          "description": "Students admitted from 2022"
-        }
-      ],
-      "sections": [
-        {
-          "code": "T01",
-          "number": 1266,
-          "remarks": [
-            "Venue : Room 2126C"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-18",
-              "toDate": "2024-06-18",
-              "day": "TUESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "quota": 1,
-          "enroll": 0,
-          "available": 1,
-          "waitlist": 0
-        },
-        {
-          "code": "T01",
-          "number": 1266,
-          "remarks": [
-            "Venue : Room 2126C"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "MONDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "WEDNESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "FRIDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "quota": 1,
-          "enroll": 0,
-          "available": 1,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "LANG",
       "course": "1403I",
       "name": "Academic English for University Studies",
       "units": 3,
@@ -8035,9 +7946,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 7,
+          "quota": 5,
           "enroll": 5,
-          "available": 2,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -8093,9 +8004,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 23,
+          "quota": 22,
           "enroll": 22,
-          "available": 1,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -8116,9 +8027,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 19,
+          "quota": 14,
           "enroll": 14,
-          "available": 5,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -8153,9 +8064,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 19,
+          "quota": 14,
           "enroll": 14,
-          "available": 5,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -8199,9 +8110,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 11,
+          "quota": 3,
           "enroll": 3,
-          "available": 8,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -8238,9 +8149,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 11,
+          "quota": 3,
           "enroll": 3,
-          "available": 8,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -11403,8 +11314,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 10,
-          "available": 45,
+          "enroll": 11,
+          "available": 44,
           "waitlist": 0
         }
       ]
@@ -13871,8 +13782,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 88,
-          "available": 162,
+          "enroll": 89,
+          "available": 161,
           "waitlist": 0
         }
       ]
