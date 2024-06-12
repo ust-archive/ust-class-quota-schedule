@@ -1955,7 +1955,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 5
         },
         {
           "code": "LA1",
@@ -1970,7 +1970,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 5
         }
       ]
     },
@@ -13816,8 +13816,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 59,
-          "available": 161,
+          "enroll": 60,
+          "available": 160,
           "waitlist": 0
         }
       ]
