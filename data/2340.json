@@ -61,7 +61,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 34
+          "waitlist": 33
         }
       ]
     },
@@ -996,7 +996,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 47
+          "waitlist": 46
         }
       ]
     },
@@ -2649,7 +2649,8 @@
           "code": "R1",
           "number": 1268,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "TBA"
@@ -2658,8 +2659,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 102,
-          "enroll": 13,
-          "available": 89,
+          "enroll": 99,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -2678,7 +2679,8 @@
           "code": "R1",
           "number": 1269,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "TBA"
@@ -2687,8 +2689,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 1,
-          "enroll": 0,
-          "available": 1,
+          "enroll": 1,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -2707,7 +2709,8 @@
           "code": "R1",
           "number": 1270,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "TBA"
@@ -2715,9 +2718,9 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 22,
-          "enroll": 5,
-          "available": 17,
+          "quota": 21,
+          "enroll": 18,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -2736,7 +2739,8 @@
           "code": "R1",
           "number": 1271,
           "remarks": [
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "TBA"
@@ -2745,8 +2749,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 2,
-          "enroll": 1,
-          "available": 1,
+          "enroll": 2,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -2859,8 +2863,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 61,
-          "available": 39,
+          "enroll": 62,
+          "available": 38,
           "waitlist": 0
         }
       ]
@@ -3518,7 +3522,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 15
+          "waitlist": 16
         }
       ]
     },
@@ -12292,8 +12296,8 @@
             }
           ],
           "quota": 15,
-          "enroll": 14,
-          "available": 1,
+          "enroll": 15,
+          "available": 0,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
@@ -12352,8 +12356,8 @@
             }
           ],
           "quota": 15,
-          "enroll": 14,
-          "available": 1,
+          "enroll": 15,
+          "available": 0,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
@@ -13782,8 +13786,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 89,
-          "available": 161,
+          "enroll": 91,
+          "available": 159,
           "waitlist": 0
         }
       ]
