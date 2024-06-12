@@ -2634,6 +2634,127 @@
       ]
     }
   ],
+  "CPEG": [
+    {
+      "subject": "CPEG",
+      "course": "4901",
+      "name": "Computer Engineering Final Year Project in COMP",
+      "units": 6,
+      "info": {
+        "description": "Each student of the Computer Engineering program is required to complete a final year project before graduation. The student is expected to conduct a project on a topic related to Computer Engineering and/or its application. The project is guided and conducted under the supervision of faculty members from the Department of Computer Science and Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1268,
+          "remarks": [
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 102,
+          "enroll": 0,
+          "available": 102,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4902",
+      "name": "Computer Engineering Final Year Thesis in COMP",
+      "units": 6,
+      "info": {
+        "description": "Each student taking the Research Option of the Computer Engineering program is required to complete an individual thesis before graduation. The student is expected to conduct a research on a topic related to Computer Engineering and/or its application. The thesis is conducted under the supervision of faculty members from the Department of Computer Science and Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1269,
+          "remarks": [
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4911",
+      "name": "Computer Engineering Final Year Project in ELEC",
+      "units": 6,
+      "info": {
+        "description": "Each student of the Computer Engineering program is required to complete a final year project before graduation. The student is expected to conduct a project on a topic related to Computer Engineering and/or its application. The project is guided and conducted under the supervision of faculty members from the Department of Electronic and Computer Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1270,
+          "remarks": [
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 22,
+          "enroll": 0,
+          "available": 22,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4912",
+      "name": "Computer Engineering Final Year Thesis in ELEC",
+      "units": 6,
+      "info": {
+        "description": "Each student taking the Research Option of the Computer Engineering program is required to complete an individual thesis before graduation. The student is expected to conduct a research on a topic related to Computer Engineering and/or its application. The thesis is conducted under the supervision of faculty members from the Department of Electronic and Computer Engineering. Credit load will be spread over the year. Instructor's approval is required for enrollment in the course. For CPEG students only."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1271,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 2,
+          "enroll": 0,
+          "available": 2,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "CSIT": [
     {
       "subject": "CSIT",
@@ -7914,8 +8035,8 @@
             }
           ],
           "quota": 7,
-          "enroll": 0,
-          "available": 7,
+          "enroll": 5,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -7995,8 +8116,8 @@
             }
           ],
           "quota": 19,
-          "enroll": 0,
-          "available": 19,
+          "enroll": 14,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -8032,8 +8153,8 @@
             }
           ],
           "quota": 19,
-          "enroll": 0,
-          "available": 19,
+          "enroll": 14,
+          "available": 5,
           "waitlist": 0
         }
       ]
@@ -8078,8 +8199,8 @@
             }
           ],
           "quota": 11,
-          "enroll": 0,
-          "available": 11,
+          "enroll": 3,
+          "available": 8,
           "waitlist": 0
         },
         {
@@ -8117,8 +8238,8 @@
             }
           ],
           "quota": 11,
-          "enroll": 0,
-          "available": 11,
+          "enroll": 3,
+          "available": 8,
           "waitlist": 0
         }
       ]

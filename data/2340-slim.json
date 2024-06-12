@@ -2043,6 +2043,100 @@
       ]
     }
   ],
+  "CPEG": [
+    {
+      "subject": "CPEG",
+      "course": "4901",
+      "name": "Computer Engineering Final Year Project in COMP",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1268,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            102,
+            0,
+            102,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4902",
+      "name": "Computer Engineering Final Year Thesis in COMP",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1269,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4911",
+      "name": "Computer Engineering Final Year Project in ELEC",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1270,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            22,
+            0,
+            22,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CPEG",
+      "course": "4912",
+      "name": "Computer Engineering Final Year Thesis in ELEC",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1271,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            0,
+            2,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "CSIT": [
     {
       "subject": "CSIT",
@@ -5821,8 +5915,8 @@
           "venue": "TBA",
           "quota": [
             7,
-            0,
-            7,
+            5,
+            2,
             0
           ]
         }
@@ -5890,8 +5984,8 @@
           "venue": "Rm 2126C, Lift 19 (28)",
           "quota": [
             19,
-            0,
-            19,
+            14,
+            5,
             0
           ]
         },
@@ -5928,8 +6022,8 @@
           "venue": "Rm 2126C, Lift 19 (28)",
           "quota": [
             19,
-            0,
-            19,
+            14,
+            5,
             0
           ]
         }
@@ -5959,8 +6053,8 @@
           "venue": "TBA",
           "quota": [
             11,
-            0,
-            11,
+            3,
+            8,
             0
           ]
         },
@@ -5997,8 +6091,8 @@
           "venue": "TBA",
           "quota": [
             11,
-            0,
-            11,
+            3,
+            8,
             0
           ]
         }
