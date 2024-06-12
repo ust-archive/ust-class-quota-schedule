@@ -5317,7 +5317,7 @@
       "name": "Interdisciplinary Special Project",
       "units": 3,
       "info": {
-        "description": "Special projects on selected interdisciplinary topics supervised by one or a group of faculty members. May be repeated for credits if different topics are taken. Enrollment may require approval of the course instructor. For DDP, RMBI, EVMT, and IIM students or those with approval from instructor for enrolling in the course."
+        "description": "Special projects on selected interdisciplinary topics supervised by one or a group of faculty members. May be repeated for credits if different topics are taken. Enrollment may require approval of the course instructor. For DDP, RMBI, EVMT, and IIM students or those with approval from instructor for enrolling in the course. May be graded by letter, P/F or DI/PA/F for different offerings."
       },
       "attrs": [],
       "sections": [
@@ -8801,8 +8801,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 48,
-          "available": 52,
+          "enroll": 50,
+          "available": 50,
           "waitlist": 0
         },
         {
@@ -8828,8 +8828,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 48,
-          "available": 52,
+          "enroll": 50,
+          "available": 50,
           "waitlist": 0
         }
       ]
@@ -8877,8 +8877,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 52,
-          "available": 48,
+          "enroll": 54,
+          "available": 46,
           "waitlist": 0
         }
       ]
@@ -13909,8 +13909,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 1,
-          "available": 19,
+          "enroll": 2,
+          "available": 18,
           "waitlist": 0
         }
       ]
