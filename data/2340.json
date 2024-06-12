@@ -7777,6 +7777,91 @@
   "LANG": [
     {
       "subject": "LANG",
+      "course": "1403A",
+      "name": "Academic English for University Studies",
+      "units": 3,
+      "info": {
+        "attributes": "Common Core (E-Comm) for 30-credit program",
+        "pre-requisite": "LANG 1401 OR LANG 1402 OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+        "exclusion": "LANG 1003",
+        "previous-code": "CORE 1403A",
+        "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning."
+      },
+      "attrs": [
+        {
+          "title": "[CC22]",
+          "description": "Students admitted from 2022"
+        }
+      ],
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1266,
+          "remarks": [
+            "Venue : Room 2126C"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        },
+        {
+          "code": "T01",
+          "number": 1266,
+          "remarks": [
+            "Venue : Room 2126C"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
       "course": "1403I",
       "name": "Academic English for University Studies",
       "units": 3,
@@ -7887,8 +7972,8 @@
             }
           ],
           "quota": 23,
-          "enroll": 0,
-          "available": 23,
+          "enroll": 22,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -7949,6 +8034,91 @@
           "quota": 19,
           "enroll": 0,
           "available": 19,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "course": "1404",
+      "name": "Advanced Academic English for University Studies",
+      "units": 3,
+      "info": {
+        "attributes": "Common Core (E-Comm) for 30-credit program",
+        "pre-requisite": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
+        "exclusion": "LANG 1002, LANG 1003",
+        "previous-code": "CORE 1404",
+        "description": "This course puts a strong emphasis on developing university-level academic literacy and communication competence in writing, speaking, and multimodal contexts. The course introduces students to research skills using university library resources for finding and evaluating sources for academic writing and speaking tasks. It expects students to be critical readers and writers, synthesizing ideas when developing a coherent argument. The course also aims to develop students’ competence in communicating effectively in an academic community, developing the ability to collaborate both as a member of a group and assuming responsibility as a discussion facilitator in the context of student-led seminars. Throughout the course, students are expected to transfer and adapt their knowledge, attitudes and habits for autonomous lifelong learning."
+      },
+      "attrs": [
+        {
+          "title": "[CC22]",
+          "description": "Students admitted from 2022"
+        }
+      ],
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1267,
+          "remarks": [
+            "Venue : 2126C"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 11,
+          "enroll": 0,
+          "available": 11,
+          "waitlist": 0
+        },
+        {
+          "code": "T01",
+          "number": 1267,
+          "remarks": [
+            "Venue : 2126C"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 11,
+          "enroll": 0,
+          "available": 11,
           "waitlist": 0
         }
       ]

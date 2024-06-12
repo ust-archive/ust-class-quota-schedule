@@ -5716,6 +5716,75 @@
   "LANG": [
     {
       "subject": "LANG",
+      "course": "1403A",
+      "name": "Academic English for University Studies",
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1266,
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": "T01",
+          "number": 1266,
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
       "course": "1403I",
       "name": "Academic English for University Studies",
       "sections": [
@@ -5797,8 +5866,8 @@
           "venue": "Rm 2126A, Lift 19 (28)",
           "quota": [
             23,
-            0,
-            23,
+            22,
+            1,
             0
           ]
         },
@@ -5861,6 +5930,75 @@
             19,
             0,
             19,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "course": "1404",
+      "name": "Advanced Academic English for University Studies",
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1267,
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            11,
+            0,
+            11,
+            0
+          ]
+        },
+        {
+          "code": "T01",
+          "number": 1267,
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            11,
+            0,
+            11,
             0
           ]
         }
