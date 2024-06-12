@@ -2739,6 +2739,7 @@
           "code": "R1",
           "number": 1271,
           "remarks": [
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -5208,7 +5209,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 44
+          "waitlist": 45
         }
       ]
     }
@@ -12088,8 +12089,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 22,
-          "available": 8,
+          "enroll": 21,
+          "available": 9,
           "waitlist": 0
         },
         {
@@ -12114,8 +12115,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 22,
-          "available": 8,
+          "enroll": 21,
+          "available": 9,
           "waitlist": 0
         },
         {
@@ -12140,8 +12141,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 22,
-          "available": 8,
+          "enroll": 21,
+          "available": 9,
           "waitlist": 0
         }
       ]
@@ -12274,8 +12275,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 13,
-          "available": 27,
+          "enroll": 14,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
@@ -12307,8 +12308,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 13,
-          "available": 27,
+          "enroll": 14,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
@@ -13870,8 +13871,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 86,
-          "available": 164,
+          "enroll": 88,
+          "available": 162,
           "waitlist": 0
         }
       ]
@@ -13900,8 +13901,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 55,
-          "available": 165,
+          "enroll": 56,
+          "available": 164,
           "waitlist": 0
         }
       ]
