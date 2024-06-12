@@ -98989,14 +98989,14 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 200,
-          "enroll": 69,
-          "available": 131,
+          "enroll": 70,
+          "available": 130,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
               "quota": 200,
-              "enroll": 68,
-              "available": 132
+              "enroll": 69,
+              "available": 131
             }
           }
         }
