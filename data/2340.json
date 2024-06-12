@@ -996,7 +996,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 49
+          "waitlist": 48
         }
       ]
     },
@@ -1047,8 +1047,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 18,
-          "available": 32,
+          "enroll": 16,
+          "available": 34,
           "waitlist": 0
         }
       ]
@@ -1141,8 +1141,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 7,
-          "available": 3,
+          "enroll": 8,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -1859,8 +1859,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 43,
-          "available": 7,
+          "enroll": 42,
+          "available": 8,
           "waitlist": 0
         },
         {
@@ -1874,8 +1874,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 43,
-          "available": 7,
+          "enroll": 42,
+          "available": 8,
           "waitlist": 0
         }
       ]
@@ -2268,7 +2268,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -2300,7 +2300,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -2325,7 +2325,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         },
         {
           "code": "T1",
@@ -2355,7 +2355,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         },
         {
           "code": "LA1",
@@ -2385,7 +2385,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         }
       ]
     },
@@ -3400,7 +3400,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 18
+          "waitlist": 16
         }
       ]
     },
@@ -4611,7 +4611,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -4636,7 +4636,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -4661,7 +4661,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4700,7 +4700,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4725,7 +4725,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -4750,7 +4750,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         }
       ]
     },
@@ -4891,7 +4891,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 34
         },
         {
           "code": "L1",
@@ -4916,7 +4916,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 34
         },
         {
           "code": "T1",
@@ -4955,7 +4955,7 @@
           "quota": 7,
           "enroll": 7,
           "available": 0,
-          "waitlist": 14
+          "waitlist": 12
         },
         {
           "code": "T2",
@@ -5087,7 +5087,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 48
+          "waitlist": 46
         }
       ]
     }
@@ -8008,8 +8008,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 45,
-          "available": 55,
+          "enroll": 44,
+          "available": 56,
           "waitlist": 0
         }
       ]
@@ -8130,6 +8130,35 @@
           "schedules": [],
           "quota": 6,
           "enroll": 6,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "LIFS",
+      "course": "4910D",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "description": "The course will cover review topics restricted to life sciences. Enrolled students will conduct research project or literature review exercise on a mutually agreed topic under the supervision of a faculty member. For third year LIFS students and visiting interns only. Approval of the course instructor is needed for students to enroll in this course. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1260,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
           "available": 0,
           "waitlist": 0
         }
@@ -8645,8 +8674,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 37
         },
         {
@@ -8682,8 +8711,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 37
         }
       ]
@@ -8826,8 +8855,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 36,
-          "available": 4,
+          "enroll": 35,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -8863,8 +8892,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 36,
-          "available": 4,
+          "enroll": 35,
+          "available": 5,
           "waitlist": 0
         }
       ]
@@ -9428,8 +9457,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9439,8 +9468,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9472,8 +9501,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9483,8 +9512,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9516,8 +9545,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9527,8 +9556,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9560,8 +9589,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9571,8 +9600,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9604,8 +9633,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9615,8 +9644,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9648,8 +9677,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9659,8 +9688,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9692,8 +9721,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9703,8 +9732,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -9736,8 +9765,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 38,
-          "available": 27,
+          "enroll": 39,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "Digital MBA": {
@@ -9747,8 +9776,8 @@
             },
             "MBA": {
               "quota": 25,
-              "enroll": 4,
-              "available": 21
+              "enroll": 5,
+              "available": 20
             },
             "MBA Bi-weekly": {
               "quota": 35,
@@ -11464,6 +11493,66 @@
     },
     {
       "subject": "PHYS",
+      "course": "4090A",
+      "name": "Directed Studies in Physics III",
+      "units": 1,
+      "info": {
+        "pre-requisite": "CGA at 2.70 or above",
+        "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1261,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 5,
+          "enroll": 5,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "course": "4090B",
+      "name": "Directed Studies in Physics III",
+      "units": 1,
+      "info": {
+        "pre-requisite": "CGA at 2.70 or above",
+        "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1262,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
       "course": "6100B",
       "name": "Individual Study in Physics",
       "units": 1,
@@ -12501,7 +12590,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 21,
+          "waitlist": 22,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -12546,7 +12635,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 21,
+          "waitlist": 22,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -12591,7 +12680,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 21,
+          "waitlist": 22,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -13466,8 +13555,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 30,
-          "enroll": 1,
-          "available": 29,
+          "enroll": 2,
+          "available": 28,
           "waitlist": 0
         }
       ]
