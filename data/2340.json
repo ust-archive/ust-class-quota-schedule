@@ -5085,9 +5085,9 @@
             }
           ],
           "quota": 100,
-          "enroll": 99,
-          "available": 1,
-          "waitlist": 45
+          "enroll": 100,
+          "available": 0,
+          "waitlist": 44
         }
       ]
     }
@@ -7728,9 +7728,9 @@
             }
           ],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
-          "waitlist": 3
+          "enroll": 20,
+          "available": 0,
+          "waitlist": 2
         },
         {
           "code": "T02",
@@ -7769,7 +7769,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 3
+          "waitlist": 2
         }
       ]
     }
