@@ -929,8 +929,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 5,
-          "enroll": 2,
-          "available": 3,
+          "enroll": 3,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -1687,6 +1687,35 @@
           "quota": 10,
           "enroll": 4,
           "available": 6,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6010A",
+      "name": "Directed Studies",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "previous-code": "CIVL 610A",
+        "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1257,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 3,
+          "enroll": 3,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -3186,6 +3215,35 @@
   "ELEC": [
     {
       "subject": "ELEC",
+      "course": "4940C",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1259,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
       "course": "6900A",
       "name": "Independent Study",
       "units": 1,
@@ -3206,8 +3264,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 1,
-          "enroll": 1,
+          "quota": 5,
+          "enroll": 5,
           "available": 0,
           "waitlist": 0
         }
@@ -8964,6 +9022,34 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
+          "quota": 5,
+          "enroll": 5,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "course": "6950D",
+      "name": "Independent Studies",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)"
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1258,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
           "quota": 1,
           "enroll": 1,
           "available": 0,
@@ -11691,7 +11777,7 @@
           "code": "R1",
           "number": 1244,
           "remarks": [
-            "Add/Drop Deadline : 14-Jun-2024"
+            "Add/Drop Deadline : 17-Jun-2024"
           ],
           "instructors": [
             "ZHU, Pengyu"
@@ -11751,7 +11837,7 @@
           "code": "R1",
           "number": 1244,
           "remarks": [
-            "Add/Drop Deadline : 14-Jun-2024"
+            "Add/Drop Deadline : 17-Jun-2024"
           ],
           "instructors": [
             "ZHU, Pengyu"

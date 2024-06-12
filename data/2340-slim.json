@@ -674,8 +674,8 @@
           "venue": "TBA",
           "quota": [
             5,
-            2,
             3,
+            2,
             0
           ]
         }
@@ -1245,6 +1245,29 @@
             10,
             4,
             6,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6010A",
+      "name": "Directed Studies",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1257,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
             0
           ]
         }
@@ -2454,6 +2477,29 @@
   "ELEC": [
     {
       "subject": "ELEC",
+      "course": "4940C",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1259,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
       "course": "6900A",
       "name": "Independent Study",
       "sections": [
@@ -2467,8 +2513,8 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            1,
-            1,
+            5,
+            5,
             0,
             0
           ]
@@ -6653,6 +6699,29 @@
         {
           "code": "R1",
           "number": 1250,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "MECH",
+      "course": "6950D",
+      "name": "Independent Studies",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1258,
           "schedules": [],
           "instructors": [
             "TBA"
