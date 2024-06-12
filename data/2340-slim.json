@@ -1732,9 +1732,9 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            59,
-            1,
-            2
+            60,
+            0,
+            1
           ]
         },
         {
@@ -1763,9 +1763,9 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            59,
-            1,
-            2
+            60,
+            0,
+            1
           ]
         },
         {
@@ -1787,9 +1787,9 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            59,
-            1,
-            2
+            60,
+            0,
+            1
           ]
         },
         {
@@ -1818,9 +1818,9 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            59,
-            1,
-            2
+            60,
+            0,
+            1
           ]
         },
         {
@@ -1849,9 +1849,9 @@
           "venue": "Rm 4210, Lift 19 (67)",
           "quota": [
             60,
-            59,
-            1,
-            2
+            60,
+            0,
+            1
           ]
         }
       ]
@@ -3269,8 +3269,8 @@
           "venue": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
-            23,
-            7,
+            22,
+            8,
             0
           ]
         }
@@ -4108,7 +4108,7 @@
             80,
             80,
             0,
-            14
+            15
           ]
         },
         {
@@ -4132,7 +4132,7 @@
             80,
             80,
             0,
-            14
+            15
           ]
         },
         {
@@ -4445,8 +4445,8 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             50,
-            30,
-            20,
+            31,
+            19,
             0
           ]
         },
@@ -4469,8 +4469,8 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             50,
-            30,
-            20,
+            31,
+            19,
             0
           ]
         }
@@ -5667,9 +5667,9 @@
           "venue": "Rm 2128A, Lift 19 (28)",
           "quota": [
             20,
-            19,
-            1,
-            2
+            20,
+            0,
+            1
           ]
         },
         {
@@ -5707,13 +5707,165 @@
             20,
             20,
             0,
-            2
+            1
           ]
         }
       ]
     }
   ],
   "LANG": [
+    {
+      "subject": "LANG",
+      "course": "1403I",
+      "name": "Academic English for University Studies",
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1264,
+          "schedules": [
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            7,
+            0,
+            7,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "course": "1403S",
+      "name": "Academic English for University Studies",
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1263,
+          "schedules": [
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126A, Lift 19 (28)",
+          "quota": [
+            23,
+            0,
+            23,
+            0
+          ]
+        },
+        {
+          "code": "T02",
+          "number": 1265,
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126C, Lift 19 (28)",
+          "quota": [
+            19,
+            0,
+            19,
+            0
+          ]
+        },
+        {
+          "code": "T02",
+          "number": 1265,
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126C, Lift 19 (28)",
+          "quota": [
+            19,
+            0,
+            19,
+            0
+          ]
+        }
+      ]
+    },
     {
       "subject": "LANG",
       "course": "1416P",

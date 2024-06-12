@@ -2266,9 +2266,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "L1",
@@ -2298,9 +2298,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "L1",
@@ -2323,9 +2323,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "T1",
@@ -2353,9 +2353,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "LA1",
@@ -2383,9 +2383,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 1
         }
       ]
     },
@@ -4398,8 +4398,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 23,
-          "available": 7,
+          "enroll": 22,
+          "available": 8,
           "waitlist": 0
         }
       ]
@@ -5447,7 +5447,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 14
+          "waitlist": 15
         },
         {
           "code": "L1",
@@ -5472,7 +5472,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 14
+          "waitlist": 15
         },
         {
           "code": "L2",
@@ -5848,8 +5848,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 30,
-          "available": 20,
+          "enroll": 31,
+          "available": 19,
           "waitlist": 0
         },
         {
@@ -5873,8 +5873,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 30,
-          "available": 20,
+          "enroll": 31,
+          "available": 19,
           "waitlist": 0
         }
       ]
@@ -7728,9 +7728,9 @@
             }
           ],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 20,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "T02",
@@ -7769,12 +7769,190 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 2
+          "waitlist": 1
         }
       ]
     }
   ],
   "LANG": [
+    {
+      "subject": "LANG",
+      "course": "1403I",
+      "name": "Academic English for University Studies",
+      "units": 3,
+      "info": {
+        "attributes": "Common Core (E-Comm) for 30-credit program",
+        "pre-requisite": "LANG 1401 OR LANG 1402 OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+        "exclusion": "LANG 1003",
+        "previous-code": "CORE 1403I",
+        "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning."
+      },
+      "attrs": [
+        {
+          "title": "[CC22]",
+          "description": "Students admitted from 2022"
+        }
+      ],
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1264,
+          "remarks": [
+            "Venue : Room 2126A"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 7,
+          "enroll": 0,
+          "available": 7,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "LANG",
+      "course": "1403S",
+      "name": "Academic English for University Studies",
+      "units": 3,
+      "info": {
+        "attributes": "Common Core (E-Comm) for 30-credit program",
+        "pre-requisite": "LANG 1401 OR LANG 1402 OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+        "exclusion": "LANG 1003",
+        "previous-code": "CORE 1403S",
+        "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning."
+      },
+      "attrs": [
+        {
+          "title": "[CC22]",
+          "description": "Students admitted from 2022"
+        }
+      ],
+      "sections": [
+        {
+          "code": "T01",
+          "number": 1263,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126A, Lift 19 (28)",
+          "schedules": [
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-17",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 23,
+          "enroll": 0,
+          "available": 23,
+          "waitlist": 0
+        },
+        {
+          "code": "T02",
+          "number": 1265,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126C, Lift 19 (28)",
+          "schedules": [
+            {
+              "fromDate": "2024-06-18",
+              "toDate": "2024-06-18",
+              "day": "TUESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 19,
+          "enroll": 0,
+          "available": 19,
+          "waitlist": 0
+        },
+        {
+          "code": "T02",
+          "number": 1265,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "Rm 2126C, Lift 19 (28)",
+          "schedules": [
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "MONDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "WEDNESDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            },
+            {
+              "fromDate": "2024-06-19",
+              "toDate": "2024-07-12",
+              "day": "FRIDAY",
+              "from": "09:30:00",
+              "to": "12:50:00"
+            }
+          ],
+          "quota": 19,
+          "enroll": 0,
+          "available": 19,
+          "waitlist": 0
+        }
+      ]
+    },
     {
       "subject": "LANG",
       "course": "1416P",
