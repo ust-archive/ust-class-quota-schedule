@@ -3750,8 +3750,8 @@
           "venue": "Rm 105, Shaw Auditorium",
           "quota": [
             20,
-            20,
-            0,
+            19,
+            1,
             33
           ]
         },
@@ -3774,8 +3774,8 @@
           "venue": "Rm 103, Shaw Auditorium",
           "quota": [
             20,
-            20,
-            0,
+            19,
+            1,
             33
           ]
         },
@@ -3812,8 +3812,8 @@
           "venue": "Rm 105, Shaw Auditorium",
           "quota": [
             7,
-            7,
-            0,
+            6,
+            1,
             11
           ]
         },
