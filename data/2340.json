@@ -5723,8 +5723,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 69,
-          "available": 11,
+          "enroll": 68,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -5748,8 +5748,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 69,
-          "available": 11,
+          "enroll": 68,
+          "available": 12,
           "waitlist": 0
         }
       ]
@@ -10987,7 +10987,7 @@
           "number": 1189,
           "remarks": [
             "For MSc(IMT) students only",
-            "Add/Drop Deadline : 20-Jun-2024"
+            "Add/Drop Deadline : 01-Aug-2024"
           ],
           "instructors": [
             "SALVACRUZ, Joseph"
@@ -11027,7 +11027,7 @@
           "number": 1189,
           "remarks": [
             "For MSc(IMT) students only",
-            "Add/Drop Deadline : 20-Jun-2024"
+            "Add/Drop Deadline : 01-Aug-2024"
           ],
           "instructors": [
             "SALVACRUZ, Joseph"
