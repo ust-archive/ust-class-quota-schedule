@@ -6650,8 +6650,8 @@
           "venue": "Rm 1003, LSK Bldg (70)",
           "quota": [
             55,
-            55,
-            0,
+            54,
+            1,
             15
           ]
         }
@@ -8914,85 +8914,6 @@
     },
     {
       "subject": "PPOL",
-      "course": "6100R",
-      "name": "Public Policy Perspectives on Crime Prevention and Criminal Justice",
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1201,
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "WEDNESDAY",
-              "from": "18:30:00",
-              "to": "21:20:00"
-            }
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "code": "L1",
-          "number": 1201,
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "FRIDAY",
-              "from": "18:30:00",
-              "to": "20:20:00"
-            }
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        },
-        {
-          "code": "L1",
-          "number": 1201,
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "SUNDAY",
-              "from": "09:30:00",
-              "to": "13:20:00"
-            }
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            0,
-            0,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "PPOL",
       "course": "6100S",
       "name": "The Political Economy of Poverty, Inequality, and Development",
       "sections": [
@@ -9986,8 +9907,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            149,
-            51,
+            148,
+            52,
             0
           ]
         }

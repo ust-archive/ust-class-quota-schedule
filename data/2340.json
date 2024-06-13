@@ -8963,8 +8963,8 @@
             }
           ],
           "quota": 55,
-          "enroll": 55,
-          "available": 0,
+          "enroll": 54,
+          "available": 1,
           "waitlist": 15
         }
       ]
@@ -12064,94 +12064,6 @@
     },
     {
       "subject": "PPOL",
-      "course": "6100R",
-      "name": "Public Policy Perspectives on Crime Prevention and Criminal Justice",
-      "units": 3,
-      "info": {
-        "vector": "[3-0-0:3]",
-        "description": "This course provides a comprehensive exploration of crime prevention and justice administration from various public policy perspectives. It covers internationally recognized standards and norms, their application to real-world issues in crime prevention and criminal justice, and the importance of human rights and the rule of law. Students will learn about norms and standards for criminal justice institutions and gain critical competencies to assess crime prevention efforts and the effectiveness of criminal justice institutions."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1201,
-          "remarks": [
-            "Class cancelled"
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "WEDNESDAY",
-              "from": "18:30:00",
-              "to": "21:20:00"
-            }
-          ],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0
-        },
-        {
-          "code": "L1",
-          "number": 1201,
-          "remarks": [
-            "Class cancelled"
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "FRIDAY",
-              "from": "18:30:00",
-              "to": "20:20:00"
-            }
-          ],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0
-        },
-        {
-          "code": "L1",
-          "number": 1201,
-          "remarks": [
-            "Class cancelled"
-          ],
-          "instructors": [
-            "BERNAL, Marie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-19",
-              "day": "SUNDAY",
-              "from": "09:30:00",
-              "to": "13:20:00"
-            }
-          ],
-          "quota": 0,
-          "enroll": 0,
-          "available": 0,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "PPOL",
       "course": "6100S",
       "name": "The Political Economy of Poverty, Inequality, and Development",
       "units": 3,
@@ -13616,8 +13528,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 149,
-          "available": 51,
+          "enroll": 148,
+          "available": 52,
           "waitlist": 0
         }
       ]
