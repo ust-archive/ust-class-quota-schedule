@@ -1812,9 +1812,9 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "LA1",
@@ -1827,9 +1827,9 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 1
         }
       ]
     },
@@ -9697,8 +9697,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 30
         }
       ]
@@ -11318,8 +11318,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 14,
-          "available": 41,
+          "enroll": 15,
+          "available": 40,
           "waitlist": 0
         }
       ]
