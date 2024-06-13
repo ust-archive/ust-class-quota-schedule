@@ -1955,7 +1955,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         },
         {
           "code": "LA1",
@@ -1970,7 +1970,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         }
       ]
     },
@@ -11728,8 +11728,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 30,
-          "available": 0,
+          "enroll": 29,
+          "available": 1,
           "waitlist": 1
         },
         {
@@ -11749,9 +11749,9 @@
             }
           ],
           "quota": 30,
-          "enroll": 14,
-          "available": 16,
-          "waitlist": 2
+          "enroll": 15,
+          "available": 15,
+          "waitlist": 1
         }
       ]
     },
