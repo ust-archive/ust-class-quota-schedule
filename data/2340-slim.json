@@ -4334,10 +4334,10 @@
           ],
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
-            60,
-            60,
-            0,
-            10
+            80,
+            70,
+            10,
+            0
           ]
         },
         {
@@ -4358,10 +4358,10 @@
           "assistants": [],
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
-            60,
-            60,
-            0,
-            10
+            80,
+            70,
+            10,
+            0
           ]
         }
       ]
@@ -5888,7 +5888,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126A, Lift 19 (28)",
+          "venue": "Rm 2404, Lift 17-18 (81)",
           "quota": [
             22,
             22,
@@ -5912,7 +5912,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126C, Lift 19 (28)",
+          "venue": "Rm 2126D, Lift 19 (34)",
           "quota": [
             14,
             14,
@@ -5950,7 +5950,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126C, Lift 19 (28)",
+          "venue": "Rm 2126D, Lift 19 (34)",
           "quota": [
             14,
             14,

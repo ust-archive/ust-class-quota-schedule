@@ -5722,10 +5722,10 @@
               "to": "12:20:00"
             }
           ],
-          "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 10
+          "quota": 80,
+          "enroll": 70,
+          "available": 10,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -5747,10 +5747,10 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 10
+          "quota": 80,
+          "enroll": 70,
+          "available": 10,
+          "waitlist": 0
         }
       ]
     },
@@ -7920,7 +7920,7 @@
           "code": "T01",
           "number": 1264,
           "remarks": [
-            "Venue : Room 2126A"
+            "Venue : Room 2404"
           ],
           "instructors": [
             "TBA"
@@ -7984,7 +7984,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126A, Lift 19 (28)",
+          "venue": "Rm 2404, Lift 17-18 (81)",
           "schedules": [
             {
               "fromDate": "2024-06-17",
@@ -8021,7 +8021,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126C, Lift 19 (28)",
+          "venue": "Rm 2126D, Lift 19 (34)",
           "schedules": [
             {
               "fromDate": "2024-06-18",
@@ -8044,7 +8044,7 @@
             "TBA"
           ],
           "assistants": [],
-          "venue": "Rm 2126C, Lift 19 (28)",
+          "venue": "Rm 2126D, Lift 19 (34)",
           "schedules": [
             {
               "fromDate": "2024-06-19",
@@ -8098,7 +8098,7 @@
           "code": "T01",
           "number": 1267,
           "remarks": [
-            "Venue : 2126C"
+            "Venue : 2126D"
           ],
           "instructors": [
             "TBA"
@@ -8123,7 +8123,7 @@
           "code": "T01",
           "number": 1267,
           "remarks": [
-            "Venue : 2126C"
+            "Venue : 2126D"
           ],
           "instructors": [
             "TBA"
