@@ -2096,7 +2096,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         },
         {
           "code": "L1",
@@ -2135,7 +2135,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         },
         {
           "code": "L1",
@@ -2160,7 +2160,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         },
         {
           "code": "L1",
@@ -2185,7 +2185,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         },
         {
           "code": "T1",
@@ -2222,7 +2222,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 5
+          "waitlist": 6
         }
       ]
     },
@@ -4520,8 +4520,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 22,
-          "available": 8,
+          "enroll": 23,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -5209,7 +5209,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 44
+          "waitlist": 45
         }
       ]
     }
@@ -13698,8 +13698,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 97,
-          "available": 153,
+          "enroll": 98,
+          "available": 152,
           "waitlist": 0
         }
       ]
@@ -13728,8 +13728,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 62,
-          "available": 158,
+          "enroll": 63,
+          "available": 157,
           "waitlist": 0
         }
       ]
