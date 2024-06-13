@@ -4668,8 +4668,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 100,
-          "available": 0,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 6
         }
       ]
@@ -10215,14 +10215,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10249,14 +10249,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10283,14 +10283,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10324,14 +10324,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10358,14 +10358,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10392,14 +10392,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         },
@@ -10426,14 +10426,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 69,
-          "available": 5,
+          "enroll": 68,
+          "available": 6,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 69,
-              "available": 5
+              "enroll": 68,
+              "available": 6
             }
           }
         }
@@ -12102,8 +12102,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 15,
-          "available": 25,
+          "enroll": 14,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
@@ -12135,8 +12135,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 15,
-          "available": 25,
+          "enroll": 14,
+          "available": 26,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
