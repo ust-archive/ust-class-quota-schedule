@@ -13698,8 +13698,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 100,
-          "available": 150,
+          "enroll": 101,
+          "available": 149,
           "waitlist": 0
         }
       ]
