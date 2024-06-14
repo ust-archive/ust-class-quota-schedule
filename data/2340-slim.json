@@ -2716,6 +2716,29 @@
     },
     {
       "subject": "ENGG",
+      "course": "2010",
+      "name": "Engineering Seminar Series",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1273,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            11,
+            1,
+            10,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENGG",
       "course": "2900H",
       "name": "Community Services Project: STEAM Project for the Community",
       "sections": [
@@ -3705,8 +3728,8 @@
           "venue": "Rm 2306, Lift 17-18 (111)",
           "quota": [
             100,
-            35,
-            65,
+            36,
+            64,
             0
           ]
         }
@@ -6629,6 +6652,22 @@
             5,
             0,
             5,
+            0
+          ]
+        },
+        {
+          "code": "R2",
+          "number": 1274,
+          "schedules": [],
+          "instructors": [
+            "DENG, Shuoqing"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            0,
+            2,
             0
           ]
         }
@@ -9901,9 +9940,9 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            199,
-            1,
-            15
+            200,
+            0,
+            14
           ]
         },
         {
@@ -9939,8 +9978,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            152,
-            48,
+            151,
+            49,
             0
           ]
         }

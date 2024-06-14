@@ -3527,6 +3527,35 @@
     },
     {
       "subject": "ENGG",
+      "course": "2010",
+      "name": "Engineering Seminar Series",
+      "units": 0,
+      "info": {
+        "description": "This course is designed for non-freshman students in the School of Engineering to promote the awareness of the role of engineers and the impact of engineering in the society. As a continuation of ENGG 1010, students are required to attend a few seminars from a series of seminars offered by the school each year. The seminars cover areas including the ethical and environmental responsibilities as an engineer, the importance and the considerations of safety and health related issues in engineering designs and solutions, and in general the impact of engineering to the society. This course helps to provide the needed components for meeting the accreditation requirement and also helps to broaden the students' horizon in different engineering disciplines. For SENG students not in their first year of study only. Graded P or F. May be graded PP."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1273,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 11,
+          "enroll": 1,
+          "available": 10,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ENGG",
       "course": "2900H",
       "name": "Community Services Project: STEAM Project for the Community",
       "units": 2,
@@ -4947,8 +4976,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 35,
-          "available": 65,
+          "enroll": 36,
+          "available": 64,
           "waitlist": 0
         }
       ]
@@ -8943,6 +8972,26 @@
           "quota": 5,
           "enroll": 0,
           "available": 5,
+          "waitlist": 0
+        },
+        {
+          "code": "R2",
+          "number": 1274,
+          "remarks": [
+            "Students should seek the instructor's approval to take this course.",
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "DENG, Shuoqing"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 2,
+          "enroll": 0,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -13528,9 +13577,9 @@
             }
           ],
           "quota": 200,
-          "enroll": 199,
-          "available": 1,
-          "waitlist": 15
+          "enroll": 200,
+          "available": 0,
+          "waitlist": 14
         },
         {
           "code": "L2",
@@ -13567,8 +13616,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 152,
-          "available": 48,
+          "enroll": 151,
+          "available": 49,
           "waitlist": 0
         }
       ]
