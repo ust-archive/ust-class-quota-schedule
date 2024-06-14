@@ -6988,12 +6988,20 @@
         {
           "code": "L1",
           "number": 1206,
-          "schedules": [],
+          "schedules": [
+            {
+              "fromDate": "2024-06-20",
+              "toDate": "2024-08-08",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "10:20:00"
+            }
+          ],
           "instructors": [
             "NITZSCHNER, Maximilian Alexander"
           ],
           "assistants": [],
-          "venue": "TBA",
+          "venue": "Rm 2127A, Lift 19 (28)",
           "quota": [
             3,
             3,

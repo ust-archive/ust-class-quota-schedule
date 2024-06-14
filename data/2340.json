@@ -9366,8 +9366,16 @@
             "NITZSCHNER, Maximilian Alexander"
           ],
           "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
+          "venue": "Rm 2127A, Lift 19 (28)",
+          "schedules": [
+            {
+              "fromDate": "2024-06-20",
+              "toDate": "2024-08-08",
+              "day": "THURSDAY",
+              "from": "09:00:00",
+              "to": "10:20:00"
+            }
+          ],
           "quota": 3,
           "enroll": 3,
           "available": 0,
