@@ -9788,8 +9788,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 28
         }
       ]
@@ -12095,8 +12095,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 21,
-          "available": 9,
+          "enroll": 20,
+          "available": 10,
           "waitlist": 0
         },
         {
@@ -12121,8 +12121,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 21,
-          "available": 9,
+          "enroll": 20,
+          "available": 10,
           "waitlist": 0
         },
         {
@@ -12147,8 +12147,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 21,
-          "available": 9,
+          "enroll": 20,
+          "available": 10,
           "waitlist": 0
         }
       ]
@@ -13652,7 +13652,7 @@
           "quota": 20,
           "enroll": 7,
           "available": 13,
-          "waitlist": 2,
+          "waitlist": 1,
           "quotaDetail": {
             "SOSC": {
               "quota": 20,
@@ -13690,7 +13690,7 @@
           "quota": 20,
           "enroll": 0,
           "available": 20,
-          "waitlist": 2,
+          "waitlist": 1,
           "quotaDetail": {
             "SOSC": {
               "quota": 20,
