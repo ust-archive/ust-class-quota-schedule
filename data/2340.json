@@ -8973,8 +8973,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 5,
-          "enroll": 0,
-          "available": 5,
+          "enroll": 1,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -11409,8 +11409,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 15,
-          "available": 40,
+          "enroll": 16,
+          "available": 39,
           "waitlist": 0
         }
       ]
