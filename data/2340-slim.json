@@ -1147,7 +1147,10 @@
           "instructors": [
             "HU, Thomas"
           ],
-          "assistants": [],
+          "assistants": [
+            "KHEDR, Ahmed Gamal Abdelsamea",
+            "WU, Junhong"
+          ],
           "venue": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
@@ -2255,8 +2258,8 @@
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
             80,
-            27,
-            53,
+            26,
+            54,
             0
           ]
         }
@@ -4247,9 +4250,9 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
-            79,
-            1,
-            14
+            80,
+            0,
+            13
           ]
         },
         {
@@ -4271,9 +4274,9 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
-            79,
-            1,
-            14
+            80,
+            0,
+            13
           ]
         },
         {
@@ -7306,9 +7309,9 @@
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
             50,
-            49,
-            1,
-            29
+            50,
+            0,
+            28
           ]
         }
       ]
@@ -9978,8 +9981,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            151,
-            49,
+            152,
+            48,
             0
           ]
         }

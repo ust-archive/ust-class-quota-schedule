@@ -1558,7 +1558,10 @@
           "instructors": [
             "HU, Thomas"
           ],
-          "assistants": [],
+          "assistants": [
+            "KHEDR, Ahmed Gamal Abdelsamea",
+            "WU, Junhong"
+          ],
           "venue": "Rm 4502, Lift 25-26 (60)",
           "schedules": [
             {
@@ -2909,8 +2912,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 27,
-          "available": 53,
+          "enroll": 26,
+          "available": 54,
           "waitlist": 0
         }
       ]
@@ -5627,9 +5630,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 14
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 13
         },
         {
           "code": "L1",
@@ -5652,9 +5655,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 14
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 13
         },
         {
           "code": "L2",
@@ -9785,9 +9788,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 29
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 28
         }
       ]
     },
@@ -13616,8 +13619,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 151,
-          "available": 49,
+          "enroll": 152,
+          "available": 48,
           "waitlist": 0
         }
       ]
