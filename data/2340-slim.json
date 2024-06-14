@@ -2350,6 +2350,29 @@
     },
     {
       "subject": "ECON",
+      "course": "6970A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1275,
+          "schedules": [],
+          "instructors": [
+            "KIM, Hyuncheol Bryant"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
       "course": "6970B",
       "name": "Independent Study",
       "sections": [
@@ -7309,9 +7332,9 @@
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
             50,
-            49,
-            1,
-            28
+            50,
+            0,
+            27
           ]
         }
       ]
@@ -8931,8 +8954,8 @@
           "venue": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
-            20,
-            10,
+            19,
+            11,
             0
           ]
         },
@@ -8955,8 +8978,8 @@
           "venue": "Rm 4502, Lift 25-26 (60)",
           "quota": [
             30,
-            20,
-            10,
+            19,
+            11,
             0
           ]
         },
@@ -8979,8 +9002,8 @@
           "venue": "TBA",
           "quota": [
             30,
-            20,
-            10,
+            19,
+            11,
             0
           ]
         }
@@ -9943,9 +9966,9 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             200,
-            199,
-            1,
-            15
+            200,
+            0,
+            14
           ]
         },
         {
@@ -10100,8 +10123,8 @@
           "venue": "TBA",
           "quota": [
             250,
-            110,
-            140,
+            111,
+            139,
             0
           ]
         }
@@ -10146,8 +10169,8 @@
           "venue": "TBA",
           "quota": [
             100,
-            9,
-            91,
+            10,
+            90,
             0
           ]
         }

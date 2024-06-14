@@ -3018,6 +3018,39 @@
     },
     {
       "subject": "ECON",
+      "course": "6970A",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)"
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1275,
+          "remarks": [
+            "For PhD(ECON) students only",
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "KIM, Hyuncheol Bryant"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
       "course": "6970B",
       "name": "Independent Study",
       "units": 2,
@@ -9788,9 +9821,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 28
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 27
         }
       ]
     },
@@ -12095,8 +12128,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         },
         {
@@ -12121,8 +12154,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         },
         {
@@ -12147,8 +12180,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         }
       ]
@@ -13580,9 +13613,9 @@
             }
           ],
           "quota": 200,
-          "enroll": 199,
-          "available": 1,
-          "waitlist": 15
+          "enroll": 200,
+          "available": 0,
+          "waitlist": 14
         },
         {
           "code": "L2",
@@ -13789,8 +13822,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 110,
-          "available": 140,
+          "enroll": 111,
+          "available": 139,
           "waitlist": 0
         }
       ]
@@ -13850,8 +13883,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 9,
-          "available": 91,
+          "enroll": 10,
+          "available": 90,
           "waitlist": 0
         }
       ]
