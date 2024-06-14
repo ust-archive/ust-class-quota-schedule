@@ -5666,7 +5666,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5691,7 +5691,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         }
       ]
     },
@@ -8996,7 +8996,7 @@
           "quota": 55,
           "enroll": 55,
           "available": 0,
-          "waitlist": 13
+          "waitlist": 12
         }
       ]
     }
