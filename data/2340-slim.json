@@ -4308,22 +4308,15 @@
           "schedules": [
             {
               "fromDate": "2024-07-15",
-              "toDate": "2024-08-05",
+              "toDate": "2024-07-17",
               "day": "MONDAY",
               "from": "09:00:00",
               "to": "12:20:00"
             },
             {
               "fromDate": "2024-07-15",
-              "toDate": "2024-08-05",
+              "toDate": "2024-07-17",
               "day": "WEDNESDAY",
-              "from": "09:00:00",
-              "to": "12:20:00"
-            },
-            {
-              "fromDate": "2024-07-15",
-              "toDate": "2024-08-05",
-              "day": "FRIDAY",
               "from": "09:00:00",
               "to": "12:20:00"
             }
@@ -4347,9 +4340,47 @@
           "number": 1007,
           "schedules": [
             {
-              "fromDate": "2024-08-07",
+              "fromDate": "2024-07-22",
+              "toDate": "2024-08-07",
+              "day": "MONDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-07-22",
               "toDate": "2024-08-07",
               "day": "WEDNESDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            },
+            {
+              "fromDate": "2024-07-22",
+              "toDate": "2024-08-07",
+              "day": "FRIDAY",
+              "from": "09:00:00",
+              "to": "12:20:00"
+            }
+          ],
+          "instructors": [
+            "XU, Yan"
+          ],
+          "assistants": [],
+          "venue": "Rm 1034, LSK Bldg (80)",
+          "quota": [
+            80,
+            80,
+            0,
+            12
+          ]
+        },
+        {
+          "code": "L2",
+          "number": 1007,
+          "schedules": [
+            {
+              "fromDate": "2024-08-09",
+              "toDate": "2024-08-09",
+              "day": "FRIDAY",
               "from": "09:00:00",
               "to": "12:50:00"
             }
