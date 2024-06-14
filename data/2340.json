@@ -8929,8 +8929,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 51,
-          "available": 49,
+          "enroll": 52,
+          "available": 48,
           "waitlist": 0
         },
         {
@@ -8956,8 +8956,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 51,
-          "available": 49,
+          "enroll": 52,
+          "available": 48,
           "waitlist": 0
         }
       ]
@@ -13717,7 +13717,7 @@
           "quota": 20,
           "enroll": 7,
           "available": 13,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "SOSC": {
               "quota": 20,
@@ -13755,7 +13755,7 @@
           "quota": 20,
           "enroll": 0,
           "available": 20,
-          "waitlist": 1,
+          "waitlist": 0,
           "quotaDetail": {
             "SOSC": {
               "quota": 20,
