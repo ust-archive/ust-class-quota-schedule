@@ -413,10 +413,10 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            1,
-            1,
+            2,
+            2,
             0,
-            1
+            0
           ]
         }
       ]
@@ -2249,7 +2249,7 @@
             }
           ],
           "instructors": [
-            "TBA"
+            "LIAO, Wei"
           ],
           "assistants": [],
           "venue": "Rm 1014, LSK Bldg (80)",
@@ -4160,6 +4160,30 @@
             20,
             0,
             20,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "course": "4002",
+      "name": "Final Year Design Project II",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1272,
+          "schedules": [],
+          "instructors": [
+            "LEUNG, Jac Ka Lok",
+            "TSUI, Chi Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            0,
+            5,
             0
           ]
         }

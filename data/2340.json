@@ -624,10 +624,10 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 1,
-          "enroll": 1,
+          "quota": 2,
+          "enroll": 2,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         }
       ]
     },
@@ -2885,11 +2885,10 @@
           "number": 1183,
           "remarks": [
             "For MSc(ECON) students only",
-            "Instructor : Dr. LIAO, Wei",
             "Add/Drop Deadline : 19-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "LIAO, Wei"
           ],
           "assistants": [],
           "venue": "Rm 1014, LSK Bldg (80)",
@@ -5509,6 +5508,38 @@
           "quota": 20,
           "enroll": 0,
           "available": 20,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ISDN",
+      "course": "4002",
+      "name": "Final Year Design Project II",
+      "units": 4,
+      "info": {
+        "pre-requisite": "ISDN 4001",
+        "description": "This course is the second part of the final year project course, which continues the project based learning training from the first semester. Students will continue their project and come to a conclusion achieving the project milestones or coming up with the final product prototype by the end of the semester. A final project presentation covers the overall project achievements to the faculty advisor, other ISD faculty members and mentors. Instructor's approval is required for enrollment in the course."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1272,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "LEUNG, Jac Ka Lok",
+            "TSUI, Chi Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 5,
+          "enroll": 0,
+          "available": 5,
           "waitlist": 0
         }
       ]
