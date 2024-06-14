@@ -11886,7 +11886,7 @@
           "quota": 30,
           "enroll": 30,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 0
         },
         {
           "code": "T2",
@@ -11907,7 +11907,7 @@
           "quota": 30,
           "enroll": 15,
           "available": 15,
-          "waitlist": 1
+          "waitlist": 2
         }
       ]
     },
@@ -12160,8 +12160,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 19,
-          "available": 11,
+          "enroll": 18,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -12186,8 +12186,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 19,
-          "available": 11,
+          "enroll": 18,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -12212,8 +12212,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 19,
-          "available": 11,
+          "enroll": 18,
+          "available": 12,
           "waitlist": 0
         }
       ]
