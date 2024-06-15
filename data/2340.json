@@ -1580,8 +1580,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 25,
-          "available": 5,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -1603,8 +1603,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 25,
-          "available": 5,
+          "enroll": 26,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -11865,7 +11865,7 @@
           "quota": 60,
           "enroll": 45,
           "available": 15,
-          "waitlist": 2
+          "waitlist": 1
         },
         {
           "code": "T1",
@@ -11907,7 +11907,7 @@
           "quota": 30,
           "enroll": 15,
           "available": 15,
-          "waitlist": 2
+          "waitlist": 1
         }
       ]
     },
