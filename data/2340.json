@@ -12160,8 +12160,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 18,
-          "available": 12,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         },
         {
@@ -12186,8 +12186,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 18,
-          "available": 12,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         },
         {
@@ -12212,8 +12212,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 18,
-          "available": 12,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         }
       ]
