@@ -1270,14 +1270,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         },
@@ -1303,14 +1303,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         },
@@ -1336,14 +1336,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         },
@@ -1369,14 +1369,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         },
@@ -1402,14 +1402,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         },
@@ -1435,14 +1435,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 42,
-          "available": 8,
-          "waitlist": 3,
+          "enroll": 44,
+          "available": 6,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 42,
-              "available": 8
+              "enroll": 44,
+              "available": 6
             }
           }
         }
@@ -1489,14 +1489,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 12,
-          "available": 38,
-          "waitlist": 2,
+          "enroll": 13,
+          "available": 37,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 12,
-              "available": 38
+              "enroll": 13,
+              "available": 37
             }
           }
         }
@@ -2269,9 +2269,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 1
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -2301,9 +2301,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 1
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 0
         },
         {
           "code": "L1",
@@ -2326,9 +2326,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 1
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 0
         },
         {
           "code": "T1",
@@ -2356,9 +2356,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 1
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 0
         },
         {
           "code": "LA1",
@@ -2386,9 +2386,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 1
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 0
         }
       ]
     },
@@ -4153,9 +4153,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4164,8 +4164,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4196,9 +4196,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4207,8 +4207,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4239,9 +4239,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4250,8 +4250,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4282,9 +4282,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4293,8 +4293,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4325,9 +4325,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4336,8 +4336,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4368,9 +4368,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4379,8 +4379,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4411,9 +4411,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4422,8 +4422,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4454,9 +4454,9 @@
             }
           ],
           "quota": 65,
-          "enroll": 60,
-          "available": 5,
-          "waitlist": 4,
+          "enroll": 61,
+          "available": 4,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4465,8 +4465,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 31,
-              "available": 1
+              "enroll": 32,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -5271,9 +5271,9 @@
             }
           ],
           "quota": 100,
-          "enroll": 98,
-          "available": 2,
-          "waitlist": 44
+          "enroll": 100,
+          "available": 0,
+          "waitlist": 42
         }
       ]
     }
@@ -5663,9 +5663,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 78,
-          "available": 2,
-          "waitlist": 15
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 13
         },
         {
           "code": "L1",
@@ -5688,9 +5688,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 78,
-          "available": 2,
-          "waitlist": 15
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 13
         },
         {
           "code": "L2",
@@ -7978,9 +7978,9 @@
             }
           ],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 20,
+          "available": 0,
+          "waitlist": 1
         },
         {
           "code": "T02",
@@ -8017,8 +8017,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 1
         }
       ]
@@ -13854,8 +13854,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 118,
-          "available": 132,
+          "enroll": 119,
+          "available": 131,
           "waitlist": 0
         }
       ]
