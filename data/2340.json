@@ -5571,8 +5571,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 0,
-          "available": 20,
+          "enroll": 1,
+          "available": 19,
           "waitlist": 0
         }
       ]
@@ -13647,7 +13647,7 @@
           "quota": 200,
           "enroll": 199,
           "available": 1,
-          "waitlist": 13
+          "waitlist": 14
         },
         {
           "code": "L2",
