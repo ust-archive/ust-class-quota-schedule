@@ -1958,7 +1958,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         },
         {
           "code": "LA1",
@@ -1973,7 +1973,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         }
       ]
     },
@@ -4855,8 +4855,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         },
         {
@@ -4880,8 +4880,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         },
         {
@@ -4905,8 +4905,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         },
         {
@@ -4944,8 +4944,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         },
         {
@@ -4969,8 +4969,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         },
         {
@@ -4994,8 +4994,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 54,
+          "available": 6,
           "waitlist": 2
         }
       ]
@@ -5333,7 +5333,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 37
+          "waitlist": 36
         }
       ]
     }
@@ -13846,8 +13846,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 149,
-          "available": 51,
+          "enroll": 150,
+          "available": 50,
           "waitlist": 0
         }
       ]
@@ -13944,15 +13944,21 @@
           "code": "L1",
           "number": 1231,
           "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
+            "Add/Drop Deadline: 27-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
             "CHUN, Daniel"
           ],
           "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
+          "venue": "Rm 2127A, Lift 19 (28)",
+          "schedules": [
+            {
+              "day": "SATURDAY",
+              "from": "13:00:00",
+              "to": "17:50:00"
+            }
+          ],
           "quota": 20,
           "enroll": 9,
           "available": 11,
