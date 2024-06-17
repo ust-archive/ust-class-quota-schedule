@@ -1815,8 +1815,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 50,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -1830,8 +1830,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 50,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -2097,8 +2097,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 10
         },
         {
@@ -2136,8 +2136,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 10
         },
         {
@@ -2161,8 +2161,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 10
         },
         {
@@ -2186,8 +2186,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 10
         },
         {
@@ -2223,8 +2223,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 60,
+          "available": 0,
           "waitlist": 10
         }
       ]
@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -8681,8 +8681,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 40,
-          "available": 60,
+          "enroll": 39,
+          "available": 61,
           "waitlist": 0
         }
       ]
@@ -9271,8 +9271,8 @@
             }
           ],
           "quota": 55,
-          "enroll": 54,
-          "available": 1,
+          "enroll": 53,
+          "available": 2,
           "waitlist": 3
         }
       ]
@@ -11891,7 +11891,7 @@
           "quota": 120,
           "enroll": 114,
           "available": 6,
-          "waitlist": 3
+          "waitlist": 4
         },
         {
           "code": "L1",
@@ -11923,7 +11923,7 @@
           "quota": 120,
           "enroll": 114,
           "available": 6,
-          "waitlist": 3
+          "waitlist": 4
         }
       ]
     },
@@ -14022,8 +14022,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 134,
-          "available": 116,
+          "enroll": 135,
+          "available": 115,
           "waitlist": 0
         }
       ]
@@ -14052,8 +14052,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 87,
-          "available": 133,
+          "enroll": 88,
+          "available": 132,
           "waitlist": 0
         }
       ]
