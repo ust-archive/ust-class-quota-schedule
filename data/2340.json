@@ -2099,7 +2099,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         },
         {
           "code": "L1",
@@ -2138,7 +2138,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         },
         {
           "code": "L1",
@@ -2163,7 +2163,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         },
         {
           "code": "L1",
@@ -2188,7 +2188,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         },
         {
           "code": "T1",
@@ -2225,7 +2225,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 9
         }
       ]
     },
@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -8014,8 +8014,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 18,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -8965,8 +8965,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 54,
-          "available": 46,
+          "enroll": 55,
+          "available": 45,
           "waitlist": 0
         },
         {
@@ -8992,8 +8992,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 54,
-          "available": 46,
+          "enroll": 55,
+          "available": 45,
           "waitlist": 0
         }
       ]
@@ -11006,11 +11006,10 @@
           "number": 1177,
           "remarks": [
             "For SBM TPG students only",
-            "Add/Drop Deadline : 07-Jun-2024",
-            "Instructor : Prof. CHIAO, Benjamin"
+            "Add/Drop Deadline : 07-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "CHIAO, Benjamin Hak Fung"
           ],
           "assistants": [],
           "venue": "Rm 2001, LSK Bldg",
@@ -11033,11 +11032,10 @@
           "number": 1177,
           "remarks": [
             "For SBM TPG students only",
-            "Add/Drop Deadline : 07-Jun-2024",
-            "Instructor : Prof. CHIAO, Benjamin"
+            "Add/Drop Deadline : 07-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "CHIAO, Benjamin Hak Fung"
           ],
           "assistants": [],
           "venue": "Rm 2001, LSK Bldg",
@@ -11073,11 +11071,10 @@
           "number": 1178,
           "remarks": [
             "For SBM TPG students only",
-            "Add/Drop Deadline : 21-Jun-2024",
-            "Instructor : Prof. FISCHER, Fabrice"
+            "Add/Drop Deadline : 21-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "FISCHER, Fabrice"
           ],
           "assistants": [],
           "venue": "Rm 2001, LSK Bldg",
@@ -11100,11 +11097,10 @@
           "number": 1178,
           "remarks": [
             "For SBM TPG students only",
-            "Add/Drop Deadline : 21-Jun-2024",
-            "Instructor : Prof. FISCHER, Fabrice"
+            "Add/Drop Deadline : 21-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "FISCHER, Fabrice"
           ],
           "assistants": [],
           "venue": "Rm 2001, LSK Bldg",
@@ -11763,8 +11759,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 120,
-          "available": 0,
+          "enroll": 119,
+          "available": 1,
           "waitlist": 7
         },
         {
@@ -11795,8 +11791,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 120,
-          "available": 0,
+          "enroll": 119,
+          "available": 1,
           "waitlist": 7
         }
       ]
@@ -13214,7 +13210,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 30,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -13259,7 +13255,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 30,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -13304,7 +13300,7 @@
           "quota": 28,
           "enroll": 28,
           "available": 0,
-          "waitlist": 31,
+          "waitlist": 30,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 20,
@@ -14013,8 +14009,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 3,
-          "available": 17,
+          "enroll": 4,
+          "available": 16,
           "waitlist": 0
         }
       ]
