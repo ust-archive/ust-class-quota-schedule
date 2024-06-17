@@ -119,8 +119,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 13,
-          "available": 7,
+          "enroll": 14,
+          "available": 6,
           "waitlist": 0
         }
       ]
@@ -813,8 +813,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 8,
-          "available": 2,
+          "enroll": 9,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -831,8 +831,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 8,
-          "available": 2,
+          "enroll": 9,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -849,8 +849,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 8,
-          "available": 2,
+          "enroll": 9,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -994,9 +994,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 40
+          "enroll": 58,
+          "available": 2,
+          "waitlist": 39
         }
       ]
     },
@@ -1716,8 +1716,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 3,
-          "enroll": 3,
+          "quota": 4,
+          "enroll": 4,
           "available": 0,
           "waitlist": 0
         }
@@ -1815,8 +1815,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -1830,8 +1830,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -1956,8 +1956,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -1971,8 +1971,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 3
         }
       ]
@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -4047,6 +4047,66 @@
       ]
     }
   ],
+  "ENVR": [
+    {
+      "subject": "ENVR",
+      "course": "2900A",
+      "name": "Internship/Service Learning",
+      "units": 1,
+      "info": {
+        "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1276,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 15,
+          "enroll": 7,
+          "available": 8,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "2900B",
+      "name": "Internship/Service Learning",
+      "units": 1,
+      "info": {
+        "description": "The internship/service learning provides students a first-hand understanding of interconnected sectors of environment, business and society. Students will be working in teams enabling them to practice teamwork, communication and professional skills. The internship is a structured professional work experience in which students can apply their knowledge to problems and situations relevant to their professional preparation. Service learning benefits students by providing the opportunity to apply knowledge and skills to improve our community and solve real-world community problems as well as civic problems. The credit may be earned part-time during summer months. Students are required to take a pre-internship/service orientation session. May be repeated for credits if different topics are taken, but the total credits may not exceed two. Instructor's approval is required for enrollment in the course. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1277,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 10,
+          "enroll": 2,
+          "available": 8,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "EVSM": [
     {
       "subject": "EVSM",
@@ -4734,7 +4794,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 4
+          "waitlist": 5
         }
       ]
     },
@@ -5012,8 +5072,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 36,
-          "available": 64,
+          "enroll": 35,
+          "available": 65,
           "waitlist": 0
         }
       ]
@@ -5273,7 +5333,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 38
+          "waitlist": 37
         }
       ]
     }
@@ -5665,7 +5725,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 16
+          "waitlist": 17
         },
         {
           "code": "L1",
@@ -5690,7 +5750,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 16
+          "waitlist": 17
         },
         {
           "code": "L2",
@@ -5724,7 +5784,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5763,7 +5823,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5788,7 +5848,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         }
       ]
     },
@@ -5851,8 +5911,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 74,
-          "available": 6,
+          "enroll": 73,
+          "available": 7,
           "waitlist": 0
         },
         {
@@ -5876,8 +5936,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 74,
-          "available": 6,
+          "enroll": 73,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -7954,8 +8014,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
+          "enroll": 20,
+          "available": 0,
           "waitlist": 0
         },
         {
@@ -8497,8 +8557,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 47,
-          "available": 53,
+          "enroll": 46,
+          "available": 54,
           "waitlist": 0
         }
       ]
@@ -9089,7 +9149,7 @@
           "quota": 55,
           "enroll": 55,
           "available": 0,
-          "waitlist": 4
+          "waitlist": 5
         }
       ]
     }
@@ -9364,8 +9424,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 36,
-          "available": 4,
+          "enroll": 37,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -9401,8 +9461,8 @@
             }
           ],
           "quota": 40,
-          "enroll": 36,
-          "available": 4,
+          "enroll": 37,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -11705,7 +11765,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         },
         {
           "code": "L1",
@@ -11737,7 +11797,7 @@
           "quota": 120,
           "enroll": 120,
           "available": 0,
-          "waitlist": 6
+          "waitlist": 7
         }
       ]
     },
@@ -13621,8 +13681,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 200,
-          "available": 0,
+          "enroll": 199,
+          "available": 1,
           "waitlist": 10
         },
         {
@@ -13830,8 +13890,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 122,
-          "available": 128,
+          "enroll": 123,
+          "available": 127,
           "waitlist": 0
         }
       ]
@@ -13860,8 +13920,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 78,
-          "available": 142,
+          "enroll": 80,
+          "available": 140,
           "waitlist": 0
         }
       ]
@@ -13922,8 +13982,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 7,
-          "available": 43,
+          "enroll": 8,
+          "available": 42,
           "waitlist": 0
         }
       ]
