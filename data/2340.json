@@ -996,7 +996,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 32
+          "waitlist": 33
         }
       ]
     },
@@ -4855,8 +4855,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4880,8 +4880,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4905,8 +4905,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4944,8 +4944,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4969,8 +4969,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -4994,8 +4994,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -5072,8 +5072,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 34,
-          "available": 66,
+          "enroll": 33,
+          "available": 67,
           "waitlist": 0
         }
       ]
@@ -9371,7 +9371,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 28
+          "waitlist": 27
         },
         {
           "code": "T1A",
@@ -9408,7 +9408,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 28
+          "waitlist": 27
         }
       ]
     },
