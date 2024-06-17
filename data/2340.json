@@ -996,7 +996,7 @@
           "quota": 60,
           "enroll": 58,
           "available": 2,
-          "waitlist": 35
+          "waitlist": 36
         }
       ]
     },
@@ -1815,8 +1815,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -1830,8 +1830,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -4855,8 +4855,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -4880,8 +4880,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -4905,8 +4905,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -4944,8 +4944,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -4969,8 +4969,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         },
         {
@@ -4994,8 +4994,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 3
         }
       ]
@@ -5033,7 +5033,7 @@
             "DROSCHA, Isaac David"
           ],
           "assistants": [],
-          "venue": "Rm 2306, Lift 17-18 (111)",
+          "venue": "Rm 103, Shaw Auditorium",
           "schedules": [
             {
               "fromDate": "2024-06-17",
@@ -5849,7 +5849,7 @@
           "quota": 80,
           "enroll": 78,
           "available": 2,
-          "waitlist": 15
+          "waitlist": 16
         },
         {
           "code": "L1",
@@ -5874,7 +5874,7 @@
           "quota": 80,
           "enroll": 78,
           "available": 2,
-          "waitlist": 15
+          "waitlist": 16
         },
         {
           "code": "L2",
@@ -8908,8 +8908,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 14,
-          "available": 26,
+          "enroll": 15,
+          "available": 25,
           "waitlist": 0
         }
       ]
@@ -9369,8 +9369,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 32
         },
         {
@@ -9406,8 +9406,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 32
         }
       ]
@@ -12025,8 +12025,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 48,
-          "available": 12,
+          "enroll": 49,
+          "available": 11,
           "waitlist": 0
         },
         {
@@ -12067,8 +12067,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 19,
-          "available": 11,
+          "enroll": 20,
+          "available": 10,
           "waitlist": 0
         }
       ]
@@ -14046,8 +14046,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 84,
-          "available": 136,
+          "enroll": 85,
+          "available": 135,
           "waitlist": 0
         }
       ]
@@ -14108,8 +14108,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 8,
-          "available": 42,
+          "enroll": 9,
+          "available": 41,
           "waitlist": 0
         }
       ]
