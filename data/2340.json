@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -5072,8 +5072,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 32,
-          "available": 68,
+          "enroll": 35,
+          "available": 65,
           "waitlist": 0
         }
       ]
@@ -5908,7 +5908,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5947,7 +5947,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5972,7 +5972,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 12
         }
       ]
     },
@@ -14083,8 +14083,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 100,
-          "enroll": 13,
-          "available": 87,
+          "enroll": 14,
+          "available": 86,
           "waitlist": 0
         }
       ]
