@@ -9461,9 +9461,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 37
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 36
         },
         {
           "code": "T1A",
@@ -9498,9 +9498,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
-          "waitlist": 37
+          "enroll": 50,
+          "available": 0,
+          "waitlist": 36
         }
       ]
     },
@@ -13807,9 +13807,9 @@
             }
           ],
           "quota": 200,
-          "enroll": 199,
-          "available": 1,
-          "waitlist": 6
+          "enroll": 200,
+          "available": 0,
+          "waitlist": 5
         },
         {
           "code": "L2",
@@ -14022,8 +14022,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 135,
-          "available": 115,
+          "enroll": 136,
+          "available": 114,
           "waitlist": 0
         }
       ]
