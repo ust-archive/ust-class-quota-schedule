@@ -1580,8 +1580,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 26,
-          "available": 4,
+          "enroll": 27,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -1603,8 +1603,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 26,
-          "available": 4,
+          "enroll": 27,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
+          "enroll": 58,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -5072,8 +5072,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 35,
-          "available": 65,
+          "enroll": 34,
+          "available": 66,
           "waitlist": 0
         }
       ]
@@ -9341,7 +9341,9 @@
           "instructors": [
             "WANG, Xiaoyu"
           ],
-          "assistants": [],
+          "assistants": [
+            "CHENG, Kei Tsi Daniel"
+          ],
           "venue": "Rm 2306, Lift 17-18 (111)",
           "schedules": [
             {
@@ -9431,7 +9433,9 @@
           "instructors": [
             "YAO, Jing"
           ],
-          "assistants": [],
+          "assistants": [
+            "YU, Zhiyuan"
+          ],
           "venue": "Rm 2303, Lift 17-18 (91)",
           "schedules": [
             {
@@ -9522,7 +9526,9 @@
           "instructors": [
             "YU, Chi Wai"
           ],
-          "assistants": [],
+          "assistants": [
+            "LIN, Hangyu"
+          ],
           "venue": "Rm 2502, Lift 25-26 (120)",
           "schedules": [
             {
@@ -11883,8 +11889,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 117,
-          "available": 3,
+          "enroll": 116,
+          "available": 4,
           "waitlist": 6
         },
         {
@@ -11915,8 +11921,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 117,
-          "available": 3,
+          "enroll": 116,
+          "available": 4,
           "waitlist": 6
         }
       ]
