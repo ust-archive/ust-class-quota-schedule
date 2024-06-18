@@ -59,8 +59,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 20,
-          "available": 0,
+          "enroll": 19,
+          "available": 1,
           "waitlist": 25
         }
       ]
@@ -994,9 +994,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
-          "waitlist": 31
+          "enroll": 59,
+          "available": 1,
+          "waitlist": 30
         }
       ]
     },
@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 57,
-          "available": 3,
+          "enroll": 56,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -5331,7 +5331,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 28
+          "waitlist": 27
         }
       ]
     }
@@ -8679,8 +8679,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 41,
-          "available": 59,
+          "enroll": 40,
+          "available": 60,
           "waitlist": 0
         }
       ]
@@ -11881,9 +11881,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 113,
-          "available": 7,
-          "waitlist": 4
+          "enroll": 114,
+          "available": 6,
+          "waitlist": 3
         },
         {
           "code": "L1",
@@ -11913,9 +11913,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 113,
-          "available": 7,
-          "waitlist": 4
+          "enroll": 114,
+          "available": 6,
+          "waitlist": 3
         }
       ]
     },
@@ -13838,8 +13838,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 154,
-          "available": 46,
+          "enroll": 153,
+          "available": 47,
           "waitlist": 0
         }
       ]
