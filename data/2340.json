@@ -1815,8 +1815,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         },
         {
@@ -1830,8 +1830,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -3557,7 +3557,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 13
+          "waitlist": 14
         }
       ]
     },
@@ -4792,7 +4792,7 @@
           "quota": 100,
           "enroll": 99,
           "available": 1,
-          "waitlist": 5
+          "waitlist": 3
         }
       ]
     },
@@ -5331,7 +5331,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 31
+          "waitlist": 28
         }
       ]
     }
@@ -8679,8 +8679,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 39,
-          "available": 61,
+          "enroll": 40,
+          "available": 60,
           "waitlist": 0
         }
       ]
@@ -8906,8 +8906,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 15,
-          "available": 25,
+          "enroll": 16,
+          "available": 24,
           "waitlist": 0
         }
       ]
@@ -9339,9 +9339,7 @@
           "instructors": [
             "WANG, Xiaoyu"
           ],
-          "assistants": [
-            "CHENG, Kei Tsi Daniel"
-          ],
+          "assistants": [],
           "venue": "Rm 2306, Lift 17-18 (111)",
           "schedules": [
             {
@@ -9431,9 +9429,7 @@
           "instructors": [
             "YAO, Jing"
           ],
-          "assistants": [
-            "YU, Zhiyuan"
-          ],
+          "assistants": [],
           "venue": "Rm 2303, Lift 17-18 (91)",
           "schedules": [
             {
@@ -9524,9 +9520,7 @@
           "instructors": [
             "YU, Chi Wai"
           ],
-          "assistants": [
-            "LIN, Hangyu"
-          ],
+          "assistants": [],
           "venue": "Rm 2502, Lift 25-26 (120)",
           "schedules": [
             {
@@ -10794,9 +10788,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10805,8 +10799,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -10837,9 +10831,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10848,8 +10842,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -10880,9 +10874,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10891,8 +10885,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -10923,9 +10917,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10934,8 +10928,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -10966,9 +10960,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10977,8 +10971,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -11009,9 +11003,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11020,8 +11014,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -11052,9 +11046,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11063,8 +11057,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -11095,9 +11089,9 @@
             }
           ],
           "quota": 70,
-          "enroll": 67,
-          "available": 3,
-          "waitlist": 4,
+          "enroll": 68,
+          "available": 2,
+          "waitlist": 3,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11106,8 +11100,8 @@
             },
             "MBA": {
               "quota": 19,
-              "enroll": 17,
-              "available": 2
+              "enroll": 18,
+              "available": 1
             },
             "MBA Bi-weekly": {
               "quota": 46,
@@ -11887,8 +11881,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 115,
-          "available": 5,
+          "enroll": 114,
+          "available": 6,
           "waitlist": 3
         },
         {
@@ -11919,8 +11913,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 115,
-          "available": 5,
+          "enroll": 114,
+          "available": 6,
           "waitlist": 3
         }
       ]
@@ -13805,9 +13799,9 @@
             }
           ],
           "quota": 200,
-          "enroll": 198,
-          "available": 2,
-          "waitlist": 5
+          "enroll": 200,
+          "available": 0,
+          "waitlist": 3
         },
         {
           "code": "L2",
@@ -13844,8 +13838,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 154,
-          "available": 46,
+          "enroll": 155,
+          "available": 45,
           "waitlist": 0
         }
       ]
