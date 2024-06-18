@@ -3153,8 +3153,8 @@
           "venue": "TBA",
           "quota": [
             10,
-            5,
-            5,
+            6,
+            4,
             0
           ]
         }
@@ -3176,8 +3176,8 @@
           "venue": "TBA",
           "quota": [
             10,
-            5,
-            5,
+            6,
+            4,
             0
           ]
         }
@@ -4023,8 +4023,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            100,
-            0,
+            98,
+            2,
             26
           ]
         }
@@ -8731,6 +8731,31 @@
       ]
     }
   ],
+  "PDEV": [
+    {
+      "subject": "PDEV",
+      "course": "6770A",
+      "name": "Professional Development for Research Postgraduate Students",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1281,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            2,
+            2,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "PHYS": [
     {
       "subject": "PHYS",
@@ -10150,7 +10175,7 @@
             200,
             200,
             0,
-            2
+            1
           ]
         },
         {

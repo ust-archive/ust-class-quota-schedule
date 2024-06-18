@@ -4133,8 +4133,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 5,
-          "available": 5,
+          "enroll": 6,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -4166,8 +4166,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 5,
-          "available": 5,
+          "enroll": 6,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -5329,8 +5329,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 100,
-          "available": 0,
+          "enroll": 98,
+          "available": 2,
           "waitlist": 26
         }
       ]
@@ -11831,6 +11831,37 @@
       ]
     }
   ],
+  "PDEV": [
+    {
+      "subject": "PDEV",
+      "course": "6770A",
+      "name": "Professional Development for Research Postgraduate Students",
+      "units": 1,
+      "info": {
+        "vector": "[0-1-0:1]",
+        "exclusion": "CHEM 6770, ENVS 6770, LIFS 6770 (prior to 2023-24), MATH 6770, PHYS 6770, BIEN 6770 (prior to 2022-23), CENG 6770 (prior to 2020-21), CIVL 6770 (prior to 2023-24), COMP 6770 (prior to 2022-23), ELEC 6770, ENGG 6770, EVNG 6770 (prior to 2023-24), IEDA 6770 (prior to 2023-24), MECH 6770, SBMT 6770 (prior to 2022-23), SHSS 6770 (prior to 2022-23), IDPO 6770, ENVR 6770",
+        "description": "This course aims at equipping research postgraduate students with transferrable skills conducive to their professional development. Students are required to attend 3 hours of mandatory training on Professional Conduct, and complete 12 hours of workshops, at their own choice, under the themes of Communication Skills, Research Competency, Entrepreneurship, Self‐Management, and Career Development. Graded PP, P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1281,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 2,
+          "enroll": 2,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "PHYS": [
     {
       "subject": "PHYS",
@@ -13802,7 +13833,7 @@
           "quota": 200,
           "enroll": 200,
           "available": 0,
-          "waitlist": 2
+          "waitlist": 1
         },
         {
           "code": "L2",
