@@ -9461,7 +9461,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 37
         },
         {
           "code": "T1A",
@@ -9498,7 +9498,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 36
+          "waitlist": 37
         }
       ]
     },
@@ -14079,8 +14079,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 93,
-          "available": 127,
+          "enroll": 94,
+          "available": 126,
           "waitlist": 0
         }
       ]
