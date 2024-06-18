@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 57,
+          "available": 3,
           "waitlist": 0
         }
       ]
@@ -2866,8 +2866,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 62,
-          "available": 38,
+          "enroll": 61,
+          "available": 39,
           "waitlist": 0
         }
       ]
@@ -2912,8 +2912,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 16,
-          "available": 64,
+          "enroll": 15,
+          "available": 65,
           "waitlist": 0
         }
       ]
@@ -5331,7 +5331,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 27
+          "waitlist": 26
         }
       ]
     }
@@ -5845,9 +5845,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 13
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 12
         },
         {
           "code": "L1",
@@ -5870,9 +5870,9 @@
             }
           ],
           "quota": 80,
-          "enroll": 79,
-          "available": 1,
-          "waitlist": 13
+          "enroll": 80,
+          "available": 0,
+          "waitlist": 12
         },
         {
           "code": "L2",
@@ -5906,7 +5906,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 9
+          "waitlist": 8
         },
         {
           "code": "L2",
@@ -5945,7 +5945,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 9
+          "waitlist": 8
         },
         {
           "code": "L2",
@@ -5970,7 +5970,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 9
+          "waitlist": 8
         }
       ]
     },
@@ -8016,7 +8016,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "SIN, Kathy Mun Yee"
           ],
           "assistants": [],
           "venue": "Rm 2126B, Lift 19 (28)",
@@ -8055,7 +8055,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "SAMPSON, Nicholas"
           ],
           "assistants": [],
           "venue": "Rm 2127A, Lift 19 (28)",
@@ -8108,7 +8108,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "LI, Angie Eugenia"
           ],
           "assistants": [],
           "venue": "Rm 2128A, Lift 19 (28)",
@@ -8147,7 +8147,8 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "LEE, William W L",
+            "LIAO, May"
           ],
           "assistants": [],
           "venue": "Rm 2127C, Lift 19 (28)",
@@ -8209,7 +8210,7 @@
             "Venue : Room 2404"
           ],
           "instructors": [
-            "TBA"
+            "CHEUNG, Colin"
           ],
           "assistants": [],
           "venue": "TBA",
@@ -8267,7 +8268,7 @@
           "number": 1263,
           "remarks": [],
           "instructors": [
-            "TBA"
+            "CHEUNG, Colin"
           ],
           "assistants": [],
           "venue": "Rm 2404, Lift 17-18 (81)",
@@ -8304,7 +8305,7 @@
           "number": 1265,
           "remarks": [],
           "instructors": [
-            "TBA"
+            "HO, Fiona"
           ],
           "assistants": [],
           "venue": "Rm 2126D, Lift 19 (34)",
@@ -8327,7 +8328,7 @@
           "number": 1265,
           "remarks": [],
           "instructors": [
-            "TBA"
+            "HO, Fiona"
           ],
           "assistants": [],
           "venue": "Rm 2126D, Lift 19 (34)",
@@ -8387,7 +8388,7 @@
             "Venue : 2126D"
           ],
           "instructors": [
-            "TBA"
+            "HO, Fiona"
           ],
           "assistants": [],
           "venue": "TBA",
@@ -8412,7 +8413,7 @@
             "Venue : 2126D"
           ],
           "instructors": [
-            "TBA"
+            "HO, Fiona"
           ],
           "assistants": [],
           "venue": "TBA",
@@ -8480,7 +8481,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "WONG, Ngam Susan"
           ],
           "assistants": [],
           "venue": "Rm 2127B, Lift 19 (28)",
@@ -8532,7 +8533,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "LI, Eugene"
           ],
           "assistants": [],
           "venue": "Rm 2128C, Lift 19 (28)",
@@ -8584,7 +8585,7 @@
             "Add/Drop Deadline : 20-Jun-2024"
           ],
           "instructors": [
-            "TBA"
+            "MAK, Linda Y O"
           ],
           "assistants": [],
           "venue": "Rm 2128B, Lift 19 (28)",
@@ -13838,8 +13839,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 153,
-          "available": 47,
+          "enroll": 151,
+          "available": 49,
           "waitlist": 0
         }
       ]
@@ -14014,8 +14015,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 139,
-          "available": 111,
+          "enroll": 141,
+          "available": 109,
           "waitlist": 0
         }
       ]
