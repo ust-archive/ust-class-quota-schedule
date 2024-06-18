@@ -59,9 +59,9 @@
             }
           ],
           "quota": 20,
-          "enroll": 19,
-          "available": 1,
-          "waitlist": 25
+          "enroll": 20,
+          "available": 0,
+          "waitlist": 24
         }
       ]
     },
@@ -994,9 +994,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 30
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 29
         }
       ]
     },
@@ -1862,8 +1862,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 44,
-          "available": 6,
+          "enroll": 46,
+          "available": 4,
           "waitlist": 0
         },
         {
@@ -1877,8 +1877,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 44,
-          "available": 6,
+          "enroll": 46,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -4642,8 +4642,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 23,
-          "available": 7,
+          "enroll": 22,
+          "available": 8,
           "waitlist": 0
         }
       ]
@@ -5906,7 +5906,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 10
         },
         {
           "code": "L2",
@@ -5945,7 +5945,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 10
         },
         {
           "code": "L2",
@@ -5970,7 +5970,7 @@
           "quota": 80,
           "enroll": 80,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 10
         }
       ]
     },
@@ -9269,8 +9269,8 @@
             }
           ],
           "quota": 55,
-          "enroll": 50,
-          "available": 5,
+          "enroll": 51,
+          "available": 4,
           "waitlist": 3
         }
       ]
@@ -11881,8 +11881,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 114,
-          "available": 6,
+          "enroll": 113,
+          "available": 7,
           "waitlist": 3
         },
         {
@@ -11913,8 +11913,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 114,
-          "available": 6,
+          "enroll": 113,
+          "available": 7,
           "waitlist": 3
         }
       ]
