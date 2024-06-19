@@ -9465,7 +9465,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 22
+          "waitlist": 21
         },
         {
           "code": "T1A",
@@ -9502,7 +9502,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 22
+          "waitlist": 21
         }
       ]
     },
