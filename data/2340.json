@@ -1489,14 +1489,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 12,
-          "available": 38,
+          "enroll": 11,
+          "available": 39,
           "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 12,
-              "available": 38
+              "enroll": 11,
+              "available": 39
             }
           }
         }
@@ -4854,8 +4854,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 88,
-          "available": 12,
+          "enroll": 87,
+          "available": 13,
           "waitlist": 2
         }
       ]
@@ -9525,7 +9525,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 35
+          "waitlist": 34
         },
         {
           "code": "T1A",
@@ -9562,7 +9562,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 35
+          "waitlist": 34
         }
       ]
     },
@@ -13898,8 +13898,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 191,
-          "available": 9,
+          "enroll": 190,
+          "available": 10,
           "waitlist": 0
         },
         {
@@ -13937,8 +13937,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 154,
-          "available": 46,
+          "enroll": 156,
+          "available": 44,
           "waitlist": 0
         }
       ]
