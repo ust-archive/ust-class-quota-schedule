@@ -2832,6 +2832,35 @@
   "ECON": [
     {
       "subject": "ECON",
+      "course": "4670",
+      "name": "Economics Research and Communication",
+      "units": 0,
+      "info": {
+        "description": "This course is to ensure that students will acquire research and communication skills through producing a research-based term paper. The paper may be one that has been written for ECON 4959, or any other 4000-level or above Economics course that has a term paper requirement. The paper should embody the equivalence of a minimum of two credits of workload if it is written for ECON 4959. A standard at grade C or above must be obtained for the paper. For Economics students only. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "LA1",
+          "number": 1285,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
       "course": "4959B",
       "name": "Independent Study",
       "units": 1,
@@ -2853,8 +2882,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 1,
-          "enroll": 1,
+          "quota": 2,
+          "enroll": 2,
           "available": 0,
           "waitlist": 0
         }
@@ -3678,8 +3707,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 11,
-          "enroll": 1,
-          "available": 10,
+          "enroll": 3,
+          "available": 8,
           "waitlist": 0
         }
       ]
@@ -5423,8 +5452,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 100,
-          "available": 0,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 13
         }
       ]
@@ -10888,7 +10917,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10931,7 +10960,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10974,7 +11003,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11017,7 +11046,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11060,7 +11089,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11103,7 +11132,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11146,7 +11175,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11189,7 +11218,7 @@
           "quota": 70,
           "enroll": 68,
           "available": 2,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
