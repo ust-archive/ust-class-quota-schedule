@@ -1224,7 +1224,7 @@
           "quota": 50,
           "enroll": 50,
           "available": 0,
-          "waitlist": 23,
+          "waitlist": 22,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -2653,6 +2653,7 @@
           "number": 1268,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -2683,6 +2684,7 @@
           "number": 1269,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -2713,6 +2715,7 @@
           "number": 1270,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -2743,6 +2746,7 @@
           "number": 1271,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -2912,8 +2916,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 15,
-          "available": 65,
+          "enroll": 16,
+          "available": 64,
           "waitlist": 0
         }
       ]
@@ -3384,8 +3388,8 @@
           "code": "R1",
           "number": 1282,
           "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024"
           ],
           "instructors": [
             "TBA"
@@ -3394,8 +3398,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 149,
-          "enroll": 0,
-          "available": 149,
+          "enroll": 145,
+          "available": 4,
           "waitlist": 0
         }
       ]
@@ -3414,8 +3418,8 @@
           "code": "R1",
           "number": 1283,
           "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
-            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
+            "Add/Drop Deadline: 22-Jun-2024"
           ],
           "instructors": [
             "TBA"
@@ -3424,8 +3428,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 9,
-          "enroll": 0,
-          "available": 9,
+          "enroll": 9,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -5389,8 +5393,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 99,
-          "available": 1,
+          "enroll": 100,
+          "available": 0,
           "waitlist": 13
         }
       ]
@@ -8676,9 +8680,9 @@
             }
           ],
           "quota": 21,
-          "enroll": 20,
-          "available": 1,
-          "waitlist": 2
+          "enroll": 21,
+          "available": 0,
+          "waitlist": 1
         }
       ]
     }
@@ -8743,8 +8747,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 38,
-          "available": 62,
+          "enroll": 37,
+          "available": 63,
           "waitlist": 0
         }
       ]
@@ -9333,8 +9337,8 @@
             }
           ],
           "quota": 55,
-          "enroll": 51,
-          "available": 4,
+          "enroll": 49,
+          "available": 6,
           "waitlist": 3
         }
       ]
@@ -10075,8 +10079,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 47,
+          "available": 3,
           "waitlist": 16
         }
       ]
@@ -10593,14 +10597,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10627,14 +10631,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10661,14 +10665,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10702,14 +10706,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10736,14 +10740,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10770,14 +10774,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         },
@@ -10804,14 +10808,14 @@
             }
           ],
           "quota": 74,
-          "enroll": 68,
-          "available": 6,
+          "enroll": 67,
+          "available": 7,
           "waitlist": 0,
           "quotaDetail": {
             "MBA": {
               "quota": 74,
-              "enroll": 68,
-              "available": 6
+              "enroll": 67,
+              "available": 7
             }
           }
         }
@@ -11692,8 +11696,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 20,
-          "available": 35,
+          "enroll": 21,
+          "available": 34,
           "waitlist": 0
         }
       ]
@@ -11976,8 +11980,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 113,
-          "available": 7,
+          "enroll": 112,
+          "available": 8,
           "waitlist": 3
         },
         {
@@ -12008,8 +12012,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 113,
-          "available": 7,
+          "enroll": 112,
+          "available": 8,
           "waitlist": 3
         }
       ]
@@ -13933,8 +13937,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 153,
-          "available": 47,
+          "enroll": 154,
+          "available": 46,
           "waitlist": 0
         }
       ]
@@ -14109,8 +14113,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 148,
-          "available": 102,
+          "enroll": 149,
+          "available": 101,
           "waitlist": 0
         }
       ]
