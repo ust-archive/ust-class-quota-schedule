@@ -46982,6 +46982,29 @@
     },
     {
       "subject": "ISOM",
+      "course": "5010",
+      "name": "IS Enrichment Workshops",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 4473,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            98,
+            98,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
       "course": "5020",
       "name": "Information and Technology Management",
       "sections": [

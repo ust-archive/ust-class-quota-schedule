@@ -55210,6 +55210,45 @@
     },
     {
       "subject": "ISOM",
+      "course": "5010",
+      "name": "IS Enrichment Workshops",
+      "units": 0,
+      "info": {
+        "vector": "[0-1-0:0]",
+        "description": "A series of workshops will be offered to develop students’ essential business skills and knowledge especially in Information Systems Management field. Different seasoned speakers or practitioners will be invited in this course. No assignment and exam will be needed. Students are expected to attend regularly in accordance with the course requirements. Graded PP, P or F.",
+        "intended-learning-outcomes": "On successful completion of the course, students will be able to:\n1. Recognize IS management process in different companies/ industries.\n2. Identify the current market trend and development of different sectors of IS industry."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "T1",
+          "number": 4473,
+          "remarks": [
+            "For MSc(ISM) students only",
+            "Add/Drop Deadline : 16-Feb-2024"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 98,
+          "enroll": 98,
+          "available": 0,
+          "waitlist": 0,
+          "quotaDetail": {
+            "IS": {
+              "quota": 98,
+              "enroll": 93,
+              "available": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "subject": "ISOM",
       "course": "5020",
       "name": "Information and Technology Management",
       "units": 2,
@@ -59344,7 +59383,7 @@
           "number": 4425,
           "remarks": [
             "For MSc(BA) students only",
-            "Add/Drop Deadline : 16-Feb-2023"
+            "Add/Drop Deadline : 16-Feb-2024"
           ],
           "instructors": [
             "TBA"
