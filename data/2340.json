@@ -994,9 +994,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 59,
-          "available": 1,
-          "waitlist": 26
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 25
         }
       ]
     },
@@ -2412,8 +2412,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 6,
-          "enroll": 6,
+          "quota": 7,
+          "enroll": 7,
           "available": 0,
           "waitlist": 0
         }
@@ -3370,6 +3370,66 @@
     }
   ],
   "ELEC": [
+    {
+      "subject": "ELEC",
+      "course": "4900",
+      "name": "Final Year Design Project",
+      "units": 6,
+      "info": {
+        "description": "Each undergraduate student enrolled in Electronic Engineering and Computer Engineering is required to complete a final year design project before graduation. The project is conducted under the supervision of a faculty member. Credit load will be spread over the project period."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1282,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024",
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 149,
+          "enroll": 0,
+          "available": 149,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "course": "4901",
+      "name": "Final Year Thesis",
+      "units": 6,
+      "info": {
+        "description": "Each undergraduate student taking the Research Option of the Electronic Engineering program is required to complete an individual thesis and the thesis should summarize his/her work conducted under the supervision of a faculty member. Credit load will be spread over the project period."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1283,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024",
+            "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 9,
+          "enroll": 0,
+          "available": 9,
+          "waitlist": 0
+        }
+      ]
+    },
     {
       "subject": "ELEC",
       "course": "4940C",
@@ -4790,8 +4850,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 92,
-          "available": 8,
+          "enroll": 91,
+          "available": 9,
           "waitlist": 2
         }
       ]
@@ -5329,8 +5389,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 100,
-          "available": 0,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 13
         }
       ]
@@ -5753,8 +5813,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 20,
-          "enroll": 2,
-          "available": 18,
+          "enroll": 1,
+          "available": 19,
           "waitlist": 0
         }
       ]
@@ -8616,8 +8676,8 @@
             }
           ],
           "quota": 21,
-          "enroll": 21,
-          "available": 0,
+          "enroll": 20,
+          "available": 1,
           "waitlist": 2
         }
       ]
@@ -10017,7 +10077,7 @@
           "quota": 50,
           "enroll": 49,
           "available": 1,
-          "waitlist": 17
+          "waitlist": 16
         }
       ]
     },

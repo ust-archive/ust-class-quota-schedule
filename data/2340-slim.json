@@ -721,9 +721,9 @@
           "venue": "Rm 2405, Lift 17-18 (92)",
           "quota": [
             60,
-            59,
-            1,
-            26
+            60,
+            0,
+            25
           ]
         }
       ]
@@ -1874,8 +1874,8 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            6,
-            6,
+            7,
+            7,
             0,
             0
           ]
@@ -2595,6 +2595,52 @@
     }
   ],
   "ELEC": [
+    {
+      "subject": "ELEC",
+      "course": "4900",
+      "name": "Final Year Design Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1282,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            149,
+            0,
+            149,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
+      "course": "4901",
+      "name": "Final Year Thesis",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1283,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            9,
+            0,
+            9,
+            0
+          ]
+        }
+      ]
+    },
     {
       "subject": "ELEC",
       "course": "4940C",
@@ -3564,8 +3610,8 @@
           "venue": "LTL, CYT Bldg (354)",
           "quota": [
             100,
-            92,
-            8,
+            91,
+            9,
             2
           ]
         }
@@ -4023,8 +4069,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            100,
-            0,
+            99,
+            1,
             13
           ]
         }
@@ -4357,8 +4403,8 @@
           "venue": "TBA",
           "quota": [
             20,
-            2,
-            18,
+            1,
+            19,
             0
           ]
         }
@@ -6415,8 +6461,8 @@
           "venue": "Rm 2128B, Lift 19 (28)",
           "quota": [
             21,
-            21,
-            0,
+            20,
+            1,
             2
           ]
         }
@@ -7519,7 +7565,7 @@
             50,
             49,
             1,
-            17
+            16
           ]
         }
       ]
