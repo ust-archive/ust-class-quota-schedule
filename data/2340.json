@@ -994,9 +994,9 @@
             }
           ],
           "quota": 60,
-          "enroll": 58,
-          "available": 2,
-          "waitlist": 17
+          "enroll": 60,
+          "available": 0,
+          "waitlist": 14
         }
       ]
     },
@@ -6156,8 +6156,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -6181,8 +6181,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 80,
-          "available": 0,
+          "enroll": 79,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -8637,7 +8637,7 @@
           "quota": 22,
           "enroll": 22,
           "available": 0,
-          "waitlist": 11
+          "waitlist": 10
         }
       ]
     },
@@ -9582,8 +9582,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 32
         },
         {
@@ -9619,8 +9619,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 32
         }
       ]
@@ -10138,8 +10138,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 11
         }
       ]
