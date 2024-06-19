@@ -721,8 +721,8 @@
           "venue": "Rm 2405, Lift 17-18 (92)",
           "quota": [
             60,
-            60,
-            0,
+            59,
+            1,
             24
           ]
         }
@@ -2191,6 +2191,29 @@
   "ECON": [
     {
       "subject": "ECON",
+      "course": "4959B",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1284,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ECON",
       "course": "6110V",
       "name": "ESG Investing",
       "sections": [
@@ -3612,7 +3635,7 @@
             100,
             84,
             16,
-            2
+            3
           ]
         }
       ]
@@ -6578,8 +6601,8 @@
           "venue": "TBA",
           "quota": [
             15,
-            1,
-            14,
+            2,
+            13,
             0
           ]
         }

@@ -994,8 +994,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 24
         }
       ]
@@ -2830,6 +2830,36 @@
     }
   ],
   "ECON": [
+    {
+      "subject": "ECON",
+      "course": "4959B",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "description": "Faculty directed independent study. May be repeated for credits if different topics are taken."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1284,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
     {
       "subject": "ECON",
       "course": "6110V",
@@ -4856,7 +4886,7 @@
           "quota": 100,
           "enroll": 84,
           "available": 16,
-          "waitlist": 2
+          "waitlist": 3
         }
       ]
     },
@@ -8839,8 +8869,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 15,
-          "enroll": 1,
-          "available": 14,
+          "enroll": 2,
+          "available": 13,
           "waitlist": 0
         }
       ]
