@@ -996,7 +996,7 @@
           "quota": 60,
           "enroll": 60,
           "available": 0,
-          "waitlist": 23
+          "waitlist": 22
         }
       ]
     },
@@ -1222,14 +1222,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
-          "waitlist": 22,
+          "enroll": 49,
+          "available": 1,
+          "waitlist": 21,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 50,
-              "available": 0
+              "enroll": 49,
+              "available": 1
             }
           }
         }
@@ -4913,8 +4913,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 83,
-          "available": 17,
+          "enroll": 82,
+          "available": 18,
           "waitlist": 2
         }
       ]
@@ -8806,8 +8806,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 37,
-          "available": 63,
+          "enroll": 38,
+          "available": 62,
           "waitlist": 0
         }
       ]
