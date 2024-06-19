@@ -994,8 +994,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 60,
-          "available": 0,
+          "enroll": 59,
+          "available": 1,
           "waitlist": 17
         }
       ]
@@ -9325,7 +9325,7 @@
           "quota": 5,
           "enroll": 5,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         },
         {
           "code": "R2",
@@ -13957,8 +13957,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 187,
-          "available": 13,
+          "enroll": 188,
+          "available": 12,
           "waitlist": 0
         },
         {
