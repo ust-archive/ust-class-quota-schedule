@@ -3707,8 +3707,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 11,
-          "enroll": 7,
-          "available": 4,
+          "enroll": 9,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -8300,8 +8300,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 14,
-          "available": 6,
+          "enroll": 15,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -14210,8 +14210,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 156,
-          "available": 94,
+          "enroll": 157,
+          "available": 93,
           "waitlist": 0
         }
       ]
