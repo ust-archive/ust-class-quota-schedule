@@ -2349,8 +2349,8 @@
           "venue": "Rm 1032, LSK Bldg (45)",
           "quota": [
             15,
-            2,
-            13,
+            3,
+            12,
             0
           ]
         },
@@ -2387,8 +2387,8 @@
           "venue": "Rm 1032, LSK Bldg (45)",
           "quota": [
             15,
-            2,
-            13,
+            3,
+            12,
             0
           ]
         }
@@ -2827,7 +2827,7 @@
             40,
             40,
             0,
-            15
+            16
           ]
         }
       ]
@@ -3602,8 +3602,8 @@
           "venue": "TBA",
           "quota": [
             1,
-            0,
             1,
+            0,
             0
           ]
         }
@@ -6218,9 +6218,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            5,
             2,
-            3,
+            2,
+            0,
             0
           ]
         }
@@ -6263,8 +6263,8 @@
           "assistants": [],
           "venue": "Rm 2404, Lift 17-18 (81)",
           "quota": [
-            22,
-            22,
+            6,
+            6,
             0,
             0
           ]
@@ -6287,8 +6287,8 @@
           "assistants": [],
           "venue": "Rm 2126D, Lift 19 (34)",
           "quota": [
-            14,
-            14,
+            5,
+            5,
             0,
             0
           ]
@@ -6325,77 +6325,8 @@
           "assistants": [],
           "venue": "Rm 2126D, Lift 19 (34)",
           "quota": [
-            14,
-            14,
-            0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "LANG",
-      "course": "1404",
-      "name": "Advanced Academic English for University Studies",
-      "sections": [
-        {
-          "code": "T01",
-          "number": 1267,
-          "schedules": [
-            {
-              "fromDate": "2024-06-18",
-              "toDate": "2024-06-18",
-              "day": "TUESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "instructors": [
-            "HO, Fiona"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            3,
-            3,
-            0,
-            0
-          ]
-        },
-        {
-          "code": "T01",
-          "number": 1267,
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "MONDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "WEDNESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "FRIDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "instructors": [
-            "HO, Fiona"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            3,
-            3,
+            5,
+            5,
             0,
             0
           ]
@@ -7194,8 +7125,8 @@
           "venue": "Rm 2303, Lift 17-18 (91)",
           "quota": [
             50,
-            50,
-            0,
+            49,
+            1,
             30
           ]
         },
@@ -7232,8 +7163,8 @@
           "venue": "Rm 2303, Lift 17-18 (91)",
           "quota": [
             50,
-            50,
-            0,
+            49,
+            1,
             30
           ]
         }
@@ -7632,8 +7563,8 @@
           "venue": "Rm 1014, LSK Bldg (80)",
           "quota": [
             50,
-            48,
-            2,
+            47,
+            3,
             8
           ]
         }

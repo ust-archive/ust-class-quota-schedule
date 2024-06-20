@@ -3031,8 +3031,8 @@
             }
           ],
           "quota": 15,
-          "enroll": 2,
-          "available": 13,
+          "enroll": 3,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -3073,8 +3073,8 @@
             }
           ],
           "quota": 15,
-          "enroll": 2,
-          "available": 13,
+          "enroll": 3,
+          "available": 12,
           "waitlist": 0
         }
       ]
@@ -3680,7 +3680,7 @@
           "quota": 40,
           "enroll": 40,
           "available": 0,
-          "waitlist": 15
+          "waitlist": 16
         }
       ]
     },
@@ -4840,8 +4840,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 1,
-          "enroll": 0,
-          "available": 1,
+          "enroll": 1,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -8401,9 +8401,9 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 5,
+          "quota": 2,
           "enroll": 2,
-          "available": 3,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -8459,8 +8459,8 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 22,
-          "enroll": 22,
+          "quota": 6,
+          "enroll": 6,
           "available": 0,
           "waitlist": 0
         },
@@ -8482,8 +8482,8 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 14,
-          "enroll": 14,
+          "quota": 5,
+          "enroll": 5,
           "available": 0,
           "waitlist": 0
         },
@@ -8519,93 +8519,8 @@
               "to": "12:50:00"
             }
           ],
-          "quota": 14,
-          "enroll": 14,
-          "available": 0,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "LANG",
-      "course": "1404",
-      "name": "Advanced Academic English for University Studies",
-      "units": 3,
-      "info": {
-        "attributes": "Common Core (E-Comm) for 30-credit program",
-        "pre-requisite": "Level 5* or above in HKDSE English Language OR Overall bandscore of 7.0 or above in IELTS OR equivalence of the above",
-        "exclusion": "LANG 1002, LANG 1003",
-        "previous-code": "CORE 1404",
-        "description": "This course puts a strong emphasis on developing university-level academic literacy and communication competence in writing, speaking, and multimodal contexts. The course introduces students to research skills using university library resources for finding and evaluating sources for academic writing and speaking tasks. It expects students to be critical readers and writers, synthesizing ideas when developing a coherent argument. The course also aims to develop students’ competence in communicating effectively in an academic community, developing the ability to collaborate both as a member of a group and assuming responsibility as a discussion facilitator in the context of student-led seminars. Throughout the course, students are expected to transfer and adapt their knowledge, attitudes and habits for autonomous lifelong learning."
-      },
-      "attrs": [
-        {
-          "title": "[CC22]",
-          "description": "Students admitted from 2022"
-        }
-      ],
-      "sections": [
-        {
-          "code": "T01",
-          "number": 1267,
-          "remarks": [
-            "Venue : 2126D"
-          ],
-          "instructors": [
-            "HO, Fiona"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-18",
-              "toDate": "2024-06-18",
-              "day": "TUESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "quota": 3,
-          "enroll": 3,
-          "available": 0,
-          "waitlist": 0
-        },
-        {
-          "code": "T01",
-          "number": 1267,
-          "remarks": [
-            "Venue : 2126D"
-          ],
-          "instructors": [
-            "HO, Fiona"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "MONDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "WEDNESDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            },
-            {
-              "fromDate": "2024-06-19",
-              "toDate": "2024-07-12",
-              "day": "FRIDAY",
-              "from": "09:30:00",
-              "to": "12:50:00"
-            }
-          ],
-          "quota": 3,
-          "enroll": 3,
+          "quota": 5,
+          "enroll": 5,
           "available": 0,
           "waitlist": 0
         }
@@ -9620,8 +9535,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 30
         },
         {
@@ -9657,8 +9572,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 30
         }
       ]
@@ -10176,8 +10091,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 48,
-          "available": 2,
+          "enroll": 47,
+          "available": 3,
           "waitlist": 8
         }
       ]
