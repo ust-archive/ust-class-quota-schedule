@@ -8779,7 +8779,7 @@
           "quota": 21,
           "enroll": 21,
           "available": 0,
-          "waitlist": 0
+          "waitlist": 1
         }
       ]
     }
