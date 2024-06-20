@@ -12077,9 +12077,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 109,
-          "available": 11,
-          "waitlist": 3
+          "enroll": 110,
+          "available": 10,
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -12109,9 +12109,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 109,
-          "available": 11,
-          "waitlist": 3
+          "enroll": 110,
+          "available": 10,
+          "waitlist": 2
         }
       ]
     },
@@ -14210,8 +14210,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 152,
-          "available": 98,
+          "enroll": 153,
+          "available": 97,
           "waitlist": 0
         }
       ]
