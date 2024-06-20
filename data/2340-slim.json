@@ -1735,8 +1735,8 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            56,
-            4,
+            55,
+            5,
             0
           ]
         },
@@ -1766,8 +1766,8 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            56,
-            4,
+            55,
+            5,
             0
           ]
         },
@@ -1790,8 +1790,8 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            56,
-            4,
+            55,
+            5,
             0
           ]
         },
@@ -1821,8 +1821,8 @@
           "venue": "Lecture Theater K (106)",
           "quota": [
             60,
-            56,
-            4,
+            55,
+            5,
             0
           ]
         },
@@ -1852,8 +1852,8 @@
           "venue": "Rm 4210, Lift 19 (67)",
           "quota": [
             60,
-            56,
-            4,
+            55,
+            5,
             0
           ]
         }
@@ -3588,6 +3588,29 @@
   "HMMA": [
     {
       "subject": "HMMA",
+      "course": "6200A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1286,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "HMMA",
       "course": "6300",
       "name": "Building a Future Career in Chinese Cultural Studies",
       "sections": [
@@ -4115,8 +4138,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            100,
-            0,
+            99,
+            1,
             6
           ]
         }
@@ -8883,8 +8906,8 @@
           "venue": "Lecture Theater E (143)",
           "quota": [
             120,
-            110,
-            10,
+            109,
+            11,
             3
           ]
         },
@@ -8914,8 +8937,8 @@
           "venue": "Lecture Theater D (216)",
           "quota": [
             120,
-            110,
-            10,
+            109,
+            11,
             3
           ]
         }

@@ -2269,8 +2269,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 55,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -2301,8 +2301,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 55,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -2326,8 +2326,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 55,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -2356,8 +2356,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 55,
+          "available": 5,
           "waitlist": 0
         },
         {
@@ -2386,8 +2386,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 56,
-          "available": 4,
+          "enroll": 55,
+          "available": 5,
           "waitlist": 0
         }
       ]
@@ -4810,6 +4810,44 @@
   "HMMA": [
     {
       "subject": "HMMA",
+      "course": "6200A",
+      "name": "Independent Study",
+      "units": 3,
+      "info": {
+        "attributes": "[C] Require Chinese reading",
+        "vector": "[3 credits]",
+        "exclusion": "HUMA 6100",
+        "description": "For MA(CC) students only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s). It may be repeated for credit if different topics are studied."
+      },
+      "attrs": [
+        {
+          "title": "[READ]",
+          "description": "Reading Material"
+        }
+      ],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1286,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "HMMA",
       "course": "6300",
       "name": "Building a Future Career in Chinese Cultural Studies",
       "units": 0,
@@ -5452,8 +5490,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 100,
-          "available": 0,
+          "enroll": 99,
+          "available": 1,
           "waitlist": 6
         }
       ]
@@ -12039,8 +12077,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 110,
-          "available": 10,
+          "enroll": 109,
+          "available": 11,
           "waitlist": 3
         },
         {
@@ -12071,8 +12109,8 @@
             }
           ],
           "quota": 120,
-          "enroll": 110,
-          "available": 10,
+          "enroll": 109,
+          "available": 11,
           "waitlist": 3
         }
       ]
