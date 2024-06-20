@@ -1489,9 +1489,9 @@
             }
           ],
           "quota": 50,
-          "enroll": 10,
-          "available": 40,
-          "waitlist": 2,
+          "enroll": 11,
+          "available": 39,
+          "waitlist": 1,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
@@ -5014,8 +5014,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         },
         {
@@ -5039,8 +5039,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         },
         {
@@ -5064,8 +5064,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         },
         {
@@ -5103,8 +5103,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         },
         {
@@ -5128,8 +5128,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         },
         {
@@ -5153,8 +5153,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 45,
-          "available": 15,
+          "enroll": 44,
+          "available": 16,
           "waitlist": 0
         }
       ]
@@ -8247,8 +8247,8 @@
             }
           ],
           "quota": 20,
-          "enroll": 9,
-          "available": 11,
+          "enroll": 8,
+          "available": 12,
           "waitlist": 0
         }
       ]
@@ -9349,8 +9349,8 @@
             }
           ],
           "quota": 55,
-          "enroll": 48,
-          "available": 7,
+          "enroll": 47,
+          "available": 8,
           "waitlist": 2
         }
       ]
@@ -11673,8 +11673,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 4,
-          "available": 36,
+          "enroll": 5,
+          "available": 35,
           "waitlist": 0
         }
       ]
@@ -11776,6 +11776,35 @@
           "quota": 10,
           "enroll": 0,
           "available": 10,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "OCES",
+      "course": "4910A",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "description": "Independent studies or projects under the directed guidance of a faculty member. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. Students may repeat the course up to two times if different topics are taken. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1288,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -13949,8 +13978,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 158,
-          "available": 42,
+          "enroll": 159,
+          "available": 41,
           "waitlist": 0
         }
       ]
@@ -14125,8 +14154,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 157,
-          "available": 93,
+          "enroll": 158,
+          "available": 92,
           "waitlist": 0
         }
       ]
