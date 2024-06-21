@@ -7306,6 +7306,35 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "MATH",
+      "course": "6912A",
+      "name": "Reading Course: Deep Learning and Its Applications",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1289,
+          "schedules": [
+            {
+              "day": "TUESDAY",
+              "from": "19:30:00",
+              "to": "20:20:00"
+            }
+          ],
+          "instructors": [
+            "YANG, Can"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "MCEE": [

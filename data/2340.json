@@ -9737,6 +9737,43 @@
           "waitlist": 0
         }
       ]
+    },
+    {
+      "subject": "MATH",
+      "course": "6912A",
+      "name": "Reading Course: Deep Learning and Its Applications",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "The topics covered in this reading course include: 1. Single-layer Networks: Regression and Classification 2. Deep Neural Networks 3. Gradient Descent 4. Backpropagation 5. Regularization 6. Convolutional Networks 7. Transformers 8. Graph Neural Networks 9. Generative Adversarial Networks 10. Normalizing Flows 11. Autoencoders. Students should seek approval from the course instructor to take this reading course."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1289,
+          "remarks": [
+            "Students should seek approval from the course instructor to take this course.",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "YANG, Can"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [
+            {
+              "day": "TUESDAY",
+              "from": "19:30:00",
+              "to": "20:20:00"
+            }
+          ],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
     }
   ],
   "MCEE": [
