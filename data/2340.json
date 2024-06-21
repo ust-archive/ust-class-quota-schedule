@@ -12058,9 +12058,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 111,
-          "available": 9,
-          "waitlist": 3
+          "enroll": 112,
+          "available": 8,
+          "waitlist": 2
         },
         {
           "code": "L1",
@@ -12090,9 +12090,9 @@
             }
           ],
           "quota": 120,
-          "enroll": 111,
-          "available": 9,
-          "waitlist": 3
+          "enroll": 112,
+          "available": 8,
+          "waitlist": 2
         }
       ]
     },
