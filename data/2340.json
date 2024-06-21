@@ -2588,7 +2588,8 @@
           "number": 1221,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Add/Drop Deadline: 22-Jun-2024"
+            "Add/Drop Deadline: 22-Jun-2024",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "KWOK, James Tin Yau"
@@ -2597,8 +2598,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 155,
-          "enroll": 132,
-          "available": 23,
+          "enroll": 155,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -2619,7 +2620,8 @@
           "number": 1222,
           "remarks": [
             "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3",
-            "Add/Drop Deadline: 22-Jun-2024"
+            "Add/Drop Deadline: 22-Jun-2024",
+            "Instructor Consent Required"
           ],
           "instructors": [
             "KWOK, James Tin Yau"
@@ -2788,8 +2790,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 9,
-          "available": 31,
+          "enroll": 10,
+          "available": 30,
           "waitlist": 0
         }
       ]
@@ -11743,8 +11745,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 24,
-          "available": 31,
+          "enroll": 25,
+          "available": 30,
           "waitlist": 0
         }
       ]
