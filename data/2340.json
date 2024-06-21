@@ -5490,9 +5490,9 @@
             }
           ],
           "quota": 100,
-          "enroll": 96,
-          "available": 4,
-          "waitlist": 2
+          "enroll": 97,
+          "available": 3,
+          "waitlist": 1
         }
       ]
     }
