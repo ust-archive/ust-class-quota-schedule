@@ -1956,8 +1956,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         },
         {
@@ -1971,8 +1971,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 50,
-          "available": 0,
+          "enroll": 49,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -5492,7 +5492,7 @@
           "quota": 100,
           "enroll": 100,
           "available": 0,
-          "waitlist": 1
+          "waitlist": 2
         }
       ]
     }
@@ -11745,8 +11745,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 55,
-          "enroll": 28,
-          "available": 27,
+          "enroll": 29,
+          "available": 26,
           "waitlist": 0
         }
       ]
