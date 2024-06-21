@@ -4336,7 +4336,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4379,7 +4379,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4422,7 +4422,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4465,7 +4465,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4508,7 +4508,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4551,7 +4551,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4594,7 +4594,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -4637,7 +4637,7 @@
           "quota": 65,
           "enroll": 57,
           "available": 8,
-          "waitlist": 3,
+          "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 3,
@@ -12589,14 +12589,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 13,
-          "available": 27,
+          "enroll": 12,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 11,
-              "available": 9
+              "enroll": 10,
+              "available": 10
             }
           }
         },
@@ -12622,14 +12622,14 @@
             }
           ],
           "quota": 40,
-          "enroll": 13,
-          "available": 27,
+          "enroll": 12,
+          "available": 28,
           "waitlist": 0,
           "quotaDetail": {
             "PPOL": {
               "quota": 20,
-              "enroll": 11,
-              "available": 9
+              "enroll": 10,
+              "available": 10
             }
           }
         }
