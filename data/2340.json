@@ -10907,7 +10907,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10950,7 +10950,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -10993,7 +10993,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11036,7 +11036,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11079,7 +11079,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11122,7 +11122,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11165,7 +11165,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11208,7 +11208,7 @@
           "quota": 70,
           "enroll": 66,
           "available": 4,
-          "waitlist": 3,
+          "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 5,
@@ -11388,8 +11388,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 62,
-          "enroll": 20,
-          "available": 42,
+          "enroll": 22,
+          "available": 40,
           "waitlist": 0
         }
       ]
