@@ -5492,7 +5492,7 @@
           "quota": 100,
           "enroll": 95,
           "available": 5,
-          "waitlist": 1
+          "waitlist": 0
         }
       ]
     }
