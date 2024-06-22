@@ -4334,8 +4334,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4345,8 +4345,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4377,8 +4377,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4388,8 +4388,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4420,8 +4420,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4431,8 +4431,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4463,8 +4463,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4474,8 +4474,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4506,8 +4506,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4517,8 +4517,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4549,8 +4549,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4560,8 +4560,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4592,8 +4592,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4603,8 +4603,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -4635,8 +4635,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 55,
-          "available": 10,
+          "enroll": 54,
+          "available": 11,
           "waitlist": 2,
           "quotaDetail": {
             "Digital MBA": {
@@ -4646,8 +4646,8 @@
             },
             "MBA": {
               "quota": 32,
-              "enroll": 29,
-              "available": 3
+              "enroll": 28,
+              "available": 4
             },
             "MBA Bi-weekly": {
               "quota": 30,
@@ -7549,8 +7549,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 64,
-          "available": 1,
+          "enroll": 65,
+          "available": 0,
           "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
@@ -7560,8 +7560,8 @@
             },
             "MBA": {
               "quota": 26,
-              "enroll": 25,
-              "available": 1
+              "enroll": 26,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 20,
@@ -7594,8 +7594,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 64,
-          "available": 1,
+          "enroll": 65,
+          "available": 0,
           "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
@@ -7605,8 +7605,8 @@
             },
             "MBA": {
               "quota": 26,
-              "enroll": 25,
-              "available": 1
+              "enroll": 26,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 20,
@@ -7639,8 +7639,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 64,
-          "available": 1,
+          "enroll": 65,
+          "available": 0,
           "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
@@ -7650,8 +7650,8 @@
             },
             "MBA": {
               "quota": 26,
-              "enroll": 25,
-              "available": 1
+              "enroll": 26,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 20,
@@ -7684,8 +7684,8 @@
             }
           ],
           "quota": 65,
-          "enroll": 64,
-          "available": 1,
+          "enroll": 65,
+          "available": 0,
           "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
@@ -7695,8 +7695,8 @@
             },
             "MBA": {
               "quota": 26,
-              "enroll": 25,
-              "available": 1
+              "enroll": 26,
+              "available": 0
             },
             "MBA Bi-weekly": {
               "quota": 20,
