@@ -4765,8 +4765,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 20,
-          "available": 10,
+          "enroll": 19,
+          "available": 11,
           "waitlist": 0
         }
       ]
