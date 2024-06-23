@@ -6006,8 +6006,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 76,
-          "available": 4,
+          "enroll": 75,
+          "available": 5,
           "waitlist": 2
         },
         {
@@ -6031,8 +6031,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 76,
-          "available": 4,
+          "enroll": 75,
+          "available": 5,
           "waitlist": 2
         },
         {
@@ -9243,8 +9243,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 54,
-          "available": 46,
+          "enroll": 53,
+          "available": 47,
           "waitlist": 0
         }
       ]
