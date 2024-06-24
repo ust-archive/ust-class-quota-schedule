@@ -12123,8 +12123,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 2,
-          "enroll": 2,
+          "quota": 3,
+          "enroll": 3,
           "available": 0,
           "waitlist": 0
         }
@@ -12318,8 +12318,8 @@
             }
           ],
           "quota": 60,
-          "enroll": 47,
-          "available": 13,
+          "enroll": 48,
+          "available": 12,
           "waitlist": 0
         },
         {
@@ -12339,8 +12339,8 @@
             }
           ],
           "quota": 30,
-          "enroll": 26,
-          "available": 4,
+          "enroll": 27,
+          "available": 3,
           "waitlist": 0
         },
         {
