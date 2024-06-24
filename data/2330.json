@@ -99061,14 +99061,14 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 200,
-          "enroll": 70,
-          "available": 130,
+          "enroll": 71,
+          "available": 129,
           "waitlist": 0,
           "quotaDetail": {
             "MPP": {
               "quota": 200,
-              "enroll": 69,
-              "available": 131
+              "enroll": 70,
+              "available": 130
             }
           }
         }
