@@ -31083,6 +31083,39 @@
           "waitlist": 0
         }
       ]
+    },
+    {
+      "subject": "EMBA",
+      "course": "5760",
+      "name": "Managing Emerging Technologies",
+      "units": 1,
+      "info": {
+        "vector": "[1-0-0:1]",
+        "description": "This course provides a managerial overview of new technological innovations such as Internet of Things, big data analytics, AI, FinTech, blockchain, and cryptocurrencies. We will go through the technological foundation of these new developments and how they connect with each other to transform businesses. The course will conclude with practical advice on how to strategically utilize and manage these new technological innovations.",
+        "intended-learning-outcomes": "On successful completion of the course, students will be able to:\n1. Identify the properties and trends of emerging technologies.\n2. Compare and contrast different data analytic techniques, AI, and their strategic or managerial values.\n3. Characterize the FinTech landscape and opportunities and related technology development.\n4. Explain the key features of blockchain and its design principles.\n5. Compare and contrast the purposes of blockchain payment transactions and smart contracts.\n6. Characterize initial coin offering (ICO) and its business and social values."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 4474,
+          "remarks": [
+            "For Kellogg-HKUST EMBA students only",
+            "Class Duration/Dates : 10-May-2024 to 12-May-2024 and 17-May-2024 to 19-May-2024",
+            "Add/Drop Deadline : 10-May-2024"
+          ],
+          "instructors": [
+            "HUI, Kai Lung"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 30,
+          "enroll": 30,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
     }
   ],
   "EMIA": [

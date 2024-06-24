@@ -26794,6 +26794,29 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "EMBA",
+      "course": "5760",
+      "name": "Managing Emerging Technologies",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 4474,
+          "schedules": [],
+          "instructors": [
+            "HUI, Kai Lung"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            30,
+            30,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "EMIA": [
