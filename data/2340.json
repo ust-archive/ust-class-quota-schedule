@@ -3420,14 +3420,14 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 50,
-          "enroll": 40,
-          "available": 10,
+          "enroll": 39,
+          "available": 11,
           "waitlist": 0,
           "quotaDetail": {
             "EESM": {
               "quota": 50,
-              "enroll": 40,
-              "available": 10
+              "enroll": 39,
+              "available": 11
             }
           }
         }
