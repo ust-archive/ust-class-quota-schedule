@@ -9397,8 +9397,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 50,
-          "available": 50,
+          "enroll": 49,
+          "available": 51,
           "waitlist": 0
         }
       ]
