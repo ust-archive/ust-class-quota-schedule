@@ -1539,6 +1539,35 @@
   "CIVL": [
     {
       "subject": "CIVL",
+      "course": "2020",
+      "name": "Industrial and BIM Training",
+      "units": 0,
+      "info": {
+        "description": "A practical training course in an industrial simulated environment. For students of the Civil and Environmental Engineering Department only. Graded P, PP or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1293,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 10,
+          "enroll": 0,
+          "available": 10,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
       "course": "2120",
       "name": "Mechanics of Materials",
       "units": 3,
@@ -6130,8 +6159,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 73,
-          "available": 7,
+          "enroll": 72,
+          "available": 8,
           "waitlist": 2
         },
         {
@@ -6155,8 +6184,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 73,
-          "available": 7,
+          "enroll": 72,
+          "available": 8,
           "waitlist": 2
         },
         {
@@ -14345,8 +14374,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 105,
-          "available": 115,
+          "enroll": 106,
+          "available": 114,
           "waitlist": 0
         }
       ]

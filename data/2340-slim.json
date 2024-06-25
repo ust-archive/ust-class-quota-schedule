@@ -1122,6 +1122,29 @@
   "CIVL": [
     {
       "subject": "CIVL",
+      "course": "2020",
+      "name": "Industrial and BIM Training",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1293,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            10,
+            0,
+            10,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
       "course": "2120",
       "name": "Mechanics of Materials",
       "sections": [
@@ -4638,8 +4661,8 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
-            73,
-            7,
+            72,
+            8,
             2
           ]
         },
@@ -4662,8 +4685,8 @@
           "venue": "Rm 1034, LSK Bldg (80)",
           "quota": [
             80,
-            73,
-            7,
+            72,
+            8,
             2
           ]
         },
@@ -10560,8 +10583,8 @@
           "venue": "TBA",
           "quota": [
             220,
-            105,
-            115,
+            106,
+            114,
             0
           ]
         }
