@@ -466,38 +466,6 @@
           "waitlist": 0
         }
       ]
-    },
-    {
-      "subject": "AESF",
-      "course": "6950D",
-      "name": "Aeronautical Independent Project",
-      "units": 6,
-      "info": {
-        "vector": "[6 credits]",
-        "description": "An independent research project on Aeronautical Engineering carried out under the supervision of a faculty member."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1168,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Deadline : 29-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 5,
-          "enroll": 0,
-          "available": 5,
-          "waitlist": 0
-        }
-      ]
     }
   ],
   "BEHI": [
@@ -857,53 +825,6 @@
     },
     {
       "subject": "CENG",
-      "course": "4980X",
-      "name": "Investigation Project",
-      "units": 3,
-      "info": {
-        "description": "Students conduct in-depth experimental or computational investigations on selected topics in one of the departmental research areas. Students work under supervision and are encouraged to use their own initiative to complete an appropriate program of work within the time allocated. Enrollment is subject to approval by department and supervisor. Graded Distinction/Pass/Fail. May be repeated for credits. May be graded PP."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "T1",
-          "number": 1072,
-          "remarks": [
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 5,
-          "enroll": 0,
-          "available": 5,
-          "waitlist": 0
-        },
-        {
-          "code": "LA1",
-          "number": 1071,
-          "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 5,
-          "enroll": 0,
-          "available": 5,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "CENG",
       "course": "6900C",
       "name": "Independent Study",
       "units": 1,
@@ -1086,37 +1007,6 @@
     },
     {
       "subject": "CHEM",
-      "course": "4680",
-      "name": "Undergraduate Research",
-      "units": 3,
-      "info": {
-        "pre-requisite": "CHEM 2550",
-        "description": "Students do original research in accordance with their ability and background, and under the supervision of a faculty. The final course grade is determined based on an oral presentation and a written report to be submitted to a judging committee, which includes the faculty supervisor plus at least one other faculty. Enrollment in the course requires approval of the faculty supervisor."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1119,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "CHEM",
       "course": "4691",
       "name": "Capstone Research I",
       "units": 3,
@@ -1143,37 +1033,6 @@
           "quota": 10,
           "enroll": 8,
           "available": 2,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "CHEM",
-      "course": "4692",
-      "name": "Capstone Research II",
-      "units": 3,
-      "info": {
-        "pre-requisite": "CHEM 4691",
-        "description": "Continuation of research project started in CHEM 4691 and to be conducted under the supervision of a faculty member/teaching staff. A written report and oral presentation are required to document their learning experiences. Students should seek instructor's approval prior to enrollment in the course."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1121,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
           "waitlist": 0
         }
       ]
@@ -1749,70 +1608,6 @@
           "quota": 4,
           "enroll": 4,
           "available": 0,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "CIVL",
-      "course": "6050I",
-      "name": "Civil Engineering Seminar I",
-      "units": 0,
-      "info": {
-        "vector": "[1-0-0:0]",
-        "description": "Discussion of current research by faculty members, and guest lectures on recent advances in civil engineering. Graded P or F."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1079,
-          "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
-            "Extended Drop Deadline: 29-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 5,
-          "enroll": 0,
-          "available": 5,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "CIVL",
-      "course": "6060O",
-      "name": "Civil Engineering Seminar II",
-      "units": 0,
-      "info": {
-        "vector": "[1-0-0:0]",
-        "description": "Presentation of current graduate research by postgraduate students. Graded P or F."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1080,
-          "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024",
-            "Extended Drop Deadline: 29-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 5,
-          "enroll": 0,
-          "available": 5,
           "waitlist": 0
         }
       ]
@@ -4024,111 +3819,6 @@
   "ENTR": [
     {
       "subject": "ENTR",
-      "course": "3360",
-      "name": "From Product Innovations to Successful Technology Startups",
-      "units": 3,
-      "info": {
-        "alternate-code(s)": "ISDN 3360",
-        "description": "This course is intended for students who want to seriously pursue technology startups. Students will be guided to identify critical steps and important milestones associated with each step in order to build a technology startup. The course requires students to take an existing project idea with early conceptual design and prototype, and bring it to the next level of project realization. Lecture topics include market research, industrial design, patent law, supply chain management and business model development. Cross-college faculty and external experts will provide individual and team mentoring for student projects. Company visits, field trips, trade shows and interactions with experienced entrepreneurs will be arranged. Students with good performance in this course are recommended to different funding and incubation opportunities. Instructor's approval is required for enrollment in the course."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1103,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "LEUNG, Suk Wai Winnie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 20,
-          "enroll": 0,
-          "available": 20,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4901Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 1,
-      "info": {
-        "attributes": "[EXP] Experiential learning",
-        "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course."
-      },
-      "attrs": [
-        {
-          "title": "[DELI]",
-          "description": "Mode of Delivery"
-        }
-      ],
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1099,
-          "remarks": [
-            "The class is delivered in a experiential learning mode",
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 15,
-          "enroll": 0,
-          "available": 15,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4902Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 2,
-      "info": {
-        "attributes": "[EXP] Experiential learning",
-        "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course."
-      },
-      "attrs": [
-        {
-          "title": "[DELI]",
-          "description": "Mode of Delivery"
-        }
-      ],
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1100,
-          "remarks": [
-            "The class is delivered in a experiential learning mode",
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 15,
-          "enroll": 0,
-          "available": 15,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
       "course": "4903Z",
       "name": "Student-led Entrepreneurship Acceleration Project",
       "units": 3,
@@ -4160,43 +3850,6 @@
           "quota": 15,
           "enroll": 3,
           "available": 12,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4904Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "units": 4,
-      "info": {
-        "attributes": "[EXP] Experiential learning",
-        "description": "Many successful IT startups begin in university years. This is a project course led by students to accelerate their entrepreneurship endeavor under the guidance and advice of a faculty member. Students work in team of size 2 to 3 to develop an idea from its scratch to become viable in market. In the process, students work on ideation, prototyping, making presentations, developing operation strategies, conducting experimental trials, designing market survey, collecting user feedbacks, writing business plan, and soft-launching and pivoting the product or services. Written reports, presentations, and/or business/operation plan are required. May be repeated for credits if different topics are taken. Instructor's approval is required for enrollment in the course."
-      },
-      "attrs": [
-        {
-          "title": "[DELI]",
-          "description": "Mode of Delivery"
-        }
-      ],
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1102,
-          "remarks": [
-            "The class is delivered in a experiential learning mode",
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 15,
-          "enroll": 0,
-          "available": 15,
           "waitlist": 0
         }
       ]
@@ -5714,36 +5367,6 @@
           "quota": 3,
           "enroll": 1,
           "available": 2,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "IEDA",
-      "course": "4960",
-      "name": "Industrial Engineering and Engineering Management Final Year Project",
-      "units": 6,
-      "info": {
-        "exclusion": "IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990",
-        "description": "A one year long final year project related to industrial engineering and engineering management. Supervised by a faculty member. A project proposal and a final report are required. Credit load will be spread over the year. For IEEM students in their fourth year of study only. May be graded PP."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1214,
-          "remarks": [
-            "Add/Drop Deadline: 22-Jun-2024"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 1,
-          "enroll": 0,
-          "available": 1,
           "waitlist": 0
         }
       ]
@@ -9933,39 +9556,6 @@
   "MCEE": [
     {
       "subject": "MCEE",
-      "course": "6980A",
-      "name": "Independent Project",
-      "units": 3,
-      "info": {
-        "vector": "[3 credits]",
-        "previous-code": "CBME 6980A",
-        "description": "An independent project carried out under the supervision of a faculty member."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1156,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Deadline : 29-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 20,
-          "enroll": 0,
-          "available": 20,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "MCEE",
       "course": "6980B",
       "name": "Independent Project",
       "units": 6,
@@ -11935,38 +11525,6 @@
           "quota": 20,
           "enroll": 7,
           "available": 13,
-          "waitlist": 0
-        }
-      ]
-    },
-    {
-      "subject": "OCES",
-      "course": "2201B",
-      "name": "Internship",
-      "units": 3,
-      "info": {
-        "previous-code": "ENVS 2002B",
-        "description": "This course aims to provide students with hands-on experience in environmental and ocean science fields. Students will undertake training and duties under the internship supervisors. Graded P or F. Maybe graded PP. Cantonese may be used in off-campus trainings and internships, in some situations. Instructor’s approval is required for enrolling in the course."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1107,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Instructor Consent Required"
-          ],
-          "instructors": [
-            "LAM, Ka Sin Cindy",
-            "YAU, Sin Ting Cynthia"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 10,
-          "enroll": 0,
-          "available": 10,
           "waitlist": 0
         }
       ]
@@ -14208,44 +13766,6 @@
               "quota": 20,
               "enroll": 6,
               "available": 14
-            }
-          }
-        }
-      ]
-    },
-    {
-      "subject": "SOSC",
-      "course": "6100B",
-      "name": "Independent Study",
-      "units": 3,
-      "info": {
-        "vector": "[3 credits]",
-        "description": "Independent study in a designated subject under the supervision of a faculty member; may require readings, tutorial discussions, and submission of research paper(s); may be repeated for credit if different topics are studied. Regular students are required to enroll in 3-credit course. Enrollment in course below 3 credits require the Division's approval."
-      },
-      "attrs": [],
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1030,
-          "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Deadline : 29-Jun-2024"
-          ],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "schedules": [],
-          "quota": 20,
-          "enroll": 0,
-          "available": 20,
-          "waitlist": 0,
-          "quotaDetail": {
-            "SOSC": {
-              "quota": 20,
-              "enroll": 0,
-              "available": 20
             }
           }
         }

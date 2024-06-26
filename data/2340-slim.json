@@ -301,29 +301,6 @@
           ]
         }
       ]
-    },
-    {
-      "subject": "AESF",
-      "course": "6950D",
-      "name": "Aeronautical Independent Project",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1168,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            5,
-            0,
-            5,
-            0
-          ]
-        }
-      ]
     }
   ],
   "BEHI": [
@@ -621,45 +598,6 @@
     },
     {
       "subject": "CENG",
-      "course": "4980X",
-      "name": "Investigation Project",
-      "sections": [
-        {
-          "code": "T1",
-          "number": 1072,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            5,
-            0,
-            5,
-            0
-          ]
-        },
-        {
-          "code": "LA1",
-          "number": 1071,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            5,
-            0,
-            5,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "CENG",
       "course": "6900C",
       "name": "Independent Study",
       "sections": [
@@ -799,29 +737,6 @@
     },
     {
       "subject": "CHEM",
-      "course": "4680",
-      "name": "Undergraduate Research",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1119,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "CHEM",
       "course": "4691",
       "name": "Capstone Research I",
       "sections": [
@@ -838,29 +753,6 @@
             10,
             8,
             2,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "CHEM",
-      "course": "4692",
-      "name": "Capstone Research II",
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1121,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
             0
           ]
         }
@@ -1294,52 +1186,6 @@
             4,
             4,
             0,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "CIVL",
-      "course": "6050I",
-      "name": "Civil Engineering Seminar I",
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1079,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            5,
-            0,
-            5,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "CIVL",
-      "course": "6060O",
-      "name": "Civil Engineering Seminar II",
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1080,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            5,
-            0,
-            5,
             0
           ]
         }
@@ -3089,75 +2935,6 @@
   "ENTR": [
     {
       "subject": "ENTR",
-      "course": "3360",
-      "name": "From Product Innovations to Successful Technology Startups",
-      "sections": [
-        {
-          "code": "L1",
-          "number": 1103,
-          "schedules": [],
-          "instructors": [
-            "LEUNG, Suk Wai Winnie"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            20,
-            0,
-            20,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4901Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1099,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            15,
-            0,
-            15,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4902Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1100,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            15,
-            0,
-            15,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
       "course": "4903Z",
       "name": "Student-led Entrepreneurship Acceleration Project",
       "sections": [
@@ -3174,29 +2951,6 @@
             15,
             3,
             12,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "ENTR",
-      "course": "4904Z",
-      "name": "Student-led Entrepreneurship Acceleration Project",
-      "sections": [
-        {
-          "code": "LA1",
-          "number": 1102,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            15,
-            0,
-            15,
             0
           ]
         }
@@ -4308,29 +4062,6 @@
             3,
             1,
             2,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "IEDA",
-      "course": "4960",
-      "name": "Industrial Engineering and Engineering Management Final Year Project",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1214,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            1,
-            0,
-            1,
             0
           ]
         }
@@ -7463,29 +7194,6 @@
   "MCEE": [
     {
       "subject": "MCEE",
-      "course": "6980A",
-      "name": "Independent Project",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1156,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            20,
-            0,
-            20,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "MCEE",
       "course": "6980B",
       "name": "Independent Project",
       "sections": [
@@ -8808,30 +8516,6 @@
             20,
             7,
             13,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "OCES",
-      "course": "2201B",
-      "name": "Internship",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1107,
-          "schedules": [],
-          "instructors": [
-            "LAM, Ka Sin Cindy",
-            "YAU, Sin Ting Cynthia"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            10,
-            0,
-            10,
             0
           ]
         }
@@ -10460,29 +10144,6 @@
             20,
             7,
             13,
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "subject": "SOSC",
-      "course": "6100B",
-      "name": "Independent Study",
-      "sections": [
-        {
-          "code": "R1",
-          "number": 1030,
-          "schedules": [],
-          "instructors": [
-            "TBA"
-          ],
-          "assistants": [],
-          "venue": "TBA",
-          "quota": [
-            20,
-            0,
-            20,
             0
           ]
         }
