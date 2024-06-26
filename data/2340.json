@@ -2298,9 +2298,9 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 4,
+          "quota": 6,
           "enroll": 4,
-          "available": 0,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -3370,9 +3370,9 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 7,
+          "quota": 8,
           "enroll": 7,
-          "available": 0,
+          "available": 1,
           "waitlist": 0
         }
       ]
@@ -9639,9 +9639,9 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 5,
+          "quota": 7,
           "enroll": 5,
-          "available": 0,
+          "available": 2,
           "waitlist": 0
         }
       ]

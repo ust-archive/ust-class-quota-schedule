@@ -1790,9 +1790,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
+            6,
             4,
-            4,
-            0,
+            2,
             0
           ]
         }
@@ -2594,9 +2594,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
+            8,
             7,
-            7,
-            0,
+            1,
             0
           ]
         }
@@ -7255,9 +7255,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
+            7,
             5,
-            5,
-            0,
+            2,
             0
           ]
         }
