@@ -757,6 +757,29 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "CHEM",
+      "course": "6980A",
+      "name": "Research Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1294,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "CIEM": [
