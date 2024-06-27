@@ -10065,6 +10065,54 @@
       ]
     }
   ],
+  "SHSS": [
+    {
+      "subject": "SHSS",
+      "course": "1020A",
+      "name": "Humanities and Social Science Internship",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1295,
+          "schedules": [],
+          "instructors": [
+            "WONG, James K."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            7,
+            7,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "SHSS",
+      "course": "1020B",
+      "name": "Humanities and Social Science Internship",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1296,
+          "schedules": [],
+          "instructors": [
+            "WONG, James K."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "SOSC": [
     {
       "subject": "SOSC",

@@ -13658,6 +13658,66 @@
       ]
     }
   ],
+  "SHSS": [
+    {
+      "subject": "SHSS",
+      "course": "1020A",
+      "name": "Humanities and Social Science Internship",
+      "units": 1,
+      "info": {
+        "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1295,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "WONG, James K."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 7,
+          "enroll": 7,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "SHSS",
+      "course": "1020B",
+      "name": "Humanities and Social Science Internship",
+      "units": 1,
+      "info": {
+        "description": "This course aims to provide students with internship educational opportunities locally and globally. Under the guidance of the course coordinator, students will undertake training and supervised internships with our potential collaborators (including government departments, NGOs, museums, media and press, cultural industries, social enterprises, social service organizations, business firms, and public corporations). Course assessment will be based on students' written reports and supervisors' evaluation. Cantonese may be used in off-campus trainings and internships, in some situations. May be repeated for credits. For students of GCS and QSA program only. Instructor's approval is required for enrolling in the course. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1296,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "WONG, James K."
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 3,
+          "enroll": 3,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "SOSC": [
     {
       "subject": "SOSC",
