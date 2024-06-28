@@ -9055,8 +9055,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 52,
-          "available": 48,
+          "enroll": 51,
+          "available": 49,
           "waitlist": 0
         },
         {
@@ -9082,8 +9082,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 52,
-          "available": 48,
+          "enroll": 51,
+          "available": 49,
           "waitlist": 0
         }
       ]
@@ -14036,8 +14036,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 181,
-          "available": 69,
+          "enroll": 182,
+          "available": 68,
           "waitlist": 0
         }
       ]
