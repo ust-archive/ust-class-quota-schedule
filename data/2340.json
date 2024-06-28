@@ -3457,8 +3457,7 @@
           "code": "R1",
           "number": 1297,
           "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Deadline : 29-Jun-2024",
+            "Add/Drop Deadline : 03-Jul-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -3489,8 +3488,7 @@
           "code": "R1",
           "number": 1298,
           "remarks": [
-            "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Deadline : 29-Jun-2024",
+            "Add/Drop Deadline : 03-Jul-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -8984,7 +8982,7 @@
           "remarks": [
             "Students should seek the instructor's approval to take this course.",
             "Add/Drop Deadline : 22-Jun-2024",
-            "Extended Drop Dealdine : 29-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
             "Instructor Consent Required"
           ],
           "instructors": [
@@ -8996,6 +8994,25 @@
           "quota": 1,
           "enroll": 1,
           "available": 0,
+          "waitlist": 0
+        },
+        {
+          "code": "R2",
+          "number": 1299,
+          "remarks": [
+            "Students should seek the instructor's approval to take this course.",
+            "Add/Drop Deadline : 06-Jul-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "FUNG, Jimmy Chi Hung"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
           "waitlist": 0
         }
       ]

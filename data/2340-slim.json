@@ -6718,6 +6718,22 @@
             0,
             0
           ]
+        },
+        {
+          "code": "R2",
+          "number": 1299,
+          "schedules": [],
+          "instructors": [
+            "FUNG, Jimmy Chi Hung"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
         }
       ]
     }
