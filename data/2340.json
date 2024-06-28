@@ -3467,8 +3467,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 3,
-          "enroll": 0,
-          "available": 3,
+          "enroll": 1,
+          "available": 2,
           "waitlist": 0
         }
       ]
@@ -3498,8 +3498,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 3,
-          "enroll": 0,
-          "available": 3,
+          "enroll": 1,
+          "available": 2,
           "waitlist": 0
         }
       ]
