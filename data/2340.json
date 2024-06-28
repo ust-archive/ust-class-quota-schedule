@@ -3441,6 +3441,72 @@
       ]
     }
   ],
+  "EMIA": [
+    {
+      "subject": "EMIA",
+      "course": "6950I",
+      "name": "Independent Study",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1297,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "XUE, Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 3,
+          "enroll": 0,
+          "available": 3,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "EMIA",
+      "course": "6950J",
+      "name": "Independent Study",
+      "units": 3,
+      "info": {
+        "vector": "[3 credits]",
+        "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1298,
+          "remarks": [
+            "Add/Drop Deadline : 22-Jun-2024",
+            "Extended Drop Deadline : 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "XUE, Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 3,
+          "enroll": 0,
+          "available": 3,
+          "waitlist": 0
+        }
+      ]
+    }
+  ],
   "ENEG": [
     {
       "subject": "ENEG",
@@ -11416,8 +11482,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 40,
-          "enroll": 0,
-          "available": 40,
+          "enroll": 7,
+          "available": 33,
           "waitlist": 0
         }
       ]

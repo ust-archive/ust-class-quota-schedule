@@ -2651,6 +2651,54 @@
       ]
     }
   ],
+  "EMIA": [
+    {
+      "subject": "EMIA",
+      "course": "6950I",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1297,
+          "schedules": [],
+          "instructors": [
+            "XUE, Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            0,
+            3,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "EMIA",
+      "course": "6950J",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1298,
+          "schedules": [],
+          "instructors": [
+            "XUE, Ying"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            3,
+            0,
+            3,
+            0
+          ]
+        }
+      ]
+    }
+  ],
   "ENEG": [
     {
       "subject": "ENEG",
@@ -8438,8 +8486,8 @@
           "venue": "TBA",
           "quota": [
             40,
-            0,
-            40,
+            7,
+            33,
             0
           ]
         }
