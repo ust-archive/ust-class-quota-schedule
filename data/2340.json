@@ -9011,8 +9011,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 1,
-          "enroll": 0,
-          "available": 1,
+          "enroll": 1,
+          "available": 0,
           "waitlist": 0
         }
       ]
