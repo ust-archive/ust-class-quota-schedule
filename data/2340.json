@@ -7420,7 +7420,7 @@
           "quota": 65,
           "enroll": 65,
           "available": 0,
-          "waitlist": 6,
+          "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -7465,7 +7465,7 @@
           "quota": 65,
           "enroll": 65,
           "available": 0,
-          "waitlist": 6,
+          "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -7510,7 +7510,7 @@
           "quota": 65,
           "enroll": 65,
           "available": 0,
-          "waitlist": 6,
+          "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -7555,7 +7555,7 @@
           "quota": 65,
           "enroll": 65,
           "available": 0,
-          "waitlist": 6,
+          "waitlist": 5,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
@@ -9055,8 +9055,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 51,
-          "available": 49,
+          "enroll": 50,
+          "available": 50,
           "waitlist": 0
         },
         {
@@ -9082,8 +9082,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 51,
-          "available": 49,
+          "enroll": 50,
+          "available": 50,
           "waitlist": 0
         }
       ]
@@ -13898,8 +13898,8 @@
             }
           ],
           "quota": 200,
-          "enroll": 163,
-          "available": 37,
+          "enroll": 164,
+          "available": 36,
           "waitlist": 0
         }
       ]
