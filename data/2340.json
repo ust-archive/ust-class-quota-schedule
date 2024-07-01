@@ -1109,14 +1109,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 49,
-          "available": 1,
+          "enroll": 48,
+          "available": 2,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 49,
-              "available": 1
+              "enroll": 48,
+              "available": 2
             }
           }
         }
