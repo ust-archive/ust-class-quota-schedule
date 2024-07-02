@@ -1157,14 +1157,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         },
@@ -1190,14 +1190,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         },
@@ -1223,14 +1223,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         },
@@ -1256,14 +1256,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         },
@@ -1289,14 +1289,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         },
@@ -1322,14 +1322,14 @@
             }
           ],
           "quota": 50,
-          "enroll": 37,
-          "available": 13,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0,
           "quotaDetail": {
             "CIEM": {
               "quota": 50,
-              "enroll": 37,
-              "available": 13
+              "enroll": 35,
+              "available": 15
             }
           }
         }
@@ -7418,14 +7418,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
-              "enroll": 19,
-              "available": 0
+              "enroll": 18,
+              "available": 1
             },
             "MBA": {
               "quota": 26,
@@ -7463,14 +7463,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
-              "enroll": 19,
-              "available": 0
+              "enroll": 18,
+              "available": 1
             },
             "MBA": {
               "quota": 26,
@@ -7508,14 +7508,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
-              "enroll": 19,
-              "available": 0
+              "enroll": 18,
+              "available": 1
             },
             "MBA": {
               "quota": 26,
@@ -7553,14 +7553,14 @@
             }
           ],
           "quota": 65,
-          "enroll": 65,
-          "available": 0,
+          "enroll": 64,
+          "available": 1,
           "waitlist": 4,
           "quotaDetail": {
             "Digital MBA": {
               "quota": 19,
-              "enroll": 19,
-              "available": 0
+              "enroll": 18,
+              "available": 1
             },
             "MBA": {
               "quota": 26,
@@ -13509,6 +13509,32 @@
               "quota": 10,
               "enroll": 0,
               "available": 10
+            }
+          }
+        },
+        {
+          "code": "R2",
+          "number": 1300,
+          "remarks": [
+            "For MBA-FT Year 1 students only",
+            "Add/Drop Deadline : 05-Jul-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0,
+          "quotaDetail": {
+            "MBA": {
+              "quota": 1,
+              "enroll": 1,
+              "available": 0
             }
           }
         }
