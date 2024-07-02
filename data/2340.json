@@ -3998,8 +3998,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 10,
-          "enroll": 2,
-          "available": 8,
+          "enroll": 3,
+          "available": 7,
           "waitlist": 0
         }
       ]
@@ -13468,8 +13468,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 8,
-          "enroll": 8,
+          "quota": 9,
+          "enroll": 9,
           "available": 0,
           "waitlist": 0
         }
