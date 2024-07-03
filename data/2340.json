@@ -3290,6 +3290,37 @@
   "ELEC": [
     {
       "subject": "ELEC",
+      "course": "2991",
+      "name": "Industrial Experience (Electronic Engineering)",
+      "units": 0,
+      "info": {
+        "previous-code": "ELEC 1991",
+        "description": "Full-time internship training for a period of at least six weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the electronic and computer engineering profession. Students must also complete the USTSEEB Safety Training module. Cantonese or other working languages may be used in off-campus trainings and internships, in some situations. For students in the BEng in Electronic Engineering program under the four-year degree only. Internship coordinator's approval is required for enrollment in the course. Graded P, PP or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1301,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 0,
+          "available": 1,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
       "course": "4900",
       "name": "Final Year Design Project",
       "units": 6,
@@ -4000,6 +4031,34 @@
           "quota": 10,
           "enroll": 3,
           "available": 7,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "6100A",
+      "name": "Independent Study",
+      "units": 1,
+      "info": {
+        "vector": "[1 credit]",
+        "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1302,
+          "remarks": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
           "waitlist": 0
         }
       ]
@@ -5267,8 +5326,8 @@
             }
           ],
           "quota": 100,
-          "enroll": 88,
-          "available": 12,
+          "enroll": 89,
+          "available": 11,
           "waitlist": 0
         }
       ]
@@ -14062,8 +14121,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 250,
-          "enroll": 183,
-          "available": 67,
+          "enroll": 184,
+          "available": 66,
           "waitlist": 0
         }
       ]
@@ -14092,8 +14151,8 @@
           "venue": "TBA",
           "schedules": [],
           "quota": 220,
-          "enroll": 110,
-          "available": 110,
+          "enroll": 111,
+          "available": 109,
           "waitlist": 0
         }
       ]

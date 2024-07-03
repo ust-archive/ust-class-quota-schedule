@@ -2535,6 +2535,29 @@
   "ELEC": [
     {
       "subject": "ELEC",
+      "course": "2991",
+      "name": "Industrial Experience (Electronic Engineering)",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1301,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ELEC",
       "course": "4900",
       "name": "Final Year Design Project",
       "sections": [
@@ -3070,6 +3093,29 @@
             10,
             3,
             7,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
+      "course": "6100A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1302,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
             0
           ]
         }
@@ -3986,8 +4032,8 @@
           "venue": "Rm 2407, Lift 17-18 (126)",
           "quota": [
             100,
-            88,
-            12,
+            89,
+            11,
             0
           ]
         }
@@ -10372,8 +10418,8 @@
           "venue": "TBA",
           "quota": [
             250,
-            183,
-            67,
+            184,
+            66,
             0
           ]
         }
@@ -10395,8 +10441,8 @@
           "venue": "TBA",
           "quota": [
             220,
-            110,
-            110,
+            111,
+            109,
             0
           ]
         }
