@@ -6304,8 +6304,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 76,
-          "available": 4,
+          "enroll": 77,
+          "available": 3,
           "waitlist": 1
         },
         {
@@ -6329,8 +6329,8 @@
             }
           ],
           "quota": 80,
-          "enroll": 76,
-          "available": 4,
+          "enroll": 77,
+          "available": 3,
           "waitlist": 1
         }
       ]
@@ -6527,8 +6527,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 34,
-          "available": 16,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0
         },
         {
@@ -6552,8 +6552,8 @@
             }
           ],
           "quota": 50,
-          "enroll": 34,
-          "available": 16,
+          "enroll": 35,
+          "available": 15,
           "waitlist": 0
         }
       ]
