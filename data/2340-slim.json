@@ -253,6 +253,29 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "ACCT",
+      "course": "6970A",
+      "name": "Independent Study",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1305,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "AESF": [
@@ -1790,8 +1813,8 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            6,
-            6,
+            11,
+            11,
             0,
             0
           ]
@@ -2617,8 +2640,8 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            8,
-            8,
+            9,
+            9,
             0,
             0
           ]
@@ -2640,9 +2663,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
+            6,
             5,
-            5,
-            0,
+            1,
             0
           ]
         }
@@ -4179,6 +4202,52 @@
             3,
             1,
             2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "course": "4950A",
+      "name": "Industrial Engineering Special Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1308,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            1,
+            4,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "IEDA",
+      "course": "6900A",
+      "name": "Research Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1304,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
             0
           ]
         }
@@ -7255,9 +7324,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            19,
+            20,
+            20,
             0,
-            19,
             0
           ]
         }
@@ -9109,6 +9178,29 @@
     },
     {
       "subject": "PHYS",
+      "course": "2090A",
+      "name": "Directed Studies in Physics I",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1306,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
       "course": "3060",
       "name": "Physics Internship",
       "sections": [
@@ -9124,6 +9216,29 @@
           "quota": [
             5,
             5,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "PHYS",
+      "course": "3090A",
+      "name": "Directed Studies in Physics II",
+      "sections": [
+        {
+          "code": "T1",
+          "number": 1307,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            12,
+            12,
             0,
             0
           ]
