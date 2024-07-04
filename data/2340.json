@@ -1667,6 +1667,70 @@
           "waitlist": 0
         }
       ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6050I",
+      "name": "Civil Engineering Seminar I",
+      "units": 0,
+      "info": {
+        "vector": "[1-0-0:0]",
+        "description": "Discussion of current research by faculty members, and guest lectures on recent advances in civil engineering. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1310,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024",
+            "Extended Drop Deadline: 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 5,
+          "enroll": 0,
+          "available": 5,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6060O",
+      "name": "Civil Engineering Seminar II",
+      "units": 0,
+      "info": {
+        "vector": "[1-0-0:0]",
+        "description": "Presentation of current graduate research by postgraduate students. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1311,
+          "remarks": [
+            "Add/Drop Deadline: 22-Jun-2024",
+            "Extended Drop Deadline: 29-Jun-2024",
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 5,
+          "enroll": 0,
+          "available": 5,
+          "waitlist": 0
+        }
+      ]
     }
   ],
   "COMP": [
@@ -2352,8 +2416,7 @@
             "Instructor Consent Required"
           ],
           "instructors": [
-            "TSOI, Yau Chat",
-            "WEI, Victor Junqiu"
+            "TSOI, Yau Chat"
           ],
           "assistants": [],
           "venue": "TBA",

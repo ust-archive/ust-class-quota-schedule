@@ -1236,6 +1236,52 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6050I",
+      "name": "Civil Engineering Seminar I",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1310,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            0,
+            5,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "CIVL",
+      "course": "6060O",
+      "name": "Civil Engineering Seminar II",
+      "sections": [
+        {
+          "code": "L1",
+          "number": 1311,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            5,
+            0,
+            5,
+            0
+          ]
+        }
+      ]
     }
   ],
   "COMP": [
@@ -1831,8 +1877,7 @@
           "number": 1217,
           "schedules": [],
           "instructors": [
-            "TSOI, Yau Chat",
-            "WEI, Victor Junqiu"
+            "TSOI, Yau Chat"
           ],
           "assistants": [],
           "venue": "TBA",
