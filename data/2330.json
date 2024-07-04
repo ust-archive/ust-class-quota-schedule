@@ -90802,6 +90802,11 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
+            "MBA": {
+              "quota": 44,
+              "enroll": 14,
+              "available": 30
+            },
             "MBA Bi-weekly": {
               "quota": 7,
               "enroll": 4,
@@ -90811,11 +90816,6 @@
               "quota": 4,
               "enroll": 2,
               "available": 2
-            },
-            "MBA": {
-              "quota": 44,
-              "enroll": 14,
-              "available": 30
             }
           }
         },
@@ -90846,6 +90846,11 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
+            "MBA": {
+              "quota": 44,
+              "enroll": 14,
+              "available": 30
+            },
             "MBA Bi-weekly": {
               "quota": 7,
               "enroll": 4,
@@ -90855,11 +90860,6 @@
               "quota": 4,
               "enroll": 2,
               "available": 2
-            },
-            "MBA": {
-              "quota": 44,
-              "enroll": 14,
-              "available": 30
             }
           }
         },
@@ -90890,6 +90890,11 @@
           "available": 35,
           "waitlist": 0,
           "quotaDetail": {
+            "MBA": {
+              "quota": 44,
+              "enroll": 14,
+              "available": 30
+            },
             "MBA Bi-weekly": {
               "quota": 7,
               "enroll": 4,
@@ -90899,11 +90904,6 @@
               "quota": 4,
               "enroll": 2,
               "available": 2
-            },
-            "MBA": {
-              "quota": 44,
-              "enroll": 14,
-              "available": 30
             }
           }
         }
