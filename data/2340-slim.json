@@ -1959,6 +1959,29 @@
           ]
         }
       ]
+    },
+    {
+      "subject": "COMP",
+      "course": "6922C",
+      "name": "Research Project",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1309,
+          "schedules": [],
+          "instructors": [
+            "CHEN, Hao"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
     }
   ],
   "CPEG": [
