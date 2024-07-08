@@ -1086,8 +1086,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 23,
-          "enroll": 23,
+          "quota": 26,
+          "enroll": 26,
           "available": 0,
           "waitlist": 0
         }
@@ -5998,6 +5998,7 @@
             "Instructor Consent Required"
           ],
           "instructors": [
+            "BRAUD, Tristan Camille",
             "LEUNG, Suk Wai Winnie"
           ],
           "assistants": [],
@@ -6015,6 +6016,7 @@
             "Instructor Consent Required"
           ],
           "instructors": [
+            "BRAUD, Tristan Camille",
             "LEUNG, Suk Wai Winnie"
           ],
           "assistants": [],
@@ -8988,8 +8990,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 25,
-          "enroll": 25,
+          "quota": 26,
+          "enroll": 26,
           "available": 0,
           "waitlist": 0
         }
@@ -9846,8 +9848,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 26,
-          "enroll": 26,
+          "quota": 27,
+          "enroll": 27,
           "available": 0,
           "waitlist": 0
         }
@@ -11958,8 +11960,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 4,
-          "enroll": 4,
+          "quota": 5,
+          "enroll": 5,
           "available": 0,
           "waitlist": 0
         }
