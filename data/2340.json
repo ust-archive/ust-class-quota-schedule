@@ -9954,9 +9954,9 @@
               "to": "20:20:00"
             }
           ],
-          "quota": 1,
+          "quota": 2,
           "enroll": 1,
-          "available": 0,
+          "available": 1,
           "waitlist": 0
         }
       ]

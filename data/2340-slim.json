@@ -7506,9 +7506,9 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
+            2,
             1,
             1,
-            0,
             0
           ]
         }
