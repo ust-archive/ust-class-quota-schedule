@@ -4190,6 +4190,35 @@
     },
     {
       "subject": "ENVR",
+      "course": "4010B",
+      "name": "Independent Study in Environment Issues",
+      "units": 1,
+      "info": {
+        "description": "Faculty directed independent study of selected topics in Environmental issues. For EVMT students and students with consent from the instructor. Graded P or F."
+      },
+      "attrs": [],
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1313,
+          "remarks": [
+            "Instructor Consent Required"
+          ],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "schedules": [],
+          "quota": 1,
+          "enroll": 1,
+          "available": 0,
+          "waitlist": 0
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
       "course": "6100A",
       "name": "Independent Study",
       "units": 1,
@@ -12537,8 +12566,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 12,
-          "enroll": 12,
+          "quota": 13,
+          "enroll": 13,
           "available": 0,
           "waitlist": 0
         }

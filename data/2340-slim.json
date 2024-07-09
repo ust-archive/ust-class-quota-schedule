@@ -3220,6 +3220,29 @@
     },
     {
       "subject": "ENVR",
+      "course": "4010B",
+      "name": "Independent Study in Environment Issues",
+      "sections": [
+        {
+          "code": "R1",
+          "number": 1313,
+          "schedules": [],
+          "instructors": [
+            "TBA"
+          ],
+          "assistants": [],
+          "venue": "TBA",
+          "quota": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "ENVR",
       "course": "6100A",
       "name": "Independent Study",
       "sections": [
@@ -9336,8 +9359,8 @@
           "assistants": [],
           "venue": "TBA",
           "quota": [
-            12,
-            12,
+            13,
+            13,
             0,
             0
           ]
