@@ -5324,7 +5324,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 24
+          "waitlist": 23
         },
         {
           "code": "L1",
@@ -5349,7 +5349,7 @@
           "quota": 20,
           "enroll": 20,
           "available": 0,
-          "waitlist": 24
+          "waitlist": 23
         },
         {
           "code": "T1",
@@ -5388,7 +5388,7 @@
           "quota": 7,
           "enroll": 7,
           "available": 0,
-          "waitlist": 8
+          "waitlist": 7
         },
         {
           "code": "T2",
