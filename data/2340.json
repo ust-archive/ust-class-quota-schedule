@@ -5725,8 +5725,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 5,
-          "enroll": 5,
+          "quota": 6,
+          "enroll": 6,
           "available": 0,
           "waitlist": 0
         }
@@ -9877,8 +9877,8 @@
           "assistants": [],
           "venue": "TBA",
           "schedules": [],
-          "quota": 31,
-          "enroll": 31,
+          "quota": 33,
+          "enroll": 33,
           "available": 0,
           "waitlist": 0
         }
